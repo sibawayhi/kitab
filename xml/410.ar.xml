@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٤١٠">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٦١"
+     درنبورج="٢-١٦٥"
+     هارون="٣-٥٣٦"
+     يعقوب="٤-٢٠"
+     البكاء="٥-٢٤٢"
+     رقم="٤١٠">
     <فقرة>
        <عنوان>
           <مقطع رقم="١">هٰذَا بَاْبُ الْمَقْصُوْرِ وَالْمَمْدُوْدِ</مقطع>
@@ -164,3 +170,6 @@
       </مقطع>
    </فقرة>
 </باب>
+
+<!-- This work is marked with CC0 1.0. To view a copy of -->
+<!-- this license, visit https://creativecommons.org/publicdomain/zero/1.0/ -->
