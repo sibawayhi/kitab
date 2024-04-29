@@ -1,1 +1,4 @@
+bin
 editions
+tmp
+Makefile
