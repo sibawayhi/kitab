@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="١٨">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٢٧"
+     درنبورج="١-٢٠"
+     هارون="١-٥٤"
+     يعقوب="١-٩٨"
+     البكاء="١-١١٦"
+     رقم="١٨">
 
    <عنوان>
       <مقطع رقم="١">هَذَا بَابٌ</مقطع>

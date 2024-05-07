@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب رقم="٤٥٧"
-
-xmlns="http://www.sibawayhi.org/schema/2017/10/kitab">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٤٥٧">
 
    <عنوان>
       <مقطع>هٰذَا بَاْبُ مَصَاْدِرَ بَنَاْتِ الأَرْبَعَةِ</مقطع>
