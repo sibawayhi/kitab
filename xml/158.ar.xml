@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="١٥٨">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٢٤"
+     درنبورج="١-٢٨١"
+     هارون="٢-٢٢٧"
+     يعقوب="٢-٢٣٣"
+     البكاء="٣-١٢٧"
+     رقم="١٥٨">
+
    <عنوان>
       <مقطع>هذا باب مالا يجوز أن يندب</مقطع>
    </عنوان>

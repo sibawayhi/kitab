@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="١٧٩">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٥١"
+     درنبورج="١-٣٠٧"
+     البكاء="٣-٢٠٢"
+     هارون="٢-٢٨٩"
+     يعقوب="٢-٣٠٠"
+     رقم="١٧٩">
+
    <عنوان>
       <مقطع>هذا باب لا يكون الوصف فيه إلا منونا</مقطع>
    </عنوان>

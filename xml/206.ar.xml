@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٠٦">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٨٠"
+     درنبورج="١-٣٣٢"
+     البكاء="٤-١٨"
+     هارون="٢-٣٥٥"
+     يعقوب="٢-٣٧٦"
+     رقم="٢٠٦">
+
    <عنوان>
       <مقطع>هذا باب علامة المضمرين المنصوبين</مقطع>
    </عنوان>

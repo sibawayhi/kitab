@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢١٠">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٨٣"
+     درنبورج="١-٣٣٥"
+     البكاء="٤-٢٨"
+     هارون="٢-٣٦٢"
+     يعقوب="٢-٣٨٥"
+     رقم="٢١٠">
+
    <عنوان>
       <مقطع>هذا باب علامة إضمار المجرور</مقطع>
    </عنوان>

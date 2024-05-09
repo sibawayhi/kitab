@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="١٩٧">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٧٢"
+     درنبورج="١-٣٢٥"
+     البكاء="٣-٢٥٩"
+     هارون="٢-٣٣٨"
+     يعقوب="٢-٣٥٦"
+     رقم="١٩٧">
+
    <عنوان>
       <مقطع>هذا باب تثنية المستثنى</مقطع>
    </عنوان>

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="١٥٥">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٢١"
+     درنبورج="١-٢٧٨"
+     هارون="٢-٢٢٠"
+     يعقوب="٢-٢٢٥"
+     البكاء="٣-١١٨"
+     رقم="١٥٥">
+
    <عنوان>
       <مقطع>هذا باب الندبة</مقطع>
    </عنوان>

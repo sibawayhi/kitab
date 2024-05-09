@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="١٨٠">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٥١"
+     درنبورج="١-٣٠٨"
+     البكاء="٣-٢٠٣"
+     هارون="٢-٢٩٠"
+     يعقوب="٢-٣٠١"
+     رقم="١٨٠">
+
    <عنوان>
       <مقطع>هذا باب لا تسقط فيه النون وإن وليت لك</مقطع>
    </عنوان>

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٠٨">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٨٢"
+     درنبورج="١-٣٣٤"
+     البكاء="٤-٢٥"
+     هارون="٢-٣٦٠"
+     يعقوب="٢-٣٨٢"
+     رقم="٢٠٨">
+
    <عنوان>
       <مقطع>هذا باب الإضمار فيما جرى مجرى الفعل</مقطع>
    </عنوان>

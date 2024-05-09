@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="١٦٣">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٢٩"
+     درنبورج="١-٢٨٦"
+     هارون="٢-٢٣٩"
+     يعقوب="٢-٢٤٧"
+     البكاء="٣-١٤٣"
+     رقم="١٦٣">
+
    <عنوان>
       <مقطع>هذا باب الترخيم</مقطع>
    </عنوان>

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="١٨٩">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٦٣"
+     درنبورج="١-٣١٨"
+     البكاء="٣-٢٣٧"
+     هارون="٢-٣١٩"
+     يعقوب="٢-٣٣٠"
+     رقم="١٨٩">
+
    <عنوان>
       <مقطع>هذا باب النصب فيما يكون مستثنى مبدلا</مقطع>
    </عنوان>

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="١٨٦">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٦٠"
+     درنبورج="١-٣١٥"
+     البكاء="٣-٢٢٦"
+     هارون="٢-٣١٠"
+     يعقوب="٢-٣٢٣"
+     رقم="١٨٦">
+
    <عنوان>
       <مقطع>هذا باب ما يكون استثناء بإلا</مقطع>
    </عنوان>

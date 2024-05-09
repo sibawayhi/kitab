@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="١٧٨">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٥١"
+     درنبورج="١-٣٠٦"
+     البكاء="٣-٢٠١"
+     هارون="٢-٢٨٨"
+     يعقوب="٢-٢٩٩"
+     رقم="١٧٨">
+
    <عنوان>
       <مقطع>هذا باب وصف المنفى</مقطع>
    </عنوان>

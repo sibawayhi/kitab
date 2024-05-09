@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="١٦٠">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٢٥"
+     درنبورج="١-٢٨٣"
+     هارون="٢-٢٢٩"
+     يعقوب="٢-٢٣٦"
+     البكاء="٣-١٣١"
+     رقم="١٦٠">
+
    <عنوان>
       <مقطع>هذا باب الحروف التي ينبه بها المدعو</مقطع>
    </عنوان>
