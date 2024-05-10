@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢١٢">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٨٥"
+     درنبورج="١-٣٣٧"
+     البكاء="٤-٣٤"
+     هارون="٢-٣٦٦"
+     يعقوب="٢-٣٨٩"
+     رقم="٢١٢">
+
    <عنوان>
       <مقطع>هذا باب لا تجوز فيه علامة المضمر المخاطب</مقطع>
    </عنوان>
