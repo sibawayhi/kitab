@@ -1,0 +1,353 @@
+# https://relaxng.org/compact-tutorial-20030326.html
+
+## WARNING: some attributes e.g. رقم are marked optional, but they should be required for the final version
+
+default namespace = "http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+# default namespace = "http://www.sibawayhi.org/schema/2017/10/kitab"
+# default namespace = "http://www.sibawayhi.org/schema/2009/07/kitab"
+namespace xlink = "http://www.w3.org/1999/xlink"
+namespace annot = "http://relaxng.org/ns/compatibility/annotations/1.0"
+#include "xinclude.rnc"
+
+start = bab
+
+bab =
+   element باب {
+      attribute رقم { text },
+      attribute بلاق { text },
+      attribute درنبورج { text },
+      attribute البكاء { text },
+      attribute هارون { text },
+      attribute يعقوب { text },
+      element عنوان {		# title
+          مقطع+
+      },
+      ( قسم
+      | رأس
+      | فقرة
+      | مقطع
+      | شاهدة
+      | هارون  # page break (bottom of page)
+      | يعقوب  # page break (bottom of page)
+      )+
+   }
+
+قسم =
+   element قسم {
+      attribute يعقوب { text }, # page nbr
+      attribute هارون { text }, # page nbr
+      element عنوان {		# title
+          text
+      },
+      ( فقرة
+      | مقطع
+      | شاهدة
+      | هارون  # page break (bottom of page)
+      | يعقوب  # page break (bottom of page)
+      )+
+   }
+
+# free header
+# always an editorial insertion
+رأس = element رأس {
+          attribute هو {text}, # i.e. ID (هوية)
+          # attribute هارون {text}, # page nbr in Haroun
+          # attribute يعقوب {text}, # page nbr in Yaqoub
+          attribute صنف {text}?, # indicates hdr level?
+          (
+              element عنوان { text },
+              صفحة?
+          )
+      }
+
+#segment
+مقطع =  # seg
+   element مقطع {		# segment
+      attribute رقم {text}?,
+      ( text
+      | حرف
+      | اسم
+      | صفة
+      | فعل
+      | مصدر
+      | مثل
+      | قول
+      | مثال
+      | تصريف
+      | بدل
+      | مبدأ
+      | ص     # tech term: مصطلح
+      | element شاعر {text}
+      | شاهدة
+      | آية
+      | هارون | يعقوب
+      | element برغث {empty} # abbrev for <qwl>أكلوني البراغيث</qwl>
+      | text
+      )+
+   }
+
+#term
+حرف = # syntagma - TODO: switch to "term"
+   element حرف {		# term
+      attribute صنف {text}?,
+      (text
+      | بدل
+      )+
+   }
+
+مثل = element مثل { text } # model, prototype
+
+اسم = element اسم { text }
+صفة = element صفة { text }
+فعل = element فعل { text }
+مصدر = element مصدر { text }
+
+#quote
+قول = # dictum
+   element قول {		# qawl qwl cite quote
+      attribute وتد {text}?,	# وتد tent peg, i.e. anchor id
+      attribute صنف {text}?,
+      (text
+      | اسم
+      | صفة
+      | فعل
+      )+
+   }
+
+## principle, e.g. art. 457:
+##        <مبدأ>مِثَالَ دَحْرَجَتْ وَزْنَتُهَا عَلَى أَْفْعَلت وفِعْلت</مبدأ>
+مبدأ = # principle
+   element مبدأ {		# principle
+      (text
+      | مادة?  # topic
+      | فعل?
+      | مثال?
+      )+
+   }
+
+# formal prototype using ف ع ل
+مثال = element مثال { text }    # prototype, e.g. <مثال>فَعْلَلَةٍ</مثال>
+
+# exemplar, instantiation of verbal derivation/declension
+تصريف = element تصريف { text } # e.g.  <تصريف>دَحْرَجْتُهُ دَحْرَجَةً</تصريف>
+
+# technical term (مصطلح)
+ص = element ص { مادة+, (text | متن) }
+
+متن = element متن { text }
+
+# topic, subject
+مادة = element مادة { text }
+
+# textual variant
+بدل =
+    element بدل {
+        (element ها {text}
+        | element يع {text}
+        | element بكا {text}
+        | element در {text})+
+    }
+
+#ayah
+آية =
+   element آية {		# mqt@ fragment
+      attribute سورة {text}?,
+      attribute رقم {text}?,
+      ( text
+       | هارون
+      )+
+   }
+
+#wasla
+وصلة =
+   element وصلة {		# wusla link xref
+      attribute سبب {text},
+      text
+   }
+
+فقرة = #paragraph
+   element فقرة {		# fqra
+       ( جملة
+       | مقطع
+       | قول
+       | مثل
+       | فه
+       | هارون
+       | شاهدة			# shahid
+      )+
+   }
+
+#sentence
+جملة =
+   element جملة {		# jmla jumla sentence
+      element عربية {		# arabic
+         aratext+
+      },
+      element en {paratext}?,
+      ( footnote
+       | ednote
+       | comment
+       | note)*
+   }
+
+شاهدة = element شاهدة {		# shahid, witness
+            attribute رقم { text }?,
+            element تخريج {text}?,
+            element بيت {
+                مصراع,
+                مصراع?
+            }+
+        }
+
+تعليق =  # comment
+   element تعليق {		# ta`lîq, matches cmt, body in comment
+      attribute سبب {text}, 	# sbb - guy line leading to watid of footnote body
+      aratext
+   }
+
+مصراع =
+   element مصراع {
+       (text | اسم | صفة | فعل)+
+   }
+
+همش =				# hamish, footnote
+   element همش {
+      attribute سبب {text},	# sbb
+      aratext
+   }
+
+#fh
+فه =
+   element فه {
+      (text
+       | قول
+       | بند
+      )+
+   }
+
+#bnd
+بند =
+   element بند {
+      attribute أصل {text},
+      attribute فرع {text}?,
+      attribute ففرع {text}?
+   }
+
+################
+صفحة =
+   element صفحة {
+      attribute بلاق { text }?,
+      attribute درنبورج { text }?,
+      attribute البكاء { text }?,
+      attribute هارون { text }?,
+      attribute يعقوب { text }?
+   }
+
+
+
+#haroun
+هارون =
+   element هارون {
+      attribute مجلد {text},
+      attribute صفحة {text}
+   }
+
+# edition: إميل بجيع يعقوب
+يعقوب =
+   element يعقوب {
+      attribute مجلد {text},
+      attribute صفحة {text}
+   }
+
+tk =
+   element tk {
+      attribute ar { text },
+      attribute en { text }?,
+      attribute gloss {text}?
+   }
+aratext =
+   (text
+    | جملة
+    | قول
+    | مقطع
+    | آية
+    | وصلة
+    | مثل
+    | element زنة {
+       attribute صنف {text},
+       text
+    }
+    | تعليق		# ta`lîq, matches cmt, body in comment
+    | فه
+    | همش
+    | شاهدة			# shahid
+    | هارون
+   )+
+
+
+paratext =
+   ( text
+    | element sentence { text }
+    | tk
+    | element cite {
+       attribute sbb {text},
+       element en {text}
+    }
+    | element zina {
+       attribute class {text},
+       text
+    }
+    | element prosody {text}
+    | element cmt {		# comment ref, matches تعليق ta`lîq, body in comment
+       attribute sbb {text},	# guy-line callout to wtd (foot)note body
+       paratext
+    }
+    | element fn {
+       attribute sbb {text},	# guy-line
+       paratext
+    }
+    | i
+    | em
+    | b
+    | element xl {text}		# inline transliteration
+    | element ar {text}
+    | link
+    | هارون
+   )+
+
+i   = element i {text}
+em  = element em {text}
+b  = element b {text}
+
+link =
+   element link {
+      attribute sbb {text},
+      text
+   }
+
+comment =			# comment body
+   element comment {
+      attribute wtd {text}?,
+      attribute xml:lang {text}?,
+      paratext
+   }
+
+note =
+   element note {
+      attribute xml:lang {text}?,
+      text
+   }
+
+footnote =
+   element footnote {
+      attribute xml:lang {text}?,
+      attribute sbb { text },	# sabab, line to watid
+      paratext
+   }
+
+ednote =
+   element ednote {
+      attribute xml:lang {text}?,
+      attribute wtd { text }?,	# وتد tent peg, i.e. anchor id
+      paratext
+   }
