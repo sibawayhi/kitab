@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٠٣">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٢٣"
+     درنبورج="٢-٢٢"
+     البكاء="٤-٤٠٥"
+     هارون="٣-٢٤٢"
+     يعقوب="٣-٢٦٦"
+     رقم="٣٠٣">
+
    <عنوان>
       <مقطع>هذا باب أسماء الأرضين</مقطع>
    </عنوان>

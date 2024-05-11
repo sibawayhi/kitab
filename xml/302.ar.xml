@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٠٢">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٢٢"
+     درنبورج="٢-٢١"
+     البكاء="٤-٤٠٣"
+     هارون="٣-٢٤٠"
+     يعقوب="٣-٢٦٤"
+     رقم="٣٠٢">
+
    <عنوان>
       <مقطع>هذا باب تسمية المؤنث</مقطع>
    </عنوان>

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٠٦">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٣٠"
+     درنبورج="٢-٢٨"
+     البكاء="٤-٤٢٢"
+     هارون="٣-٢٥٦"
+     يعقوب="٣-٢٨٤"
+     رقم="٣٠٦">
+
    <عنوان>
       <مقطع>هذا باب أسماء السور</مقطع>
    </عنوان>
