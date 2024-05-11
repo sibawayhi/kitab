@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٥١">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤٤٤"
+     درنبورج="١-٣٩٥"
+     البكاء="٤-٢٠٤"
+     هارون="٣-٨٤"
+     يعقوب="٣-٩٧"
+     رقم="٢٥١">
+
    <عنوان>
       <مقطع>هذا باب الجزاء إذا كان القسم في أوله</مقطع>
    </عنوان>

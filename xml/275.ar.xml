@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٧٥">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤٧٩"
+     درنبورج="١-٤٢٨"
+     البكاء="٤-٣٠٥"
+     هارون="٣-١٦٢"
+     يعقوب="٣-١٨٦"
+     رقم="٢٧٥">
+
    <عنوان>
       <مقطع>هذا باب ما تكون فيه أن بمنزلة أي</مقطع>
    </عنوان>

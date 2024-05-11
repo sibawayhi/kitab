@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٥٥">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤٥٤"
+     درنبورج="١-٤٠٣"
+     البكاء="٤-٢٢٨"
+     هارون="٣-١٠٤"
+     يعقوب="٣-١٢١"
+     رقم="٢٥٥">
+
    <عنوان>
       <مقطع>هذا باب الأفعال في القسم</مقطع>
    </عنوان>

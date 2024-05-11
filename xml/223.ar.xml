@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٢٣">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٣٩٩"
+     درنبورج="١-٣٥٢"
+     البكاء="٤-٨٤"
+     هارون="٢-٤٠٣"
+     يعقوب="٢-٤٢٤"
+     رقم="٢٢٣">
+
    <عنوان>
       <مقطع>هذا باب مجرى أى مضافاً على القياس</مقطع>
    </عنوان>

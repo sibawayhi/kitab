@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٤٠">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤١٦"
+     درنبورج="١-٣٧١"
+     البكاء="٤-١٣٧"
+     هارون="٣-٢٥"
+     يعقوب="٣-٢٤"
+     رقم="٢٤٠">
+
    <عنوان>
       <مقطع>هذا باب ما يكون العمل فيه من اثنين</مقطع>
    </عنوان>

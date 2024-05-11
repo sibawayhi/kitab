@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٥٢">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤٤٥"
+     درنبورج="١-٣٩٥"
+     البكاء="٤-٢٠٦"
+     هارون="٣-٨٥"
+     يعقوب="٣-٩٩"
+     رقم="٢٥٢">
+
   <عنوان>
     <مقطع>هذا باب ما يرتفع بين الجزمين وينجزم بينهما</مقطع>
   </عنوان>

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٩٨">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٥"
+     درنبورج="٢-١٥"
+     البكاء="٤-٣٨٥"
+     هارون="٣-٢٢٧"
+     يعقوب="٣-٢٥٠"
+     رقم="٢٩٨">
+
    <عنوان>
       <مقطع>هذا باب ما كان على مثال مفاعل ومفاعيل</مقطع>
    </عنوان>

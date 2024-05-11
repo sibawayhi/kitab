@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٦٦">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤٦٦"
+     درنبورج="١-٤١٥"
+     البكاء="٤-٢٦٦"
+     هارون="٣-١٣٢"
+     يعقوب="٣-١٥٢"
+     رقم="٢٦٦">
+
    <عنوان>
       <مقطع>هذا بابٌ تكون فيه أن بدلا من شيءٍ هو الأول</مقطع>
    </عنوان>

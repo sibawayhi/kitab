@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٥٣">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤٤٩"
+     درنبورج="١-٣٩٩"
+     البكاء="٤-٢١٦"
+     هارون="٣-٩٣"
+     يعقوب="٣-١٠٨"
+     رقم="٢٥٣">
+
    <عنوان>
       <مقطع>هذا باب من الجزاء ينجزم فيه الفعل</مقطع>
    </عنوان>

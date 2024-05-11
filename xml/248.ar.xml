@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٤٨">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤٤٠"
+     درنبورج="١-٣٩١"
+     البكاء="٤-١٩٣"
+     هارون="٣-٧٤"
+     يعقوب="٣-٨٧"
+     رقم="٢٤٨">
+
    <عنوان>
       <مقطع>هذا باب يذهب فيه الجزاء من الأسماء</مقطع>
    </عنوان>

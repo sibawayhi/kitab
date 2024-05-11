@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٠٠">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٩"
+     درنبورج="٢-١٨"
+     البكاء="٤-٣٩٤"
+     هارون="٣-٢٣٤"
+     يعقوب="٣-٢٥٧"
+     رقم="٣٠٠">
+
    <عنوان>
       <مقطع>هذا باب الأسماء الأعجمية</مقطع>
    </عنوان>

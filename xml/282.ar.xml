@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٨٢">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤٨٩"
+     درنبورج="١-٤٣٨"
+     البكاء="٤-٣٣١"
+     هارون="٣-١٨٤"
+     يعقوب="٣-٢٠٨"
+     رقم="٢٨٢">
+
    <عنوان>
       <مقطع>هذا باب أو في غير الاستفهام</مقطع>
    </عنوان>

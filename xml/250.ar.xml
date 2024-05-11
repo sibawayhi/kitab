@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٥٠">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤٤٣"
+     درنبورج="١-٣٩٤"
+     البكاء="٤-٢٠٢"
+     هارون="٣-٨٢"
+     يعقوب="٣-٩٥"
+     رقم="٢٥٠">
+
    <عنوان>
       <مقطع>هذا باب الجزاء إذا أدخلت فيه ألف الاستفهام</مقطع>
    </عنوان>

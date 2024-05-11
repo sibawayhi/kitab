@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٨٨">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٥"
+     درنبورج="٢-٤"
+     البكاء="٤-٣٥٢"
+     هارون="٣-٢٠٢"
+     يعقوب="٣-٢٢٥"
+     رقم="٢٨٨">
+
    <عنوان>
       <مقطع>هذا باب أفعل منك</مقطع>
    </عنوان>

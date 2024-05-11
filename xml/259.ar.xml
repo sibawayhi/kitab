@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٥٩">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤٦٠"
+     درنبورج="١-٤٠٨"
+     البكاء="٤-٢٤٤"
+     هارون="٣-١١٧"
+     يعقوب="٣-١٣٥"
+     رقم="٢٥٩">
+
   <عنوان>
     <مقطع>هذا باب نفي الفعل</مقطع>
   </عنوان>

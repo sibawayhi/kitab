@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٢٢٧">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤٠٣"
+     درنبورج="١-٣٥٦"
+     البكاء="٤-٩٧"
+     هارون="٢-٤١٢"
+     يعقوب="٢-٤٣٢"
+     رقم="٢٢٧">
+
    <عنوان>
       <مقطع>هذا باب مالا تحسن فيه من كما تحسن فيما قبله</مقطع>
    </عنوان>
