@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٤٠">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٨٩"
+     درنبورج="٢-٨٧"
+     البكاء="٥-٦٩"
+     هارون="٣-٣٨٠"
+     يعقوب="٣-٤١٩"
+     رقم="٣٤٠">
+
    <عنوان>
       <مقطع>هذا باب ما يصير إذا كان علماً</مقطع>
    </عنوان>

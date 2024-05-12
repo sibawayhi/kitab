@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٤٩">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٩٥"
+     درنبورج="٢-٩٣"
+     البكاء="٥-٨٧"
+     هارون="٣-٣٩٤"
+     يعقوب="٣-٤٣٥"
+     رقم="٣٤٩">
+
    <عنوان>
       <مقطع>هذا باب جمع الاسم الذي في آخره هاء التأنيث</مقطع>
    </عنوان>

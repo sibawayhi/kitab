@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٣٨">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٨٨"
+     درنبورج="٢-٨٥"
+     البكاء="٥-٦٥"
+     هارون="٣-٣٧٧"
+     يعقوب="٣-٤١٥"
+     رقم="٣٣٨">
+
    <عنوان>
       <مقطع>هذا باب الإضافة إلى الحكاية</مقطع>
    </عنوان>

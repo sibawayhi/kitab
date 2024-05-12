@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٢٩">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٧٩"
+     درنبورج="٢-٧٥"
+     البكاء="٥-٤٤"
+     هارون="٣-٣٥٧"
+     يعقوب="٣-٣٩٢"
+     رقم="٣٢٩">
+
    <عنوان>
       <مقطع>هذا باب الإضافة إلى بنات الحرفين</مقطع>
    </عنوان>

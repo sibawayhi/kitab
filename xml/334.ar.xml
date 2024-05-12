@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٣٤">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٨٦"
+     درنبورج="٢-٨٣"
+     البكاء="٥-٥٩"
+     هارون="٣-٣٧٢"
+     يعقوب="٣-٤٠٩"
+     رقم="٣٣٤">
+
    <عنوان>
       <مقطع>هذا باب ما لحقته الزائدتان للجمع والتثنية</مقطع>
    </عنوان>

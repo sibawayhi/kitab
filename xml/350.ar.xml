@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٥٠">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٩٦"
+     درنبورج="٢-٩٥"
+     البكاء="٥-٨٩"
+     هارون="٣-٣٩٥"
+     يعقوب="٣-٤٣٧"
+     رقم="٣٥٠">
+
    <عنوان>
       <مقطع>هذا باب جمع أسماء الرجال والنساء</مقطع>
    </عنوان>

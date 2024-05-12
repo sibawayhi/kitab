@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٤١">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٩٠"
+     درنبورج="٢-٨٧"
+     البكاء="٥-٧٠"
+     هارون="٣-٣٨١"
+     يعقوب="٣-٤٢٠"
+     رقم="٣٤١">
+
    <عنوان>
       <مقطع>هذا باب من الإضافة تحذف فيه ياءي الإضافة</مقطع>
    </عنوان>
