@@ -71,6 +71,7 @@ bab =
       | فعل
       | مصدر
       | مثل
+      | قبس
       | قول
       | مثال
       | تصريف
@@ -96,6 +97,7 @@ bab =
    }
 
 مثل = element مثل { text } # model, prototype
+قبس = element قبس { (text | حرف | قول)+ } # model, prototype
 
 اسم = element اسم { text }
 صفة = element صفة { text }
@@ -192,6 +194,7 @@ bab =
 
 شاهدة = element شاهدة {		# shahid, witness
             attribute رقم { text }?,
+            attribute xml:id { text }?,
             element تخريج {text}?,
             element بيت {
                 مصراع,

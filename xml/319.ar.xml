@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣١٩">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٧٠"
+     درنبورج="٢-٦٦"
+     البكاء="٥-٢١"
+     هارون="٣-٣٣٩"
+     يعقوب="٣-٣٧١"
+     رقم="٣١٩">
+
    <عنوان>
       <مقطع>هذا باب ما حذف الياء والواو فيه القياس</مقطع>
    </عنوان>
