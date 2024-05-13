@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٥٣">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٠٣"
+     درنبورج="٢-١٠١"
+     البكاء="٥-١٠٠"
+     هارون="٣-٤٠٩"
+     يعقوب="٣-٤٥٢"
+     رقم="٣٥٣">
+
    <عنوان>
       <مقطع>هذا باب جمع الأسماء المضافة</مقطع>
    </عنوان>

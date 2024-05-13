@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٦٠">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٠٦"
+     درنبورج="٢-١٠٥"
+     البكاء="٥-١١١"
+     هارون="٣-٤١٧"
+     يعقوب="٣-٤٦٢"
+     رقم="٣٦٠">
+
    <عنوان>
       <مقطع>هذا باب تصغير ما كان على خمسة أحرف</مقطع>
    </عنوان>
