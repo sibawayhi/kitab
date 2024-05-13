@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٧٥">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٢٢"
+     درنبورج="٢-١٢٣"
+     البكاء="٥-١٤٧"
+     هارون="٣-٤٥٠"
+     يعقوب="٣-٤٩٩"
+     رقم="٣٧٥">
+
    <عنوان>
       <مقطع>هذا باب ما ذهبت عينه</مقطع>
    </عنوان>

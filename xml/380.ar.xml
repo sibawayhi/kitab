@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٨٠">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٢٥"
+     درنبورج="٢-١٢٦"
+     البكاء="٥-١٥٥"
+     هارون="٣-٤٥٧"
+     يعقوب="٣-٥٠٨"
+     رقم="٣٨٠">
+
    <عنوان>
       <مقطع>هذا باب تحقير كل حرف كان فيه بدلٌ</مقطع>
    </عنوان>
