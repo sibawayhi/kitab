@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٨٣">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٢٩"
+     درنبورج="٢-١٣١"
+     البكاء="٥-١٦٥"
+     هارون="٣-٤٦٥"
+     يعقوب="٣-٥١٧"
+     رقم="٣٨٣">
+
    <عنوان>
       <مقطع>هذا باب تحقير ما كان فيه قلبٌ</مقطع>
    </عنوان>

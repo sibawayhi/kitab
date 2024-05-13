@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٩١">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٣٦"
+     درنبورج="٢-١٣٩"
+     البكاء="٥-١٨١"
+     هارون="٣-٤٨١"
+     يعقوب="٣-٥٣٥"
+     رقم="٣٩١">
+
    <عنوان>
       <مقطع>هذا باب تحقير المؤنث</مقطع>
    </عنوان>

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٩٣">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٣٩"
+     درنبورج="٢-١٤١"
+     البكاء="٥-١٨٧"
+     هارون="٣-٤٨٧"
+     يعقوب="٣-٥٤٠"
+     رقم="٣٩٣">
+
    <عنوان>
       <مقطع>هذا باب تحقير الأسماء المبهمة</مقطع>
    </عنوان>

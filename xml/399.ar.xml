@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٣٩٩">
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٤٦"
+     درنبورج="٢-١٤٩"
+     البكاء="٥-٢٠٤"
+     هارون="٣-٥٠٢"
+     يعقوب="٣-٥٥٩"
+     رقم="٣٩٩">
+
    <عنوان>
       <مقطع>هذا باب ما عمل بعضه في بعض وفيه معنى القسم</مقطع>
    </عنوان>
