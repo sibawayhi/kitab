@@ -29,8 +29,12 @@ bab =
       | شاهدة
       | هارون  # page break (bottom of page)
       | يعقوب  # page break (bottom of page)
-      )+
-   }
+      )+,
+      element status {
+                   attribute tashkeel { text},
+                   attribute seg { text}
+               }
+      }
 
 قسم =
    element قسم {
