@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٤٠٢">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٤٩"
+     درنبورج="٢-١٥٢"
+     البكاء="٥-٢١٧"
+     هارون="٣-٥٠٨"
+     يعقوب="٣-٥٦٨"
+     رقم="٤٠٢">
+
    <عنوان>
       <مقطع>هذا باب النون الثقيلة والخفيفة</مقطع>
    </عنوان>

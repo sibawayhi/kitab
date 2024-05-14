@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٤٠٧">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٥٨"
+     درنبورج="٢-١٦١"
+     البكاء="٥-٢٣٣"
+     هارون="٣-٥٢٩"
+     يعقوب="٤-١٣"
+     رقم="٤٠٧">
+
    <عنوان>
       <مقطع>هذا باب ما لا تجوز فيه نون خفيفة ولا ثقيلة</مقطع>
    </عنوان>

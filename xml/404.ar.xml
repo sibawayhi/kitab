@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٤٠٤">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٥٤"
+     درنبورج="٢-١٥٧"
+     البكاء="٥-٢٢٧"
+     هارون="٣-٥٢١"
+     يعقوب="٤-٦"
+     رقم="٤٠٤">
+
    <عنوان>
       <مقطع>هذا باب الوقف عند النون الخفيفة</مقطع>
    </عنوان>

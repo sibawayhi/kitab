@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٤٠٨">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-١٥٨"
+     درنبورج="٢-١٦٢"
+     البكاء="٥-٢٣٧"
+     هارون="٣-٥٢٩"
+     يعقوب="٤-١٤"
+     رقم="٤٠٨">
+
    <عنوان>
       <مقطع>هذا باب مضاعف الفعل واختلاف العرب فيه</مقطع>
    </عنوان>
