@@ -113,6 +113,7 @@ bab =
    element قول {		# qawl qwl cite quote
       attribute وتد {text}?,	# وتد tent peg, i.e. anchor id
       attribute صنف {text}?,
+      attribute رقم {text}?,
       (text
       | اسم
       | صفة
