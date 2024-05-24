@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٤٧٩">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٢٦٤"
+     درنبورج="٢-٢٨٥"
+     البكاء="٥-٤٤٩"
+     هارون="٤-١٢٧"
+     يعقوب="٤-٢٤٣"
+     رقم="٤٧٩">
+
    <عنوان>
       <مقطع>هذا باب ما أميل على غير قياس وإنما هو شاذ</مقطع>
    </عنوان>

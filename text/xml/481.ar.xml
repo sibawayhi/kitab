@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٤٨١">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٢٦٧"
+     درنبورج="٢-٢٨٩"
+     البكاء="٥-٤٥٥"
+     هارون="٤-١٣٦"
+     يعقوب="٤-٢٥٠"
+     رقم="٤٨١">
+
    <عنوان>
       <مقطع>هذا باب الراء</مقطع>
    </عنوان>

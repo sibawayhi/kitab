@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi" رقم="٤٨٥">
+
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="٢-٢٧٣"
+     درنبورج="٢-٢٩٧"
+     البكاء="٥-٤٦٧"
+     هارون="٤-١٤٩"
+     يعقوب="٤-٢٦٢"
+     رقم="٤٨٥">
+
    <عنوان>
       <مقطع>هذا باب كينونتها في الأسماء</مقطع>
    </عنوان>
