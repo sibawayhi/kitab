@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- This work is marked with CC0 1.0. To view a copy of -->
+<!-- this license, visit https://creativecommons.org/publicdomain/zero/1.0/ -->
 
 <باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
      بلاق="١-٣٧٧"
@@ -9,10 +11,15 @@
      رقم="٢٠٣">
 
    <عنوان>
-      <مقطع>هذا باب مجرى علامات المضمرين وما يجوز فيهن كلهن</مقطع>
+      <مقطع>هَذَا بَابَ مَجْرَى عَلَامَاتِ الْمُضْمِرِينَ وَمَا يَجُوزُ فِيهِنَّ كَلَهَنْ</مقطع>
    </عنوان>
-   <مقطع>وسنين ذلك إن شاء الله</مقطع>
-</باب>
+   <مقطع>وَسِنِينَ ذَلِكَ إنْ شَاءَ اللَّهْ</مقطع>
 
-<!-- This work is marked with CC0 1.0. To view a copy of -->
-<!-- this license, visit https://creativecommons.org/publicdomain/zero/1.0/ -->
+   <التحرير>
+     <تشكيل  نسخة="0" نسبة="100"/>
+     <توسيم  نسخة="0"/>
+     <أقوال  نسخة="0" نسبة="0"/>
+     <شواهد  نسخة="0" نسبة="0"/>
+   </التحرير>
+
+</باب>
