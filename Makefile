@@ -9,5 +9,10 @@ default:
 txt:
 	java -jar ${SAXON} \
 	-it \
-	-xsl:xsl/ar2txt.xsl;
+	-xsl:xmltools/xsl/ar2txt.xsl;
+
+status:
+	java -jar ${SAXON} \
+	-it \
+	-xsl:xmltools/xsl/status.xsl;
 

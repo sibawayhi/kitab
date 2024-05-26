@@ -366,7 +366,7 @@ ednote =
               attribute نسخة {text}, # revision
               attribute نسبة {text}  # pct
           },
-          element توسيم { # tagging, i.e. markup
+          element تقطيع { # segmentation
               attribute نسخة {text}
           },
           element أقوال {
