@@ -34,19 +34,22 @@ bab =
    }
 
 قسم =
-   element قسم {
-      attribute يعقوب { text }, # page nbr
-      attribute هارون { text }, # page nbr
-      element عنوان {		# title
-          text
-      },
-      ( فقرة
-      | مقطع
-      | شاهدة
-      | هارون  # page break (bottom of page)
-      | يعقوب  # page break (bottom of page)
-      )+
-   }
+    element قسم {
+        # attribute يعقوب { text }?, # page nbr
+        # attribute هارون { text }?, # page nbr
+        attribute رقم {text},
+        attribute هو {text}, # id
+        attribute قطع {"صفحة"}?,
+        element عنوان {		# title
+            text
+        },
+        ( فقرة
+        | مقطع
+        | شاهدة
+        | هارون  # page break (bottom of page)
+        | يعقوب  # page break (bottom of page)
+        )+
+    }
 
 # free header
 # always an editorial insertion
@@ -98,9 +101,13 @@ bab =
    }
 
 مثل = element مثل { text } # model, prototype
-قبس = element قبس { (text | حرف | قول)+ } # model, prototype
+قبس = element قبس { (text | حرف | قول | آية)+ } # model, prototype
 
-اسم = element اسم { text }
+اسم = element اسم {
+          attribute عدد {"١" | "٢" | "٣" | "٤"}?,
+          attribute مثل {text}?,
+          text
+      }
 صفة = element صفة { text }
 فعل = element فعل { text }
 مصدر = element مصدر { text }
@@ -378,6 +385,10 @@ ednote =
               attribute نسبة {text}
           }?,
           element آيات {
+              attribute نسخة {text},
+              attribute نسبة {text}
+          }?,
+          element أمثلة {
               attribute نسخة {text},
               attribute نسبة {text}
           }?
