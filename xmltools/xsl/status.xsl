@@ -51,10 +51,6 @@
   <xsl:template match="نحو:التحرير">
     <xsl:apply-templates/>
   </xsl:template>
-     <!-- <تشكيل  نسخة="0" نسبة="100"/> -->
-     <!-- <تقطيع  نسخة="0"/> -->
-     <!-- <أقوال  نسخة="0" نسبة="0"/> -->
-     <!-- <شواهد  نسخة="0" نسبة="0"/> -->
 
   <xsl:template match="نحو:تشكيل">
     <xsl:text>tashkeel: </xsl:text>
@@ -68,8 +64,6 @@
     <xsl:text>  segmentation: </xsl:text>
     <xsl:value-of select="@نسخة"/>
     <xsl:text> </xsl:text>
-    <!-- <xsl:value-of select="@نسبة"/> -->
-    <!-- <xsl:text>%</xsl:text> -->
   </xsl:template>
 
   <xsl:template match="نحو:أقوال">
@@ -90,6 +84,14 @@
 
   <xsl:template match="نحو:آيات">
     <xsl:text>  quran: </xsl:text>
+    <xsl:value-of select="@نسخة"/>
+    <xsl:text> </xsl:text>
+    <xsl:value-of select="@نسبة"/>
+    <xsl:text>%</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="نحو:أمثلة">
+    <xsl:text>  morph: </xsl:text>
     <xsl:value-of select="@نسخة"/>
     <xsl:text> </xsl:text>
     <xsl:value-of select="@نسبة"/>
