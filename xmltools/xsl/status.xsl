@@ -56,7 +56,8 @@
     <xsl:text>tashkeel: </xsl:text>
     <xsl:value-of select="@نسخة"/>
     <xsl:text> </xsl:text>
-    <xsl:value-of select="format-number(@نسبة, '0')"/>
+    <xsl:value-of select="format-number(@نسبة,
+                          '000')"/>
     <xsl:text>%</xsl:text>
   </xsl:template>
 
