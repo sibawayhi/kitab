@@ -111,6 +111,7 @@ bab =
 صفة = element صفة { text }
 فعل = element فعل { text }
 مصدر = element مصدر { text }
+ثبات = element ثبات { text } # evidence (in مصراع)
 
 #quote
 قول = # dictum
@@ -219,7 +220,7 @@ bab =
 
 مصراع =
    element مصراع {
-       (text | اسم | صفة | فعل)+
+       (text | اسم | صفة | فعل | ثبات)+
    }
 
 همش =				# hamish, footnote
