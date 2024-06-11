@@ -25,6 +25,7 @@ bab =
       ( قسم
       | رأس
       | فقرة
+      | قائمة
       | مقطع
       | شاهدة
       | هارون  # page break (bottom of page)
@@ -91,6 +92,13 @@ bab =
       )+
    }
 
+قائمة =
+    element قائمة {
+        element وحدة {
+            مقطع
+        }+
+    }
+
 #term
 حرف = # syntagma - TODO: switch to "term"
    element حرف {		# term
@@ -108,10 +116,22 @@ bab =
           attribute مثل {text}?,
           text
       }
+
 صفة = element صفة { text }
 فعل = element فعل { text }
 مصدر = element مصدر { text }
 ثبات = element ثبات { text } # evidence (in مصراع)
+
+## قول with alternatives, e.g.
+## لَوْ قُلْتَ رَأَيْتُ زَيْدًا فَأَيْنَ عَمْرًا أو فَهَلْ بِشْرًا
+## in this case:
+## لَوْ قُلْتَ <قول>رَأَيْتُ زَيْدًا <أصل>فَأَيْنَ عَمْرًا</أصل> <أو/> <بدل>فَهَلْ بِشْرًا</بدل></قول> إلخ
+
+أصل = element أصل { text }
+تقدير = element تقدير { text }
+و = element و { text }
+أو = element أو { text }
+بدل = element بدل { text }
 
 #quote
 قول = # dictum
@@ -120,6 +140,11 @@ bab =
       attribute صنف {text}?,
       attribute رقم {text}?,
       (text
+      | أصل
+      | تقدير
+      | و
+      | أو
+      | بدل # e.g. art. 101:243
       | اسم
       | صفة
       | فعل
@@ -152,13 +177,13 @@ bab =
 مادة = element مادة { text }
 
 # textual variant
-بدل =
-    element بدل {
-        (element ها {text}
-        | element يع {text}
-        | element بكا {text}
-        | element در {text})+
-    }
+# بدل =
+#     element بدل {
+#         (element ها {text}
+#         | element يع {text}
+#         | element بكا {text}
+#         | element در {text})+
+#     }
 
 #ayah
 آية =
