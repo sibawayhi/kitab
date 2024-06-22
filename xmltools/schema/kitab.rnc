@@ -80,13 +80,15 @@ bab =
       | قول
       | مثال
       | تصريف
-      | بدل
+      # بديل textual alternatives from editions
+      # not to be confused with بدل (see below)
+      | بديل
       | مبدأ
-      | ص     # tech term: مصطلح
       | element شاعر {text}
-      | شاهدة
       | آية
-      | هارون | يعقوب
+      # | ص     # tech term: مصطلح
+      # | شاهدة
+      # | هارون | يعقوب
       | element برغث {empty} # abbrev for <qwl>أكلوني البراغيث</qwl>
       | text
       )+
@@ -104,7 +106,7 @@ bab =
    element حرف {		# term
       attribute صنف {text}?,
       (text
-      | بدل
+      # | بدل
       )+
    }
 
@@ -122,7 +124,7 @@ bab =
 مصدر = element مصدر { text }
 ثبات = element ثبات { text } # evidence (in مصراع)
 
-## قول with alternatives, e.g.
+## قول with inline alternatives, e.g.
 ## لَوْ قُلْتَ رَأَيْتُ زَيْدًا فَأَيْنَ عَمْرًا أو فَهَلْ بِشْرًا
 ## in this case:
 ## لَوْ قُلْتَ <قول>رَأَيْتُ زَيْدًا <أصل>فَأَيْنَ عَمْرًا</أصل> <أو/> <بدل>فَهَلْ بِشْرًا</بدل></قول> إلخ
@@ -139,13 +141,15 @@ bab =
    element قول {		# qawl qwl cite quote
       attribute وتد {text}?,	# وتد tent peg, i.e. anchor id
       attribute صنف {text}?,
+      attribute ج {"*"}?,  # judgment; "*" = لا يجوز
+      attribute مثال {"١"}?, # marks dictum as exemplary for the bab for indexing
       attribute رقم {text}?,
       (text
       | أصل
       | تقدير
       | و
       | أو
-      | بدل # e.g. art. 101:243
+      | بديل # textual alternative e.g. art. 101:243
       | اسم
       | صفة
       | فعل
@@ -178,13 +182,19 @@ bab =
 مادة = element مادة { text }
 
 # textual variant
-# بدل =
-#     element بدل {
-#         (element ها {text}
-#         | element يع {text}
-#         | element بكا {text}
-#         | element در {text})+
-#     }
+بديل =
+    element بديل {
+        element متن {
+            attribute مصدر
+                {"ك" | "يع" | "ها" | "در" | "ب"},
+            text
+        },
+        (element بكا {text}
+        | element يع {text}
+        | element ها {text}
+        | element در {text}
+        | element ب {text})+
+}
 
 #ayah
 آية =
