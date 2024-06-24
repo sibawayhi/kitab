@@ -128,13 +128,14 @@ bab =
 ## لَوْ قُلْتَ رَأَيْتُ زَيْدًا فَأَيْنَ عَمْرًا أو فَهَلْ بِشْرًا
 ## in this case:
 ## لَوْ قُلْتَ <قول>رَأَيْتُ زَيْدًا <أصل>فَأَيْنَ عَمْرًا</أصل> <أو/> <بدل>فَهَلْ بِشْرًا</بدل></قول> إلخ
-## for examples see articles 82, 101
+## for examples see articles 82, 101:243
+بدل = element بدل { text } # inline alternates (contrast بديل textual variants)
 
 أصل = element أصل { text }
 تقدير = element تقدير { text }
 و = element و { text }
 أو = element أو { text }
-بدل = element بدل { text }
+
 
 #quote
 قول = # dictum
@@ -149,7 +150,7 @@ bab =
       | تقدير
       | و
       | أو
-      | بديل # textual alternative e.g. art. 101:243
+      | بديل
       | اسم
       | صفة
       | فعل
@@ -181,7 +182,7 @@ bab =
 # topic, subject
 مادة = element مادة { text }
 
-# textual variant
+# textual alternative e.g. 58:1, 59:132; 234:3
 بديل =
     element بديل {
         element متن {
@@ -200,7 +201,7 @@ bab =
 آية =
    element آية {		# mqt@ fragment
       attribute سورة {text}?,
-      attribute رقم {text}?,
+      attribute آية {text}?,
       ( text
        | هارون
       )+
