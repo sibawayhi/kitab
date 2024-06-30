@@ -240,8 +240,8 @@ bab =
    }
 
 شاهدة = element شاهدة {		# shahid, witness
+            attribute مقطع { text }?,
             attribute رقم { text }?,
-            attribute xml:id { text }?,
             element تخريج {text}?,
             element بيت {
                 مصراع,
