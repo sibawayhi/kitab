@@ -54,48 +54,80 @@
 
   <xsl:template match="نحو:تشكيل">
     <xsl:text>tashkeel: </xsl:text>
-    <xsl:value-of select="@نسخة"/>
+    <xsl:value-of select="fn:translate(@نسخة,
+                          '٠١٢٣٤٥٦٧٨٩',
+                          '0123456789')"/>
+    <!-- <xsl:value-of select="@نسخة"/> -->
     <xsl:text> </xsl:text>
-    <xsl:value-of select="format-number(@نسبة,
-                          '000')"/>
+    <xsl:value-of select="
+                          fn:translate(@نسبة,
+                          '٠١٢٣٤٥٦٧٨٩',
+                          '0123456789')
+                          "/>
     <xsl:text>%</xsl:text>
   </xsl:template>
 
   <xsl:template match="نحو:تقطيع">
     <xsl:text>  segmentation: </xsl:text>
-    <xsl:value-of select="@نسخة"/>
+    <xsl:value-of select="fn:translate(@نسخة,
+                          '٠١٢٣٤٥٦٧٨٩',
+                          '0123456789')"/>
+    <!-- <xsl:value-of select="@نسخة"/> -->
     <xsl:text> </xsl:text>
   </xsl:template>
 
   <xsl:template match="نحو:أقوال">
     <xsl:text>  dicta: </xsl:text>
-    <xsl:value-of select="@نسخة"/>
+    <xsl:value-of select="fn:translate(@نسخة,
+                          '٠١٢٣٤٥٦٧٨٩',
+                          '0123456789')"/>
+    <!-- <xsl:value-of select="@نسخة"/> -->
     <xsl:text> </xsl:text>
-    <xsl:value-of select="@نسبة"/>
+    <xsl:value-of select="fn:translate(@نسبة,
+                          '٠١٢٣٤٥٦٧٨٩',
+                          '0123456789')"/>
     <xsl:text>%</xsl:text>
   </xsl:template>
 
   <xsl:template match="نحو:شواهد">
     <xsl:text>  poetry: </xsl:text>
-    <xsl:value-of select="@نسخة"/>
+    <xsl:value-of select="fn:translate(@نسخة,
+                          '٠١٢٣٤٥٦٧٨٩',
+                          '0123456789')"/>
+    <!-- <xsl:value-of select="@نسخة"/> -->
     <xsl:text> </xsl:text>
-    <xsl:value-of select="@نسبة"/>
+    <xsl:value-of select="fn:translate(@نسبة,
+                          '٠١٢٣٤٥٦٧٨٩',
+                          '0123456789')"/>
+    <!-- <xsl:value-of select="@نسبة"/> -->
     <xsl:text>%</xsl:text>
   </xsl:template>
 
   <xsl:template match="نحو:آيات">
     <xsl:text>  quran: </xsl:text>
-    <xsl:value-of select="@نسخة"/>
+    <xsl:value-of select="fn:translate(@نسخة,
+                          '٠١٢٣٤٥٦٧٨٩',
+                          '0123456789')"/>
+    <!-- <xsl:value-of select="@نسخة"/> -->
     <xsl:text> </xsl:text>
-    <xsl:value-of select="@نسبة"/>
+    <xsl:value-of select="fn:translate(@نسبة,
+                          '٠١٢٣٤٥٦٧٨٩',
+                          '0123456789')"/>
+    <!-- <xsl:value-of select="@نسبة"/> -->
     <xsl:text>%</xsl:text>
   </xsl:template>
 
   <xsl:template match="نحو:أمثلة">
     <xsl:text>  morph: </xsl:text>
-    <xsl:value-of select="@نسخة"/>
+    <xsl:value-of select="fn:translate(@نسخة,
+                          '٠١٢٣٤٥٦٧٨٩',
+                          '0123456789')"/>
+    <!-- <xsl:value-of select="@نسخة"/> -->
     <xsl:text> </xsl:text>
-    <xsl:value-of select="@نسبة"/>
+    <xsl:value-of select="fn:translate(@نسبة,
+                          '٠١٢٣٤٥٦٧٨٩',
+                          '0123456789')"/>
+    <!-- <xsl:value-of select="@نسبة"/> -->
     <xsl:text>%</xsl:text>
   </xsl:template>
 
