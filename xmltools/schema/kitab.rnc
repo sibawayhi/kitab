@@ -142,8 +142,11 @@ bab =
    element قول {		# qawl qwl cite quote
       attribute وتد {text}?,	# وتد tent peg, i.e. anchor id
       attribute صنف {text}?,
-      attribute ج {"*"}?,  # judgment; "*" = لا يجوز
-      attribute مثال {"١"}?, # marks dictum as exemplary for the bab for indexing
+      attribute ج {"*" | "?"}?,  # judgment; "*" = لا يجوز
+      attribute مثال {
+          "٠"  # marks as redundant, do not include in igt section
+          "١"  # marks dictum as exemplary for the bab for indexing
+      }?,
       attribute رقم {text}?,
       (text
       | أصل
