@@ -80,9 +80,9 @@ bab =
       | قول
       | مثال
       | تصريف
-      # بديل textual alternatives from editions
-      # not to be confused with بدل (see below)
-      | بديل
+      # بدل textual alternatives from editions
+      # not to be confused with بديل (see below)
+      | بدل
       | مبدأ
       | element شاعر {text}
       | آية
@@ -106,7 +106,7 @@ bab =
    element حرف {		# term
       attribute صنف {text}?,
       (text
-      # | بدل
+      # | بديل
       )+
    }
 
@@ -127,9 +127,9 @@ bab =
 ## قول with inline alternatives, e.g.
 ## لَوْ قُلْتَ رَأَيْتُ زَيْدًا فَأَيْنَ عَمْرًا أو فَهَلْ بِشْرًا
 ## in this case:
-## لَوْ قُلْتَ <قول>رَأَيْتُ زَيْدًا <أصل>فَأَيْنَ عَمْرًا</أصل> <أو/> <بدل>فَهَلْ بِشْرًا</بدل></قول> إلخ
+## لَوْ قُلْتَ <قول>رَأَيْتُ زَيْدًا <أصل>فَأَيْنَ عَمْرًا</أصل> <أو/> <بديل>فَهَلْ بِشْرًا</بديل></قول> إلخ
 ## for examples see articles 82, 101:243
-بدل = element بدل { text } # inline alternates (contrast بديل textual variants)
+بديل = element بديل { text } # inline alternates (contrast بدل textual variants)
 
 أصل = element أصل { text }
 تقدير = element تقدير { text }
@@ -145,7 +145,7 @@ bab =
       attribute ج {"*" | "?"}?,  # judgment; "*" = لا يجوز
       attribute مثال {
           "٠"  # marks as redundant, do not include in igt section
-          "١"  # marks dictum as exemplary for the bab for indexing
+          | "١"  # marks dictum as exemplary for the bab for indexing
       }?,
       attribute رقم {text}?,
       (text
@@ -153,7 +153,7 @@ bab =
       | تقدير
       | و
       | أو
-      | بديل
+      | بدل
       | اسم
       | صفة
       | فعل
@@ -186,14 +186,19 @@ bab =
 مادة = element مادة { text }
 
 # textual alternative e.g. 58:1, 59:132; 234:3
-بديل =
-    element بديل {
+بدل =
+    element بدل {
         element متن {
             attribute مصدر
-                {"ك" | "يع" | "ها" | "در" | "ب"},
-            text
+                {"بك" | # src البكاء
+                 "يع" | # src يعقوب
+                 "ها" | # src هارون
+                 "در" | # src derenbourg
+                 "ب"    # src بلاق
+                },
+              text
         },
-        (element بكا {text}
+        ( element بك {text}
         | element يع {text}
         | element ها {text}
         | element در {text}
