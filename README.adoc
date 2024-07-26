@@ -12,7 +12,7 @@ combination of XSLT and a TeX/LaTeX engine
 (link:https://en.wikipedia.org/wiki/XeTeX[XeTeX/XeLaTeX] or
 link:https://www.luatex.org/[LuaTeX/LuaLaTeX]) to typeset the text.
 
-The repositor also includes some software tools designed to get you
+The repository also includes some software tools designed to get you
 started working with the XML text. A longer-term goal is to provide a
 more complete toolsuite; for example, XSL stylesheets for typesetting
 the text, or for typesetting articles citing the text, etc.
@@ -178,6 +178,7 @@ For example, here is the beginning of Article 24:
 [source,xml]
 ----
 <?xml version="1.0" encoding="utf-8"?>
+
 <باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
      بلاق="١-٤١"      <1>
      درنبورج="١-٣١"
