@@ -1,0 +1,244 @@
+= Kitab Sibawayhi  كتاب سيبويه
+:toc:
+
+This repository contains an electronic version of the Kitab of Sibawayhi. It is encoded in Unicode (UTF-8) and XML, and licensed under link:https://creativecommons.org/publicdomain/zero/1.0/[CC0 1.0] (which basically means completely free).
+
+XML encoding effectively turns the text into a database; you can use
+XML-based languages like link:https://www.w3.org/TR/xslt-30/[XSLT],
+link:https://www.w3.org/TR/xpath-30/[XPath], and
+link:https://www.w3.org/TR/xquery-31/[XQuery] to query and transform
+the text; you can use link:https://www.w3.org/TR/xsl11/[XSL-FO] or a
+combination of XSLT and a TeX/LaTeX engine
+(link:https://en.wikipedia.org/wiki/XeTeX[XeTeX/XeLaTeX] or
+link:https://www.luatex.org/[LuaTeX/LuaLaTeX]) to typeset the text.
+
+The repositor also includes some software tools designed to get you
+started working with the XML text. A longer-term goal is to provide a
+more complete toolsuite; for example, XSL stylesheets for typesetting
+the text, or for typesetting articles citing the text, etc.
+
+== The Text
+
+=== Edition
+
+The text was extracted from files I found online; unfortunately, that was done over 15 years ago and I don't recall where I found them.
+
+There are five published editions that I know of:
+
+* Bulaq
+* Derenbourg
+* Haroun - editor عبد السلام محمّد هارون
+* Yaqub  - editor د. إميل بديع يعقوب
+* al-Bakka - editor أ.د. محمّد كاظم البكّاء
+
+NOTE: Each article is in one file; the markup includes one attribute for each edition, indicating the volume and page on which the article begins.
+
+For checking the text I mainly rely on the al-Bakka edition, since
+it's the most recent, but I also use the Yaqub and Haroun editions.
+For the most part they are identical, but there are some differences.
+I've found some typographical errors in al-Bakka, for example. Where
+there are differences, they are usually relatively unimportant. In the
+relatively few cases where there are significant differences, I've
+followed my gut instinct.
+
+WARNING: This is NOT a critical edition! The goal is to make the Kitab
+accessible, not to provide a definitive scholarly resource. If you are
+working on a publication for peer-review, I hope this will help you
+read and understand the text, but you should ultimately rely on a
+published edition.
+
+The markup is entirely my work; so is the full tashkeel, except that
+the first version was generated automatically, and all tashkeel is
+checked against at least one of the published editions.
+
+
+
+=== Tashkeel تشكيل
+
+The goal is full tashkeel, in order to make the text accessible to readers who have not yet mastered Arabic.
+
+Tashkeel has been added to all articles using an online tool; the
+result is surprisingly good, but far from perfect, so each article
+must be hand-edited. Only a relatively small number of articles have
+been completed so far; I try to average at least one a day. The
+link:text/xml/ChangeLog[ChangeLog] indicates which articles have been
+hand edited.
+
+NOTE: I only started using the ChangeLog a few weeks ago, but in fact
+I have edited roughly the first 100 articles plus a bunch of others at
+least once. You should be able to tell which have not been edited just
+by looking; if you see a <قول> tag, it's been edited. If you look at
+articles in the 300s, you'll see that the (unedited) segmentation is
+minimal; each segment corresponds to a linebreak in the original
+source.
+
+Each article contains a status section at the bottom of the file that
+includes a tashkeel element that looks like this:
+
+    <تشكيل نسخة="٢" نسبة="١٠٠"/>
+
+In this example, the tashkeel has been reviewed twice (the نسخة
+revision is ٢), and the second revision covered 100% of the text.
+Editing of longer articles may be interrupted, in which case the نسبة
+attribute will indicate the percent completed.
+
+Revision (نسخة) 0 indicates the automated tashkeel, i.e. an article with
+
+    <تشكيل نسخة="٠" نسبة="١٠٠"/>
+or
+    <تشكيل نسخة="0" نسبة="100"/>
+
+
+has not yet been hand-edited.
+
+=== Segmentation and Markup
+
+In Sibawayhi's day, the Arabic writing system had no punctuation marks
+such as a period ‘.’ to mark the end of a complete sentence. Nor did
+it have anything like our quotation marks. The published editions of
+the Kitab avaliable today, however, do have punctuation and in some
+cases quotation marks. These are all editorial emendations.
+
+In this version all punctuation marks have been removed. It is up to
+the reader to decide how to parse the text, just as it was in
+Sibawayhi's day.
+
+However, this edition does break the text into “segments” (marked up
+using tag <مقطع>). This was originally inspired by the use of
+segmentation in Computer-Assisted Translation tools and practices; in
+particular
+link:https://en.wikipedia.org/wiki/Segmentation_Rules_eXchange[SRX],
+link:https://en.wikipedia.org/wiki/Translation_Memory_eXchange[TMX],
+and
+link:https://en.wikipedia.org/wiki/XLIFF#:~:text=XLIFF%20(XML%20Localization%20Interchange%20File,format%20for%20CAT%20tool%20exchange[XLIFF].
+But it rapidly became clear that segmentation has benefits independent
+of translation concerns. It can make the syntactic (specifically,
+paratactic) organization of the text clear in a way that will help
+readers (especially beginners), without distorting the content of the
+text (as punctuation marks do). Text with fine-grained segment markup
+can be typeset in various ways. Each segment can be typeset on a
+separate line, thereby highlighting the implicit structuring of
+original unsegmented text; or it can be typeset with no indication of
+segmentation.
+
+To be sure, the segmentation reflects my own judgment and taste, but
+it is, I hope, as non-coercive as possible. Readers remain free to
+make their own judgments. And of course readers are also free to
+create a derived work that replaces my segmentation with theirs.
+
+This edition also uses structural markup for textual fragments that
+ clearly seem to be “quoted” in the original text. For example, where
+ Sibawayhi writes something like “وذلِكَ قَوْلُكَ ضَرَبَ عَبْدُ اللّٰهِ زَيْدًا” (“and
+ that is your saying ‘Abdullahi struck Zayd’”) it seems pretty clear
+ that, had quotation marks been available to him, he would have used
+ them for “ضَرَبَ عَبْدُ اللّٰهِ زَيْدًا” (in fact it can be argued that the verb
+ قال intrinsically expresses quotation). So I mark this up as
+
+<مقطع>وذلِكَ قَوْلُكَ <قول>ضَرَبَ عَبْدُ اللّٰهِ زَيْدًا</قول></مقطع>
+
+Such markup is obviously an editorial intrusion, but there is no
+getting around some form of structuring; at the very least,
+typesetting requires line breaks that may not have been in the
+original text. Marking up quotations makes it possible to automate
+their typesetting; for example, using a different font or color for
+quotations, or even inserting quotations marks of some kind, such as « and ».
+
+Furthermore, marking up dicta (أقوال) in XML turns the text into a database.
+This makes it possible to, for example, programmatically extract (and
+typeset) the dicta for the entire the Kitab, or for selected articles.
+
+=== XML Schema
+
+The project uses a custom link:xmltools/schema/kitab.rnc[schema] with
+Arabic tags, using the
+link:https://relaxng.org/compact-tutorial-20030326.html[RELAX NG
+Compact Syntax].
+
+The schema is partly provisional; it includes a small set of stable
+ tags used for minimal structural markup of the text, but it also
+ includes a variety of experimental tags intended to support more
+ sophisticated markup in the future. For example, a critical edition
+ would include textual variants, and the experimental tags include
+ initial support for this.
+
+The basic set of tags is:
+
+* باب  article; contains title and one or more segments and/or poetry elements
+* عنوان title; contains one or more مقطع
+* مقطع  segment; may contain dictum, term, or Quranic citation
+* قول  dictum
+* حرف term
+* شاهدة poetry; contains subtag بيت which contains مصراع
+* آية Quranic citations
+
+Tag قول is used for quoted, complete utterances, as when Sibawayhi writes وذلك قولُك ... Tag حرف is used for quoted fragments.
+
+For example, here is the beginning of Article 24:
+
+[source,xml]
+----
+<?xml version="1.0" encoding="utf-8"?>
+<باب xmlns="http://www.sibawayhi.org/schema/2009/07/sibawayhi"
+     بلاق="١-٤١"      <1>
+     درنبورج="١-٣١"
+     البكاء="١-١٤٧"
+     هارون="١-٨٠"
+     يعقوب="١-١٣٣"
+     رقم="٢٤">
+  <عنوان>
+    <مقطع رقم="١">هٰذَا بَاْبُ مَا يَكُوْنُ فِيْهِ الاِسْمُ مَبْنِيًّا عَلَى الْفِعْلِ</مقطع>
+    <مقطع رقم="٢">قُدِّمَ أَوْ أُخِّرَ</مقطع>
+    <مقطع رقم="٣">وَمَا يَكُوْنُ فِيْهِ الْفِعْلُ مَبْنِيًّا عَلَى الْاِسْمِ</مقطع>
+  </عنوان>
+  <مقطع رقم="٤">فَإِذَا بَنَيْتَ الِاسْمَ عَلَيْهِ قُلْتَ <قول رقم="١">ضَرَبْتُ زَيْدًا</قول></مقطع>
+  ...
+  <مقطع رقم="٨">كَمَا كَاْنَ الْحَدُّ <قول رقم="٢">ضَرَبَ زَيْدٌ عَمْرًا</قول></مقطع>
+  <مقطع رقم="٩">حَيْثُ كَاْنَ <حرف>زَيْدٌ</حرف> أَوَّلَ مَا تَشْغَلُ بِهِ الْفِعْلَ</مقطع>
+  ...
+</باب>
+----
+<1> Article 24 begins on page 14 of volume 1 of the Bulaq edition.
+
+Poetry cited by Sibawayhi is marked up as follows:
+
+[code, xml]
+----
+  <مقطع رقم="٤٧">قَالَ بِشْرُ بْنُ أَبِىْ خَاْزِمٍ</مقطع>
+  <شاهدة مقطع="٤٨" رقم="١">
+    <بيت>
+      <مصراع>فَأَمَّا تَمِيْمٌ تَمِيْمُ بِنُ مُرٍّ</مصراع>
+      <مصراع>فَأَلْفَاهُمُ الْقَوْمُ رَوْبَى نِيَامَا</مصراع>
+    </بيت>
+  </شاهدة>
+----
+
+Quranic citations are always embedded in a segment (مقطع); for example:
+
+[code,xml]
+----
+  <مقطع رقم="٢٧">وَمِثْلُ ذَلِكَ قَوْلُهُ جَلَّ ثَنَاْؤُهُ</مقطع>
+  <مقطع رقم="٢٨"><آية سورة="٤١" آية="١١٧">وَأَمَّا ثَمُوْدُ فَهَدَيْنَاهُمْ</آية></مقطع>
+----
+
+== Translation
+
+
+== Tools
+
+=== XML
+
+You can use any XML tools, of which there are many.  Here are the XML tools that I use:
+
+* link:https://www.saxonica.com/welcome/welcome.xml[SaxonJ] Home Edition
+* link:https://xerces.apache.org/xerces2-j/[Xerces2] Java XML Parser
+* link:https://relaxng.org/jclark/jing.html[Jing] Relax NG  validator in Java
+
+=== Typesetting
+
+There are three basic options:
+
+* XSL-FO engine
+** FOP
+** link:https://www.renderx.com/tools/xep.html[XEP]
+* XeLaTeX
+* LuaLaTeX
