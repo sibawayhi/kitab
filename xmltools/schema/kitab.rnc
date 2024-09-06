@@ -207,13 +207,18 @@ bab =
 
 #ayah
 آية =
-   element آية {		# mqt@ fragment
+   element آية {		# quranic verse
       attribute سورة {text}?,
       attribute آية {text}?,
-      ( text
-       | هارون
-      )+
+      ( text | نهاية )+
    }
+
+نهاية =   # end-of-ayah, U+06DD
+   element نهاية {
+       attribute آية {text},
+       empty
+     }
+
 
 #wasla
 وصلة =
