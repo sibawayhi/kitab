@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="024">
+   <ayah id="٣٢٨٢٧" nbr="1" surah="41" verse="17">
+      <text>
+         <ar>وَأَمَّا ثَمُوْدُ فَهَدَيْنَاْهُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَأَمَّا</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>ثَمُوْدُ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>فَهَدَيْنَاْهُمْ</ar>
+            <en/>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٥١١٦٥" nbr="2" surah="41" verse="17">
+      <text>
+         <ar>وَأَمَّا ثَمُوْدَ فَهَدَيْنَاْهُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَأَمَّا</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>ثَمُوْدَ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>فَهَدَيْنَاْهُمْ</ar>
+            <en/>
+         </t>
+      </igt>
+   </ayah>
+</quran>
