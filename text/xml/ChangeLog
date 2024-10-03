@@ -1,3 +1,7 @@
+2024-10-03  Gregg Reynolds  <editor@sibawayhi.org>
+
+	* 003.ar.xml: rev 2; add هويت attrs
+
 2024-09-27  Gregg Reynolds  <editor@sibawayhi.org>
 
 	* 024.ar.xml: switch to Arabic-Indic digits for Id (هوية) atts
