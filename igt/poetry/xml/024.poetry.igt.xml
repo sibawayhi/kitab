@@ -5,8 +5,8 @@
       <verse>
          <hemistiche>
             <text>
-               <ar>فَأَمَّا تَمِيْمٌ تَمِيْمُ بِنُ مُرٍّ</ar>
-               <free/>
+               <ar>فَأَمَّا تَمِيْمٌ تَمِيْمُ بْنُ مُرٍّ</ar>
+               <free>so as for Tamīm{\influn},<ed>the</ed>Tamīm{\influ} bn{\influ} murr{\inflin}</free>
             </text>
             <igt>
                <t>
@@ -34,7 +34,7 @@
          <hemistiche>
             <text>
                <ar>فَأَلْفَاْهُمُ الْقَوْمُ رَوْبَى نِيَاْمَا</ar>
-               <free/>
+               <free>well the people found them disordered, drowsy</free>
             </text>
             <igt>
                <t>
@@ -62,7 +62,7 @@
          <hemistiche>
             <text>
                <ar>إِذَا ابْنُ أَبِي مُوْسَى بِلَاْلٌ بَلَغْتِهِ</ar>
-               <free/>
+               <free>if, the son{\influ}<ed>of</ed>abī mūsa, Bilāl{\influn}, you deliver me to him,</free>
             </text>
             <igt>
                <t>
@@ -94,7 +94,7 @@
          <hemistiche>
             <text>
                <ar>فَقَاْمَ بِفَأْسٍ بَيْنَ وُصْلَيْكِ جَاْزِرُ</ar>
-               <free/>
+               <free>then let him rise, with an axe, between your two joints, slaughtering</free>
             </text>
             <igt>
                <t>
@@ -120,5 +120,9 @@
             </igt>
          </hemistiche>
       </verse>
+      <comment>
+        The poet addresses his <xar>نَاْقَة</xar> (female camel): if you bring me to him (who is known for his
+        generosity) I'll no longer need you so I'll have someone slaughter you.
+      </comment>
    </verses>
 </poetry>
