@@ -55,7 +55,7 @@ bab =
 # free header
 # always an editorial insertion
 رأس = element رأس {
-          attribute هو {text}, # i.e. ID (هوية)
+          attribute هوية {text}, # i.e. ID (هوية)
           # attribute هارون {text}, # page nbr in Haroun
           # attribute يعقوب {text}, # page nbr in Yaqoub
           attribute صنف {text}?, # indicates hdr level?
@@ -68,7 +68,8 @@ bab =
 #segment
 مقطع =  # seg
    element مقطع {		# segment
-      attribute رقم {text}?,
+       attribute هوية { text }?, # id
+       attribute رقم {text}?,    # serial
       ( text
       | حرف
       | اسم
@@ -140,6 +141,8 @@ bab =
 #quote
 قول = # dictum
    element قول {		# qawl qwl cite quote
+      attribute هوية {text}?,   # id
+      attribute رقم {text}?,    # serial
       attribute وتد {text}?,	# وتد tent peg, i.e. anchor id
       attribute صنف {text}?,
       attribute ج {"*" | "?"}?,  # judgment; "*" = لا يجوز
@@ -147,7 +150,6 @@ bab =
           "٠"  # marks as redundant, do not include in igt section
           | "١"  # marks dictum as exemplary for the bab for indexing
       }?,
-      attribute رقم {text}?,
       (text
       | أصل
       | تقدير
@@ -208,9 +210,10 @@ bab =
 #ayah
 آية =
    element آية {		# quranic verse
-      attribute سورة {text}?,
-      attribute آية {text}?,
-      ( text | نهاية )+
+       attribute هوية { text }?, # id
+       attribute سورة {text}?,
+       attribute آية {text}?,
+       ( text | نهاية )+
    }
 
 نهاية =   # end-of-ayah, U+06DD
@@ -253,8 +256,9 @@ bab =
    }
 
 شاهدة = element شاهدة {		# shahid, witness
+            attribute هوية { text }?, # id
             attribute مقطع { text }?,
-            attribute رقم { text }?,
+            attribute رقم { text }?,  # serial
             element تخريج {text}?,
             element بيت {
                 مصراع,

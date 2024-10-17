@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="009">
+   <dictum id="٨٠٩٣١" nbr="1">
+      <text>
+         <ar>ذَهَبَ زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ذَهَبَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٢١٨٧" nbr="2">
+      <text>
+         <ar>جَلَسَ عَمْرٌو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>جَلَسَ</ar>
+         </t>
+         <t>
+            <ar>عَمْرٌو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٣٨٦٦" nbr="3">
+      <text>
+         <ar>ضُرِبَ زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ضُرِبَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٠١٨٥" nbr="4">
+      <text>
+         <ar>يُضْرَبُ عَمْرٌو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يُضْرَبُ</ar>
+         </t>
+         <t>
+            <ar>عَمْرٌو</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
