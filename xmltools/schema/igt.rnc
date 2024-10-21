@@ -1,0 +1,97 @@
+# https://relaxng.org/compact-tutorial-20030326.html
+
+default namespace = "http://www.sibawayhi.org/schema/2024/05/igt"
+
+start = dicta | poetry | quran
+
+dicta  = element dicta  { attribute bab {text}, dictum+ }
+poetry = element poetry { attribute bab {text}, verses+ }
+quran  = element quran  { attribute bab {text}, ayah+ }
+
+dictum = (
+    element dictum {
+        attribute id { text},   # id  هوية
+        attribute nbr { text},  # serial
+        # attribute seg { text},
+        attribute j {"*" | "?"}?, # judgment
+        element text {
+            ar, free, alt*
+        },
+        element igt {
+            term+
+        },
+        element comment { entext }?
+    }
+)
+
+verses =
+    element verses {
+        attribute id { text},   # id  هوية
+        attribute nbr { text},  # serial
+        verse+
+    }
+
+verse  = element verse { hemistiche+ }
+
+hemistiche =
+    element hemistiche {
+        attribute j {"*" | "?"}?, # judgment
+        element text {
+            ar, free, alt*
+        },
+        element igt {
+            term+
+        },
+        element comment { entext }?
+    }
+
+ayah = (
+    element ayah {
+        attribute id { text},   # id هوية
+        attribute nbr { text},  # serial
+        # attribute seg { text},
+        attribute surah { text},
+        attribute verse { text},
+        element text {
+            ar, free, alt*
+        },
+        element igt {
+            term+
+        },
+        element comment { entext }?
+    }
+)
+
+term = element t {
+           attribute ed { "1" }?, # editorial interpolation
+           attribute join { "1" }?, # orthographically joined, e.g. الرجل, وجهُهُ
+           attribute class {
+               "copula" | # editorial interpolation
+               # "genpair" | # joined genitive e.g. وجهه
+               "idafah" | # joined وجهه or unjoined e.g. حسن الوجه
+               "unit" # paratactic unit
+               }?,
+           attribute g { text }?, # grammar
+           ( term
+           | ar
+           | en
+           )+
+       }
+
+ar = element ar { (text | نهاية | ed)+ }
+نهاية = element نهاية { attribute آية { text } }
+en = element en { entext+ }
+paratactic = element paratactic { entext+ }
+free = element free { attribute src {text}?, entext* }
+alt = element alt { entext+ }
+ed  = element ed {text} # editorial interpolation
+entext = (text
+         | element wh {empty} # interrogative أَ
+         | ed
+         | element sp {empty} # space, for formatting only
+         | element impl {text} # implicit, according to sib
+         | element a {empty}
+         | element abdallah {empty}
+         | element amr {empty}
+         | element zayd {empty}
+         )

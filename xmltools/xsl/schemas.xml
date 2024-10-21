@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+
+  <uri pattern="*.xsl" uri="/usr/local/xml/schema/xslt30.rnc"/>
+
+</locatingRules>

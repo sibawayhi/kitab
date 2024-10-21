@@ -3,7 +3,7 @@
    <dictum id="٨٠٩٣١" nbr="1">
       <text>
          <ar>ذَهَبَ زَيْدٌ</ar>
-         <free/>
+         <free>Zayd went</free>
       </text>
       <igt>
          <t>
@@ -17,7 +17,7 @@
    <dictum id="٦٢١٨٧" nbr="2">
       <text>
          <ar>جَلَسَ عَمْرٌو</ar>
-         <free/>
+         <free>Amr sat</free>
       </text>
       <igt>
          <t>
@@ -31,7 +31,7 @@
    <dictum id="١٣٨٦٦" nbr="3">
       <text>
          <ar>ضُرِبَ زَيْدٌ</ar>
-         <free/>
+         <free>Zayd was struck</free>
       </text>
       <igt>
          <t>
@@ -45,7 +45,8 @@
    <dictum id="٨٠١٨٥" nbr="4">
       <text>
          <ar>يُضْرَبُ عَمْرٌو</ar>
-         <free/>
+         <free>Amr is being struck</free>
+         <alt>Amr will be struck</alt>
       </text>
       <igt>
          <t>

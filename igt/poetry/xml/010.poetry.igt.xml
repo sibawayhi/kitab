@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="010">
+   <verses id="٥٧٨٣٩" nbr="1">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لَدْنٌ بِهَزِّ الْكَفِّ يَعْسِلُ مَتْنُهُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لَدْنٌ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>بِهَزِّ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>الْكَفِّ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>يَعْسِلُ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>مَتْنُهُ</ar>
+                  <en/>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فِيْهِ كَمَا عَسَلَ الطَّرِيْقَ الثَّعْلَبُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فِيْهِ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>كَمَا</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>عَسَلَ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>الطَّرِيْقَ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>الثَّعْلَبُ</ar>
+                  <en/>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>
