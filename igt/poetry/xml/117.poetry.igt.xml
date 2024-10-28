@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="117">
+   <verses id="٥٤٨٢٤" nbr="1">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَنَا ابن داْرَةَ مَعْرُوْفِا بِهَا نَسَبِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَنَا</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>ابن</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>داْرَةَ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>مَعْرُوْفِا</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>بِهَا</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>نَسَبِي</ar>
+                  <en/>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وهلْ بداْرَةَ باللَنّاْسِ مِنْ عاْرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وهلْ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>بداْرَةَ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>باللَنّاْسِ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>عاْرِ</ar>
+                  <en/>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

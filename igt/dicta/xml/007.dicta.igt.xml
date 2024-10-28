@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="007">
+   <dictum id="٢١٠٨٣" nbr="1">
+      <text>
+         <ar>وَقَلَّ مَا يَدُوْمُ وَِصَالٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَقَلَّ</ar>
+         </t>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>يَدُوْمُ</ar>
+         </t>
+         <t>
+            <ar>وَِصَالٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
