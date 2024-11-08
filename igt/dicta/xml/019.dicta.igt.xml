@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="019">
+   <dictum id="١٨٩٤٥" nbr="1">
+      <text>
+         <ar>مَا عَبْدُ اللهِ أَخَاْكَ</ar>
+         <free>Abdullah is not your brother</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ اللهِ</ar>
+         </t>
+         <t>
+            <ar>أَخَاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩١٦٣٨" nbr="2">
+      <text>
+         <ar>مَا زَيْدٌ مُنْطَلِقًا</ar>
+         <free>Zayd is not departing</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٩٣٧٦" nbr="3">
+      <text>
+         <ar>عَبْدُ اللهِ لَيْسَ ذَاْهِبًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَبْدُ اللهِ</ar>
+         </t>
+         <t>
+           <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٥٨٦٣" nbr="4" j="*">
+      <text>
+         <ar>عَبْدُ اللهِ لَاتَ مُنْطَلِقًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>لَاتَ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٩١٥٦" nbr="5" j="*">
+      <text>
+         <ar>قَوْمُكَ لَاتُوا مُنْطَلِقينَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَوْمُكَ</ar>
+         </t>
+         <t>
+            <ar>لَاتُوا</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقينَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٤٣٢٤" nbr="6">
+      <text>
+         <ar>أَتَوْنِي لَيْسَ زَيْدًا وَلَا يَكُوْنُ بِشْرًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَتَوْنِي</ar>
+         </t>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>يَكُوْنُ</ar>
+         </t>
+         <t>
+            <ar>بِشْرًا</ar>
+            <en><inflan>Bišr</inflan></en>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٠٣٩٠" nbr="7">
+      <text>
+         <ar>تَاللهِ لأَفْعَلَنَّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تَاللهِ</ar>
+         </t>
+         <t>
+            <ar>لأَفْعَلَنَّ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤١٢٨٨" nbr="8">
+      <text>
+         <ar>مَا مُنْطَلِقٌ عَبْدُ اللهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقٌ</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ اللهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+
+   <dictum id="٧٨٧٦٨" nbr="9">
+      <text>
+         <ar>مَا مُسِيءٌ مَنْ أَعْتَبَ</ar>
+         <free>He is not an evil-doer who returns from his evil conduct</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+           <ar>مُسِيءٌ</ar>
+           <en>evil-doer</en>
+         </t>
+         <t>
+           <ar>مَنْ</ar>
+           <en>who</en>
+         </t>
+         <t>
+            <ar>أَعْتَبَ٠</ar>
+            <en>returned-from-evil-conduct</en>
+         </t>
+      </igt>
+      <sidecomment>
+        The gloss is from Lane, who says this is a proverb.
+      </sidecomment>
+
+   </dictum>
+   <dictum id="٣٠٧٢٥" nbr="10">
+      <text>
+         <ar>إِنَّ أَخُوْكَ عَبْدَ اللهِ</ar>
+         <free>Indeed your brother is Abdallah</free>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>أَخُوْكَ</ar>
+         </t>
+         <t>
+            <ar>عَبْدَ اللهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٠٠١٩" nbr="11">
+      <text>
+         <ar>إِنَّ عَبْدَ اللهِ أَخُوْكَ</ar>
+         <free>Indeed Abdallah is your brother</free>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>عَبْدَ اللهِ</ar>
+         </t>
+         <t>
+            <ar>أَخُوْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٧٤٨٧" nbr="12">
+      <text>
+         <ar>مَا زَيْدٌ إِلَّا مُنْطَلِقٌ</ar>
+         <free>Zayd is not but departing</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٧٨٦٠" nbr="13">
+      <text>
+         <ar>لَيْسَ زَيْدٌ إِلَّا ذَاْهِبًا</ar>
+         <free>Zayd is not but going</free>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٤٩٠٨" nbr="14">
+      <text>
+         <ar>هٰذِهِ مِلْحَفَةٌ جَدِيْدَةٌ</ar>
+         <free>This is a new cloak</free>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذِهِ</ar>
+         </t>
+         <t>
+           <ar>مِلْحَفَةٌ</ar>
+           <en><influn>cloak</influn></en>
+         </t>
+         <t>
+           <ar>جَدِيْدَةٌ</ar>
+           <en><influn>new</influn></en>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٨٧٩٦" nbr="15">
+      <text>
+         <ar>مَا عَبْدُ اللهِ خَاْرِجًا وَلَا مَعْنٌ ذَاْهِبٌ</ar>
+         <free>Abdallah is not exiting nor Ma’n going</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ اللهِ</ar>
+         </t>
+         <t>
+            <ar>خَاْرِجًا</ar>
+            <en>exiting</en>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>مَعْنٌ</ar>
+            <en>Ma’n</en>
+         </t>
+         <t>
+            <ar>ذَاْهِبٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+
+   <dictum id="٣١٦١٦" nbr="16">
+      <text>
+         <ar>مَا كَاْنَ عَبْدُ اللهِ مُنْطَلِقًا وَلَا زَيْدٌ ذَاْهِبٌ</ar>
+         <free>Abdullah was not departing nor Zayd going</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ اللهِ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+
+   <dictum id="٢١٥٩٠" nbr="17">
+      <text>
+         <ar>مَا كَاْنَ زَيْدٌ ذَاْهِبًا وَلَا عَمْرٌو مُنْطَلِقًا</ar>
+         <free>Zayd was not going nor Amr departing</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبًا</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>عَمْرٌو</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+      </igt>
+   </dictum>
+
+   <dictum id="٤٨٤٦٤" nbr="18">
+      <text>
+         <ar>لَيْسَ زَيْدٌ ذَاْهِبًا وَلَا أَخُوْكَ مُنْطَلِقًا</ar>
+         <free>Zayd is not going nor your brother departing</free>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبًا</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>أَخُوْكَ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٠٩٤٤" nbr="19">
+      <text>
+         <ar>مَا زَيْدٌ ذَاْهِبًا وَلَا مَعْنٌ خَاْرِجًا</ar>
+         <free>Zayd is not going nor Ma’n exiting</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبًا</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>مَعْنٌ</ar>
+            <en><influn>Ma’n</influn></en>
+         </t>
+         <t>
+           <ar>خَاْرِجًا</ar>
+           <en><inflan>exiting</inflan></en>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٣٩٠٦" nbr="20">
+      <text>
+         <ar>لَيْسَ زَيْدٌ وَلَا أَخُوْهُ ذَاْهِبَيْنِ</ar>
+         <free>Neither Zayd nor his brother are going</free>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>أَخُوْهُ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبَيْنِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٣٣٨٧" nbr="21">
+      <text>
+         <ar>مَا عَمْرٌو وَلَا خَاْلِدٌ مُنْطَلِقَيْنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>عَمْرٌو</ar>
+         </t>
+         <t>
+            <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>خَاْلِدٌ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقَيْنِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٩٥٢٦" nbr="22">
+      <text>
+         <ar>إِنَّ زَيْدًا ظَرِيْفٌ وَعَمْرٌو</ar>
+         <free>Zayd is elegant, and Amr [too]</free>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>ظَرِيْفٌ</ar>
+            <en>elegant</en>
+         </t>
+         <t join="1">
+           <t>
+             <ar>وَ</ar>
+           </t>
+           <t>
+             <ar>عَمْرٌو</ar>
+           </t>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٨٤٣٤" nbr="23">
+      <text>
+         <ar>مَا زَيْدٌ كَرِيْمًا وَلَا عَاْقِلًا أَبُوْهُ</ar>
+         <free>Zayd is not noble nor his father rational</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>كَرِيْمًا</ar>
+            <en><inflan>noble</inflan></en>
+         </t>
+         <t>
+            <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>عَاْقِلًا</ar>
+            <en><inflan>rational</inflan></en>
+         </t>
+         <t>
+            <ar>أَبُوْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٩٨٠٠" nbr="24">
+      <text>
+         <ar>مَا زَيْدٌ عَاْقِلًا أَبُوْهُ</ar>
+         <free>Zayd's father is not rational</free>
+         <alt>Not Zayd, his father rational</alt>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>عَاْقِلًا</ar>
+            <en><inflan>rational</inflan></en>
+         </t>
+         <t>
+            <ar>أَبُوْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٢١٤٩" nbr="25">
+      <text>
+         <ar>مَا زَيْدٌ ذَاْهِبًا وَلَا عَاْقِلٌ عَمْرٌو</ar>
+         <free>Zayd is not going, and Amr is not rational</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبًا</ar>
+         </t>
+         <t>
+            <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>عَاْقِلٌ</ar>
+            <en><influn>rational</influn></en>
+         </t>
+         <t>
+            <ar>عَمْرٌو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٥٤٧٢" nbr="26" j="*">
+      <text>
+         <ar>مَا زَيْدٌ عَاْقِلًا عَمْرٌو</ar>
+         <free>* Zayd is not rational, Amr</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>عَاْقِلًا</ar>
+            <en><inflan>rational</inflan></en>
+         </t>
+         <t>
+            <ar>عَمْرٌو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٩٠٧٥" nbr="27">
+      <text>
+         <ar>
+            <ed>مَا زَيْدٌ عَاْقِلًا</ed> وَمَا عَاْقِلٌ عَمْرٌو</ar>
+         <free>[Zayd is not rational] and Amr is not rational</free>
+      </text>
+      <igt>
+         <t ed="1">
+            <ar>مَا</ar>
+         </t>
+         <t ed="1">
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t ed="1">
+            <ar>عَاْقِلًا</ar>
+            <en><inflan>rational</inflan></en>
+         </t>
+         <t class="wa-ma">
+            <ar>وَمَا</ar>
+         </t>
+         <t>
+            <ar>عَاْقِلٌ</ar>
+            <en><influn>rational</influn></en>
+         </t>
+         <t>
+            <ar>عَمْرٌو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٧٢٧٢" nbr="28">
+      <text>
+         <ar>مَا زَيْدٌ ذَاْهِبًا وَلَا كَرِيْمٌ أَخُوْهُ</ar>
+         <free>Zayd is not going and his brother not noble</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبًا</ar>
+         </t>
+         <t>
+            <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>كَرِيْمٌ</ar>
+            <en><influn>noble</influn></en>
+         </t>
+         <t>
+            <ar>أَخُوْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٤٤٦٨" nbr="29">
+      <text>
+         <ar>مَا كَاْنَ زَيْدٌ ذَاْهِبًا وَلَا قَاْئِمًا عَمْرٌو</ar>
+         <free>Zayd was not going and Amr not standing</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبًا</ar>
+         </t>
+         <t>
+            <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>قَاْئِمًا</ar>
+         </t>
+         <t>
+            <ar>عَمْرٌو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٣٨١١" nbr="30">
+      <text>
+         <ar>مَا زَيْدٌ ذَاْهِبًا وَلَا مُحْسِنٌ زَيْدٌ</ar>
+         <free>Zayd is not going and not well-doing is Zayd</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبًا</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+           <ar>مُحْسِنٌ</ar>
+           <en><influn>well-doing</influn></en>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٦٣١٤" nbr="31" j="*">
+      <text>
+         <ar>مَا زَيْدٌ مُنْطَلِقًا زَيْدٌ</ar>
+         <free>Zayd is not departing, Zayd</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٢٧٧٥" nbr="32">
+      <text>
+         <ar>مَا زَيْدٌ مُنْطَلِقًا هُوَ</ar>
+         <free>Zayd, he is not departing</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٧١٤٣" nbr="33" j="*">
+      <text>
+         <ar>مَا زَيْدٌ مُنْطَلِقًا أَبُو زَيْدٍ</ar>
+         <free>Zayd is not departing, Zayd's father</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+         <t class="idafah">
+           <t>
+             <ar>أَبُو</ar>
+           </t>
+           <t>
+             <ar>زَيْدٍ</ar>
+           </t>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩١٠٢٢" nbr="34">
+      <text>
+         <ar>مَا زَيْدٌ مُنْطَلِقًا أَبُوْهُ</ar>
+         <free>Zayd's father is not departing</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+         <t>
+            <ar>أَبُوْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٧١٤٧" nbr="35" j="*">
+      <text>
+         <ar>مَا زَيْدٌ مُنْطَلِقًا أَبُو عَمْرٍو</ar>
+         <free>*Zayd is not departing, Abu Amr</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+         <t class="idafah">
+           <t>
+             <ar>أَبُو</ar>
+           </t>
+           <t>
+             <ar>عَمْرٍو</ar>
+           </t>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٤٣٨٧" nbr="36">
+      <text>
+         <ar>مَا أَبُو زَيْنَبَ ذَاْهِبًا وَلَا مُقِيْمَةٌ أُمُّهَا</ar>
+         <free>Zaynab's father is not going and not remaining her mother</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t class="idafah">
+           <t>
+             <ar>أَبُو</ar>
+           </t>
+           <t>
+             <ar>زَيْنَبَ</ar>
+           </t>
+         </t>
+         <t>
+            <ar>ذَاْهِبًا</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>مُقِيْمَةٌ</ar>
+         </t>
+         <t>
+            <ar>أُمُّهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٧٦٥٢" nbr="37" j="*">
+      <text>
+         <ar>مَا أَبُو زَيْنَبَ مُقِيْمَةً أُمُّهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَبُو</ar>
+         </t>
+         <t>
+            <ar>زَيْنَبَ</ar>
+         </t>
+         <t>
+            <ar>مُقِيْمَةً</ar>
+         </t>
+         <t>
+            <ar>أُمُّهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٩٨٥٠" nbr="38">
+      <text>
+         <ar>لَيْسَ بِمَعْرُوْفٍ لَنَا رَدُّهَا صِحَاْحًا وَلَا مُسْتَنْكَرٌ عَقْرُهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>بِمَعْرُوْفٍ</ar>
+         </t>
+         <t>
+            <ar>لَنَا</ar>
+         </t>
+         <t>
+            <ar>رَدُّهَا</ar>
+         </t>
+         <t>
+            <ar>صِحَاْحًا</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>مُسْتَنْكَرٌ</ar>
+         </t>
+         <t>
+            <ar>عَقْرُهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٤٩٨٤" nbr="39">
+      <text>
+         <ar>لَيْسَ بِآتِيَتِكِ مَنْهِيُّهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>بِآتِيَتِكِ</ar>
+         </t>
+         <t>
+            <ar>مَنْهِيُّهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٠٤٣٨" nbr="40">
+      <text>
+         <ar>لَيْسَ بِآتِيَتِكِ الأْمَوْرُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>بِآتِيَتِكِ</ar>
+         </t>
+         <t>
+            <ar>الأْمَوْرُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٥٥٧٨" nbr="41">
+      <text>
+         <ar>لَيْسَ بِمَعْرُوْفَةٍ رَدُّهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>بِمَعْرُوْفَةٍ</ar>
+         </t>
+         <t>
+            <ar>رَدُّهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٩٠٣٠" nbr="42">
+      <text>
+         <ar>لَيْسَ بِمَعْرُوْفَةٍ خَيْلُنَا صِحَاْحًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>بِمَعْرُوْفَةٍ</ar>
+         </t>
+         <t>
+            <ar>خَيْلُنَا</ar>
+         </t>
+         <t>
+            <ar>صِحَاْحًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٧٠٢٣" nbr="43">
+      <text>
+         <ar>وَلَا مُسْتَنْكَرًا أَنْ تُعَقَّرَا وَلَا قَاْصِرًا عَنْكَ مَأْمُوْرُهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>مُسْتَنْكَرًا</ar>
+         </t>
+         <t>
+            <ar>أَنْ</ar>
+         </t>
+         <t>
+            <ar>تُعَقَّرَا</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>قَاْصِرًا</ar>
+         </t>
+         <t>
+            <ar>عَنْكَ</ar>
+         </t>
+         <t>
+            <ar>مَأْمُوْرُهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٩٩٧١" nbr="44">
+      <text>
+         <ar>لَيْسَ زَيْدٌ ذَاْهِبًا وَلَا عَمْرٌو مُنْطَلِقًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبًا</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>عَمْرٌو</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٤٠٥٢" nbr="45">
+      <text>
+         <ar>مَا كُلُّ سَوْدَاْءَ تَمْرَةً وَلَا بَيْضَاْءَ شَحْمَةٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>كُلُّ</ar>
+         </t>
+         <t>
+            <ar>سَوْدَاْءَ</ar>
+         </t>
+         <t>
+            <ar>تَمْرَةً</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>بَيْضَاْءَ</ar>
+         </t>
+         <t>
+            <ar>شَحْمَةٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٩١٧٩" nbr="46">
+      <text>
+         <ar>وَلَا كُلُّ بَيْضَاْءَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>كُلُّ</ar>
+         </t>
+         <t>
+            <ar>بَيْضَاْءَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٥٤٣٢" nbr="47">
+      <text>
+         <ar>مَا مِثْلُ عَبْدِ اللهِ يَقُوْلُ ذَاْكَ وَلَا أَخِيْهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مِثْلُ</ar>
+         </t>
+         <t>
+            <ar>عَبْدِ اللهِ</ar>
+         </t>
+         <t>
+            <ar>يَقُوْلُ</ar>
+         </t>
+         <t>
+            <ar>ذَاْكَ</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>أَخِيْهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٤٨٥٠" nbr="48">
+      <text>
+         <ar>مَا مِثْلُ عَبْدِ اللهِ يَقُوْلُ ذَاْكَ وَلَا أَخِيْهِ يَكْرَهُ ذَاكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مِثْلُ</ar>
+         </t>
+         <t>
+            <ar>عَبْدِ اللهِ</ar>
+         </t>
+         <t>
+            <ar>يَقُوْلُ</ar>
+         </t>
+         <t>
+            <ar>ذَاْكَ</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>أَخِيْهِ</ar>
+         </t>
+         <t>
+            <ar>يَكْرَهُ</ar>
+         </t>
+         <t>
+            <ar>ذَاكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٤٤٤١" nbr="49">
+      <text>
+         <ar>مَا مِثْلُ أَخِيْكَ وَلَا أَبِيْكَ يَقُوْلاْنِ ذَاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مِثْلُ</ar>
+         </t>
+         <t>
+            <ar>أَخِيْكَ</ar>
+         </t>
+         <t>
+           <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>أَبِيْكَ</ar>
+         </t>
+         <t>
+            <ar>يَقُوْلاْنِ</ar>
+         </t>
+         <t>
+            <ar>ذَاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
