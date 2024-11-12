@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE stylesheet [
+<!ENTITY SIBDIR "../../kitab/public">
+<!ENTITY ENDIR "../../kitab/work/en">
+<!ENTITY IGTDIR "../../kitab/work/igt">
+<!ENTITY LCEIL "⌈">
+<!ENTITY RCEIL "⌉">
+<!ENTITY DH  "ð">
+<!ENTITY D  "ḍ">
+<!ENTITY H  "ḥ">
+<!ENTITY S "ṣ">
+<!ENTITY AYN "ʕ">
+<!ENTITY damm "ᵘ">
+<!ENTITY dammatan "&#x064C;">
+<!ENTITY influn "ᵘⁿ">
+<!ENTITY influ "U">
+<!ENTITY fath "ᵃ">
+<!ENTITY inflan "ᵃⁿ">
+<!ENTITY kasr "ᵢ">
+<!ENTITY inflin "ᵢₙ">
+<!ENTITY sukun "°">
+]>
+
+<!-- <parse>
+     verbs: v[person][nbr][tense]
+-->
+
+  <!-- <xsl:key name="termskey" match="t:term" use="t:key"/> -->
+
+<terms xmlns="http://www.sibawayhi.org/schema/2024/06/terms">
+  <term>
+    <key>جَلَسَ</key>
+    <xlit>j&fath;l&fath;s&fath;</xlit>
+    <gloss>sat</gloss>
+    <parse>v31.perf</parse>
+  </term>
+
+  <term>
+    <key>ذَهَبَ</key>
+    <xlit>&DH;&fath;h&fath;b&fath;</xlit>
+    <gloss>went</gloss>
+    <parse>v31.perf</parse>
+  </term>
+
+  <term>
+    <key>زَيْدٌ</key>
+    <xlit>z&fath;y&sukun;d<influn/></xlit>
+    <gloss>Zayd<influn/></gloss>
+    <parse>n</parse>
+  </term>
+
+  <term>
+    <key>ضَرَبَ</key> <xlit>&D;&fath;r&fath;b&fath;</xlit>
+    <gloss>struck</gloss>
+    <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>ضُرِبَ</key> <xlit>&D;&damm;r&kasr;b&fath;</xlit>
+    <gloss>was-struck</gloss>
+    <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>يُضْرَبُ</key> <xlit>y&damm;&D;&sukun;r&fath;b&damm;</xlit>
+    <gloss>is-being-struck</gloss>
+    <parse>v31.perf</parse>
+  </term>
+
+  <term>
+    <key>عَمْرٌو</key> <xlit>&AYN;&fath;m&sukun;r<influn/>w</xlit>
+    <gloss>ʕAmr<influn/></gloss>
+    <parse>v31.perf</parse>
+  </term>
+
+</terms>
