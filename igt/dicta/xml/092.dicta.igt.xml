@@ -261,11 +261,40 @@
    <dictum id="٨٥٥٧٩" nbr="11">
       <text>
          <ar>رَجَعَ فُلَاْنٌ عَوْدَهُ عَلَى بَدْئِهِ</ar>
-         <free/>
+         <free>So-and-so reverted his returning on his beginning</free>
       </text>
       <igt>
          <t>
             <ar>رَجَعَ</ar>
+         </t>
+         <t>
+           <ar>فُلَاْنٌ</ar>
+         </t>
+         <t>
+            <ar>عَوْدَهُ</ar>
+         </t>
+         <t>
+            <ar>عَلَى</ar>
+         </t>
+         <t>
+            <ar>بَدْئِهِ</ar>
+         </t>
+      </igt>
+      <sidecomment>
+        Lane: “He returned without having obtained (or attained)
+        anything”; or (art. <ar>بدأ</ar>) “He returned like as he had
+        come”, or “He made his returning revert to his beginning.”
+      </sidecomment>
+   </dictum>
+   <dictum id="٢٧٨٩٠" nbr="12">
+      <text>
+         <ar>انْثَنَى فُلَاْنٌ عَوْدَه عَلَى بَدْئِهِ</ar>
+         <free>So-and-so doubled-back his returning on his beginning</free>
+      </text>
+      <igt>
+         <t>
+            <ar>انْثَنَى</ar>
+            <en>doubled-back<ed>he</ed></en>
          </t>
          <t>
             <ar>فُلَاْنٌ</ar>
@@ -281,53 +310,33 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٧٨٩٠" nbr="12">
-      <text>
-         <ar>انْثَنَى فُلَاْنٌ عَوْدَه عَلَى بَدْئِهِ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>انْثَنَى</ar>
-         </t>
-         <t>
-            <ar>فُلَاْنٌ</ar>
-         </t>
-         <t>
-            <ar>عَوْدَه</ar>
-         </t>
-         <t>
-            <ar>عَلَى</ar>
-         </t>
-         <t>
-            <ar>بَدْئِهِ</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٨٤١٥٧" nbr="13">
       <text>
          <ar>انْثَنَى عَوْدًا عَلَى بَدْءٍ</ar>
-         <free/>
+         <free>He doubled-back returning on beginning</free>
       </text>
       <igt>
          <t>
             <ar>انْثَنَى</ar>
+            <en>doubled-back<ed>he</ed></en>
          </t>
          <t>
             <ar>عَوْدًا</ar>
+            <en><inflan>returning</inflan></en>
          </t>
          <t>
             <ar>عَلَى</ar>
          </t>
          <t>
-            <ar>بَدْءٍ</ar>
+           <ar>بَدْءٍ</ar>
+           <en><inflin>beginning</inflin></en>
          </t>
       </igt>
    </dictum>
    <dictum id="٤٦٨٧٦" nbr="14">
       <text>
          <ar>رَجَعَ فُلَاْنٌ عَوْدُهُ عَلَى بَدْئِهِ</ar>
-         <free/>
+         <free>So-and-so returned, his returning being on his beginning</free>
       </text>
       <igt>
          <t>
@@ -349,21 +358,25 @@
    </dictum>
    <dictum id="٢٩٨٦٩" nbr="15">
       <text>
-         <ar>بِعْتُ الشَاْءَ شَاْةً وَدِرْهَمًا</ar>
-         <free/>
+         <ar>بِعْتُ الشَّاْءَ شَاْةً وَدِرْهَمًا</ar>
+         <free>I sold the sheep, a sheep for a dirham</free>
       </text>
       <igt>
-         <t>
-            <ar>بِعْتُ</ar>
+         <t class="did-I">
+           <ar>بِعْتُ</ar>
+           <en>sold</en>
+         </t>
+         <t class="the">
+           <ar>الشَّاْءَ</ar>
+           <en>sheep</en>
          </t>
          <t>
-            <ar>الشَاْءَ</ar>
+           <ar>شَاْةً</ar>
+           <en><ed>a</ed>sheep</en>
          </t>
-         <t>
-            <ar>شَاْةً</ar>
-         </t>
-         <t>
-            <ar>وَدِرْهَمًا</ar>
+         <t class="and">
+           <ar>وَدِرْهَمًا</ar>
+           <en><ed>a</ed>dirham</en>
          </t>
       </igt>
    </dictum>
@@ -373,9 +386,18 @@
          <free>I wagered with him dirham by dirham</free>
       </text>
       <igt>
-         <t>
-            <ar>قَاْمَرْتُهُ</ar>
-         </t>
+        <t join="1">
+          <t>
+            <ar>قَاْمَرْ</ar>
+            <en>wagered</en>
+          </t>
+          <t>
+            <ar>تُ٠</ar>
+          </t>
+          <t>
+            <ar>هُ٠</ar>
+          </t>
+        </t>
          <t>
             <ar>دِرْهَمًا</ar>
          </t>
@@ -398,31 +420,36 @@
          </t>
          <t>
             <ar>دَاْرِي</ar>
+            <en>house-my</en>
          </t>
          <t>
             <ar>ذِرَاْعًا</ar>
          </t>
-         <t>
-            <ar>بِدِرْهَمٍ</ar>
+         <t class="bi">
+           <ar>بِدِرْهَمٍ</ar>
+           <en><ed>a</ed><inflin>dirham</inflin></en>
          </t>
       </igt>
    </dictum>
    <dictum id="٧٣٧٥٤" nbr="18">
       <text>
-         <ar>بِعْتُ البُرَّ قَفِيْزَيْنِ بِدِرْهَمٍ</ar>
+         <ar>بِعْتُ الْبُرَّ قَفِيْزَيْنِ بِدِرْهَمٍ</ar>
          <free>I sold the wheat, two qafīz per dirham</free>
       </text>
       <igt>
-         <t>
-            <ar>بِعْتُ</ar>
+         <t class="did-I">
+           <ar>بِعْتُ</ar>
+           <en>sold</en>
+         </t>
+         <t class="the">
+           <ar>الْبُرَّ</ar>
+           <en>wheat</en>
          </t>
          <t>
-            <ar>البُرَّ</ar>
+           <ar>قَفِيْزَيْنِ</ar>
+           <en>two <inflin>qafīz</inflin></en>
          </t>
-         <t>
-            <ar>قَفِيْزَيْنِ</ar>
-         </t>
-         <t>
+         <t class="bi">
             <ar>بِدِرْهَمٍ</ar>
          </t>
       </igt>
@@ -430,27 +457,40 @@
    <dictum id="٣٦٠٦٠" nbr="19">
       <text>
          <ar>أَخَذْتُ زَكَاْةَ مَاْلِهِ دِرْهَمًا لِكُلِّ أَرْبَعِيْنَ دِرْهَمًا</ar>
-         <free>I took the increase of my wealth one dirham per forty in dirhams</free>
-         <alt>I took the increase of my livestock, in dirhams, a dirham per forty(?)</alt>
+         <free>I took the increase of his wealth one dirham per forty in dirhams</free>
+         <alt>I took the increase of his livestock, in dirhams, a dirham per forty(?)</alt>
       </text>
       <igt>
-         <t>
+         <t class="did-I">
             <ar>أَخَذْتُ</ar>
+            <en>took</en>
          </t>
-         <t>
-            <ar>زَكَاْةَ</ar>
-         </t>
-         <t>
-            <ar>مَاْلِهِ</ar>
+         <t class="idafah">
+           <t>
+             <ar>زَكَاْةَ</ar>
+             <en><ed>the</ed><infla>increase</infla></en>
+           </t>
+           <t join="1" class="idafah">
+             <t>
+               <ar>مَاْلِ</ar>
+               <en><ed>the</ed><infli>wealth</infli></en>
+             </t>
+             <t>
+               <ar>هِ</ar>
+               <en>him</en>
+             </t>
+           </t>
          </t>
          <t>
             <ar>دِرْهَمًا</ar>
          </t>
-         <t>
-            <ar>لِكُلِّ</ar>
+         <t class="li">
+           <ar>لِكُلِّ</ar>
+           <en><infli>each</infli></en>
          </t>
          <t>
-            <ar>أَرْبَعِيْنَ</ar>
+           <ar>أَرْبَعِيْنَ</ar>
+            <en><inflin>forty</inflin></en>
          </t>
          <t>
             <ar>دِرْهَمًا</ar>
@@ -463,20 +503,29 @@
          <free>I clarified for him his account item by item</free>
       </text>
       <igt>
-         <t>
+         <t class="did-I">
             <ar>بَيَّنْتُ</ar>
+            <en>clarified</en>
          </t>
          <t>
             <ar>لَهُ</ar>
          </t>
+         <t join="1" class="idafah">
+           <t>
+             <ar>حِسَاْبَ</ar>
+             <en>account</en>
+           </t>
+           <t>
+             <ar>هُ</ar>
+           </t>
+         </t>
          <t>
-            <ar>حِسَاْبَهُ</ar>
+           <ar>بَاْبًا</ar>
+           <en><inflan>item</inflan></en>
          </t>
          <t>
             <ar>بَاْبًا</ar>
-         </t>
-         <t>
-            <ar>بَاْبًا</ar>
+           <en><inflan>item</inflan></en>
          </t>
       </igt>
       <sidecomment>
@@ -489,11 +538,13 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>تَصَدَّقْتُ</ar>
+         <t class="did-I">
+           <ar>تَصَدَّقْتُ</ar>
+           <en>donated</en>
          </t>
-         <t>
-            <ar>بِمَاْلِي</ar>
+         <t class="bi">
+           <ar>بِمَاْلِي</ar>
+           <en>wealth-\implicit{of}-me</en>
          </t>
          <t>
             <ar>دِرْهَمًا</ar>
@@ -523,37 +574,55 @@
    <dictum id="٩٠٣٤٧" nbr="23">
       <text>
          <ar>رَجَعْتُ عَوْدِي عَلَى بَدْئِي</ar>
-         <free/>
+         <free>I returned my return on my beginning</free>
       </text>
       <igt>
-         <t>
-            <ar>رَجَعْتُ</ar>
+         <t class="did-I">
+           <ar>رَجَعْتُ</ar>
+           <en>returned</en>
          </t>
-         <t>
-            <ar>عَوْدِي</ar>
+         <t join="1">
+           <t>
+             <ar>عَوْد</ar>
+             <en>return</en>
+           </t>
+           <t>
+             <ar>ي</ar>
+             <en>my</en>
+           </t>
          </t>
          <t>
             <ar>عَلَى</ar>
          </t>
+         <t join="1" class="idafah">
          <t>
-            <ar>بَدْئِي</ar>
+           <ar>بَدْئِ</ar>
+           <en>beginning</en>
+         </t>
+         <t>
+           <ar>ي</ar>
+           <en>me</en>
+         </t>
          </t>
       </igt>
    </dictum>
    <dictum id="٠٠٠٦٨" nbr="24">
       <text>
-         <ar>رَجَعَتُ كَمَا جِئْتُ</ar>
-         <free/>
+         <ar>رَجَعْتُ كَمَا جِئْتُ</ar>
+         <free>I returned as I came</free>
       </text>
       <igt>
-         <t>
-            <ar>رَجَعَتُ</ar>
+         <t class="did-I">
+           <ar>رَجَعْتُ</ar>
+           <en>returned</en>
          </t>
          <t>
-            <ar>كَمَا</ar>
+           <ar>كَمَا</ar>
+           <en>like-that</en>
          </t>
          <t>
-            <ar>جِئْتُ</ar>
+           <ar>جِئْتُ</ar>
+           <en>came-I</en>
          </t>
       </igt>
    </dictum>
@@ -566,8 +635,9 @@
          <t>
             <ar>كَاْنَ</ar>
          </t>
-         <t>
-            <ar>البُرُّ</ar>
+         <t class="the">
+           <ar>الْبُرَّ</ar>
+           <en>wheat</en>
          </t>
          <t>
             <ar>قَفِيْزَيْنِ</ar>
@@ -597,8 +667,9 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>البُرُّ</ar>
+         <t class="the">
+           <ar>الْبُرَّ</ar>
+           <en>wheat</en>
          </t>
          <t>
             <ar>بِسِتِّيْنَ</ar>
@@ -608,11 +679,12 @@
    <dictum id="٨٣٨٢١" nbr="28">
       <text>
          <ar>بِعْتُ الشَاْءَ شَاْةٌ وَدِرْهَمٌ</ar>
-         <free/>
+         <free>I sold the sheep, a sheep and a dirham</free>
       </text>
       <igt>
-         <t>
-            <ar>بِعْتُ</ar>
+         <t class="did-I">
+           <ar>بِعْتُ</ar>
+           <en>sold</en>
          </t>
          <t>
             <ar>الشَاْءَ</ar>
@@ -627,8 +699,8 @@
    </dictum>
    <dictum id="٢٩٧٣٢" nbr="29">
       <text>
-         <ar>كُلُّ رَجُلٍ وَضِيْعَتُهُ</ar>
-         <free/>
+         <ar>كُلُّ رَجُلٍ وَضَيْعَتُهُ</ar>
+         <free>Every man and his occupation</free>
       </text>
       <igt>
          <t>
@@ -637,10 +709,14 @@
          <t>
             <ar>رَجُلٍ</ar>
          </t>
-         <t>
-            <ar>وَضِيْعَتُهُ</ar>
+         <t class="and">
+           <ar>وَضَيْعَتُهُ</ar>
+           <en>his occupation</en>
          </t>
       </igt>
+      <sidecomment>
+        Lane (art <ar>ضيع</ar>): “Every man should occupy himself with his proper craft.”
+      </sidecomment>
    </dictum>
    <dictum id="٢٠١٦٠" nbr="30">
       <text>
@@ -648,8 +724,9 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>بِعْتُ</ar>
+         <t class="did-I">
+           <ar>بِعْتُ</ar>
+           <en>sold</en>
          </t>
          <t>
             <ar>الدَّارَ</ar>
@@ -665,11 +742,12 @@
    <dictum id="٠٦٦٣٦" nbr="31">
       <text>
          <ar>بِعْتُ دَاْرِي الذِّرَاْعَاْنِ بِدِرْهَمٍ</ar>
-         <free/>
+         <free>I sold my house, two cubits per dirham</free>
       </text>
       <igt>
-         <t>
-            <ar>بِعْتُ</ar>
+         <t class="did-I">
+           <ar>بِعْتُ</ar>
+           <en>sold</en>
          </t>
          <t>
             <ar>دَاْرِي</ar>
@@ -688,11 +766,13 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>بِعْتُ</ar>
+         <t class="did-I">
+           <ar>بِعْتُ</ar>
+           <en>sold</en>
          </t>
-         <t>
-            <ar>البُرَّ</ar>
+         <t class="the">
+           <ar>الْبُرَّ</ar>
+           <en>wheat</en>
          </t>
          <t>
             <ar>القَفِيْزَاْنِ</ar>
@@ -705,21 +785,26 @@
    <dictum id="٠٨٨٧٨" nbr="33">
       <text>
          <ar>لَقِيْتُهُ كِفَاْحًا</ar>
-         <free/>
+         <free>I met him in confrontation</free>
       </text>
       <igt>
-         <t>
-            <ar>لَقِيْتُهُ</ar>
+         <t class="did-I-him">
+           <ar>لَقِيْتُهُ</ar>
+           <en>met</en>
          </t>
          <t>
-            <ar>كِفَاْحًا</ar>
+           <ar>كِفَاْحًا</ar>
+           <en>confrontationally</en>
          </t>
       </igt>
+      <sidecomment>
+        Face-to-face in mutual struggle
+      </sidecomment>
    </dictum>
    <dictum id="٥٠٩٥٣" nbr="34">
       <text>
          <ar>أَرْسَلَهَا الْعِرَاْكَ</ar>
-         <free/>
+         <free>He made them press together</free>
       </text>
       <igt>
          <t>
@@ -729,6 +814,11 @@
             <ar>الْعِرَاْكَ</ar>
          </t>
       </igt>
+      <sidecomment>
+        Lane (art <ar>عرك</ar>): “He made his camels to come (or go) to the water together.” Verb <ar>عَاْرَكَ</ar> “signifies
+        also, in relation to camels, the pressing or crowding one another at, or to get to, the water;” from <ar>عَرَكَ</ar>
+        to rub, press, scrape against.
+      </sidecomment>
    </dictum>
    <dictum id="٩١٨٩٣" nbr="35">
       <text>
@@ -736,8 +826,9 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>فَعَلْتُ</ar>
+         <t class="did-I">
+           <ar>فَعَلْتُ</ar>
+           <en>did</en>
          </t>
          <t>
             <ar>ذَاْكَ</ar>
@@ -753,8 +844,9 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>لَقِيْتُهُ</ar>
+         <t class="did-I-him">
+           <ar>لَقِيْتُهُ</ar>
+           <en>met</en>
          </t>
          <t>
             <ar>قَاْئِمًا</ar>
@@ -770,8 +862,9 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>لَقِيْتُهُ</ar>
+         <t class="did-I-him">
+           <ar>لَقِيْتُهُ</ar>
+           <en>met</en>
          </t>
          <t>
             <ar>القَاْئِمَ</ar>
@@ -787,8 +880,9 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>ضَرَبْتُهُ</ar>
+         <t class="did-I-him">
+           <ar>ضَرَبْتُهُ</ar>
+           <en>struck</en>
          </t>
          <t>
             <ar>القَاْئِمَ</ar>
@@ -801,8 +895,9 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>لَقِيْتُهُ</ar>
+         <t class="did-I-him">
+           <ar>لَقِيْتُهُ</ar>
+           <en>met</en>
          </t>
          <t>
             <ar>يَدُهُ</ar>
@@ -838,11 +933,13 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>رَبِحَتُ</ar>
+         <t class="did-I">
+           <ar>رَبِحَتُ</ar>
+           <en>profited</en>
          </t>
-         <t>
-            <ar>الدِّرْهَمَ</ar>
+         <t class="the">
+           <ar>الدِّرْهَمَ</ar>
+           <en><infla>dirham</infla></en>
          </t>
          <t>
             <ar>دِرْهَمًا</ar>
@@ -855,8 +952,9 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>مَرَرْتُ</ar>
+         <t class="did-I">
+           <ar>مَرَرْتُ</ar>
+           <en>passed-by</en>
          </t>
          <t>
             <ar>أخَاْكَ</ar>
@@ -909,8 +1007,9 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>رَجَعْتَ</ar>
+         <t class="did-you">
+           <ar>رَجَعْتَ</ar>
+           <en>returned</en>
          </t>
          <t>
             <ar>الْمَاْلَ</ar>
@@ -943,8 +1042,9 @@
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>ثَنَيْتُ</ar>
+         <t class="did-I">
+           <ar>ثَنَيْتُ</ar>
+           <en>doubled</en>
          </t>
          <t>
             <ar>عَوْدِي</ar>
