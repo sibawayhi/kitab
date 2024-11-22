@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="097">
+   <verses id="٢٩٩٧٨" nbr="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>الْحَرْبُ أَوَّلُ مَا تَكُوْنُ فَتِيَّة</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>الْحَرْبُ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>أَوَّلُ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>تَكُوْنُ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>فَتِيَّة</ar>
+                  <en/>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>تَسْعَى بِبِزَّتِهَا لِكُلِّ جَهُوْلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَسْعَى</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>بِبِزَّتِهَا</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>لِكُلِّ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>جَهُوْلِ</ar>
+                  <en/>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣٥٣٢٦" nbr="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>الْحَرْبُ أَوَّلَ مَا تَكُوْنُ فَتِيَّةٌ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>الْحَرْبُ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>أَوَّلَ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>تَكُوْنُ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>فَتِيَّةٌ</ar>
+                  <en/>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="١١٦٩٩" nbr="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>الْحَرْبُ أَوَّلُ مَا تَكُوْنُ فَتِيَّةً</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>الْحَرْبُ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>أَوَّلُ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>تَكُوْنُ</ar>
+                  <en/>
+               </t>
+               <t>
+                  <ar>فَتِيَّةً</ar>
+                  <en/>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
-<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="024">
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt"
+        xmlns:t="http://www.sibawayhi.org/schema/2024/06/terms"
+        bab="024">
    <verses id="٤٦٧١٣" nbr="1">
       <verse>
          <hemistiche>
             <text>
                <ar>فَأَمَّا تَمِيْمٌ تَمِيْمُ بْنُ مُرٍّ</ar>
-               <free>so as for Tamīm{\influn},<ed>the</ed>Tamīm{\influ} bn{\influ} murr{\inflin}</free>
+               <free>so as for Tamīm<t:influn/>, <t:ed>the</t:ed> Tamīm<t:influ/> bn<t:influ/> murr<t:inflin/></free>
             </text>
             <igt>
                <t>
                   <ar>فَأَمَّا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>تَمِيْمٌ</ar>
@@ -62,7 +63,7 @@
          <hemistiche>
             <text>
                <ar>إِذَا ابْنُ أَبِي مُوْسَى بِلَاْلٌ بَلَغْتِهِ</ar>
-               <free>if, the son{\influ}<ed>of</ed>abī mūsa, Bilāl{\influn}, you deliver me to him,</free>
+               <free>when <t:ed>the</t:ed> son<t:influ/> <t:ed>of</t:ed> ab<t:infli/>ī mūsa, Bilāl<t:influn/>, you reached him,</free>
             </text>
             <igt>
                <t>
@@ -94,7 +95,7 @@
          <hemistiche>
             <text>
                <ar>فَقَاْمَ بِفَأْسٍ بَيْنَ وُصْلَيْكِ جَاْزِرُ</ar>
-               <free>then let him rise, with an axe, between your two joints, slaughtering</free>
+               <free>so he rose, with an axe, between your two joints, slaughtering<t:influ/></free>
             </text>
             <igt>
                <t>

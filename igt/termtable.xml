@@ -5,20 +5,28 @@
 <!ENTITY IGTDIR "../../kitab/work/igt">
 <!ENTITY LCEIL "⌈">
 <!ENTITY RCEIL "⌉">
-<!ENTITY DH  "ð">
-<!ENTITY D  "ḍ">
+<!ENTITY LFLOOR "⌊">
+<!ENTITY RFLOOR "⌋">
+<!ENTITY DH "ð">
 <!ENTITY H  "ḥ">
-<!ENTITY S "ṣ">
+<!ENTITY sh "š">
+<!ENTITY S  "ṣ">
+<!ENTITY D  "ḍ">
+<!ENTITY T  "ṭ">
+<!ENTITY Z  "ẓ">
 <!ENTITY AYN "ʕ">
+<!ENTITY HAMZ "Ɂ">
+<!ENTITY y "ẙ">
 <!ENTITY damm "ᵘ">
 <!ENTITY dammatan "&#x064C;">
 <!ENTITY influn "ᵘⁿ">
-<!ENTITY influ "U">
+<!ENTITY influ "ᵘ">
 <!ENTITY fath "ᵃ">
 <!ENTITY inflan "ᵃⁿ">
 <!ENTITY kasr "ᵢ">
 <!ENTITY inflin "ᵢₙ">
 <!ENTITY sukun "°">
+<!ENTITY shadda "²">
 ]>
 
 <!-- <parse>
@@ -28,47 +36,236 @@
   <!-- <xsl:key name="termskey" match="t:term" use="t:key"/> -->
 
 <terms xmlns="http://www.sibawayhi.org/schema/2024/06/terms">
+
   <term>
-    <key>جَلَسَ</key>
-    <xlit>j&fath;l&fath;s&fath;</xlit>
-    <gloss>sat</gloss>
-    <parse>v31.perf</parse>
+    <key>أَخَاْهُ</key> <xlit>&LCEIL;Ɂᵃx<infla/>å-hᵘ&RCEIL;</xlit>
+    <gloss>&LFLOOR;<ed>the</ed>brother<infla/>-<ed>of</ed>him&RFLOOR;</gloss> <parse>n-pro3sg</parse>
   </term>
 
   <term>
-    <key>ذَهَبَ</key>
-    <xlit>&DH;&fath;h&fath;b&fath;</xlit>
+    <key>أَتَيْتُكَ</key> <xlit>Ɂᵃtᵃẙ-tᵘ-kᵃ</xlit> <gloss>came-I-you</gloss>
+  </term>
+  <term>
+    <key>سَآتِيْكَ</key> <xlit>sᵃɁᵃAtᵢẙ-kᵃ</xlit> <gloss>&LFLOOR;shall I come-you&RFLOOR;</gloss>
+  </term>
+  <term>
+    <key>يَأْتِكَ</key> <xlit>yᵃɁ°tᵢ-kᵢ</xlit> <gloss>come-he-you</gloss>
+  </term>
+
+  <term>
+    <key>أَخَا</key> <xlit>Ɂᵃx<infla/>å</xlit> <gloss>brother<infla/></gloss>
+  </term>
+
+  <term>
+    <key>أَنَا</key> <xlit>Ɂᵃnᵃå</xlit> <gloss>I</gloss>
+  </term>
+  <term>
+    <key>إِنَّمَا</key> <xlit>Ɂᵢn&shadda;ᵃmᵃā</xlit> <gloss>in fact</gloss>
+  </term>
+  <term>
+    <key>أَمْسِ</key> <xlit>Ɂᵃm°s<infli/></xlit> <gloss>yesterday<infli/></gloss>
+  </term>
+
+  <term>
+    <key>فَأَمَّا</key> <xlit>fᵃ-Ɂᵃm&shadda;ᵃā</xlit> <gloss>so as for</gloss>
+  </term>
+
+  <term>
+    <key>أَيُّهُمْ</key> <xlit>Ɂᵃy&shadda;<influ/>-hᵘm°</xlit> <gloss>which<influ/>-<ed>of</ed>-them</gloss>
+  </term>
+  <term>
+    <key>أَيَّهُمْ</key> <xlit>Ɂᵃy&shadda;<infla/>-hᵘm°</xlit> <gloss>which<infla/>-<ed>of</ed>-them</gloss>
+  </term>
+
+  <term>
+    <key>بِهِ</key> <xlit>bᵢ-hᵢ</xlit>
+    <gloss>by-him</gloss> <parse>prep-pro3sg</parse>
+  </term>
+
+  <term>
+    <key>الْبَحْرِ</key> <xlit>_l°-bᵃḥ°r<infli/></xlit> <gloss>the-ocean<infli/></gloss>
+  </term>
+
+  <term>
+    <key>جَلَسَ</key> <xlit>jᵃlᵃsᵃ</xlit>
+    <gloss>sat</gloss> <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>ذَهَبَ</key> <xlit>&DH;ᵃhᵃbᵃ</xlit>
     <gloss>went</gloss>
-    <parse>v31.perf</parse>
   </term>
 
   <term>
-    <key>زَيْدٌ</key>
-    <xlit>z&fath;y&sukun;d<influn/></xlit>
-    <gloss>Zayd<influn/></gloss>
-    <parse>n</parse>
+    <key>الْجَبَلَ</key> <xlit>_l°-jᵃbᵃl<infla/></xlit> <gloss>the-mountain<infla/></gloss>
   </term>
 
   <term>
-    <key>ضَرَبَ</key> <xlit>&D;&fath;r&fath;b&fath;</xlit>
-    <gloss>struck</gloss>
-    <parse>v31.perf</parse>
+    <key>جَعَلْتُ</key> <xlit>jᵃ&AYN;ᵃl°-tᵘ</xlit> <gloss>made-I</gloss>
+  </term>
+
+  <term>
+    <key>حَمَلْتُ</key> <xlit>ḥᵃmᵃl°-tᵘ</xlit> <gloss>carried-I</gloss>
+  </term>
+
+  <term>
+    <key>تَرَهُ</key> <xlit>tᵃrᵃ-hᵘ</xlit> <gloss>see-you-him</gloss>
   </term>
   <term>
-    <key>ضُرِبَ</key> <xlit>&D;&damm;r&kasr;b&fath;</xlit>
+    <key>تَرَ</key> <xlit>tᵃrᵃ</xlit> <gloss>see-you</gloss>
+  </term>
+
+  <term>
+    <key>زَيْدٌ</key> <xlit>zᵃ&y;d<influn/></xlit> <gloss>Zayd<influn/></gloss>
+  </term>
+  <term>
+    <key>زَيْدًا</key> <xlit>zᵃ&y;d<inflan/></xlit> <gloss>Zayd<inflan/></gloss>
+  </term>
+  <term>
+    <key>زَيْدٍ</key> <xlit>zᵃ&y;d<inflin/></xlit> <gloss>Zayd<inflin/></gloss>
+  </term>
+  <term>
+    <key>بِزَيْدٍ</key> <xlit>bᵢ-zᵃ&y;d<inflin/></xlit> <gloss>by-Zayd<inflin/></gloss>
+  </term>
+
+  <term>
+    <key>شَرِبْتُ</key> <xlit>šᵃrᵢb°-tᵘ</xlit> <gloss>drank-I</gloss>
+  </term>
+
+  <term>
+    <key>ضَاْرِبًا</key> <xlit>&D;ᵃårᵢb<inflan/></xlit> <gloss>striking<inflan/></gloss> <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>ضَرَبَ</key> <xlit>&D;ᵃrᵃbᵃ</xlit> <gloss>struck</gloss> <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>ضَرَبْتُ</key> <xlit>&D;ᵃrᵃb°-tᵘ</xlit> <gloss>struck-I</gloss> <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>ضَرَبْتُهُ</key> <xlit>&D;ᵃrᵃb°-tᵘ-hᵘ</xlit>
+    <gloss>struck-I-him</gloss> <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>ضُرِبَ</key> <xlit>&D;ᵘrᵢbᵃ</xlit>
     <gloss>was-struck</gloss>
     <parse>v31.perf</parse>
   </term>
   <term>
-    <key>يُضْرَبُ</key> <xlit>y&damm;&D;&sukun;r&fath;b&damm;</xlit>
-    <gloss>is-being-struck</gloss>
-    <parse>v31.perf</parse>
+    <key>يُضْرَبُ</key> <xlit>yᵘ&D;°rᵃbᵘ</xlit>
+    <gloss>is-being-struck</gloss> <parse>v31.perf</parse>
   </term>
 
   <term>
-    <key>عَمْرٌو</key> <xlit>&AYN;&fath;m&sukun;r<influn/>w</xlit>
+    <key>عَلَى</key> <xlit>&AYN;ᵃlᵃʎ</xlit>
+    <gloss>upon</gloss>
+  </term>
+
+  <term>
+    <key>طَرِيْقِي</key> <xlit>&T;ᵃrīqᵢ-y</xlit>
+    <gloss>road<ed>of</ed>-me</gloss>
+  </term>
+
+  <term>
+    <key>مُنْطَلِقٌ</key> <xlit>mᵘn°ṭᵃlᵢq<influn/></xlit>
+    <gloss>departing<influn/></gloss> <parse>ap.m.1</parse>
+  </term>
+
+  <term>
+    <key>عَبْدُ اللّٰهِ</key> <xlit>&AYN;ᵃb°d<influ/>-ll²āh<infli/></xlit>
+    <gloss>ʕAbd<influ/>llah<infli/></gloss> <parse>v31.perf</parse>
+  </term>
+
+  <term>
+    <key>أَعْطَيْتُ</key> <xlit>Ɂᵃʕ°ṭᵃẙ-tᵘ</xlit>
+    <gloss>gave-I</gloss> <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>أُعْطِيْتُ</key> <xlit>Ɂᵘʕ°ṭᵢẙ-tᵘ</xlit>
+    <gloss>was-given-I</gloss> <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>أُعْطِيْتُهُ</key> <xlit>Ɂᵘʕ°ṭᵢẙ-tᵘ-hᵘ</xlit>
+    <gloss>was-given-I-him</gloss> <parse>v.pass.perf-pro1sg-pro3sg</parse>
+  </term>
+
+  <term>
+    <key>عَمْرٌو</key> <xlit>ʕᵃm°r<influn/>w</xlit>
     <gloss>ʕAmr<influn/></gloss>
     <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>عَمْرًا</key> <xlit>ʕᵃm°r<inflan/>ā</xlit>
+    <gloss>ʕAmr<inflan/></gloss> <parse>nsg.m</parse>
+  </term>
+  <term>
+    <key>عَمْرٍو</key> <xlit>ʕᵃm°r<inflin/>w</xlit>
+    <gloss>ʕAmr<inflin/></gloss> <parse>nsg.m</parse>
+  </term>
+
+  <term>
+    <key>غَدًا</key> <xlit>gᵃd<inflan/></xlit> <gloss>tomorrow<inflan/></gloss>
+  </term>
+
+  <term>
+    <key>قَاْتِلًا</key> <xlit>qᵃåtᵢl<inflan/></xlit> <gloss>killing<inflan/></gloss>
+  </term>
+
+  <term>
+    <key>فُلَاْنًا</key> <xlit>fᵘlᵃån<inflan/></xlit> <gloss>somebody<inflan/></gloss>
+  </term>
+
+  <term>
+    <key>لَاْبَسْتُ</key> <xlit>lᵃåbᵃs°-tᵘ</xlit> <gloss>consorted-I</gloss>
+  </term>
+
+  <term>
+    <key>لِمَكَاْنِ</key> <xlit>lᵢ-mᵃkᵃånᵢ</xlit> <gloss>in-place</gloss>
+  </term>
+
+  <term>
+    <key>أَكْرَمْتُ</key> <xlit>Ɂᵃk°rᵃm°-tᵘ</xlit> <gloss>honored-I</gloss>
+  </term>
+  <term>
+    <key>أَكْرَمْتَهُ</key> <xlit>Ɂᵃk°rᵃm°-tᵃ-hᵘ</xlit>
+    <gloss>honored-you-him</gloss> <parse>vperf-pro1sg-pro3sg</parse>
+  </term>
+  <term>
+    <key>أَكْرَمْتَ</key> <xlit>Ɂᵃk°rᵃm°-tᵃ</xlit>
+    <gloss>honored-you</gloss> <parse>vperf-pro1sg</parse>
+  </term>
+  <term>
+    <key>بِإِكْرَاْمِكَ</key> <xlit>bᵢ-&LCEIL;Ɂᵢk°rᵃām<infli/>-kᵃ&RCEIL;</xlit>
+    <gloss>by-&LFLOOR;<ed>the</ed>-honoring<infli/>-<ed>of</ed>-you&RFLOOR;</gloss> <parse>vperf-pro1sg-pro3sg</parse>
+  </term>
+
+  <term>
+    <key>لَقِيْتُ</key> <xlit>lᵃqᵢẙ-tᵘ</xlit>
+    <gloss>met-I</gloss> <parse>vperf-pro1sg</parse>
+  </term>
+  <term>
+    <key>وَلَقِيْتُ</key> <xlit>wᵃ-lᵃqᵢẙ-tᵘ</xlit>
+    <gloss>and-met-I</gloss> <parse>vperf-pro1sg</parse>
+  </term>
+  <term>
+    <key>لَقِيْتُهُ</key> <xlit>lᵃqᵢẙ-tᵘ-hᵘ</xlit>
+    <gloss>met-I-him</gloss> <parse>vperf-pro1sg</parse>
+  </term>
+
+  <term>
+    <key>مَا</key> <xlit>mᵃå</xlit> <gloss>not</gloss>
+  </term>
+  <term>
+    <key>مَاءَ</key> <xlit>mᵃåɁ<infla/></xlit> <gloss>water<infla/></gloss>
+  </term>
+
+  <term>
+    <key>مَرَرْتُ</key> <xlit>mᵃrᵃr°-tᵘ</xlit> <gloss>passed-I</gloss>
+  </term>
+
+  <term>
+    <key>أَهَنْتَ</key> <xlit>Ɂᵃhᵃn°-tᵃ</xlit> <gloss>insulted-you</gloss>
+  </term>
+  <term>
+    <key>بِإِهَاْنَتِكِ</key> <xlit>bᵢ-Ɂᵢhᵃānᵃtᵢ-kᵃ</xlit> <gloss>by-insulting-<ed>of</ed>you</gloss>
   </term>
 
 </terms>

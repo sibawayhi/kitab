@@ -65,24 +65,11 @@
          <free>I carried the mountain</free>
       </text>
       <igt>
-        <t join="1">
-          <t>
-            <ar>حَمَل</ar>
-            <en>carried</en>
-          </t>
-          <t>
-            <ar>تُ٠</ar>
-            <en>I</en>
-          </t>
+        <t>
+          <ar>حَمَلْتُ</ar>
         </t>
-         <t join="1">
-           <t>
-             <ar>الْ</ar>
-           </t>
-           <t>
-             <ar>جَبَلَ</ar>
-             <en>mountain</en>
-           </t>
+        <t>
+          <ar>الْجَبَلَ</ar>
          </t>
       </igt>
    </dictum>
@@ -93,29 +80,15 @@
          <free>I drank the water(s) of the sea</free>
       </text>
       <igt>
-        <t join="1">
-          <t>
-            <ar>شَرِب</ar>
-            <en>drank</en>
-          </t>
-          <t>
-            <ar>تُ٠</ar>
-            <en>I</en>
-          </t>
+        <t>
+          <ar>شَرِبْتُ</ar>
         </t>
         <t class="idafah">
           <t>
             <ar>مَاءَ</ar>
-            <en><ed>the</ed>water(s)</en>
           </t>
-          <t join="1">
-            <t>
-              <ar>الْ</ar>
-            </t>
-            <t>
-              <ar>بَحْرِ</ar>
-              <en>sea</en>
-            </t>
+          <t>
+            <ar>الْبَحْرِ</ar>
           </t>
         </t>
       </igt>

@@ -240,7 +240,7 @@
            <ar>لَقِيْتُ</ar>
          </t>
          <t>
-           <ar>أَخَاْهُ٠</ar>
+           <ar>أَخَاْهُ</ar>
          </t>
       </igt>
    </dictum>
@@ -267,15 +267,8 @@
          <free>I considered(?) Zayd, on my way I passed by him</free>
       </text>
       <igt>
-        <t join="1">
-          <t>
-            <ar>جَعَلْ</ar>
-            <en>made</en>
-          </t>
-          <t>
-            <ar>تُ٠</ar>
-            <en>I</en>
-          </t>
+        <t>
+          <ar>جَعَلْتُ</ar>
         </t>
         <t>
           <ar>زَيْدًا</ar>
@@ -283,15 +276,8 @@
         <t>
           <ar>عَلَى</ar>
         </t>
-        <t join="1" class="idafah">
-          <t>
-            <ar>طَرِيْقِ</ar>
-            <en><ed>the</ed>way</en>
-          </t>
-          <t>
-            <ar>ي</ar>
-            <en>me</en>
-          </t>
+        <t>
+          <ar>طَرِيْقِي</ar>
         </t>
         <t>
           <ar>مَرَرْتُ</ar>
@@ -318,7 +304,7 @@
             <ar>لَقِيْتُ</ar>
          </t>
          <t>
-            <ar>أَخَاْهُ٠</ar>
+            <ar>أَخَاْهُ</ar>
          </t>
       </igt>
    </dictum>
@@ -338,7 +324,7 @@
             <ar>بِإِهَاْنَتِكِ</ar>
          </t>
          <t>
-            <ar>أَخَاْهُ٠</ar>
+            <ar>أَخَاْهُ</ar>
          </t>
       </igt>
    </dictum>
@@ -355,7 +341,7 @@
             <ar>بِإِكْرَاْمِكَ</ar>
          </t>
          <t>
-            <ar>أَخَاْهُ٠</ar>
+            <ar>أَخَاْهُ</ar>
          </t>
       </igt>
    </dictum>
@@ -378,16 +364,18 @@
    </dictum>
    <dictum id="٥٧٦٥٦" nbr="23">
       <text>
-         <ar>لِمَكَانِ زَيْدٍ أَعْطَيْتُ فُلَاْنًا</ar>
+         <ar>لِمَكَاْنِ زَيْدٍ أَعْطَيْتُ فُلَاْنًا</ar>
          <free>In the place of Zayd I gave somebody</free>
       </text>
       <igt>
+        <t class="idafah">
          <t>
-            <ar>لِمَكَانِ</ar>
+            <ar>لِمَكَاْنِ</ar>
          </t>
          <t>
             <ar>زَيْدٍ</ar>
          </t>
+        </t>
          <t>
             <ar>أَعْطَيْتُ</ar>
          </t>
@@ -409,35 +397,28 @@
             <ar>لَقِيْتُ</ar>
          </t>
          <t>
-            <ar>أَخَاْهُ٠</ar>
+            <ar>أَخَاْهُ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٨٢٤٠٧" nbr="25">
       <text>
          <ar>لَاْبَسْتُ زَيْدًا لَقِيْتُ أَخَاْهُ</ar>
-         <free>I consorted<ed>with</ed>Zayd, I met his brother</free>
+         <free>I consorted <ed>with</ed> Zayd, I met his brother</free>
       </text>
       <igt>
-        <t join="1">
-          <t>
-            <ar>لَاْبَسْ</ar>
-            <en>consorted</en>
-          </t>
-          <t>
-            <ar>تُ٠</ar>
-            <en>I</en>
-          </t>
+        <t>
+          <ar>لَاْبَسْتُ</ar>
         </t>
-         <t>
-            <ar>زَيْدًا</ar>
-         </t>
-         <t>
-            <ar>لَقِيْتُ</ar>
-         </t>
-         <t>
-            <ar>أَخَاْهُ٠</ar>
-         </t>
+        <t>
+          <ar>زَيْدًا</ar>
+        </t>
+        <t>
+          <ar>لَقِيْتُ</ar>
+        </t>
+        <t>
+          <ar>أَخَاْهُ</ar>
+        </t>
       </igt>
    </dictum>
    <dictum id="٦٩٠٤٦" nbr="26">
@@ -469,11 +450,13 @@
          <t>
             <ar>وَلَقِيْتُ</ar>
          </t>
-         <t>
-            <ar>أَخَا</ar>
-         </t>
-         <t>
-            <ar>عَمْرٍو</ar>
+         <t class="idafah">
+           <t>
+             <ar>أَخَا</ar>
+           </t>
+           <t>
+             <ar>عَمْرٍو</ar>
+           </t>
          </t>
       </igt>
    </dictum>

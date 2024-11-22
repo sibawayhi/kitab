@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="021">
+   <dictum id="٨٧٥١٢" nbr="1">
+      <text>
+         <ar>إِنَّهُ مَنْ يَأْتِنَا نَأْتِهِ</ar>
+         <free>Indeed, who come to us, we come to him </free>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّهُ</ar>
+         </t>
+         <t>
+            <ar>مَنْ</ar>
+         </t>
+         <t>
+            <ar>يَأْتِنَا</ar>
+         </t>
+         <t>
+            <ar>نَأْتِهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٤٨٠٤" nbr="2">
+      <text>
+         <ar>إِنَّهُ أَمَةُ اللّٰهِ ذَاهِبَةٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّهُ</ar>
+         </t>
+         <t>
+            <ar>أَمَةُ</ar>
+         </t>
+         <t>
+            <ar>اللّٰهِ</ar>
+         </t>
+         <t>
+            <ar>ذَاهِبَةٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٧٦٧٤" nbr="3">
+      <text>
+         <ar>لَيْسَ خَلَقَ اللّٰهُ مِثْلَهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>خَلَقَ</ar>
+         </t>
+         <t>
+            <ar>اللّٰهُ</ar>
+         </t>
+         <t>
+            <ar>مِثْلَهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٨٠٣٣" nbr="4" j="*">
+      <text>
+         <ar>كَاْنَتْ زَيْدًا الْحُمَّى تَأْخُذُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كَاْنَتْ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>الْحُمَّى</ar>
+         </t>
+         <t>
+            <ar>تَأْخُذُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٣٠٨٤" nbr="5">
+      <text>
+         <ar>كَاْنَ أَنْتَ خَيْرٌ مِنْهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>خَيْرٌ</ar>
+         </t>
+         <t>
+            <ar>مِنْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٤٢٦٥" nbr="6">
+      <text>
+         <ar>إِنَّهُ أَنْتَ خَيْرٌ مِنْهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّهُ</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>خَيْرٌ</ar>
+         </t>
+         <t>
+            <ar>مِنْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨١٠٧٧" nbr="7">
+      <text>
+         <ar>كَاْدَتْ قُلُوْبُ فَرِيْقٍ مِنْهُمْ تَزِيْغُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كَاْدَتْ</ar>
+         </t>
+         <t>
+            <ar>قُلُوْبُ</ar>
+         </t>
+         <t>
+            <ar>فَرِيْقٍ</ar>
+         </t>
+         <t>
+            <ar>مِنْهُمْ</ar>
+         </t>
+         <t>
+            <ar>تَزِيْغُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٤٢٤٠" nbr="8">
+      <text>
+         <ar>مَا كَاْنَ الطِّيْبُ إِلَّا الْمِسْكُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>الطِّيْبُ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>الْمِسْكُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٥٤٩٧" nbr="9">
+      <text>
+         <ar>مَا كَاْنَ الْأَمْرُ الطِّيْبُ إِلَّا الْمِسْكُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>الْأَمْرُ</ar>
+         </t>
+         <t>
+            <ar>الطِّيْبُ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>الْمِسْكُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥١٨٥٨" nbr="10">
+      <text>
+         <ar>مَا الطِّيْبُ إِلَّا الْمِسْكُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>الطِّيْبُ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>الْمِسْكُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٠٢٩٠" nbr="11" j="*">
+      <text>
+         <ar>مَا زَيْدًا عَبْدُ اللّٰهِ ضَاْرِبًا</ar>
+         <free>Not Zayd, Abdullah is striking</free>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ اللّٰهِ</ar>
+         </t>
+         <t>
+            <ar>ضَاْرِبًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٦٢٥١" nbr="12" j="*">
+      <text>
+         <ar>مَا زَيْدًا أَنَا قَاْتِلًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>أَنَا</ar>
+         </t>
+         <t>
+            <ar>قَاْتِلًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٩٩٦٧" nbr="13">
+      <text>
+         <ar>أَمَّا زَيْدًا فَأَنَا ضَاْرِبٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَمَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>فَأَنَا</ar>
+         </t>
+         <t>
+            <ar>ضَاْرِبٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٨٩٢٧" nbr="14">
+      <text>
+         <ar>زَيْدًا أَنَا ضَاْرِبٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>أَنَا</ar>
+         </t>
+         <t>
+            <ar>ضَاْرِبٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٢١٩٦" nbr="15">
+      <text>
+         <ar>لَيْسَ عَبْدُ اللّٰهِ أَنَا عَاْرِفٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللّٰهِ</ar>
+         </t>
+         <t>
+            <ar>أَنَا</ar>
+         </t>
+         <t>
+            <ar>عَاْرِفٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
