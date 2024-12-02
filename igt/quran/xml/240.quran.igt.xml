@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="240">
+   <ayah id="" nbr="1" surah="" verse="">
+      <text>
+         <ar>وَزَلْزِلُوا حَتَّى يَقُولَ الرَّسُولُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَزَلْزِلُوا</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>يَقُولَ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>الرَّسُولُ</ar>
+            <en/>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="" nbr="2" surah="" verse="">
+      <text>
+         <ar>وَزَلْزِلُوا حَتَّى يَقُولَ الرَّسُولَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَزَلْزِلُوا</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>يَقُولَ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>الرَّسُولَ</ar>
+            <en/>
+         </t>
+      </igt>
+   </ayah>
+</quran>

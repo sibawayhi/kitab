@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="273">
+   <ayah id="٣٩٣٦١" nbr="1" surah="٨٦" verse="٤">
+      <text>
+        <ar>
+
+          إِنْ كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ<نهاية آية="٤"/>
+          
+        </ar>
+         <free src="Pickthall">No human soul but hath a guardian over it<eoayah ayah="4"/></free>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنْ</ar>
+         </t>
+         <t>
+            <ar>كُلُّ</ar>
+         </t>
+         <t>
+            <ar>نَفْسٍ</ar>
+         </t>
+         <t>
+            <ar>لَّمَّا</ar>
+         </t>
+         <t>
+            <ar>عَلَيْهَا</ar>
+         </t>
+         <t>
+            <ar>حَافِظٌ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٨٤٧٥٦" nbr="2" surah="٣٦" verse="٣٢">
+      <text>
+         <ar>وَإِنْ كُلٌّ لَّمَّا جَمِيْعٌ لَّدَيْنَا مُحْضَرُوْنَ <نهاية آية="٣٢"/></ar>
+         <free>But all, without exception, will be brought before Us<eoayah ayah="32"/></free>
+      </text>
+      <igt>
+         <t>
+            <ar>وَإِنْ</ar>
+         </t>
+         <t>
+            <ar>كُلٌّ</ar>
+         </t>
+         <t>
+            <ar>لَّمَّا</ar>
+         </t>
+         <t>
+            <ar>جَمِيْعٌ</ar>
+         </t>
+         <t>
+            <ar>لَّدَيْنَا</ar>
+         </t>
+         <t>
+            <ar>مُحْضَرُوْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="١٩٨٠٢" nbr="3" surah="٣٧" verse="١٦٧">
+      <text>
+        <ar>وَإِنْ كَاْنُوْا لَيَقُوْلُوْنَ <نهاية آية="١٦٧"/> لَوْ أَنَّ عِنْدَنَا ذِكْرًا مِنَ الْأَوَّلِيْنَ <نهاية آية="١٦٨"/>
+        </ar>
+         <free>And indeed they used to say<eoayah ayah="167"/> If we had but a reminder from the men of old<eoayah ayah="168"/></free>
+      </text>
+      <igt>
+         <t>
+            <ar>وَإِنْ</ar>
+         </t>
+         <t>
+            <ar>كَاْنُوْا</ar>
+         </t>
+         <t>
+            <ar>لَيَقُوْلُوْنَ</ar>
+         </t>
+         <t>
+            <ar>لَوْ</ar>
+         </t>
+         <t>
+            <ar>أَنَّ</ar>
+         </t>
+         <t>
+            <ar>عِنْدَنَا</ar>
+         </t>
+         <t>
+            <ar>ذِكْرًا</ar>
+         </t>
+         <t>
+            <ar>مِنَ</ar>
+         </t>
+         <t>
+            <ar>الْأَوَّلِيْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٩٧٧٤١" nbr="4" surah="٦٧" verse="٢٠">
+      <text>
+        <ar>إِنِ الْكَاْفِرُوْنَ إِلَّا فِي غُرُوْرٍ
+        <نهاية آية="٢٠"/>
+        </ar>
+        <free>not <ed>are</ed> the disbelievers but in illusion<eoayah ayah="20"/></free>
+         <alt src="Pickthall">The disbelievers are in naught but illusion<eoayah ayah="20"/></alt>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنِ</ar>
+         </t>
+         <t>
+            <ar>الْكَاْفِرُوْنَ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>غُرُوْرٍ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

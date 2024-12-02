@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="273">
+   <dictum id="١٦٧٢٠" nbr="1">
+      <text>
+         <ar>لَمَّا أَنْ جَاءُوْا [ذَهَبْتَ]</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَمَّا</ar>
+         </t>
+         <t>
+            <ar>أَنْ</ar>
+         </t>
+         <t>
+            <ar>جَاءُوْا</ar>
+         </t>
+         <t>
+            <ar>[ذَهَبْتَ]</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٣٢٥٩" nbr="2">
+      <text>
+         <ar>أَمَّا وَاللهِ أَنْ لَوْ فَعَلْتَ لَأَكْرَمْتُكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَمَّا</ar>
+         </t>
+         <t>
+            <ar>وَاللهِ</ar>
+         </t>
+         <t>
+            <ar>أَنْ</ar>
+         </t>
+         <t>
+            <ar>لَوْ</ar>
+         </t>
+         <t>
+            <ar>فَعَلْتَ</ar>
+         </t>
+         <t>
+            <ar>لَأَكْرَمْتُكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٧٠٣٠" nbr="3">
+      <text>
+         <ar>إِنْ زَيْدٌ لَذَاْهِبٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنْ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>لَذَاْهِبٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦١٠٧٩" nbr="4">
+      <text>
+         <ar>مَا الْكَاْفِرُوْنَ إِلَّا فِي غُرُوْرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>الْكَاْفِرُوْنَ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>غُرُوْرٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٦٧٩٩" nbr="5">
+      <text>
+         <ar>مَا إِنْ زَيْدٌ ذَاْهِبٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>إِنْ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

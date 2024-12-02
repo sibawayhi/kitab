@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="011">
+   <ayah id="٨١١٦٩" nbr="1" surah="7" verse="155">
+      <text>
+         <ar>وَاخْتَاْرَ مُوْسَى قَوْمَهُ سَبْعِيْنَ رَجُلًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَاخْتَاْرَ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>مُوْسَى</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>قَوْمَهُ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>سَبْعِيْنَ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>رَجُلًا</ar>
+            <en/>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٢١١٣٢" nbr="2" surah="4" verse="79">
+      <text>
+         <ar>كَفَى بِاللهِ شَهِيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كَفَى</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>بِاللهِ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>شَهِيْدًا</ar>
+            <en/>
+         </t>
+      </igt>
+   </ayah>
+</quran>

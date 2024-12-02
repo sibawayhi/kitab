@@ -41,15 +41,22 @@
     <key>أَخَاْهُ</key> <xlit>&LCEIL;Ɂᵃx<infla/>å-hᵘ&RCEIL;</xlit>
     <gloss>&LFLOOR;<ed>the</ed>brother<infla/>-<ed>of</ed>him&RFLOOR;</gloss> <parse>n-pro3sg</parse>
   </term>
+  <term>
+    <key>أَخَاْكَ</key> <xlit>&LCEIL;Ɂᵃx<infla/>å-kᵃ&RCEIL;</xlit>
+    <gloss>&LFLOOR;<ed>the</ed>brother<infla/>-<ed>of</ed>-you&RFLOOR;</gloss> <parse>n-pro3sg</parse>
+  </term>
 
   <term>
     <key>أَتَيْتُكَ</key> <xlit>Ɂᵃtᵃẙ-tᵘ-kᵃ</xlit> <gloss>came-I-you</gloss>
   </term>
   <term>
-    <key>سَآتِيْكَ</key> <xlit>sᵃɁᵃAtᵢẙ-kᵃ</xlit> <gloss>&LFLOOR;shall I come-you&RFLOOR;</gloss>
+    <key>سَآتِيْكَ</key> <xlit>sᵃɁᵃAtᵢẙ-kᵃ</xlit> <gloss>&LFLOOR;shall-I come-you&RFLOOR;</gloss>
   </term>
   <term>
-    <key>يَأْتِكَ</key> <xlit>yᵃɁ°tᵢ-kᵢ</xlit> <gloss>come-he-you</gloss>
+    <key>يَأْتِكَ</key> <xlit>yᵃɁ°tᵢ-kᵢ</xlit> <gloss>he-come-you</gloss>
+  </term>
+  <term>
+    <key>يَأْتِيَكَ</key> <xlit>yᵃɁ°tᵢy<infla/>-kᵃ</xlit> <gloss>&LFLOOR;he-come<infla/>&RFLOOR;-you</gloss>
   </term>
 
   <term>
@@ -63,7 +70,7 @@
     <key>إِنَّمَا</key> <xlit>Ɂᵢn&shadda;ᵃmᵃā</xlit> <gloss>in fact</gloss>
   </term>
   <term>
-    <key>أَمْسِ</key> <xlit>Ɂᵃm°s<infli/></xlit> <gloss>yesterday<infli/></gloss>
+    <key>أَمْسِ</key> <xlit>Ɂᵃm°sᵢ</xlit> <gloss>yesterday</gloss>
   </term>
 
   <term>
@@ -90,10 +97,6 @@
     <key>جَلَسَ</key> <xlit>jᵃlᵃsᵃ</xlit>
     <gloss>sat</gloss> <parse>v31.perf</parse>
   </term>
-  <term>
-    <key>ذَهَبَ</key> <xlit>&DH;ᵃhᵃbᵃ</xlit>
-    <gloss>went</gloss>
-  </term>
 
   <term>
     <key>الْجَبَلَ</key> <xlit>_l°-jᵃbᵃl<infla/></xlit> <gloss>the-mountain<infla/></gloss>
@@ -107,6 +110,19 @@
     <key>حَمَلْتُ</key> <xlit>ḥᵃmᵃl°-tᵘ</xlit> <gloss>carried-I</gloss>
   </term>
 
+  <!-- harf ذ -->
+  <term>
+    <key>ذَهَبَ</key> <xlit>&DH;ᵃhᵃbᵃ</xlit>
+    <gloss>went <ed>he</ed></gloss>
+  </term>
+  <term>
+    <key>ذَهَاْبٌ</key> <xlit>&DH;ᵃhᵃåb<influn/></xlit> <gloss>going</gloss>
+  </term>
+
+  <!-- harf ر -->
+  <term>
+    <key>رَأَيْتُ</key> <xlit>rᵃɁᵃẙ-tᵘ</xlit> <gloss>saw-I</gloss>
+  </term>
   <term>
     <key>تَرَهُ</key> <xlit>tᵃrᵃ-hᵘ</xlit> <gloss>see-you-him</gloss>
   </term>
@@ -114,21 +130,31 @@
     <key>تَرَ</key> <xlit>tᵃrᵃ</xlit> <gloss>see-you</gloss>
   </term>
 
+  <!-- harf ز -->
   <term>
-    <key>زَيْدٌ</key> <xlit>zᵃ&y;d<influn/></xlit> <gloss>Zayd<influn/></gloss>
+    <key>زَيْدٌ</key> <xlit>zᵃẙd<influn/></xlit> <gloss>Zayd<influn/></gloss>
   </term>
   <term>
-    <key>زَيْدًا</key> <xlit>zᵃ&y;d<inflan/></xlit> <gloss>Zayd<inflan/></gloss>
+    <key>زَيْدًا</key> <xlit>zᵃẙd<inflan/></xlit> <gloss>Zayd<inflan/></gloss>
   </term>
   <term>
-    <key>زَيْدٍ</key> <xlit>zᵃ&y;d<inflin/></xlit> <gloss>Zayd<inflin/></gloss>
+    <key>زَيْدٍ</key> <xlit>zᵃẙd<inflin/></xlit> <gloss>Zayd<inflin/></gloss>
   </term>
   <term>
-    <key>بِزَيْدٍ</key> <xlit>bᵢ-zᵃ&y;d<inflin/></xlit> <gloss>by-Zayd<inflin/></gloss>
+    <key>بِزَيْدٍ</key> <xlit>bᵢ-zᵃẙd<inflin/></xlit> <gloss>by-Zayd<inflin/></gloss>
   </term>
 
+  <!-- harf س -->
+  <term>
+    <key>سَوْفَ</key> <xlit>sᵃw°fᵃ</xlit> <gloss><ed>[fut.]</ed></gloss>
+  </term>
+
+  <!-- harf ش -->
   <term>
     <key>شَرِبْتُ</key> <xlit>šᵃrᵢb°-tᵘ</xlit> <gloss>drank-I</gloss>
+  </term>
+  <term>
+    <key>أَشْرَبُ</key> <xlit>Ɂᵃš°rᵃbᵘ</xlit> <gloss>I-drink</gloss>
   </term>
 
   <term>
@@ -165,13 +191,16 @@
   </term>
 
   <term>
-    <key>مُنْطَلِقٌ</key> <xlit>mᵘn°ṭᵃlᵢq<influn/></xlit>
-    <gloss>departing<influn/></gloss> <parse>ap.m.1</parse>
+    <key>مُنْطَلِقٌ</key> <xlit>mᵘn°ṭᵃlᵢq<influn/></xlit> <gloss>departing<influn/></gloss> <parse>ap.m.1</parse>
+  </term>
+  <term>
+    <key>مُنْطَلِقًا</key> <xlit>mᵘn°ṭᵃlᵢq<inflan/></xlit> <gloss>departing<inflan/></gloss> <parse>ap.m.1</parse>
   </term>
 
+  <!-- harf ع -->
   <term>
-    <key>عَبْدُ اللّٰهِ</key> <xlit>&AYN;ᵃb°d<influ/>-ll²āh<infli/></xlit>
-    <gloss>ʕAbd<influ/>llah<infli/></gloss> <parse>v31.perf</parse>
+    <key>عَبْدُ اللهِ</key> <xlit>&LCEIL;&AYN;ᵃb°d<influ/> ـll²āh<infli/>&RCEIL;</xlit>
+    <gloss>ʕAbd<influ/> llah<infli/></gloss> <parse>v31.perf</parse>
   </term>
 
   <term>
@@ -201,20 +230,30 @@
     <gloss>ʕAmr<inflin/></gloss> <parse>nsg.m</parse>
   </term>
 
+  <!-- harf غ -->
   <term>
     <key>غَدًا</key> <xlit>gᵃd<inflan/></xlit> <gloss>tomorrow<inflan/></gloss>
   </term>
 
-  <term>
-    <key>قَاْتِلًا</key> <xlit>qᵃåtᵢl<inflan/></xlit> <gloss>killing<inflan/></gloss>
-  </term>
-
+  <!-- harf ف -->
   <term>
     <key>فُلَاْنًا</key> <xlit>fᵘlᵃån<inflan/></xlit> <gloss>somebody<inflan/></gloss>
   </term>
 
+  <!-- harf ق -->
   <term>
-    <key>لَاْبَسْتُ</key> <xlit>lᵃåbᵃs°-tᵘ</xlit> <gloss>consorted-I</gloss>
+    <key>قَاْتِلًا</key> <xlit>qᵃåtᵢl<inflan/></xlit> <gloss>killing<inflan/></gloss>
+  </term>
+  <term>
+    <key>قَدْ</key> <xlit>qᵃd°<inflan/></xlit> <gloss><ed>qad</ed></gloss>
+  </term>
+
+  <!-- harf ك -->
+  <term>
+    <key>كَاْنَ</key> <xlit>kᵃånᵃ</xlit> <gloss>was</gloss>
+  </term>
+  <term>
+    <key>كَيْ</key> <xlit>kᵃẙ</xlit> <gloss>&LFLOOR;<ed>in order</ed> that&RFLOOR;</gloss>
   </term>
 
   <term>
@@ -237,6 +276,17 @@
     <gloss>by-&LFLOOR;<ed>the</ed>-honoring<infli/>-<ed>of</ed>-you&RFLOOR;</gloss> <parse>vperf-pro1sg-pro3sg</parse>
   </term>
 
+  <!-- harf ل -->
+  <term>
+    <key>لَاْبَسْتُ</key> <xlit>lᵃåbᵃs°-tᵘ</xlit> <gloss>consorted-I</gloss>
+  </term>
+  <term>
+    <key>لَيْتَ</key> <xlit>lᵃẙtᵃ</xlit> <gloss>would that</gloss>
+  </term>
+  <term>
+    <key>لَيْسَ</key> <xlit>lᵃẙsᵃ</xlit> <gloss>was not</gloss>
+  </term>
+
   <term>
     <key>لَقِيْتُ</key> <xlit>lᵃqᵢẙ-tᵘ</xlit>
     <gloss>met-I</gloss> <parse>vperf-pro1sg</parse>
@@ -250,11 +300,15 @@
     <gloss>met-I-him</gloss> <parse>vperf-pro1sg</parse>
   </term>
 
+  <!-- harf ل -->
   <term>
     <key>مَا</key> <xlit>mᵃå</xlit> <gloss>not</gloss>
   </term>
   <term>
-    <key>مَاءَ</key> <xlit>mᵃåɁ<infla/></xlit> <gloss>water<infla/></gloss>
+    <key>مَاْءَ</key> <xlit>mᵃåɁ<infla/></xlit> <gloss>water<infla/></gloss>
+  </term>
+  <term>
+    <key>مِنْهُ</key> <xlit>mᵢn°-hᵘ</xlit> <gloss>from-him</gloss>
   </term>
 
   <term>

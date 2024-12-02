@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="012">
+   <ayah id="٢٣٨٠٧" nbr="1" surah="2" verse="65">
+      <text>
+         <ar>وَلَقَدْ عَلِمْتُمُ الَّذِيْنَ اعْتَدَوْا مِنْكُمْ فِي السَّبْتِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَلَقَدْ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>عَلِمْتُمُ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>الَّذِيْنَ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>اعْتَدَوْا</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>مِنْكُمْ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>فِي</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>السَّبْتِ</ar>
+            <en/>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٢٠٩٤٤" nbr="2" surah="8" verse="60">
+      <text>
+         <ar>وءَاخَرِيْنَ مِنْ دُوْنِهِمْ لَا تَعْلَمُوْنَهُمُ اللَّهُ يَعْلَمُهُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وءَاخَرِيْنَ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>مِنْ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>دُوْنِهِمْ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>لَا</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>تَعْلَمُوْنَهُمُ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>اللَّهُ</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>يَعْلَمُهُمْ</ar>
+            <en/>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٣٣٨٢٢" nbr="3" surah="" verse="">
+      <text>
+         <ar>كَفَى بِاللهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كَفَى</ar>
+            <en/>
+         </t>
+         <t>
+            <ar>بِاللهِ</ar>
+            <en/>
+         </t>
+      </igt>
+   </ayah>
+</quran>

@@ -257,8 +257,7 @@ bab =
 
 شاهدة = element شاهدة {		# shahid, witness
             attribute هوية { text }?, # id
-            attribute مقطع { text }?,
-            attribute رقم { text }?,  # serial
+            attribute شاعر { text }?,
             element تخريج {text}?,
             element بيت {
                 مصراع,

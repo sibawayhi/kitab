@@ -58,8 +58,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٤٢٨١" nbr="5"
-           j="*">
+   <dictum id="٤٤٢٨١" nbr="5">
       <text>
          <ar>حَمَلْتُ الْجَبَلَ</ar>
          <free>I carried the mountain</free>
@@ -73,10 +72,9 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٤٨٥٣" nbr="6"
-           j="*">
+   <dictum id="٥٤٨٥٣" nbr="6">
       <text>
-         <ar>شَرِبْتُ مَاءَ الْبَحْرِ</ar>
+         <ar>شَرِبْتُ مَاْءَ الْبَحْرِ</ar>
          <free>I drank the water(s) of the sea</free>
       </text>
       <igt>
@@ -84,8 +82,8 @@
           <ar>شَرِبْتُ</ar>
         </t>
         <t class="idafah">
-          <t>
-            <ar>مَاءَ</ar>
+          <t class="the">
+            <ar>مَاْءَ</ar>
           </t>
           <t>
             <ar>الْبَحْرِ</ar>
@@ -134,30 +132,22 @@
            j="*">
       <text>
          <ar>سَوْفَ أَشْرَبُ مَاءَ الْبَحْرِ أَمْسِ</ar>
-         <free>I will drink the waters of the sea yesterday</free>
+         <free>I shall drink the water of the sea yesterday</free>
       </text>
       <igt>
         <t>
           <ar>سَوْفَ</ar>
-          <en>will</en>
         </t>
         <t>
           <ar>أَشْرَبُ</ar>
-          <en>I drink</en>
         </t>
         <t class="idafah">
-          <t>
-            <ar>مَاءَ</ar>
+          <t class="the">
+            <ar>مَاْءَ</ar>
             <en><ed>the</ed>water(s)</en>
           </t>
-          <t join="1">
-            <t>
-              <ar>الْ</ar>
-            </t>
-            <t>
-              <ar>بَحْرِ</ar>
-              <en>sea</en>
-            </t>
+          <t>
+            <ar>الْبَحْرِ</ar>
           </t>
         </t>
         <t>

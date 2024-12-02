@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="273">
+   <verses id="١٣٧٣٤" poet="فَرْوَةُ بْنُ مُسَيْكٍ">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَمَا إنْ طِبُّنَا جُبْنٌ وَلٰكِنْ</ar>
+               <free>verse one FT</free>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَمَا</ar>
+               </t>
+               <t>
+                  <ar>إنْ</ar>
+               </t>
+               <t>
+                  <ar>طِبُّنَا</ar>
+               </t>
+               <t>
+                  <ar>جُبْنٌ</ar>
+               </t>
+               <t>
+                  <ar>وَلٰكِنْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>مَنَاْيَاْنَا وَدَوْلَةُ آخِريِْنَا</ar>
+               <free>verse two FT afd asfd asd fa fadsaf</free>
+            </text>
+            <igt>
+               <t>
+                  <ar>مَنَاْيَاْنَا</ar>
+               </t>
+               <t>
+                  <ar>وَدَوْلَةُ</ar>
+               </t>
+               <t>
+                  <ar>آخِريِْنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>
