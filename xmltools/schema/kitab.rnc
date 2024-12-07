@@ -34,12 +34,11 @@ bab =
       التحرير
    }
 
-قسم =
+قسم =                           # section
     element قسم {
         # attribute يعقوب { text }?, # page nbr
         # attribute هارون { text }?, # page nbr
-        attribute رقم {text},
-        attribute هو {text}, # id
+        attribute هوية {text}, # id
         attribute قطع {"صفحة"}?,
         element عنوان {		# title
             text
@@ -47,8 +46,6 @@ bab =
         ( فقرة
         | مقطع
         | شاهدة
-        | هارون  # page break (bottom of page)
-        | يعقوب  # page break (bottom of page)
         )+
     }
 
@@ -85,6 +82,7 @@ bab =
       # not to be confused with بديل (see below)
       | بدل
       | مبدأ
+      | element سند {text}      # authority, e.g. وَزَعَمَ <سند>أَبُوْ الْخَطَّاْبِ</سند>
       | element شاعر {text}
       | آية
       # | ص     # tech term: مصطلح
@@ -115,8 +113,14 @@ bab =
 قبس = element قبس { (text | حرف | قول | آية)+ } # model, prototype
 
 اسم = element اسم {
-          attribute عدد {"١" | "٢" | "٣" | "٤"}?,
-          attribute مثل {text}?,
+          attribute عدد {
+              "١" |             # singular
+              "٢" |             # dual
+              "ق" |             # pl of قِلّة
+              "ك" |             # pl of كثرة
+              "ج"               # pl of جمع
+          }?,
+          attribute مثال {text}?, # prototype
           text
       }
 
@@ -174,7 +178,26 @@ bab =
    }
 
 # formal prototype using ف ع ل
-مثال = element مثال { text }    # prototype, e.g. <مثال>فَعْلَلَةٍ</مثال>
+مثال = element مثال {    # prototype, e.g. <مثال>فَعْلَلَةٍ</مثال>
+          attribute عدد {
+              "١" |             # singular
+              "٢" |             # dual
+              "ق" |             # pl of قِلّة
+              "ك" |             # pl of كثرة
+              "ج"               # pl of جمع
+          }?,
+           # attribute ج { # part-of-speech جزء
+           #     "فعلَ" |    # form I vb perf active 3rd m sg
+           #     "فُعلَ" |    # form I vb perf passive 3rd m sg
+           #     "يَفعلُ" |   # form I vb imperf active 3rd m sg
+           #     "يُفعلُ" |   # form I vb imperf passive 3rd m sg
+           #     "فعّلَ" |
+           #     "فُعّلَ" |
+
+           #     "فعلٌ"    # noun masc sg, any form
+           # },
+           text
+       }
 
 # exemplar, instantiation of verbal derivation/declension
 تصريف = element تصريف { text } # e.g.  <تصريف>دَحْرَجْتُهُ دَحْرَجَةً</تصريف>
@@ -428,7 +451,8 @@ ednote =
               attribute نسبة {text}  # pct
           },
           element تقطيع { # segmentation
-              attribute نسخة {text}
+              attribute نسخة {text},
+              attribute نسبة {text}  # pct
           },
           element أقوال {
               attribute نسخة {text},

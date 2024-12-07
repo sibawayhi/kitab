@@ -11,7 +11,7 @@ quran  = element quran  { attribute bab {text}, ayah+ }
 dictum = (
     element dictum {
         attribute id { text},   # id  هوية
-        attribute nbr { text},  # serial
+        # attribute nbr { text},  # serial
         # attribute seg { text},
         attribute j {"*" | "?"}?, # judgment
         element text {
@@ -27,7 +27,7 @@ dictum = (
 verses =
     element verses {
         attribute id { text},   # id  هوية
-        attribute nbr { text},  # serial
+        # attribute nbr { text},  # serial
         verse+
     }
 
@@ -48,7 +48,7 @@ hemistiche =
 ayah = (
     element ayah {
         attribute id { text},   # id هوية
-        attribute nbr { text},  # serial
+        # attribute nbr { text},  # serial
         # attribute seg { text},
         attribute surah { text},
         attribute verse { text},

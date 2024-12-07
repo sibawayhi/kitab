@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="416">
+   <ayah id="٧٨٨١٦" surah="٢٦" verse="١١٩">
+      <text>
+         <ar>فِي ٱلْفُلْكِ ٱلْمَشْحُونِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>ٱلْفُلْكِ</ar>
+         </t>
+         <t>
+            <ar>ٱلْمَشْحُونِ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤١٣٧١" surah="٢" verse="١٦٤">
+      <text>
+         <ar>وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَالْفُلْكِ</ar>
+         </t>
+         <t>
+            <ar>الَّتِي</ar>
+         </t>
+         <t>
+            <ar>تَجْرِي</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>الْبَحْرِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

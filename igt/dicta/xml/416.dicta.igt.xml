@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="416">
+   <dictum id="١١٩١٧">
+      <text>
+         <ar>هٰذَا صَوْتُ كِلَاْبٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>صَوْتُ</ar>
+         </t>
+         <t>
+            <ar>كِلَاْبٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٢٥٠٩">
+      <text>
+         <ar>هٰذَا حَبُّ رُمَّاْنٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>حَبُّ</ar>
+         </t>
+         <t>
+            <ar>رُمَّاْنٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
