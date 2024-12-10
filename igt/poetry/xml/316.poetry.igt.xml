@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="316">
+   <verses id="٩٦٢٨٠" poet="قيمُ بْنُ أَوْسٍ">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>بِالْخَيْرِ خَيْرَاْتٍ وَإِنْ شَرًّا فَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بِالْخَيْرِ</ar>
+               </t>
+               <t>
+                  <ar>خَيْرَاْتٍ</ar>
+               </t>
+               <t>
+                  <ar>وَإِنْ</ar>
+               </t>
+               <t>
+                  <ar>شَرًّا</ar>
+               </t>
+               <t>
+                  <ar>فَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَلَا أُرِيْدُ الشَّّرَّ إِلَّا أَنْ تَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَلَا</ar>
+               </t>
+               <t>
+                  <ar>أُرِيْدُ</ar>
+               </t>
+               <t>
+                  <ar>الشَّّرَّ</ar>
+               </t>
+               <t>
+                  <ar>إِلَّا</ar>
+               </t>
+               <t>
+                  <ar>أَنْ</ar>
+               </t>
+               <t>
+                  <ar>تَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٨٨٣٣٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>دَعْ ذَا وَعَجِّلْ ذَا وَأَلْحِقْنَا بَذَلْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>دَعْ</ar>
+               </t>
+               <t>
+                  <ar>ذَا</ar>
+               </t>
+               <t>
+                  <ar>وَعَجِّلْ</ar>
+               </t>
+               <t>
+                  <ar>ذَا</ar>
+               </t>
+               <t>
+                  <ar>وَأَلْحِقْنَا</ar>
+               </t>
+               <t>
+                  <ar>بَذَلْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>بِالشَّحْمِ إِنَّا قَدْ مَلِلْنَاْهُ بَجَلْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بِالشَّحْمِ</ar>
+               </t>
+               <t>
+                  <ar>إِنَّا</ar>
+               </t>
+               <t>
+                  <ar>قَدْ</ar>
+               </t>
+               <t>
+                  <ar>مَلِلْنَاْهُ</ar>
+               </t>
+               <t>
+                  <ar>بَجَلْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>
