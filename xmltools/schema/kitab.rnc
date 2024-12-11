@@ -69,14 +69,17 @@ bab =
        attribute رقم {text}?,    # serial
       ( text
       | حرف
+      | حرفة # a single particle, e.g. ذلك or في
       | اسم
       | صفة
       | فعل
       | مصدر
-      | مثل
+      | ندبة
+      | نداء
       | قبس
       | قول
       | مثال
+      | مصغر
       | تصريف
       # بدل textual alternatives from editions
       # not to be confused with بديل (see below)
@@ -101,13 +104,14 @@ bab =
     }
 
 #term
-حرف = # syntagma - TODO: switch to "term"
-   element حرف {		# term
+حرف = element حرف {		# term
       attribute صنف {text}?,
       (text
       # | بديل
       )+
    }
+# single particle
+حرفة = element حرفة {text}
 
 مثل = element مثل { text } # model, prototype
 قبس = element قبس { (text | حرف | قول | آية)+ } # model, prototype
@@ -128,6 +132,9 @@ bab =
 فعل = element فعل { text }
 مصدر = element مصدر { text }
 ثبات = element ثبات { text } # evidence (in مصراع)
+
+ندبة = element ندبة { text }
+نداء = element نداء { text }
 
 ## قول with inline alternatives, e.g.
 ## لَوْ قُلْتَ رَأَيْتُ زَيْدًا فَأَيْنَ عَمْرًا أو فَهَلْ بِشْرًا
@@ -176,6 +183,9 @@ bab =
       | مثال?
       )+
    }
+
+# diminutive مُصَغَّر
+مصغر = element مصغر { text }
 
 # formal prototype using ف ع ل
 مثال = element مثال {    # prototype, e.g. <مثال>فَعْلَلَةٍ</مثال>
