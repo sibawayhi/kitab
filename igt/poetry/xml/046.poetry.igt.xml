@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="046">
+   <verses id="١٤٨٥٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>حَتَّى كَأَنَّ لَمْ يَكُنْ إِلَّا تَذَكُّرُهُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>حَتَّى</ar>
+               </t>
+               <t>
+                  <ar>كَأَنَّ</ar>
+               </t>
+               <t>
+                  <ar>لَمْ</ar>
+               </t>
+               <t>
+                  <ar>يَكُنْ</ar>
+               </t>
+               <t>
+                  <ar>إِلَّا</ar>
+               </t>
+               <t>
+                  <ar>تَذَكُّرُهُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَالدَّهْرُ أَيَّتَمَا حَالٍ دَهَارِيْرُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَالدَّهْرُ</ar>
+               </t>
+               <t>
+                  <ar>أَيَّتَمَا</ar>
+               </t>
+               <t>
+                  <ar>حَالٍ</ar>
+               </t>
+               <t>
+                  <ar>دَهَارِيْرُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

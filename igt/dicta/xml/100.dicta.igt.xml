@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="100">
+   <dictum id="١٤٥٥٠">
+      <text>
+         <ar>مَرَرْتُ بِعَبْدِ اللّٰهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِعَبْدِ</ar>
+         </t>
+         <t>
+            <ar>اللّٰهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٤٣٣٨">
+      <text>
+         <ar>هٰذَا لِعَبْدِ اللّٰهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>لِعَبْدِ</ar>
+         </t>
+         <t>
+            <ar>اللّٰهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٨١٥٤">
+      <text>
+         <ar>مَا أَنْتَ كَزَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>كَزَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٥٥٥٩">
+      <text>
+         <ar>يَا لَبَكْرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>لَبَكْرٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٦٩٤٤">
+      <text>
+         <ar>تَاللّٰهِ لَا أَفْعَلُ ذَاْ كَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تَاللّٰهِ</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>أَفْعَلُ</ar>
+         </t>
+         <t>
+            <ar>ذَاْ</ar>
+         </t>
+         <t>
+            <ar>كَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٢٠٦٦">
+      <text>
+         <ar>أَخَذْتُهُ عَنْ زَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَخَذْتُهُ</ar>
+         </t>
+         <t>
+            <ar>عَنْ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٤٩٧٢">
+      <text>
+         <ar>مِنْ عَلَيْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>عَلَيْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٤٥٢٨">
+      <text>
+         <ar>مِنْ فَوْقِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>فَوْقِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٣٣٠٥">
+      <text>
+         <ar>ذَهَبَ مِنْ مَعِهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ذَهَبَ</ar>
+         </t>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>مَعِهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٨٢٢٨">
+      <text>
+         <ar>مِنْ عَنْ يَمِيْنِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>عَنْ</ar>
+         </t>
+         <t>
+            <ar>يَمِيْنِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٩٤٧٧">
+      <text>
+         <ar>مِنْ نَاحِيَةِ كَذَا وَكَذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>نَاحِيَةِ</ar>
+         </t>
+         <t>
+            <ar>كَذَا</ar>
+         </t>
+         <t>
+            <ar>وَكَذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦١٧٥٩">
+      <text>
+         <ar>أَنْتَ خَلْفَ عَبْدِ اللّٰهِ وَأَمَاْمَ زَيْدٍ وَقُدَّاْمَ أَخِيْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>خَلْفَ</ar>
+         </t>
+         <t>
+            <ar>عَبْدِ</ar>
+         </t>
+         <t>
+            <ar>اللّٰهِ</ar>
+         </t>
+         <t>
+            <ar>وَأَمَاْمَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>وَقُدَّاْمَ</ar>
+         </t>
+         <t>
+            <ar>أَخِيْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٧٣٦٨">
+      <text>
+         <ar>هٰذَا أَعْمَلُ النَّاْسِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>أَعْمَلُ</ar>
+         </t>
+         <t>
+            <ar>النَّاْسِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٦٠٨٩">
+      <text>
+         <ar>هٰذَا مِثْلُ عَبْدِ اللّٰهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>مِثْلُ</ar>
+         </t>
+         <t>
+            <ar>عَبْدِ</ar>
+         </t>
+         <t>
+            <ar>اللّٰهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٢٠٧٧">
+      <text>
+         <ar>هٰذَا كُلُّ مَاْلِكَ وَبَعْضُ قَوْمِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>كُلُّ</ar>
+         </t>
+         <t>
+            <ar>مَاْلِكَ</ar>
+         </t>
+         <t>
+            <ar>وَبَعْضُ</ar>
+         </t>
+         <t>
+            <ar>قَوْمِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١١٣٩٢">
+      <text>
+         <ar>هٰذَا حِمَاْرُ زَيْدٍ وَجِدَاْرُ أَخِيْكَ وَمَاْلُ عَمْرٍو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>حِمَاْرُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>وَجِدَاْرُ</ar>
+         </t>
+         <t>
+            <ar>أَخِيْكَ</ar>
+         </t>
+         <t>
+            <ar>وَمَاْلُ</ar>
+         </t>
+         <t>
+            <ar>عَمْرٍو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٠٢٩٦">
+      <text>
+         <ar>هٰذَا أَشَدُّ النَّاْسِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>أَشَدُّ</ar>
+         </t>
+         <t>
+            <ar>النَّاْسِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩١٥٢٥">
+      <text>
+         <ar>يَا لَبَكْرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>لَبَكْرٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٢٨٦١">
+      <text>
+         <ar>مَرَرْتُ بِزَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٩٣٠٨">
+      <text>
+         <ar>هٰذَا لِعَبْدِ اللّٰهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>لِعَبْدِ</ar>
+         </t>
+         <t>
+            <ar>اللّٰهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٦٨٦٥">
+      <text>
+         <ar>أَنْتَ كَعَبْدِ اللّٰهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>كَعَبْدِ</ar>
+         </t>
+         <t>
+            <ar>اللّٰهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٤٥٠٠">
+      <text>
+         <ar>أَخَذْتُهُ مِنْ عَبْدِ اللّٰهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَخَذْتُهُ</ar>
+         </t>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>عَبْدِ</ar>
+         </t>
+         <t>
+            <ar>اللّٰهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٤٧٠٧">
+      <text>
+         <ar>مُذْ زَمَاْنٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مُذْ</ar>
+         </t>
+         <t>
+            <ar>زَمَاْنٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٤٢٥٠">
+      <text>
+         <ar>أَنْتَ فِي الدَّاْرِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>الدَّاْرِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٧١٣٠">
+      <text>
+         <ar>فِيْكَ خَصْلَةُ سَوْءٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فِيْكَ</ar>
+         </t>
+         <t>
+            <ar>خَصْلَةُ</ar>
+         </t>
+         <t>
+            <ar>سَوْءٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢١٩٠٥">
+      <text>
+         <ar>رُبَّ رَجُلٍ يَقُوْلُ ذَاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رُبَّ</ar>
+         </t>
+         <t>
+            <ar>رَجُلٍ</ar>
+         </t>
+         <t>
+            <ar>يَقُوْلُ</ar>
+         </t>
+         <t>
+            <ar>ذَاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٤٨٩٦">
+      <text>
+         <ar>بِاللّٰهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>بِاللّٰهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤١٩٢٤">
+      <text>
+         <ar>وَاللّٰهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَاللّٰهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣١٦١٦">
+      <text>
+         <ar>تَالَلّٰهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تَالَلّٰهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٦٦٦٠">
+      <text>
+         <ar>يَا لَبَكْرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>لَبَكْرٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٠٢٥٩">
+      <text>
+         <ar>رَوَيْتُهُ عَنْ زَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَوَيْتُهُ</ar>
+         </t>
+         <t>
+            <ar>عَنْ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="048">
+   <ayah id="٧٧٠٢٩" surah="" verse="">
+      <text>
+         <ar>فَضَرْبَ الْرِّقَابِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَضَرْبَ</ar>
+         </t>
+         <t>
+            <ar>الْرِّقَابِ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٥٤٥١٣" surah="" verse="">
+      <text>
+         <ar>فَاذْهَبْ أَنْتَ وَرَبُّكَ فَقَاتِلًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَاذْهَبْ</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>وَرَبُّكَ</ar>
+         </t>
+         <t>
+            <ar>فَقَاتِلًا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٢٨٢٧٢" surah="" verse="">
+      <text>
+         <ar>اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اسْكُنْ</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>وَزَوْجُكَ</ar>
+         </t>
+         <t>
+            <ar>الْجَنَّةَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

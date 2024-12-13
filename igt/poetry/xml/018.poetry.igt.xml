@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="018">
+   <verses id="٧٩٤٧٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لَتَقْرُبِنَّ قَرَبًا جُلْذِيًّا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لَتَقْرُبِنَّ</ar>
+               </t>
+               <t>
+                  <ar>قَرَبًا</ar>
+               </t>
+               <t>
+                  <ar>جُلْذِيًّا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>مَا دَاْمَ فِيْهِنَّ فَصِيْلٌ حيَّا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>دَاْمَ</ar>
+               </t>
+               <t>
+                  <ar>فِيْهِنَّ</ar>
+               </t>
+               <t>
+                  <ar>فَصِيْلٌ</ar>
+               </t>
+               <t>
+                  <ar>حيَّا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَقَدْ دَجَا اللَّيْلُ فَهَيَّا هَيَّا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَقَدْ</ar>
+               </t>
+               <t>
+                  <ar>دَجَا</ar>
+               </t>
+               <t>
+                  <ar>اللَّيْلُ</ar>
+               </t>
+               <t>
+                  <ar>فَهَيَّا</ar>
+               </t>
+               <t>
+                  <ar>هَيَّا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

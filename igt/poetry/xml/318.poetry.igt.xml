@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="318">
+   <verses id="٣٥٦٢٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>بِكُلِّ قُرَيْشِيٍّ إِذَا مَا لَقِيْتُهُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بِكُلِّ</ar>
+               </t>
+               <t>
+                  <ar>قُرَيْشِيٍّ</ar>
+               </t>
+               <t>
+                  <ar>إِذَا</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>لَقِيْتُهُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>سَرِيْعٍ إِلَى دَاعِيَ النَّدَىْ وَالتَّكَرُّمِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>سَرِيْعٍ</ar>
+               </t>
+               <t>
+                  <ar>إِلَى</ar>
+               </t>
+               <t>
+                  <ar>دَاعِيَ</ar>
+               </t>
+               <t>
+                  <ar>النَّدَىْ</ar>
+               </t>
+               <t>
+                  <ar>وَالتَّكَرُّمِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="022">
+   <dictum id="١٨٥٨٥">
+      <text>
+         <ar>مَا أَحْسَنَ عَبْدَ اللّٰهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَحْسَنَ</ar>
+         </t>
+         <t>
+            <ar>عَبْدَ</ar>
+         </t>
+         <t>
+            <ar>اللّٰهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٨٢٥٤">
+      <text>
+         <ar>شَيْءٌ أَحْسَنَ عَبْدَ اللّٰهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>شَيْءٌ</ar>
+         </t>
+         <t>
+            <ar>أَحْسَنَ</ar>
+         </t>
+         <t>
+            <ar>عَبْدَ</ar>
+         </t>
+         <t>
+            <ar>اللّٰهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٧١٣٣">
+      <text>
+         <ar>إِنِّي مِمَّا أَنْ أَصْنَعَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنِّي</ar>
+         </t>
+         <t>
+            <ar>مِمَّا</ar>
+         </t>
+         <t>
+            <ar>أَنْ</ar>
+         </t>
+         <t>
+            <ar>أَصْنَعَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٤٥٥٢">
+      <text>
+         <ar>غَسَلْتُهُ غَسْلًا نِعَمَّا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>غَسَلْتُهُ</ar>
+         </t>
+         <t>
+            <ar>غَسْلًا</ar>
+         </t>
+         <t>
+            <ar>نِعَمَّا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣١٠٥٨">
+      <text>
+         <ar>مَا كَاْنَ أَحْسَنَ زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>أَحْسَنَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

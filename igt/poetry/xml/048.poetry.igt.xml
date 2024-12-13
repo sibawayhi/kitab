@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="048">
+   <verses id="٦٩٥١٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>رُوَيْدَ عَلِيَّا جُدَّ مَا ثَدَىْ أُمِهُمْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>رُوَيْدَ</ar>
+               </t>
+               <t>
+                  <ar>عَلِيَّا</ar>
+               </t>
+               <t>
+                  <ar>جُدَّ</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>ثَدَىْ</ar>
+               </t>
+               <t>
+                  <ar>أُمِهُمْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>إِلَيْنَا وَلَكِنْ بُغْضُهُمْ مُتَمَايِنُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِلَيْنَا</ar>
+               </t>
+               <t>
+                  <ar>وَلَكِنْ</ar>
+               </t>
+               <t>
+                  <ar>بُغْضُهُمْ</ar>
+               </t>
+               <t>
+                  <ar>مُتَمَايِنُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٦٤١٩٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>عَذِيْرَ الْحَىَّ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَذِيْرَ</ar>
+               </t>
+               <t>
+                  <ar>الْحَىَّ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar/>
+               <free/>
+            </text>
+            <igt/>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

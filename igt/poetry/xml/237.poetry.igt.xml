@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="237">
+   <verses id="٨٧١١٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>اُرْدُدْ حِمَاْرَكَ لَا تُنْزَعْ سَوِيَّتُهُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>اُرْدُدْ</ar>
+               </t>
+               <t>
+                  <ar>حِمَاْرَكَ</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>تُنْزَعْ</ar>
+               </t>
+               <t>
+                  <ar>سَوِيَّتُهُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>إِذَنْ يُرَدَّ وَقَيْدُ الْعَيْرِ مَكْرُوْبُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِذَنْ</ar>
+               </t>
+               <t>
+                  <ar>يُرَدَّ</ar>
+               </t>
+               <t>
+                  <ar>وَقَيْدُ</ar>
+               </t>
+               <t>
+                  <ar>الْعَيْرِ</ar>
+               </t>
+               <t>
+                  <ar>مَكْرُوْبُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢٤٤٣٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لَئِنْ عَاْدَ لِي عَبْدُ الْعَزِيْزِ بِمِثْلِهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لَئِنْ</ar>
+               </t>
+               <t>
+                  <ar>عَاْدَ</ar>
+               </t>
+               <t>
+                  <ar>لِي</ar>
+               </t>
+               <t>
+                  <ar>عَبْدُ</ar>
+               </t>
+               <t>
+                  <ar>الْعَزِيْزِ</ar>
+               </t>
+               <t>
+                  <ar>بِمِثْلِهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَأَمْكَنَنِي مِنْهَا إِذَنْ لَا أُقِيْلُهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَأَمْكَنَنِي</ar>
+               </t>
+               <t>
+                  <ar>مِنْهَا</ar>
+               </t>
+               <t>
+                  <ar>إِذَنْ</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>أُقِيْلُهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

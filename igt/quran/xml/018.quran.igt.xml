@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="018">
+   <ayah id="٣٧٥٣٥" nbr="1" surah="١١٢" verse="٤">
+      <text>
+         <ar>وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَلَمْ</ar>
+         </t>
+         <t>
+            <ar>يَكُنْ</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+         <t>
+            <ar>كُفُوًا</ar>
+         </t>
+         <t>
+            <ar>أَحَدٌ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

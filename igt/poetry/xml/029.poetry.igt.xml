@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="029">
+   <verses id="٣٠٤٢٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَثَعْلَبَةَ الْفَوَاْرِسَ أَمْ رِيَاْحًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَثَعْلَبَةَ</ar>
+               </t>
+               <t>
+                  <ar>الْفَوَاْرِسَ</ar>
+               </t>
+               <t>
+                  <ar>أَمْ</ar>
+               </t>
+               <t>
+                  <ar>رِيَاْحًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>عَدَلْتَ بِهِمْ طُهَيَّةَ وَالْخِشَاْبَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَدَلْتَ</ar>
+               </t>
+               <t>
+                  <ar>بِهِمْ</ar>
+               </t>
+               <t>
+                  <ar>طُهَيَّةَ</ar>
+               </t>
+               <t>
+                  <ar>وَالْخِشَاْبَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

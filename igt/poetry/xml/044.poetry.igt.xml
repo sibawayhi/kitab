@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="044">
+   <verses id="٩٩٧٩٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>عَزَمْتُ عَلَىْ إِقَامَةِ ذِيْ صَبَاحٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَزَمْتُ</ar>
+               </t>
+               <t>
+                  <ar>عَلَىْ</ar>
+               </t>
+               <t>
+                  <ar>إِقَامَةِ</ar>
+               </t>
+               <t>
+                  <ar>ذِيْ</ar>
+               </t>
+               <t>
+                  <ar>صَبَاحٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>لِشَيءٍ مَا يُسْوَدُّ مَنْ يَسُوْدُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لِشَيءٍ</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>يُسْوَدُّ</ar>
+               </t>
+               <t>
+                  <ar>مَنْ</ar>
+               </t>
+               <t>
+                  <ar>يَسُوْدُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

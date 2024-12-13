@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="026">
+   <verses id="٨٥٢٩٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَصْبَحْتُ لَا أَحْمِلُ السِّلاحَ وَلَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَصْبَحْتُ</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>أَحْمِلُ</ar>
+               </t>
+               <t>
+                  <ar>السِّلاحَ</ar>
+               </t>
+               <t>
+                  <ar>وَلَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>أَمْلِكُ رَأْسَ الْبَعِيْرِ إِنْ نَفَرَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَمْلِكُ</ar>
+               </t>
+               <t>
+                  <ar>رَأْسَ</ar>
+               </t>
+               <t>
+                  <ar>الْبَعِيْرِ</ar>
+               </t>
+               <t>
+                  <ar>إِنْ</ar>
+               </t>
+               <t>
+                  <ar>نَفَرَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَالذِّئْبَ أَخْشَاْهُ إِنْ مَرَرْتُ بِهِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَالذِّئْبَ</ar>
+               </t>
+               <t>
+                  <ar>أَخْشَاْهُ</ar>
+               </t>
+               <t>
+                  <ar>إِنْ</ar>
+               </t>
+               <t>
+                  <ar>مَرَرْتُ</ar>
+               </t>
+               <t>
+                  <ar>بِهِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَحْدِي وَأَخْشَى الرِّيَاْحَ وَالْمَطَرَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَحْدِي</ar>
+               </t>
+               <t>
+                  <ar>وَأَخْشَى</ar>
+               </t>
+               <t>
+                  <ar>الرِّيَاْحَ</ar>
+               </t>
+               <t>
+                  <ar>وَالْمَطَرَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

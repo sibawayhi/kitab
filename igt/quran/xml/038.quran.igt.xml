@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="038">
+   <ayah id="٣٧٠٠٦" surah="٣٤" verse="٣٣">
+      <text>
+         <ar>بَلْ مَكْرُ اللَّيْلِ وَالنَّهَارِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>بَلْ</ar>
+         </t>
+         <t>
+            <ar>مَكْرُ</ar>
+         </t>
+         <t>
+            <ar>اللَّيْلِ</ar>
+         </t>
+         <t>
+            <ar>وَالنَّهَارِ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٩٨١٨٥" surah="٤" verse="١٥٥">
+      <text>
+         <ar>فَبِمَا نَقْضِهِمْ مِّيْثَاْقَهُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَبِمَا</ar>
+         </t>
+         <t>
+            <ar>نَقْضِهِمْ</ar>
+         </t>
+         <t>
+            <ar>مِّيْثَاْقَهُمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

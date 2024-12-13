@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="047">
+   <dictum id="٦١٣٦٩">
+      <text>
+         <ar>رُوَيْدَ زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رُوَيْدَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٩٧١٢">
+      <text>
+         <ar>أَرْوِدْ زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَرْوِدْ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٣٩١٢">
+      <text>
+         <ar>هَلُمَّ زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَلُمَّ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٣٣٠٣">
+      <text>
+         <ar>هَاْتِ زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَاْتِ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٧٠٥٧">
+      <text>
+         <ar>حَيَّهَلَ الْثَّرِيْدَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>حَيَّهَلَ</ar>
+         </t>
+         <t>
+            <ar>الْثَّرِيْدَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٣٨٨٨">
+      <text>
+         <ar>حَيَّهَلَ الصَّلَاةَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>حَيَّهَلَ</ar>
+         </t>
+         <t>
+            <ar>الصَّلَاةَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٤٧٠٧">
+      <text>
+         <ar>ائْتِ الصَّلَاةَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ائْتِ</ar>
+         </t>
+         <t>
+            <ar>الصَّلَاةَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٤٢٢٦">
+      <text>
+         <ar>ائْتُوْا الْثَّرِيْدَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ائْتُوْا</ar>
+         </t>
+         <t>
+            <ar>الْثَّرِيْدَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٢٨٩٤">
+      <text>
+         <ar>أْتُوْا الصَّلَاةَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أْتُوْا</ar>
+         </t>
+         <t>
+            <ar>الصَّلَاةَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٤٥٣٥">
+      <text>
+         <ar>اتْرُكْهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اتْرُكْهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢١٦٠٧">
+      <text>
+         <ar>امْنَعْهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>امْنَعْهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٨١٩٠">
+      <text>
+         <ar>مَهْ مَهْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَهْ</ar>
+         </t>
+         <t>
+            <ar>مَهْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٤٠٩٦">
+      <text>
+         <ar>صَهْ صَهْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>صَهْ</ar>
+         </t>
+         <t>
+            <ar>صَهْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٥٧٥١">
+      <text>
+         <ar>آهٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>آهٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٥٣٥٧">
+      <text>
+         <ar>إِيْهٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِيْهٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

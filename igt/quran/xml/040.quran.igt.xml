@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="040">
+   <ayah id="٣٣٤٠٤" surah="١١" verse="١٤-١٥">
+      <text>
+         <ar>أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ ۝ يَتِيْمًا ذَا مَقْرَبَةٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَوْ</ar>
+         </t>
+         <t>
+            <ar>إِطْعَامٌ</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>يَوْمٍ</ar>
+         </t>
+         <t>
+            <ar>ذِي</ar>
+         </t>
+         <t>
+            <ar>مَسْغَبَةٍ</ar>
+         </t>
+         <t>
+            <ar>۝</ar>
+         </t>
+         <t>
+            <ar>يَتِيْمًا</ar>
+         </t>
+         <t>
+            <ar>ذَا</ar>
+         </t>
+         <t>
+            <ar>مَقْرَبَةٍ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

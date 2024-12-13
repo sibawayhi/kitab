@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="027">
+   <ayah id="٨٠٩٧٢" nbr="1" surah="" verse="">
+      <text>
+         <ar>قُلْ كَفَى بِاللّٰهِ شَهِيْدًا بَيْنِي وَبَيْنَكُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قُلْ</ar>
+         </t>
+         <t>
+            <ar>كَفَى</ar>
+         </t>
+         <t>
+            <ar>بِاللّٰهِ</ar>
+         </t>
+         <t>
+            <ar>شَهِيْدًا</ar>
+         </t>
+         <t>
+            <ar>بَيْنِي</ar>
+         </t>
+         <t>
+            <ar>وَبَيْنَكُمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤٧٤٩٤" nbr="2" surah="" verse="">
+      <text>
+         <ar>وَحُوْرًا عِيْنًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَحُوْرًا</ar>
+         </t>
+         <t>
+            <ar>عِيْنًا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="١٨٤٠٣" nbr="3" surah="" verse="">
+      <text>
+         <ar>وَأَمَّا ثَمُوْدُ فَهَدَيْنَاهُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَأَمَّا</ar>
+         </t>
+         <t>
+            <ar>ثَمُوْدُ</ar>
+         </t>
+         <t>
+            <ar>فَهَدَيْنَاهُمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

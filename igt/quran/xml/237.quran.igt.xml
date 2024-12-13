@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="237">
+   <ayah id="٣٨٤٣٤" nbr="1" surah="١٧" verse="٧٦">
+      <text>
+         <ar>وَإِذًا لَّا يَلْبَثُوْنَ خِلٰفَكَ إِلَّا قَلِيلًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَإِذًا</ar>
+         </t>
+         <t>
+            <ar>لَّا</ar>
+         </t>
+         <t>
+            <ar>يَلْبَثُوْنَ</ar>
+         </t>
+         <t>
+            <ar>خِلٰفَكَ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>قَلِيلًا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤٨١٦٣" nbr="2" surah="١٧" verse="٧٦">
+      <text>
+         <ar>وإِذَنْ لَا يَلَبَثَوْا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وإِذَنْ</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>يَلَبَثَوْا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٢٧٨٥١" nbr="3" surah="٤" verse="٥٣">
+      <text>
+         <ar>فَإِذًا لَا يُؤْتُونَ النَّاسَ نَقِيرًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَإِذًا</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>يُؤْتُونَ</ar>
+         </t>
+         <t>
+            <ar>النَّاسَ</ar>
+         </t>
+         <t>
+            <ar>نَقِيرًا</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

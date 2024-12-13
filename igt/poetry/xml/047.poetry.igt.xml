@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="047">
+   <verses id="٣٣٦٥٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>تَرَاكِهَا مِنْ إِبْلٍ تَرَاكِهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَرَاكِهَا</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>إِبْلٍ</ar>
+               </t>
+               <t>
+                  <ar>تَرَاكِهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>[أَمَّا تَرَى الْموتَ لدى أوراكهاْ]</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>[أَمَّا</ar>
+               </t>
+               <t>
+                  <ar>تَرَى</ar>
+               </t>
+               <t>
+                  <ar>الْموتَ</ar>
+               </t>
+               <t>
+                  <ar>لدى</ar>
+               </t>
+               <t>
+                  <ar>أوراكهاْ]</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٠٦٢٩٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>مَنَاْعِهَا مِنْ إِبِلٍ مَنَاْعِهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مَنَاْعِهَا</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>إِبِلٍ</ar>
+               </t>
+               <t>
+                  <ar>مَنَاْعِهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>[أَلَا ترَى الْموت لدى أرباهاْ]</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>[أَلَا</ar>
+               </t>
+               <t>
+                  <ar>ترَى</ar>
+               </t>
+               <t>
+                  <ar>الْموت</ar>
+               </t>
+               <t>
+                  <ar>لدى</ar>
+               </t>
+               <t>
+                  <ar>أرباهاْ]</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

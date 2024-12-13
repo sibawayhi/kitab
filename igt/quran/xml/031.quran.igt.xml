@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="031">
+   <ayah id="٤٣١٧٧" surah="" verse="">
+      <text>
+         <ar>وَإِذْ قَالَتِ الْمَلَائِكَةُ يَا مَرْيَمُ إِنَّ الْلَّهَ [اصْطَفَاكِ] يُبَشِّرُكِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَإِذْ</ar>
+         </t>
+         <t>
+            <ar>قَالَتِ</ar>
+         </t>
+         <t>
+            <ar>الْمَلَائِكَةُ</ar>
+         </t>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>مَرْيَمُ</ar>
+         </t>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>الْلَّهَ</ar>
+         </t>
+         <t>
+            <ar>[اصْطَفَاكِ]</ar>
+         </t>
+         <t>
+            <ar>يُبَشِّرُكِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

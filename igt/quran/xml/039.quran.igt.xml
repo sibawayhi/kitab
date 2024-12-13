@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="039">
+   <ayah id="٧٩٦١٩" surah="" verse="">
+      <text>
+         <ar>وَالْمُقِيْمِيْنَ الصَّلوٰةَ وَالْمُؤْتُوْنَ الزَّكَوٰةَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَالْمُقِيْمِيْنَ</ar>
+         </t>
+         <t>
+            <ar>الصَّلوٰةَ</ar>
+         </t>
+         <t>
+            <ar>وَالْمُؤْتُوْنَ</ar>
+         </t>
+         <t>
+            <ar>الزَّكَوٰةَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

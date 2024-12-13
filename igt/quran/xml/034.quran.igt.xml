@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="034">
+   <ayah id="١١٤٨٨" surah="" verse="">
+      <text>
+         <ar>إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّا</ar>
+         </t>
+         <t>
+            <ar>كُلَّ</ar>
+         </t>
+         <t>
+            <ar>شَيْءٍ</ar>
+         </t>
+         <t>
+            <ar>خَلَقْنَاهُ</ar>
+         </t>
+         <t>
+            <ar>بِقَدَرٍ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٢٥١٦٤" surah="" verse="">
+      <text>
+         <ar>وَأَمَّا ثَمُوْدَ فَهَدَيْنَاهُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَأَمَّا</ar>
+         </t>
+         <t>
+            <ar>ثَمُوْدَ</ar>
+         </t>
+         <t>
+            <ar>فَهَدَيْنَاهُمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
