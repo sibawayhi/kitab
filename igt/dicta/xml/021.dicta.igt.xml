@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="021">
-   <dictum id="٨٧٥١٢" nbr="1">
+   <dictum id="٨٧٥١٢">
       <text>
          <ar>إِنَّهُ مَنْ يَأْتِنَا نَأْتِهِ</ar>
-         <free>Indeed, who come to us, we come to him </free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -20,7 +20,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="١٤٨٠٤" nbr="2">
+   <dictum id="١٤٨٠٤">
       <text>
          <ar>إِنَّهُ أَمَةُ اللّٰهِ ذَاهِبَةٌ</ar>
          <free/>
@@ -40,7 +40,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٧٦٧٤" nbr="3">
+   <dictum id="٢٧٦٧٤">
       <text>
          <ar>لَيْسَ خَلَقَ اللّٰهُ مِثْلَهُ</ar>
          <free/>
@@ -60,7 +60,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٨٠٣٣" nbr="4" j="*">
+   <dictum id="٥٨٠٣٣" j="*">
       <text>
          <ar>كَاْنَتْ زَيْدًا الْحُمَّى تَأْخُذُ</ar>
          <free/>
@@ -80,7 +80,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٣٠٨٤" nbr="5">
+   <dictum id="٨٣٠٨٤">
       <text>
          <ar>كَاْنَ أَنْتَ خَيْرٌ مِنْهُ</ar>
          <free/>
@@ -100,7 +100,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٤٢٦٥" nbr="6">
+   <dictum id="٨٤٢٦٥">
       <text>
          <ar>إِنَّهُ أَنْتَ خَيْرٌ مِنْهُ</ar>
          <free/>
@@ -120,7 +120,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨١٠٧٧" nbr="7">
+   <dictum id="٨١٠٧٧">
       <text>
          <ar>كَاْدَتْ قُلُوْبُ فَرِيْقٍ مِنْهُمْ تَزِيْغُ</ar>
          <free/>
@@ -143,7 +143,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٤٢٤٠" nbr="8">
+   <dictum id="٨٤٢٤٠">
       <text>
          <ar>مَا كَاْنَ الطِّيْبُ إِلَّا الْمِسْكُ</ar>
          <free/>
@@ -166,7 +166,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٥٤٩٧" nbr="9">
+   <dictum id="٣٥٤٩٧">
       <text>
          <ar>مَا كَاْنَ الْأَمْرُ الطِّيْبُ إِلَّا الْمِسْكُ</ar>
          <free/>
@@ -192,7 +192,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥١٨٥٨" nbr="10">
+   <dictum id="٥١٨٥٨">
       <text>
          <ar>مَا الطِّيْبُ إِلَّا الْمِسْكُ</ar>
          <free/>
@@ -212,10 +212,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٠٢٩٠" nbr="11" j="*">
+   <dictum id="٢٠٢٩٠" j="*">
       <text>
-         <ar>مَا زَيْدًا عَبْدُ اللّٰهِ ضَاْرِبًا</ar>
-         <free>Not Zayd, Abdullah is striking</free>
+         <ar>مَا زَيْدًا عَبْدُ اللهِ ضَاْرِبًا</ar>
+         <free/>
       </text>
       <igt>
          <t>
@@ -225,14 +225,17 @@
             <ar>زَيْدًا</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللّٰهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>ضَاْرِبًا</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٦٢٥١" nbr="12" j="*">
+   <dictum id="٤٦٢٥١" j="*">
       <text>
          <ar>مَا زَيْدًا أَنَا قَاْتِلًا</ar>
          <free/>
@@ -252,7 +255,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٩٩٦٧" nbr="13">
+   <dictum id="٢٩٩٦٧">
       <text>
          <ar>أَمَّا زَيْدًا فَأَنَا ضَاْرِبٌ</ar>
          <free/>
@@ -272,7 +275,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٨٩٢٧" nbr="14">
+   <dictum id="٢٨٩٢٧">
       <text>
          <ar>زَيْدًا أَنَا ضَاْرِبٌ</ar>
          <free/>
@@ -289,7 +292,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٢١٩٦" nbr="15">
+   <dictum id="٧٢١٩٦">
       <text>
          <ar>لَيْسَ عَبْدُ اللّٰهِ أَنَا عَاْرِفٌ</ar>
          <free/>

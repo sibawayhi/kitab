@@ -1,67 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="041">
-   <ayah id="٨٤١٥٠" nbr="1" surah="18" verse="103">
+   <ayah id="٨٤١٥٠" nbr="1" surah="١٨" verse="١٠٣">
       <text>
          <ar>قُلْ هَلْ نُنَبِّئُكُمْ بِالْأَخْسَرِيْنَ أَعْمَاْلًا</ar>
-         <free src="Pickthall">Say: Shall We inform you who will be the greatest losers by their works?</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>قُلْ</ar>
-            <en/>
          </t>
          <t>
             <ar>هَلْ</ar>
-            <en/>
          </t>
          <t>
             <ar>نُنَبِّئُكُمْ</ar>
-            <en/>
          </t>
          <t>
             <ar>بِالْأَخْسَرِيْنَ</ar>
-            <en/>
          </t>
          <t>
             <ar>أَعْمَاْلًا</ar>
-            <en/>
          </t>
       </igt>
    </ayah>
-   <ayah id="٦١١٥٩" nbr="2" surah="4" verse="4">
+   <ayah id="٦١١٥٩" nbr="2" surah="٤" verse="٤">
       <text>
          <ar>فَإِنْ طِبْنَ لَكُمْ عَنْ شَيْءٍ مِنْهُ نَفْسًا</ar>
-         <free src="Pickthall">but if they of their own accord remit unto you a part thereof</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>فَإِنْ</ar>
-            <en/>
          </t>
          <t>
             <ar>طِبْنَ</ar>
-            <en/>
          </t>
          <t>
             <ar>لَكُمْ</ar>
-            <en/>
          </t>
          <t>
             <ar>عَنْ</ar>
-            <en/>
          </t>
          <t>
             <ar>شَيْءٍ</ar>
-            <en/>
          </t>
          <t>
             <ar>مِنْهُ</ar>
-            <en/>
          </t>
          <t>
             <ar>نَفْسًا</ar>
-            <en/>
          </t>
       </igt>
    </ayah>

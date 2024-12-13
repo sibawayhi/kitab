@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="002">
-   <ayah id="٦٥٥١١" nbr="1" surah="16" verse="124">
+   <ayah id="٦٥٥١١" nbr="1" surah="١٦" verse="١٢٤">
       <text>
          <ar>وَإِنَّ رَبَّكَ لَيَحْكُمُ بَيْنَهُمْ</ar>
          <free/>
@@ -9,19 +9,15 @@
       <igt>
          <t>
             <ar>وَإِنَّ</ar>
-            <en/>
          </t>
          <t>
             <ar>رَبَّكَ</ar>
-            <en/>
          </t>
          <t>
             <ar>لَيَحْكُمُ</ar>
-            <en/>
          </t>
          <t>
             <ar>بَيْنَهُمْ</ar>
-            <en/>
          </t>
       </igt>
    </ayah>

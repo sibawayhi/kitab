@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="021">
-   <ayah id="١٨٨٨٩" nbr="1" surah="9" verse="117">
+   <ayah id="١٨٨٨٩" nbr="1" surah="٩" verse="١١٧">
       <text>
          <ar>كَاْدَ تَزِيْغُ قُلُوْبُ فَرِيْقٍ مِنْهُمْ</ar>
          <free/>
@@ -9,23 +9,18 @@
       <igt>
          <t>
             <ar>كَاْدَ</ar>
-            <en/>
          </t>
          <t>
             <ar>تَزِيْغُ</ar>
-            <en/>
          </t>
          <t>
             <ar>قُلُوْبُ</ar>
-            <en/>
          </t>
          <t>
             <ar>فَرِيْقٍ</ar>
-            <en/>
          </t>
          <t>
             <ar>مِنْهُمْ</ar>
-            <en/>
          </t>
       </igt>
    </ayah>

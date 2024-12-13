@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="041">
-   <verses id="٠٩٣٥٧" nbr="1">
+   <verses id="٠٩٣٥٧" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -11,23 +11,18 @@
             <igt>
                <t>
                   <ar>أَهْوَى</ar>
-                  <en/>
                </t>
                <t>
                   <ar>لَهَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>أَسْفَعُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الْخَدَّيْنِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مُطَّرِقٌ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -39,33 +34,27 @@
             <igt>
                <t>
                   <ar>رِيْشَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الْقَوَادِمِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>لَمْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>تُنْصَبْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>لَهُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الشَّبَكُ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٣٦٩٢٥" nbr="2">
+   <verses id="٣٦٩٢٥" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -75,25 +64,21 @@
             <igt>
                <t>
                   <ar>مُحْتَبِكٌ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>ضَخْمٌ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>شُئُوْنَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الرَّأْسِ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٠٥٥٢٧" nbr="3">
+   <verses id="٠٥٥٢٧" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -103,19 +88,15 @@
             <igt>
                <t>
                   <ar>وَنَأْخُذْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بَعْدَهُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بِذِنَاْبِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عَيْشٍ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -127,29 +108,24 @@
             <igt>
                <t>
                   <ar>أَجَبَّ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الظَّهْرَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>لَيْسَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>لَهُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>سَنَاْمُ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٧٩٥٤٩" nbr="4">
+   <verses id="٧٩٥٤٩" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -159,23 +135,18 @@
             <igt>
                <t>
                   <ar>أَلِكْنِي</ar>
-                  <en/>
                </t>
                <t>
                   <ar>إِلَى</ar>
-                  <en/>
                </t>
                <t>
                   <ar>قَوْمِي</ar>
-                  <en/>
                </t>
                <t>
                   <ar>السَّلامَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>رِسَاْلَةً</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -187,27 +158,21 @@
             <igt>
                <t>
                   <ar>بِآيَةِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>كَاْنُوْا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>ضِعَاْفًا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>وَلَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عُزْلَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -221,27 +186,21 @@
             <igt>
                <t>
                   <ar>وَلَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>سَيِّئِي</ar>
-                  <en/>
                </t>
                <t>
                   <ar>زِيٍّ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>إِذَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>تَلَبَّسُوْا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -253,29 +212,24 @@
             <igt>
                <t>
                   <ar>إِلَى</ar>
-                  <en/>
                </t>
                <t>
                   <ar>حَاْجَةٍ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>يَوْمًا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مُخَيَّسَةً</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بُزْلَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٢٧٥١٤" nbr="5">
+   <verses id="٢٧٥١٤" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -285,25 +239,21 @@
             <igt>
                <t>
                   <ar>لَاحِقُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بَطْنِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بِقَرًا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>سَمِيْنِ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="١١١٧٤" nbr="6">
+   <verses id="١١١٧٤" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -313,23 +263,18 @@
             <igt>
                <t>
                   <ar>كَأَنَّ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>أَثْوَاْبَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>نَقّاْدٍ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>قُدِرْنَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>لَهُ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -341,25 +286,21 @@
             <igt>
                <t>
                   <ar>يَعْلُو</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بِخَمْلَتِها</ar>
-                  <en/>
                </t>
                <t>
                   <ar>كَهْبَاءَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>هُدَّابَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٣٥٠٧٣" nbr="7">
+   <verses id="٣٥٠٧٣" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -369,19 +310,15 @@
             <igt>
                <t>
                   <ar>هَيْفَاءُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مُقْبِلَةً</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عَجْزَاءُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مُدْبِرَةً</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -393,25 +330,21 @@
             <igt>
                <t>
                   <ar>مَحْطُوْطَةٌ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>جُدِلَتْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>شَنْبَاءُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>أَنْيَابَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٩٣٣٣٢" nbr="8">
+   <verses id="٩٣٣٣٢" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -421,23 +354,18 @@
             <igt>
                <t>
                   <ar>مِنْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>حَبِيْبٍ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>أَوْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>أَخِي</ar>
-                  <en/>
                </t>
                <t>
                   <ar>ثِقَةٍ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -449,25 +377,21 @@
             <igt>
                <t>
                   <ar>أَوْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عَدُوٍّ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>شَاْحِطٍ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>دَاْرَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٥٦٥٣٤" nbr="9">
+   <verses id="٥٦٥٣٤" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -477,23 +401,18 @@
             <igt>
                <t>
                   <ar>أَمِنْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>دِمْنَتَيْنِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عَرَّسَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الرَّكْبُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>فِيْهِمَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -505,23 +424,18 @@
             <igt>
                <t>
                   <ar>بِحَقْلِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الرُّخَاْمَى</ar>
-                  <en/>
                </t>
                <t>
                   <ar>قَدْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عَفَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>طَلَلَاهُمَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -535,23 +449,18 @@
             <igt>
                <t>
                   <ar>أَقَاْمَتْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عَلَى</ar>
-                  <en/>
                </t>
                <t>
                   <ar>رَبْعَيْهِمَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>جَارَتَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>صَفًا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -563,25 +472,21 @@
             <igt>
                <t>
                   <ar>كُمَيْتَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الْأَعَاْلِي</ar>
-                  <en/>
                </t>
                <t>
                   <ar>جَوْنَتَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مُصْطَلَاهُمَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٥٢٢١٧" nbr="10">
+   <verses id="٥٢٢١٧" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -591,25 +496,21 @@
             <igt>
                <t>
                   <ar>الْحَزْنُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بَاْبًا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>وَالْعَقُوْرُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>كَلْبًا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٧٣٨٧٣" nbr="11">
+   <verses id="٧٣٨٧٣" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -619,23 +520,18 @@
             <igt>
                <t>
                   <ar>فَمَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>قَوْمِي</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بِثَعْلَبَةَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بْنِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>سَعْدٍ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -647,25 +543,21 @@
             <igt>
                <t>
                   <ar>وَلَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بِفَزَارَةَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الشُّعْرَى</ar>
-                  <en/>
                </t>
                <t>
                   <ar>رِقَاْبَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٣٣٤٢٢" nbr="12">
+   <verses id="٣٣٤٢٢" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -675,23 +567,18 @@
             <igt>
                <t>
                   <ar>فَمَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>قَوْمِي</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بِثَعْلَبَةَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بْنِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>سَعْدٍ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -703,25 +590,21 @@
             <igt>
                <t>
                   <ar>وَلَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بِفَزَارَةَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الشُّعْرِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الرِّقَابَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="١٦٧٠٠" nbr="13">
+   <verses id="١٦٧٠٠" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -731,23 +614,18 @@
             <igt>
                <t>
                   <ar>لَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>يَبْعَدَنْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>قَوْمِي</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الَّذِيْنَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>هُمُ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -759,19 +637,15 @@
             <igt>
                <t>
                   <ar>سَمُّ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الْعُدَاْةِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>وَآفَةُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الْجُزْرِ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -785,15 +659,12 @@
             <igt>
                <t>
                   <ar>النَّاْزِلُوْنَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بِكُلِّ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مُعْتَرَكٍ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -805,21 +676,18 @@
             <igt>
                <t>
                   <ar>وَالطَّيِّبُوْنَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مَعَاْقِدَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الْأَزْرِ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٣٠٦٤٨" nbr="14">
+   <verses id="٣٠٦٤٨" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -829,21 +697,18 @@
             <igt>
                <t>
                   <ar>الْحَاْفِظُو</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عَوْرَةَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الْعَشِيرَةِ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٠٣٥٤٦" nbr="15">
+   <verses id="٠٣٥٤٦" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -853,23 +718,18 @@
             <igt>
                <t>
                   <ar>إِذَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عَاْشَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الْفَتَى</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مِائَتَيْنِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عَاْمًا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -881,25 +741,21 @@
             <igt>
                <t>
                   <ar>فَقَدْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>أَوْدَى</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الْمَسَرَّةُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>وَالْفَتَاْءُ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٠٩٤٨١" nbr="16">
+   <verses id="٠٩٤٨١" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -909,23 +765,18 @@
             <igt>
                <t>
                   <ar>أَنْعَتُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عِيْرًا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مِن</ar>
-                  <en/>
                </t>
                <t>
                   <ar>حَمِيْرِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>خَنْزَرَهْ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -937,29 +788,24 @@
             <igt>
                <t>
                   <ar>فِي</ar>
-                  <en/>
                </t>
                <t>
                   <ar>كُلِّ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عِيْرٍ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مِائَتَاْنِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>كَمَرَهْ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨٣١٩٥" nbr="17">
+   <verses id="٨٣١٩٥" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -969,23 +815,18 @@
             <igt>
                <t>
                   <ar>بِهَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>جِيَفُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الْحَسْرَى</ar>
-                  <en/>
                </t>
                <t>
                   <ar>فَأَمَّا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عِظَاْمُهَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -997,25 +838,21 @@
             <igt>
                <t>
                   <ar>فَبِيْضٌ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>وَأَمَّا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>جِلْدُهَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>فَصَلِيْبُ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٤٢٦٤٦" nbr="18">
+   <verses id="٤٢٦٤٦" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -1025,23 +862,18 @@
             <igt>
                <t>
                   <ar>لَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>تُنْكِرُوْا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>الْقَتْلَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>وَقَدْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>سُبِينَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -1053,29 +885,24 @@
             <igt>
                <t>
                   <ar>في</ar>
-                  <en/>
                </t>
                <t>
                   <ar>حَلْقِكُمْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>عَظْمٌ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>وَقَدْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>شَجِينَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٤٢٧٤٩" nbr="19">
+   <verses id="٤٢٧٤٩" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -1085,23 +912,18 @@
             <igt>
                <t>
                   <ar>كُلُوْا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>فِي</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بَعْضِ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>بَطْنِكُمُ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>تَعِفُّوْا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -1113,19 +935,15 @@
             <igt>
                <t>
                   <ar>فَإِنَّ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>زَمَاْنَكُمْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>زَمَنٌ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>خَمِيْصُ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>

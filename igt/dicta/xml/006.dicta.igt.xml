@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="006">
-   <dictum id="٢١٣٠٥" nbr="1">
+   <dictum id="٢١٣٠٥">
       <text>
          <ar>أَتَيْتُكَ أَمْسِ</ar>
          <free>I came to you yesterday</free>
@@ -14,10 +14,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩١١٦١" nbr="2">
+   <dictum id="٩١١٦١">
       <text>
          <ar>سَآتِيْكَ غَدًا</ar>
-         <free>I will come to you tomorrow</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -28,11 +28,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٧٠٤٨" nbr="3"
-           j="*">
+   <dictum id="٧٧٠٤٨">
       <text>
          <ar>أَتَيْتُكَ غَدًا</ar>
-         <free>I came to you tomorrow</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -43,11 +42,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٤٨٢٢" nbr="4"
-           j="*">
+   <dictum id="٣٤٨٢٢">
       <text>
          <ar>سَآتِيْكَ أَمْسِ</ar>
-         <free>I will come to you yesterday</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -58,45 +56,41 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٤٢٨١" nbr="5">
+   <dictum id="٤٤٢٨١">
       <text>
          <ar>حَمَلْتُ الْجَبَلَ</ar>
-         <free>I carried the mountain</free>
+         <free/>
       </text>
       <igt>
-        <t>
-          <ar>حَمَلْتُ</ar>
-        </t>
-        <t>
-          <ar>الْجَبَلَ</ar>
+         <t>
+            <ar>حَمَلْتُ</ar>
+         </t>
+         <t>
+            <ar>الْجَبَلَ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٤٨٥٣" nbr="6">
+   <dictum id="٥٤٨٥٣">
       <text>
          <ar>شَرِبْتُ مَاْءَ الْبَحْرِ</ar>
-         <free>I drank the water(s) of the sea</free>
+         <free/>
       </text>
       <igt>
-        <t>
-          <ar>شَرِبْتُ</ar>
-        </t>
-        <t class="idafah">
-          <t class="the">
+         <t>
+            <ar>شَرِبْتُ</ar>
+         </t>
+         <t>
             <ar>مَاْءَ</ar>
-          </t>
-          <t>
+         </t>
+         <t>
             <ar>الْبَحْرِ</ar>
-          </t>
-        </t>
+         </t>
       </igt>
    </dictum>
-
-   <dictum id="٣٤٦٠٥" nbr="7"
-           j="*">
+   <dictum id="٣٤٦٠٥">
       <text>
          <ar>قَدْ زَيْدًا رَأَيْتُ</ar>
-         <free>Have Zayd I seen</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -110,11 +104,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٥٦٥٠" nbr="8"
-           j="*">
+   <dictum id="٩٥٦٥٠">
       <text>
          <ar>كَيْ زَيْدٌ يَأْتِيَكَ</ar>
-         <free>That Zady come to you</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -128,31 +121,27 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٨٤٠١" nbr="9"
-           j="*">
+   <dictum id="٤٨٤٠١">
       <text>
-         <ar>سَوْفَ أَشْرَبُ مَاءَ الْبَحْرِ أَمْسِ</ar>
-         <free>I shall drink the water of the sea yesterday</free>
+         <ar>سَوْفَ أَشْرَبُ مَاْءَ الْبَحْرِ أَمْسِ</ar>
+         <free/>
       </text>
       <igt>
-        <t>
-          <ar>سَوْفَ</ar>
-        </t>
-        <t>
-          <ar>أَشْرَبُ</ar>
-        </t>
-        <t class="idafah">
-          <t class="the">
+         <t>
+            <ar>سَوْفَ</ar>
+         </t>
+         <t>
+            <ar>أَشْرَبُ</ar>
+         </t>
+         <t>
             <ar>مَاْءَ</ar>
-            <en><ed>the</ed>water(s)</en>
-          </t>
-          <t>
+         </t>
+         <t>
             <ar>الْبَحْرِ</ar>
-          </t>
-        </t>
-        <t>
-          <ar>أَمْسِ</ar>
-        </t>
+         </t>
+         <t>
+            <ar>أَمْسِ</ar>
+         </t>
       </igt>
    </dictum>
 </dicta>
