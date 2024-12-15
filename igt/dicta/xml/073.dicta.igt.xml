@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="073">
+   <dictum id="٥٠٢٨٥">
+      <text>
+         <ar>حَنَاْنَيْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>حَنَاْنَيْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٩٥٩٩">
+      <text>
+         <ar>تَحَنُّنًا بَعْدَ تَحَنُّنٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تَحَنُّنًا</ar>
+         </t>
+         <t>
+            <ar>بَعْدَ</ar>
+         </t>
+         <t>
+            <ar>تَحَنُّنٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

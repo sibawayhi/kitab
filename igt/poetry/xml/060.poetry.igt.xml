@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="060">
+   <verses id="٩٠٠٠١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَمَا لَكَ وَالتَّلَدُّدَ حَوْلَ نَجْدٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَمَا</ar>
+               </t>
+               <t>
+                  <ar>لَكَ</ar>
+               </t>
+               <t>
+                  <ar>وَالتَّلَدُّدَ</ar>
+               </t>
+               <t>
+                  <ar>حَوْلَ</ar>
+               </t>
+               <t>
+                  <ar>نَجْدٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَقَدْ غَصَّتْ تِهَاْمَةُ بَاْلرِّجَاْلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَقَدْ</ar>
+               </t>
+               <t>
+                  <ar>غَصَّتْ</ar>
+               </t>
+               <t>
+                  <ar>تِهَاْمَةُ</ar>
+               </t>
+               <t>
+                  <ar>بَاْلرِّجَاْلِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٠٥٦٢١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَمَا لَكُم وَالفَرْطَ لَا تَقْرَبُوْنَهُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَمَا</ar>
+               </t>
+               <t>
+                  <ar>لَكُم</ar>
+               </t>
+               <t>
+                  <ar>وَالفَرْطَ</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>تَقْرَبُوْنَهُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَقَدْ خِلْتُهُ أَدْنَى مَرَدٍّ لِعَاْقِلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَقَدْ</ar>
+               </t>
+               <t>
+                  <ar>خِلْتُهُ</ar>
+               </t>
+               <t>
+                  <ar>أَدْنَى</ar>
+               </t>
+               <t>
+                  <ar>مَرَدٍّ</ar>
+               </t>
+               <t>
+                  <ar>لِعَاْقِلِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

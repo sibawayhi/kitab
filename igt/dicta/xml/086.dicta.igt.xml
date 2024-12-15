@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="086">
+   <dictum id="٩٨٠٦١">
+      <text>
+         <ar>مَرَرْتُ بِهِمْ الْجَمَّاْءَ الْغَفِيْرَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِمْ</ar>
+         </t>
+         <t>
+            <ar>الْجَمَّاْءَ</ar>
+         </t>
+         <t>
+            <ar>الْغَفِيْرَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣١١٠٧">
+      <text>
+         <ar>النَّاْسُ فِيْهِا الْجَمَّاْءَ الْغَفِيْرَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>النَّاْسُ</ar>
+         </t>
+         <t>
+            <ar>فِيْهِا</ar>
+         </t>
+         <t>
+            <ar>الْجَمَّاْءَ</ar>
+         </t>
+         <t>
+            <ar>الْغَفِيْرَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦١٩٨٢">
+      <text>
+         <ar>مَرَرْتُ بِهِمْ قَاْطِبَةً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِمْ</ar>
+         </t>
+         <t>
+            <ar>قَاْطِبَةً</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٢٣٧٣">
+      <text>
+         <ar>مَرَرْتُ بِهِمْ طُرًّا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِمْ</ar>
+         </t>
+         <t>
+            <ar>طُرًّا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩١٩٨٠">
+      <text>
+         <ar>مَرَرْتُ بِهِمْ جَمِيْعًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِمْ</ar>
+         </t>
+         <t>
+            <ar>جَمِيْعًا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

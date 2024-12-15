@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="084">
+   <dictum id="٢٨٥٨٠">
+      <text>
+         <ar>طَلَبْتَهُ جَهْدَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>طَلَبْتَهُ</ar>
+         </t>
+         <t>
+            <ar>جَهْدَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٦٢١٤">
+      <text>
+         <ar>طَلَبْتَهُ طَاْقَتَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>طَلَبْتَهُ</ar>
+         </t>
+         <t>
+            <ar>طَاْقَتَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤١٩٦١">
+      <text>
+         <ar>فَعَلْتُ طَاْقَتِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَعَلْتُ</ar>
+         </t>
+         <t>
+            <ar>طَاْقَتِي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٧٨١٨">
+      <text>
+         <ar>فَعَلَهُ رَأْيَ عَيْنِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَعَلَهُ</ar>
+         </t>
+         <t>
+            <ar>رَأْيَ</ar>
+         </t>
+         <t>
+            <ar>عَيْنِي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٤٠٤٢">
+      <text>
+         <ar>سَمْعَ أُذُنِي قَاْلَ ذَاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>سَمْعَ</ar>
+         </t>
+         <t>
+            <ar>أُذُنِي</ar>
+         </t>
+         <t>
+            <ar>قَاْلَ</ar>
+         </t>
+         <t>
+            <ar>ذَاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٨٢٦٧">
+      <text>
+         <ar>أَخَذْتُهُ عَنْهُ سَمَاْعًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَخَذْتُهُ</ar>
+         </t>
+         <t>
+            <ar>عَنْهُ</ar>
+         </t>
+         <t>
+            <ar>سَمَاْعًا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

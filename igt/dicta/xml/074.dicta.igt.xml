@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="074">
+   <dictum id="١٧١٤٦">
+      <text>
+         <ar>قَدْ أَلَبَّ فُلَاْنٌ عَلَى كَذَا وَكَذًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>أَلَبَّ</ar>
+         </t>
+         <t>
+            <ar>فُلَاْنٌ</ar>
+         </t>
+         <t>
+            <ar>عَلَى</ar>
+         </t>
+         <t>
+            <ar>كَذَا</ar>
+         </t>
+         <t>
+            <ar>وَكَذًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٩٨٥٩">
+      <text>
+         <ar>أَسْعَدَ فُلَاْنٌ فُلَاْنًا عَلَى أَمْرِهِ وَسَاْعَدَهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَسْعَدَ</ar>
+         </t>
+         <t>
+            <ar>فُلَاْنٌ</ar>
+         </t>
+         <t>
+            <ar>فُلَاْنًا</ar>
+         </t>
+         <t>
+            <ar>عَلَى</ar>
+         </t>
+         <t>
+            <ar>أَمْرِهِ</ar>
+         </t>
+         <t>
+            <ar>وَسَاْعَدَهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٩٥٢٢">
+      <text>
+         <ar>لَبَّيْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَبَّيْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٧١٥٣">
+      <text>
+         <ar>سَعْدَيْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>سَعْدَيْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

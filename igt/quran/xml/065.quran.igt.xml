@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="065">
+   <ayah id="٧٤٨٧٨" surah="" verse="">
+      <text>
+         <ar>قَاْلُوْا مَعْذِرَةٍ أِلَى رَبِّكُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَاْلُوْا</ar>
+         </t>
+         <t>
+            <ar>مَعْذِرَةٍ</ar>
+         </t>
+         <t>
+            <ar>أِلَى</ar>
+         </t>
+         <t>
+            <ar>رَبِّكُمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٥٩٩٣٥" surah="" verse="">
+      <text>
+         <ar>فصبر جميْل وَاللّٰه المستعَاْن</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فصبر</ar>
+         </t>
+         <t>
+            <ar>جميْل</ar>
+         </t>
+         <t>
+            <ar>وَاللّٰه</ar>
+         </t>
+         <t>
+            <ar>المستعَاْن</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

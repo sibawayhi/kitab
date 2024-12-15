@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="078">
+   <verses id="٠٤٧٤٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>ليُبْكَ يَزِيْدُ ضَاْرِعٌ لِخُصُوْمَةٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ليُبْكَ</ar>
+               </t>
+               <t>
+                  <ar>يَزِيْدُ</ar>
+               </t>
+               <t>
+                  <ar>ضَاْرِعٌ</ar>
+               </t>
+               <t>
+                  <ar>لِخُصُوْمَةٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَمُخْتَبِطٌ مِمَّا تُطِيْحُ الطَّوَاْئِحُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَمُخْتَبِطٌ</ar>
+               </t>
+               <t>
+                  <ar>مِمَّا</ar>
+               </t>
+               <t>
+                  <ar>تُطِيْحُ</ar>
+               </t>
+               <t>
+                  <ar>الطَّوَاْئِحُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

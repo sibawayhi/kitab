@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="087">
+   <dictum id="٨٧٠٣١">
+      <text>
+         <ar>مَرَرْتُ بِهِمْ جَمِيْعًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِمْ</ar>
+         </t>
+         <t>
+            <ar>جَمِيْعًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٣٥٧٣">
+      <text>
+         <ar>مَرَرْتُ بِهِمْ قِيَاْمًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِمْ</ar>
+         </t>
+         <t>
+            <ar>قِيَاْمًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٤٤٦٢">
+      <text>
+         <ar>كَيْفَ عَاْمَّتُكُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كَيْفَ</ar>
+         </t>
+         <t>
+            <ar>عَاْمَّتُكُمْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٣٢٦٣">
+      <text>
+         <ar>هٰؤُلَاْءِ قَوْمٌ جَمِيْعٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰؤُلَاْءِ</ar>
+         </t>
+         <t>
+            <ar>قَوْمٌ</ar>
+         </t>
+         <t>
+            <ar>جَمِيْعٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٢٦٧٨">
+      <text>
+         <ar>ضَرَبْتُهُ القَاْئِمَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ضَرَبْتُهُ</ar>
+         </t>
+         <t>
+            <ar>القَاْئِمَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٥٥٦٠">
+      <text>
+         <ar>ضَرَبْتُهُمْ قَاْئِمِيْهِمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ضَرَبْتُهُمْ</ar>
+         </t>
+         <t>
+            <ar>قَاْئِمِيْهِمْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٩٠٢٣">
+      <text>
+         <ar>هُوَ نَسِيْجُ وَحْدِهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>نَسِيْجُ</ar>
+         </t>
+         <t>
+            <ar>وَحْدِهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٠٠٢٥">
+      <text>
+         <ar>هٰذَا جُحَيْشُ وَحْدِهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>جُحَيْشُ</ar>
+         </t>
+         <t>
+            <ar>وَحْدِهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

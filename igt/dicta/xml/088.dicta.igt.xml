@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="088">
+   <dictum id="٥٩١٧٦">
+      <text>
+         <ar>هٰذَا عَبْدُ اللهِ حَقًّا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>حَقًّا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٩١٦١">
+      <text>
+         <ar>هٰذَا زَيْدٌ الْحَقَّ لَا الْبَاْطِلَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>الْحَقَّ</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>الْبَاْطِلَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٧٧٢٥">
+      <text>
+         <ar>هٰذَا زَيْدٌ غَيْرَ مَا تَقُوْلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>غَيْرَ</ar>
+         </t>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>تَقُوْلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٨٣١٤">
+      <text>
+         <ar>هٰذَا القَوْلُ لَا قَوْلَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>القَوْلُ</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>قَوْلَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٨٦١٤">
+      <text>
+         <ar>هٰذَا القَوْلُ لَا مَا تَقُوْلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>القَوْلُ</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>تَقُوْلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٩٠٤٣">
+      <text>
+         <ar>أَجِدَّكَ لَا تَفْعَلُ كَذَا وَكَذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَجِدَّكَ</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>تَفْعَلُ</ar>
+         </t>
+         <t>
+            <ar>كَذَا</ar>
+         </t>
+         <t>
+            <ar>وَكَذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٦٢٣٧">
+      <text>
+         <ar>أَحَقًّا لَا تَفْعَلُ كَذَا وَكَذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَحَقًّا</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>تَفْعَلُ</ar>
+         </t>
+         <t>
+            <ar>كَذَا</ar>
+         </t>
+         <t>
+            <ar>وَكَذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢١٦١٠">
+      <text>
+         <ar>أَجِدًّا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَجِدًّا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٠٢٤٤">
+      <text>
+         <ar>هٰذَا الْأَمْرُ غَيْرَ قِيْلٍ بَاْطِلٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>الْأَمْرُ</ar>
+         </t>
+         <t>
+            <ar>غَيْرَ</ar>
+         </t>
+         <t>
+            <ar>قِيْلٍ</ar>
+         </t>
+         <t>
+            <ar>بَاْطِلٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٣٨٢٥">
+      <text>
+         <ar>قَدْ قَعَدَ الْبَتَّةَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>قَعَدَ</ar>
+         </t>
+         <t>
+            <ar>الْبَتَّةَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

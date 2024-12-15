@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="090">
+   <ayah id="٥٤٤٧٦" surah="٢" verse="٤٨">
+      <text>
+         <ar>يَوْمًا لَّا تَجْزِي نَفْسٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَوْمًا</ar>
+         </t>
+         <t>
+            <ar>لَّا</ar>
+         </t>
+         <t>
+            <ar>تَجْزِي</ar>
+         </t>
+         <t>
+            <ar>نَفْسٌ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

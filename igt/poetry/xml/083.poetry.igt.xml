@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="083">
+   <verses id="٦١١٤٣" poet="لبيَدُ بن رَبيْعَةَ">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فأَرْسَلَهَا الْعِرَاْكَ وَلَمْ يَذُدْهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فأَرْسَلَهَا</ar>
+               </t>
+               <t>
+                  <ar>الْعِرَاْكَ</ar>
+               </t>
+               <t>
+                  <ar>وَلَمْ</ar>
+               </t>
+               <t>
+                  <ar>يَذُدْهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَلَمْ يُشْفِقْ عَلَى نَغَصِ الدَّخَاْلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَلَمْ</ar>
+               </t>
+               <t>
+                  <ar>يُشْفِقْ</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>نَغَصِ</ar>
+               </t>
+               <t>
+                  <ar>الدَّخَاْلِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

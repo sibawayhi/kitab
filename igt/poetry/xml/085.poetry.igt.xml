@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="085">
+   <verses id="٦٠٧٢٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَتَتْنِي سُلَيْمٌ قَضَّهَا بِقَضِيْضِهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَتَتْنِي</ar>
+               </t>
+               <t>
+                  <ar>سُلَيْمٌ</ar>
+               </t>
+               <t>
+                  <ar>قَضَّهَا</ar>
+               </t>
+               <t>
+                  <ar>بِقَضِيْضِهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>تُمَسِّحُ حَوْلِي بِاْلبَقِيْعِ سِبَاْلَهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تُمَسِّحُ</ar>
+               </t>
+               <t>
+                  <ar>حَوْلِي</ar>
+               </t>
+               <t>
+                  <ar>بِاْلبَقِيْعِ</ar>
+               </t>
+               <t>
+                  <ar>سِبَاْلَهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="066">
+   <ayah id="٤٢٥٢٤" surah="" verse="">
+      <text>
+         <ar>وَإِذَا خَاْطبهم الجَاْهَلْوْن قَاْلُوْا سلَاْمَاْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَإِذَا</ar>
+         </t>
+         <t>
+            <ar>خَاْطبهم</ar>
+         </t>
+         <t>
+            <ar>الجَاْهَلْوْن</ar>
+         </t>
+         <t>
+            <ar>قَاْلُوْا</ar>
+         </t>
+         <t>
+            <ar>سلَاْمَاْ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="١٢٨٠١" surah="" verse="">
+      <text>
+         <ar>وَيَقُوْلُوْنَ حجرا محجوْرَاْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَيَقُوْلُوْنَ</ar>
+         </t>
+         <t>
+            <ar>حجرا</ar>
+         </t>
+         <t>
+            <ar>محجوْرَاْ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

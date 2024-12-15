@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="055">
+   <dictum id="٠٣٥٥١">
+      <text>
+         <ar>إِيّاْكَ أَنْتَ نَفْسُكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِيّاْكَ</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>نَفْسُكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٩١٧٧">
+      <text>
+         <ar>إِيّاْكَ نَحِّ أَنْتَ نَفْسُكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِيّاْكَ</ar>
+         </t>
+         <t>
+            <ar>نَحِّ</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>نَفْسُكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٤٥٤٨">
+      <text>
+         <ar>إِيَّاْكَ نَفْسُكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِيَّاْكَ</ar>
+         </t>
+         <t>
+            <ar>نَفْسُكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

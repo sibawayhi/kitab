@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="075">
+   <ayah id="٧٤٣٨٦" surah="" verse="">
+      <text>
+         <ar>وَجَاْعِلُ اللَّيْلِ سَكَنًا وَالشَّمْسَ وَالْقَمَرَ حُسْبَاْنًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَجَاْعِلُ</ar>
+         </t>
+         <t>
+            <ar>اللَّيْلِ</ar>
+         </t>
+         <t>
+            <ar>سَكَنًا</ar>
+         </t>
+         <t>
+            <ar>وَالشَّمْسَ</ar>
+         </t>
+         <t>
+            <ar>وَالْقَمَرَ</ar>
+         </t>
+         <t>
+            <ar>حُسْبَاْنًا</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

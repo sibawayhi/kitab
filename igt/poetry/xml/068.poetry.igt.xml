@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="068">
+   <verses id="١٨٩٩٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كَسَا اللُّؤْمُ تَيْمًا خُضْرَةً فِي جُلوْدِهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَسَا</ar>
+               </t>
+               <t>
+                  <ar>اللُّؤْمُ</ar>
+               </t>
+               <t>
+                  <ar>تَيْمًا</ar>
+               </t>
+               <t>
+                  <ar>خُضْرَةً</ar>
+               </t>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>جُلوْدِهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَوْيْلًا لتيْمٍ مِنْ سرَاْبِيْلهَا الخُضْرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَوْيْلًا</ar>
+               </t>
+               <t>
+                  <ar>لتيْمٍ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>سرَاْبِيْلهَا</ar>
+               </t>
+               <t>
+                  <ar>الخُضْرِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

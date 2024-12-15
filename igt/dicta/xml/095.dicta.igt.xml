@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="095">
+   <dictum id="٧٦٧١١">
+      <text>
+         <ar>أَبِيْعُكَهُ السَّاْعَةَ نَاْجِزًا بِنَاْجِزٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَبِيْعُكَهُ</ar>
+         </t>
+         <t>
+            <ar>السَّاْعَةَ</ar>
+         </t>
+         <t>
+            <ar>نَاْجِزًا</ar>
+         </t>
+         <t>
+            <ar>بِنَاْجِزٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٧٥٨١">
+      <text>
+         <ar>سَاْدُوْكَ كَاْبِرًا عَنْ كَاْبِرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>سَاْدُوْكَ</ar>
+         </t>
+         <t>
+            <ar>كَاْبِرًا</ar>
+         </t>
+         <t>
+            <ar>عَنْ</ar>
+         </t>
+         <t>
+            <ar>كَاْبِرٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٠٨٢٥">
+      <text>
+         <ar>بِعْتُهُ رَأْسًا بِرأْسٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>بِعْتُهُ</ar>
+         </t>
+         <t>
+            <ar>رَأْسًا</ar>
+         </t>
+         <t>
+            <ar>بِرأْسٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

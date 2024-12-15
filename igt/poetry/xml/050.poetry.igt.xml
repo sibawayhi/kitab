@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="050">
+   <verses id="٧٩٨٦١" poet="جَرِيْرٌ">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>خَلِّ الطَّرِيْقَ لِمَنْ يَبْنِي الْمَنَاْرَ بِهِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>خَلِّ</ar>
+               </t>
+               <t>
+                  <ar>الطَّرِيْقَ</ar>
+               </t>
+               <t>
+                  <ar>لِمَنْ</ar>
+               </t>
+               <t>
+                  <ar>يَبْنِي</ar>
+               </t>
+               <t>
+                  <ar>الْمَنَاْرَ</ar>
+               </t>
+               <t>
+                  <ar>بِهِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَاْبْرُزْ بِبَرْزَةَ حَيْثُ اضْطَرَّكَ الْقَدَرُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَاْبْرُزْ</ar>
+               </t>
+               <t>
+                  <ar>بِبَرْزَةَ</ar>
+               </t>
+               <t>
+                  <ar>حَيْثُ</ar>
+               </t>
+               <t>
+                  <ar>اضْطَرَّكَ</ar>
+               </t>
+               <t>
+                  <ar>الْقَدَرُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٦٧٤٩٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَخَاْلَ أَخَاْكَ إِنَّ مَنْ لَا أَخًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَخَاْلَ</ar>
+               </t>
+               <t>
+                  <ar>أَخَاْكَ</ar>
+               </t>
+               <t>
+                  <ar>إِنَّ</ar>
+               </t>
+               <t>
+                  <ar>مَنْ</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>أَخًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>لَهُ كَسَاْعٍ إِلَى الْهَيْجَا بِغَيْرِ سِلَاْحِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لَهُ</ar>
+               </t>
+               <t>
+                  <ar>كَسَاْعٍ</ar>
+               </t>
+               <t>
+                  <ar>إِلَى</ar>
+               </t>
+               <t>
+                  <ar>الْهَيْجَا</ar>
+               </t>
+               <t>
+                  <ar>بِغَيْرِ</ar>
+               </t>
+               <t>
+                  <ar>سِلَاْحِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="096">
+   <verses id="١٣٨٢١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>ليُبْكَ يَزَيْدُ ضَاْرِعٌ لخصُوَمةٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ليُبْكَ</ar>
+               </t>
+               <t>
+                  <ar>يَزَيْدُ</ar>
+               </t>
+               <t>
+                  <ar>ضَاْرِعٌ</ar>
+               </t>
+               <t>
+                  <ar>لخصُوَمةٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٤٥٣٧٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَيَأْوِي أِلَى نِسْوَةٍ عُطَّلٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَيَأْوِي</ar>
+               </t>
+               <t>
+                  <ar>أِلَى</ar>
+               </t>
+               <t>
+                  <ar>نِسْوَةٍ</ar>
+               </t>
+               <t>
+                  <ar>عُطَّلٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَشُعْثٍ مَرَاْضِيْعَ مِثْلِ السَّعَاْلِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَشُعْثٍ</ar>
+               </t>
+               <t>
+                  <ar>مَرَاْضِيْعَ</ar>
+               </t>
+               <t>
+                  <ar>مِثْلِ</ar>
+               </t>
+               <t>
+                  <ar>السَّعَاْلِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

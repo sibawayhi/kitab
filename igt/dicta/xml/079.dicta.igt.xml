@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="079">
+   <dictum id="٠٦٥٢٢">
+      <text>
+         <ar>لَهُ يَدٌ يَدُ الثَّوْرِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+         <t>
+            <ar>يَدٌ</ar>
+         </t>
+         <t>
+            <ar>يَدُ</ar>
+         </t>
+         <t>
+            <ar>الثَّوْرِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٨٧٣٠">
+      <text>
+         <ar>لَهُ رَأْسٌ رَأْسُ الْحِمَاْرِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+         <t>
+            <ar>رَأْسٌ</ar>
+         </t>
+         <t>
+            <ar>رَأْسُ</ar>
+         </t>
+         <t>
+            <ar>الْحِمَاْرِ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

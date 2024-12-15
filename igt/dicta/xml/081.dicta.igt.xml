@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="081">
+   <dictum id="٢٥٩٠٤">
+      <text>
+         <ar>فَعَلْتُ ذَاْكَ حِذَاْرَ الشَّرِّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَعَلْتُ</ar>
+         </t>
+         <t>
+            <ar>ذَاْكَ</ar>
+         </t>
+         <t>
+            <ar>حِذَاْرَ</ar>
+         </t>
+         <t>
+            <ar>الشَّرِّ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٥٠٢٨">
+      <text>
+         <ar>فَعَلْتُ ذٰلِكَ مَخَاْفَةَ فُلَاْنٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَعَلْتُ</ar>
+         </t>
+         <t>
+            <ar>ذٰلِكَ</ar>
+         </t>
+         <t>
+            <ar>مَخَاْفَةَ</ar>
+         </t>
+         <t>
+            <ar>فُلَاْنٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٦٤٢٠">
+      <text>
+         <ar>ادَّخَاْرَ فَلَاْنٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ادَّخَاْرَ</ar>
+         </t>
+         <t>
+            <ar>فَلَاْنٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

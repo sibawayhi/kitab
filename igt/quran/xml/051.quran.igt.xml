@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="051">
+   <ayah id="١٧٨٨١" surah="" verse="">
+      <text>
+         <ar>بَلْ مِلَّةَ إِبْرَاْهِيْمَ حَنِيْفًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>بَلْ</ar>
+         </t>
+         <t>
+            <ar>مِلَّةَ</ar>
+         </t>
+         <t>
+            <ar>إِبْرَاْهِيْمَ</ar>
+         </t>
+         <t>
+            <ar>حَنِيْفًا</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

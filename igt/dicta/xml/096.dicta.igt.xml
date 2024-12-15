@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="096">
+   <dictum id="٩٧٢٠٣">
+      <text>
+         <ar>فَاْهُ أِلَى فِيَّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَاْهُ</ar>
+         </t>
+         <t>
+            <ar>أِلَى</ar>
+         </t>
+         <t>
+            <ar>فِيَّ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٩٣٣٧">
+      <text>
+         <ar>عَوْدَهُ عَلَى بَدْئِهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَوْدَهُ</ar>
+         </t>
+         <t>
+            <ar>عَلَى</ar>
+         </t>
+         <t>
+            <ar>بَدْئِهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٢٥٣٢">
+      <text>
+         <ar>دَخَلُوْا الْأَوَّلَ فَاْلْأَوَّلَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>دَخَلُوْا</ar>
+         </t>
+         <t>
+            <ar>الْأَوَّلَ</ar>
+         </t>
+         <t>
+            <ar>فَاْلْأَوَّلَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٩٦١٤">
+      <text>
+         <ar>وَاْحِدًا فَوَاْحِدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَاْحِدًا</ar>
+         </t>
+         <t>
+            <ar>فَوَاْحِدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٢٦٣٠">
+      <text>
+         <ar>دَخَلُوْا رَجُلًا رَجُلًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>دَخَلُوْا</ar>
+         </t>
+         <t>
+            <ar>رَجُلًا</ar>
+         </t>
+         <t>
+            <ar>رَجُلًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٠٠٣٥">
+      <text>
+         <ar>دَخَلُوْا الْأَوَّلُ فَاْلْأَوَّلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>دَخَلُوْا</ar>
+         </t>
+         <t>
+            <ar>الْأَوَّلُ</ar>
+         </t>
+         <t>
+            <ar>فَاْلْأَوَّلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٥٣٦٦">
+      <text>
+         <ar>دَخَلَ الْأَوَّلُ فَاْلْأَوَّلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>دَخَلَ</ar>
+         </t>
+         <t>
+            <ar>الْأَوَّلُ</ar>
+         </t>
+         <t>
+            <ar>فَاْلْأَوَّلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٥٦٩٢">
+      <text>
+         <ar>دَخَلُوْا رَجُلٌ فَرَجُلٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>دَخَلُوْا</ar>
+         </t>
+         <t>
+            <ar>رَجُلٌ</ar>
+         </t>
+         <t>
+            <ar>فَرَجُلٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٤٦١٩">
+      <text>
+         <ar>اُدْخُلُوْا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اُدْخُلُوْا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٣٨٨٤">
+      <text>
+         <ar>اُدْخُلُ الْأَوَّلُ فَاْلْأَوَّلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اُدْخُلُ</ar>
+         </t>
+         <t>
+            <ar>الْأَوَّلُ</ar>
+         </t>
+         <t>
+            <ar>فَاْلْأَوَّلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٣٨٩١">
+      <text>
+         <ar>رَجُلٌ رَجُلٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَجُلٌ</ar>
+         </t>
+         <t>
+            <ar>رَجُلٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣١٩١٩">
+      <text>
+         <ar>قَوْمُكَ الْأَوَّلُ فَاْلْأَوَّلُ أَتَوْنَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَوْمُكَ</ar>
+         </t>
+         <t>
+            <ar>الْأَوَّلُ</ar>
+         </t>
+         <t>
+            <ar>فَاْلْأَوَّلُ</ar>
+         </t>
+         <t>
+            <ar>أَتَوْنَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٥٧٧٠" j="*">
+      <text>
+         <ar>مَرَرْتُ بِهِ وَاحِدَهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِ</ar>
+         </t>
+         <t>
+            <ar>وَاحِدَهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٨٤٦٤">
+      <text>
+         <ar>ادْخُلُوْا الأَوَّلُ فَاْلْأَوَّلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ادْخُلُوْا</ar>
+         </t>
+         <t>
+            <ar>الأَوَّلُ</ar>
+         </t>
+         <t>
+            <ar>فَاْلْأَوَّلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٠٥٣٩">
+      <text>
+         <ar>ادْخُلُوْا الْأَوَّلُ وَالْآخِرُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ادْخُلُوْا</ar>
+         </t>
+         <t>
+            <ar>الْأَوَّلُ</ar>
+         </t>
+         <t>
+            <ar>وَالْآخِرُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٠٥٨١">
+      <text>
+         <ar>الصَّغِيْرُ وَالْكَبِيْرُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>الصَّغِيْرُ</ar>
+         </t>
+         <t>
+            <ar>وَالْكَبِيْرُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٥٩١٣">
+      <text>
+         <ar>لِيَدْخُلُوْا كُلُّهُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لِيَدْخُلُوْا</ar>
+         </t>
+         <t>
+            <ar>كُلُّهُمْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٦٢٠٩">
+      <text>
+         <ar>مَرَرْتُ بِزَيْدٍ أَخِيْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>أَخِيْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٢٣٦٣">
+      <text>
+         <ar>صَاْحِبِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>صَاْحِبِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٧٨٥٣">
+      <text>
+         <ar>مَرَرْتُ بِزَيْدٍ أَخِيْكَ فَصَاْحِبِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>أَخِيْكَ</ar>
+         </t>
+         <t>
+            <ar>فَصَاْحِبِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٥١٦٥">
+      <text>
+         <ar>زَيْدٌ أَخُوْكَ فَصَاْحِبُكَ ذَاْهِبٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>أَخُوْكَ</ar>
+         </t>
+         <t>
+            <ar>فَصَاْحِبُكَ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٣٤٣٠">
+      <text>
+         <ar>ادْخُلُوْا الْأَوَّلُ فَاْلْأَوَّلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ادْخُلُوْا</ar>
+         </t>
+         <t>
+            <ar>الْأَوَّلُ</ar>
+         </t>
+         <t>
+            <ar>فَاْلْأَوَّلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥١١٣٧">
+      <text>
+         <ar>الْأَوْسَطُ وَالْآخِرُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>الْأَوْسَطُ</ar>
+         </t>
+         <t>
+            <ar>وَالْآخِرُ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

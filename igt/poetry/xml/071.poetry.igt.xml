@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="071">
+   <verses id="١٥٦٥٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَلْحِقْ عَذَاْبَك بَاْلقَوْم الَّذِيْنَ طَغَوْا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَلْحِقْ</ar>
+               </t>
+               <t>
+                  <ar>عَذَاْبَك</ar>
+               </t>
+               <t>
+                  <ar>بَاْلقَوْم</ar>
+               </t>
+               <t>
+                  <ar>الَّذِيْنَ</ar>
+               </t>
+               <t>
+                  <ar>طَغَوْا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَعَاْئذَا بك أَنْ يَعْلُوْا فيُطْغوْنِى</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَعَاْئذَا</ar>
+               </t>
+               <t>
+                  <ar>بك</ar>
+               </t>
+               <t>
+                  <ar>أَنْ</ar>
+               </t>
+               <t>
+                  <ar>يَعْلُوْا</ar>
+               </t>
+               <t>
+                  <ar>فيُطْغوْنِى</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢٨٦٠٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَرَاْكَ جَمَعْتَ مَسْأَلَةً وَحِرْصًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَرَاْكَ</ar>
+               </t>
+               <t>
+                  <ar>جَمَعْتَ</ar>
+               </t>
+               <t>
+                  <ar>مَسْأَلَةً</ar>
+               </t>
+               <t>
+                  <ar>وَحِرْصًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَعِنْدَ الْحَقِّ زَحَّاْرًا أُنَاْنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَعِنْدَ</ar>
+               </t>
+               <t>
+                  <ar>الْحَقِّ</ar>
+               </t>
+               <t>
+                  <ar>زَحَّاْرًا</ar>
+               </t>
+               <t>
+                  <ar>أُنَاْنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

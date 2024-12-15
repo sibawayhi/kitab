@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="052">
+   <ayah id="٢٣٠٨٦" surah="" verse="">
+      <text>
+         <ar>وَإِنْ كَاْنَ ذُو عُسْرَةٍ فَنَظْرَةٌ إِلَى مَيْسَرَةٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَإِنْ</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>ذُو</ar>
+         </t>
+         <t>
+            <ar>عُسْرَةٍ</ar>
+         </t>
+         <t>
+            <ar>فَنَظْرَةٌ</ar>
+         </t>
+         <t>
+            <ar>إِلَى</ar>
+         </t>
+         <t>
+            <ar>مَيْسَرَةٍ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٠٠٥٩٣" surah="" verse="">
+      <text>
+         <ar>فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاْءً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَإِمَّا</ar>
+         </t>
+         <t>
+            <ar>مَنًّا</ar>
+         </t>
+         <t>
+            <ar>بَعْدُ</ar>
+         </t>
+         <t>
+            <ar>وَإِمَّا</ar>
+         </t>
+         <t>
+            <ar>فِدَاْءً</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

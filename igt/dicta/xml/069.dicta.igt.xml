@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="069">
+   <dictum id="٠٩٩٥٢">
+      <text>
+         <ar>وَيْحٌ لَهُ وَتَبٌّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَيْحٌ</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+         <t>
+            <ar>وَتَبٌّ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٢٠٦٠">
+      <text>
+         <ar>تبًّا لَكَ وَوَيْحًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تبًّا</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+         <t>
+            <ar>وَوَيْحًا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="056">
+   <ayah id="٦٠٧٠٠" surah="" verse="">
+      <text>
+         <ar>اْنْتَهُوْا خَيْرًا لَكُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اْنْتَهُوْا</ar>
+         </t>
+         <t>
+            <ar>خَيْرًا</ar>
+         </t>
+         <t>
+            <ar>لَكُمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٦٥٦٠٩" surah="" verse="">
+      <text>
+         <ar>وَرَاْءَكَ أَوْسَعَ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَرَاْءَكَ</ar>
+         </t>
+         <t>
+            <ar>أَوْسَعَ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٨٠٩٠٤" surah="" verse="">
+      <text>
+         <ar>وَكَذٰلِكَ زيْن لكَثِيْر مِنَ المّشركيْن قتل أوْلَاْدهم شركَاْؤهم</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَكَذٰلِكَ</ar>
+         </t>
+         <t>
+            <ar>زيْن</ar>
+         </t>
+         <t>
+            <ar>لكَثِيْر</ar>
+         </t>
+         <t>
+            <ar>مِنَ</ar>
+         </t>
+         <t>
+            <ar>المّشركيْن</ar>
+         </t>
+         <t>
+            <ar>قتل</ar>
+         </t>
+         <t>
+            <ar>أوْلَاْدهم</ar>
+         </t>
+         <t>
+            <ar>شركَاْؤهم</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

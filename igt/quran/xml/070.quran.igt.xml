@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="070">
+   <ayah id="٥٧٧٥١" surah="" verse="">
+      <text>
+         <ar>فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فَدَاْءً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَإِمَّا</ar>
+         </t>
+         <t>
+            <ar>مَنًّا</ar>
+         </t>
+         <t>
+            <ar>بَعْدُ</ar>
+         </t>
+         <t>
+            <ar>وَإِمَّا</ar>
+         </t>
+         <t>
+            <ar>فَدَاْءً</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="090">
+   <verses id="٦٧٤٩٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَلَا لَيْتَ شِعْرِي هَلْ أِلَى أُمِّ مَعْمَرٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَلَا</ar>
+               </t>
+               <t>
+                  <ar>لَيْتَ</ar>
+               </t>
+               <t>
+                  <ar>شِعْرِي</ar>
+               </t>
+               <t>
+                  <ar>هَلْ</ar>
+               </t>
+               <t>
+                  <ar>أِلَى</ar>
+               </t>
+               <t>
+                  <ar>أُمِّ</ar>
+               </t>
+               <t>
+                  <ar>مَعْمَرٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>سَبِيْلٌ فَأَمَّا الصَّبْرَ عَنْهُا فَلَا صَبْرًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>سَبِيْلٌ</ar>
+               </t>
+               <t>
+                  <ar>فَأَمَّا</ar>
+               </t>
+               <t>
+                  <ar>الصَّبْرَ</ar>
+               </t>
+               <t>
+                  <ar>عَنْهُا</ar>
+               </t>
+               <t>
+                  <ar>فَلَا</ar>
+               </t>
+               <t>
+                  <ar>صَبْرًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٧٣٢٩٢" poet="عَبْدُ الرَّحْمٰنِ بِْن حَسَّاْن">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>إِلَا يَا لَيْلَ وَيْحَكِ نَبِّئِيْنًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِلَا</ar>
+               </t>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>لَيْلَ</ar>
+               </t>
+               <t>
+                  <ar>وَيْحَكِ</ar>
+               </t>
+               <t>
+                  <ar>نَبِّئِيْنًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فأَمَّا الجُوْدُ مِنْكِ فَلَيْسَ جُوْدُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فأَمَّا</ar>
+               </t>
+               <t>
+                  <ar>الجُوْدُ</ar>
+               </t>
+               <t>
+                  <ar>مِنْكِ</ar>
+               </t>
+               <t>
+                  <ar>فَلَيْسَ</ar>
+               </t>
+               <t>
+                  <ar>جُوْدُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

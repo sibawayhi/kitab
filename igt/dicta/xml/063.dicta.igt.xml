@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="063">
+   <dictum id="١٤٧٩٥">
+      <text>
+         <ar>هَنِيْئًا مَرِيْئًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَنِيْئًا</ar>
+         </t>
+         <t>
+            <ar>مَرِيْئًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٨١٩٧">
+      <text>
+         <ar>ثَبَتَ لَكَ هَنِيْئًا مَرِيْئًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ثَبَتَ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+         <t>
+            <ar>هَنِيْئًا</ar>
+         </t>
+         <t>
+            <ar>مَرِيْئًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٥١٤٣">
+      <text>
+         <ar>هَنَأَهُ ذٰلِكَ هَنِيْئًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَنَأَهُ</ar>
+         </t>
+         <t>
+            <ar>ذٰلِكَ</ar>
+         </t>
+         <t>
+            <ar>هَنِيْئًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٣٧٢٠">
+      <text>
+         <ar>هَنِيْئًا مَرِيْئًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَنِيْئًا</ar>
+         </t>
+         <t>
+            <ar>مَرِيْئًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٥٣٧٧">
+      <text>
+         <ar>ثَبَتَ ذٰلِكَ لَهُ هَنِيْئًا مَرِيْئًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ثَبَتَ</ar>
+         </t>
+         <t>
+            <ar>ذٰلِكَ</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+         <t>
+            <ar>هَنِيْئًا</ar>
+         </t>
+         <t>
+            <ar>مَرِيْئًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٤٥١٧">
+      <text>
+         <ar>هَنَأَهُ ذٰلِكَ هَنِيْئًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَنَأَهُ</ar>
+         </t>
+         <t>
+            <ar>ذٰلِكَ</ar>
+         </t>
+         <t>
+            <ar>هَنِيْئًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣١٦٤٨">
+      <text>
+         <ar>هَنَأَكَ ذٰلِكَ هَنِيْئًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَنَأَكَ</ar>
+         </t>
+         <t>
+            <ar>ذٰلِكَ</ar>
+         </t>
+         <t>
+            <ar>هَنِيْئًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٨٥٧٥">
+      <text>
+         <ar>هَنِيْئًا لَهُ الظَّفْرُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَنِيْئًا</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+         <t>
+            <ar>الظَّفْرُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٣٨٧٥">
+      <text>
+         <ar>لِيَهْنِئْ لَهُ الظَّفْرُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لِيَهْنِئْ</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+         <t>
+            <ar>الظَّفْرُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٠٩٦٢">
+      <text>
+         <ar>لِيَهْنِئْ لَهُ الظَّفْرُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لِيَهْنِئْ</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+         <t>
+            <ar>الظَّفْرُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٩٦٥٢">
+      <text>
+         <ar>هَنِيْئًا لَهُ الظَّفْرُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَنِيْئًا</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+         <t>
+            <ar>الظَّفْرُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٢٦٢٢">
+      <text>
+         <ar>هَنَأَهُ ذٰلِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَنَأَهُ</ar>
+         </t>
+         <t>
+            <ar>ذٰلِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

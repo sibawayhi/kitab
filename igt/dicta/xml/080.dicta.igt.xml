@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="080">
+   <dictum id="٨٠٧٢٦">
+      <text>
+         <ar>صَوْتُهُ صَوْتُ حِمَاْرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>صَوْتُهُ</ar>
+         </t>
+         <t>
+            <ar>صَوْتُ</ar>
+         </t>
+         <t>
+            <ar>حِمَاْرٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٢٥٨١">
+      <text>
+         <ar>تَلْوِيْحُهُ تَضْمِيْرُكَ السَّاْبِقَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تَلْوِيْحُهُ</ar>
+         </t>
+         <t>
+            <ar>تَضْمِيْرُكَ</ar>
+         </t>
+         <t>
+            <ar>السَّاْبِقَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٩٨٠١">
+      <text>
+         <ar>وَجْدِي بِهَا وَجْدُ الثَّكْلَى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَجْدِي</ar>
+         </t>
+         <t>
+            <ar>بِهَا</ar>
+         </t>
+         <t>
+            <ar>وَجْدُ</ar>
+         </t>
+         <t>
+            <ar>الثَّكْلَى</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٤١٤٥">
+      <text>
+         <ar>زَيْدٌ أَخُوْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>أَخُوْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٢٨٧٧">
+      <text>
+         <ar>مَرَرْتُ بِهِ فَصَوْتُهُ صَوْتُ حِمَاْرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِ</ar>
+         </t>
+         <t>
+            <ar>فَصَوْتُهُ</ar>
+         </t>
+         <t>
+            <ar>صَوْتُ</ar>
+         </t>
+         <t>
+            <ar>حِمَاْرٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

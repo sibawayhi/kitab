@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="094">
+   <dictum id="٨٢٤٢١">
+      <text>
+         <ar>مَرَرْتُ بِبُرٍّ قَبْلُ قَفِيْزٌ بِدِرْهَمٍ قَفِيْزٌ بِدِرْهَمٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِبُرٍّ</ar>
+         </t>
+         <t>
+            <ar>قَبْلُ</ar>
+         </t>
+         <t>
+            <ar>قَفِيْزٌ</ar>
+         </t>
+         <t>
+            <ar>بِدِرْهَمٍ</ar>
+         </t>
+         <t>
+            <ar>قَفِيْزٌ</ar>
+         </t>
+         <t>
+            <ar>بِدِرْهَمٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٩٩٤٧">
+      <text>
+         <ar>مَرَرْتُ بِبُرٍّ قَبْلُ قَفِيْزٌ بِدِرْهَمٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِبُرٍّ</ar>
+         </t>
+         <t>
+            <ar>قَبْلُ</ar>
+         </t>
+         <t>
+            <ar>قَفِيْزٌ</ar>
+         </t>
+         <t>
+            <ar>بِدِرْهَمٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

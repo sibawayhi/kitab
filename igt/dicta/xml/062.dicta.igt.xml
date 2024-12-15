@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="062">
+   <dictum id="٨٩٦٧٥">
+      <text>
+         <ar>تُرْبًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تُرْبًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٧٠٦٢">
+      <text>
+         <ar>جَنْدَلًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>جَنْدَلًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٢٦٢٨">
+      <text>
+         <ar>تُرْبًا لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تُرْبًا</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٤٥٨٧">
+      <text>
+         <ar>أَلْزَمَكَ اللهُ وَأَطْعَمَكَ اللهُ تُرْبًا وَجَنْدَلًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَلْزَمَكَ</ar>
+         </t>
+         <t>
+            <ar>اللهُ</ar>
+         </t>
+         <t>
+            <ar>وَأَطْعَمَكَ</ar>
+         </t>
+         <t>
+            <ar>اللهُ</ar>
+         </t>
+         <t>
+            <ar>تُرْبًا</ar>
+         </t>
+         <t>
+            <ar>وَجَنْدَلًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٦٦٤٨">
+      <text>
+         <ar>تَرِبَتْ يَدَاْك وَجُنْدِلْتَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تَرِبَتْ</ar>
+         </t>
+         <t>
+            <ar>يَدَاْك</ar>
+         </t>
+         <t>
+            <ar>وَجُنْدِلْتَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٦١١٦">
+      <text>
+         <ar>تُرْبًا لِفِيْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تُرْبًا</ar>
+         </t>
+         <t>
+            <ar>لِفِيْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٨٨٤٥">
+      <text>
+         <ar>دَهَاْكَ اللهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>دَهَاْكَ</ar>
+         </t>
+         <t>
+            <ar>اللهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="068">
+   <ayah id="٠٠٦٤٨" surah="" verse="">
+      <text>
+         <ar>لَعْنَةُ اللهِ عَلَى الظَّاْلِمِيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَعْنَةُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>عَلَى</ar>
+         </t>
+         <t>
+            <ar>الظَّاْلِمِيْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤٧٠٠٠" surah="" verse="">
+      <text>
+         <ar>طُوْبَى لَهُمْ وَحُسنُ مآبٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>طُوْبَى</ar>
+         </t>
+         <t>
+            <ar>لَهُمْ</ar>
+         </t>
+         <t>
+            <ar>وَحُسنُ</ar>
+         </t>
+         <t>
+            <ar>مآبٍ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٩٤٩٦٣" surah="" verse="">
+      <text>
+         <ar>وَيْل يَوْمئذ للمكذبَيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَيْل</ar>
+         </t>
+         <t>
+            <ar>يَوْمئذ</ar>
+         </t>
+         <t>
+            <ar>للمكذبَيْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٧٦٩٥٣" surah="" verse="">
+      <text>
+         <ar>وَيْلٌ لِلْمُطَفَّففِيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَيْلٌ</ar>
+         </t>
+         <t>
+            <ar>لِلْمُطَفَّففِيْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤٩١٤٩" surah="" verse="">
+      <text>
+         <ar>فقَوْلا لَهُ قَوْلا ليْنا لعله يتذكر أَوْ يخشى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فقَوْلا</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+         <t>
+            <ar>قَوْلا</ar>
+         </t>
+         <t>
+            <ar>ليْنا</ar>
+         </t>
+         <t>
+            <ar>لعله</ar>
+         </t>
+         <t>
+            <ar>يتذكر</ar>
+         </t>
+         <t>
+            <ar>أَوْ</ar>
+         </t>
+         <t>
+            <ar>يخشى</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤٥٥١٩" surah="" verse="">
+      <text>
+         <ar>قَاْتلهم الله</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَاْتلهم</ar>
+         </t>
+         <t>
+            <ar>الله</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

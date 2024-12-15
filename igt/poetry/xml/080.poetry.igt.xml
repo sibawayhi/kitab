@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="080">
+   <verses id="٩٤٠٧٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَجْدِي بِهَا وَجْدُ المُضِلِّ بَعِيْرَهُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَجْدِي</ar>
+               </t>
+               <t>
+                  <ar>بِهَا</ar>
+               </t>
+               <t>
+                  <ar>وَجْدُ</ar>
+               </t>
+               <t>
+                  <ar>المُضِلِّ</ar>
+               </t>
+               <t>
+                  <ar>بَعِيْرَهُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>بِنَخْلَةَ لَمْ تَعْطِفْ عَلَيْهِ الْعَوَاْطِفُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بِنَخْلَةَ</ar>
+               </t>
+               <t>
+                  <ar>لَمْ</ar>
+               </t>
+               <t>
+                  <ar>تَعْطِفْ</ar>
+               </t>
+               <t>
+                  <ar>عَلَيْهِ</ar>
+               </t>
+               <t>
+                  <ar>الْعَوَاْطِفُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

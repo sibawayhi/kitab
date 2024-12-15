@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="082">
+   <verses id="٤٩٢٤٤" poet="زُهَيْرُ بْنُ أَبِي سُلْمَى">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَلَأْيًا بِلَأْىٍ مَا حَمَلْنَا وَلِيْدَنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَلَأْيًا</ar>
+               </t>
+               <t>
+                  <ar>بِلَأْىٍ</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>حَمَلْنَا</ar>
+               </t>
+               <t>
+                  <ar>وَلِيْدَنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>عَلَى ظَهْرِ مَحْبُوْكٍ ظِمَاْءٍ مَفَاْصِلُهْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>ظَهْرِ</ar>
+               </t>
+               <t>
+                  <ar>مَحْبُوْكٍ</ar>
+               </t>
+               <t>
+                  <ar>ظِمَاْءٍ</ar>
+               </t>
+               <t>
+                  <ar>مَفَاْصِلُهْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٠٠٤٣٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَمَنْهَلٍ وَرَدْتُهُ الْتِقَاْطَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَمَنْهَلٍ</ar>
+               </t>
+               <t>
+                  <ar>وَرَدْتُهُ</ar>
+               </t>
+               <t>
+                  <ar>الْتِقَاْطَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>
