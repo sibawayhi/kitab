@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="176">
+   <dictum id="٨٥٢٨٩">
+      <text>
+         <ar>لَا غُلَاْمَ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمَ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٠٧٦٣">
+      <text>
+         <ar>لَا مِثْلَ زَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>مِثْلَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٢٥٦٨">
+      <text>
+         <ar>لَا أَبَا لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>أَبَا</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٠٤١٤">
+      <text>
+         <ar>لَا غُلَاْمَيْ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمَيْ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٠١٨٤">
+      <text>
+         <ar>لَا مُسْلِمَيْ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>مُسْلِمَيْ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٩٣٨٢">
+      <text>
+         <ar>لَا مِثْلَ زَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>مِثْلَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٨١٢٣">
+      <text>
+         <ar>يَا تَيْمَ تَيْمَ عَدِيٍّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>تَيْمَ</ar>
+         </t>
+         <t>
+            <ar>تَيْمَ</ar>
+         </t>
+         <t>
+            <ar>عَدِيٍّ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

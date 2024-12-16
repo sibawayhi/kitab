@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="145">
+   <ayah id="٢٨٤٦٥" surah="" verse="">
+      <text>
+         <ar>وَكُلٌّ أَتَوْهُ دَاْخِرِيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَكُلٌّ</ar>
+         </t>
+         <t>
+            <ar>أَتَوْهُ</ar>
+         </t>
+         <t>
+            <ar>دَاْخِرِيْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

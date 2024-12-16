@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="142">
+   <verses id="٨٢٣٩٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَكَاْئِنْ رَدَدْنَا عَنْكُمُ مِنْ مُدَجَّجٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَكَاْئِنْ</ar>
+               </t>
+               <t>
+                  <ar>رَدَدْنَا</ar>
+               </t>
+               <t>
+                  <ar>عَنْكُمُ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>مُدَجَّجٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>يَجِيْءُ أَمَّاْمَ الْأَلِفِ يَرْدِي مُقنَّعَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَجِيْءُ</ar>
+               </t>
+               <t>
+                  <ar>أَمَّاْمَ</ar>
+               </t>
+               <t>
+                  <ar>الْأَلِفِ</ar>
+               </t>
+               <t>
+                  <ar>يَرْدِي</ar>
+               </t>
+               <t>
+                  <ar>مُقنَّعَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

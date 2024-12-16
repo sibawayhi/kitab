@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="141">
-   <dictum id="٦٩٠٧٠" nbr="1">
+   <dictum id="٦٩٠٧٠">
       <text>
          <ar>كَمْ لَكَ</ar>
          <free/>
@@ -14,7 +14,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٢٦٥٢" nbr="2">
+   <dictum id="٢٢٦٥٢">
       <text>
          <ar>كَمْ لَكَ دِرْهَمًا</ar>
          <free/>
@@ -31,7 +31,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨١٨٨٦" nbr="3">
+   <dictum id="٨١٨٨٦">
       <text>
          <ar>كَمْ دِرْهَمًا لَكَ</ar>
          <free/>
@@ -48,7 +48,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦٧٠١٤" nbr="4">
+   <dictum id="٦٧٠١٤">
       <text>
          <ar>عِشْرُوْنَ دِرْهَمًا</ar>
          <free/>
@@ -62,7 +62,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢١١٧٩" nbr="5">
+   <dictum id="٢١١٧٩">
       <text>
          <ar>خَمْسَةَ عَشَرَ دِرْهَمًا</ar>
          <free/>
@@ -79,7 +79,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٩٨٢٥" nbr="6">
+   <dictum id="٢٩٨٢٥">
       <text>
          <ar>كَمْ لَكَ الدِّرْهَمَ</ar>
          <free/>
@@ -96,7 +96,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٠٥٠٦" nbr="7">
+   <dictum id="٩٠٥٠٦">
       <text>
          <ar>عِشْرُوْنَ الدِّرْهَمَ</ar>
          <free/>
@@ -110,7 +110,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٩٣٤٧" nbr="8">
+   <dictum id="٨٩٣٤٧">
       <text>
          <ar>عِشْرِيْنَ مِنَ الدَّرَاْهِمِ</ar>
          <free/>
@@ -127,7 +127,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٥٤١٢" nbr="9">
+   <dictum id="٤٥٤١٢">
       <text>
          <ar>هٰذَا أَوَّلُ فَاْرِسٍ فِي النَّاْسِ</ar>
          <free/>
@@ -150,7 +150,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٩٥١٦" nbr="10">
+   <dictum id="٠٩٥١٦">
       <text>
          <ar>هٰذَا أَوَّلُ مِنَ الْفُرْسِاْنِ</ar>
          <free/>
@@ -170,7 +170,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦٣٦١٨" nbr="11">
+   <dictum id="٦٣٦١٨">
       <text>
          <ar>كَمْ لَكَ مِنَ الدَّرَاْهِمِ</ar>
          <free/>
@@ -190,7 +190,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٦٠٦٩" nbr="12">
+   <dictum id="٥٦٠٦٩">
       <text>
          <ar>كَمْ مِنَ الدَّرَاْهِمِ لَكَ</ar>
          <free/>
@@ -210,7 +210,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٤٧٨٧" nbr="13">
+   <dictum id="٥٤٧٨٧">
       <text>
          <ar>كَمْ دِرْهَمًا لَكَ</ar>
          <free/>
@@ -227,7 +227,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٨٤٠١" nbr="14">
+   <dictum id="٨٨٤٠١">
       <text>
          <ar>كَمْ لَكَ دِرْهَمًا</ar>
          <free/>
@@ -244,7 +244,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦٥٥٩٨" nbr="15">
+   <dictum id="٦٥٥٩٨">
       <text>
          <ar>الْعِشْرُوْنَ لَكَ دِرْهَمًا</ar>
          <free/>
@@ -261,7 +261,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٢٢٣٣" nbr="16">
+   <dictum id="٥٢٢٣٣">
       <text>
          <ar>رَأَيْتَ كَمْ رَجُلًا</ar>
          <free/>
@@ -278,7 +278,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="١١١٢٨" nbr="17">
+   <dictum id="١١١٢٨">
       <text>
          <ar>كَمْ رَأَيْتَ رَجُلًا</ar>
          <free/>
@@ -295,7 +295,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٧١٧١" nbr="18">
+   <dictum id="٨٧١٧١">
       <text>
          <ar>كَمْ رَجُلٍ أَتَاْنِي</ar>
          <free/>
@@ -312,7 +312,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٣٨٨٩" nbr="19">
+   <dictum id="٣٣٨٨٩">
       <text>
          <ar>أَتَاْنِي كَمْ رَجُلٍ</ar>
          <free/>
@@ -329,9 +329,9 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٥٦٦٣" nbr="20">
+   <dictum id="٢٥٦٦٣">
       <text>
-         <ar>أَتَاْكَ ثَلَاثُوْنَ الْيَوْمَ دِرْهَمًا</ar>
+         <ar>أَتَاْكَ ثَلَاْثُوْنَ الْيَوْمَ دِرْهَمًا</ar>
          <free/>
       </text>
       <igt>
@@ -339,7 +339,7 @@
             <ar>أَتَاْكَ</ar>
          </t>
          <t>
-            <ar>ثَلَاثُوْنَ</ar>
+            <ar>ثَلَاْثُوْنَ</ar>
          </t>
          <t>
             <ar>الْيَوْمَ</ar>
@@ -349,7 +349,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٨٩٠٢" nbr="21">
+   <dictum id="٩٨٩٠٢">
       <text>
          <ar>كَمْ رَجُلًا أَتَاْكَ</ar>
          <free/>
@@ -366,7 +366,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٤٩٧٣" nbr="22">
+   <dictum id="٧٤٩٧٣">
       <text>
          <ar>كَمْ أَتَاْكَ رَجُلًا</ar>
          <free/>
@@ -383,7 +383,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٣٠٦٦" nbr="23">
+   <dictum id="٩٣٠٦٦">
       <text>
          <ar>كَمْ رَجُلًا ضَرَبْتَ</ar>
          <free/>
@@ -400,7 +400,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="١٤١٠٢" nbr="24">
+   <dictum id="١٤١٠٢">
       <text>
          <ar>كَمْ ضَرَبْتَ رَجُلًا</ar>
          <free/>
@@ -417,7 +417,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٠٩٧٠" nbr="25">
+   <dictum id="٣٠٩٧٠">
       <text>
          <ar>كَمْ مِثْلَهُ لَكَ</ar>
          <free/>
@@ -434,7 +434,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦٤٢٨٣" nbr="26">
+   <dictum id="٦٤٢٨٣">
       <text>
          <ar>كَمْ خَيْرًا مِنْهُ لَكَ</ar>
          <free/>
@@ -454,7 +454,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٣٠٨٧" nbr="27">
+   <dictum id="٣٣٠٨٧">
       <text>
          <ar>كَمْ غَيْرِهِ لَكَ</ar>
          <free/>
@@ -471,7 +471,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٣٠٠٨" nbr="28">
+   <dictum id="٣٣٠٠٨">
       <text>
          <ar>كَمْ غَيْرَهُ مِثْلَهُ لَكَ</ar>
          <free/>
@@ -491,7 +491,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٥٦٧١" nbr="29">
+   <dictum id="٠٥٦٧١">
       <text>
          <ar>كَمْ غِلْمَاْنًا لَكَ</ar>
          <free/>
@@ -508,7 +508,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٦١٦٨" nbr="30">
+   <dictum id="٤٦١٦٨">
       <text>
          <ar>عِشْرُوْنَ ثِيَاْبًا لَكَ</ar>
          <free/>
@@ -525,7 +525,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٧١٦١" nbr="31">
+   <dictum id="٩٧١٦١">
       <text>
          <ar>لَكَ مَاْئَةٌ بِيْضًا</ar>
          <free/>
@@ -542,7 +542,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٦٢٠٦" nbr="32">
+   <dictum id="٠٦٢٠٦">
       <text>
          <ar>عَلَيْكَ رَاْقُوْدٌ خَلًّا</ar>
          <free/>
@@ -559,7 +559,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٩٦٨٦" nbr="33">
+   <dictum id="٠٩٦٨٦">
       <text>
          <ar>كَمْ لَكَ غِلْمَاْنًا</ar>
          <free/>
@@ -576,7 +576,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٠٦٧٦" nbr="34">
+   <dictum id="٨٠٦٧٦">
       <text>
          <ar>كَمْ غِلْمَاْنًا لَكَ</ar>
          <free/>
@@ -593,9 +593,9 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="١٠٩٣٦" nbr="35">
+   <dictum id="١٠٩٣٦">
       <text>
-         <ar>عَبْدُ اللّٰهِ قَاْئِمًا فِيْهَا</ar>
+         <ar>عَبْدُ اللهِ قَاْئِمًا فِيْهَا</ar>
          <free/>
       </text>
       <igt>
@@ -603,7 +603,7 @@
             <ar>عَبْدُ</ar>
          </t>
          <t>
-            <ar>اللّٰهِ</ar>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>قَاْئِمًا</ar>
@@ -613,7 +613,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="١٦٤٤٩" nbr="36">
+   <dictum id="١٦٤٤٩">
       <text>
          <ar>قَاْئِمًا فِيْهَا زَيْدٌ</ar>
          <free/>
@@ -630,9 +630,9 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="١٣٣٠٣" nbr="37">
+   <dictum id="١٣٣٠٣">
       <text>
-         <ar>كَمْ عَبْدُ اللّٰهِ مَاْكِثٌ</ar>
+         <ar>كَمْ عَبْدُ اللهِ مَاْكِثٌ</ar>
          <free/>
       </text>
       <igt>
@@ -643,16 +643,16 @@
             <ar>عَبْدُ</ar>
          </t>
          <t>
-            <ar>اللّٰهِ</ar>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>مَاْكِثٌ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٣١٢٦" nbr="38">
+   <dictum id="٨٣١٢٦">
       <text>
-         <ar>كَمْ عَبْدُ اللّٰهِ عِنْدَك</ar>
+         <ar>كَمْ عَبْدُ اللهِ عِنْدَك</ar>
          <free/>
       </text>
       <igt>
@@ -663,16 +663,16 @@
             <ar>عَبْدُ</ar>
          </t>
          <t>
-            <ar>اللّٰهِ</ar>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>عِنْدَك</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٨٧١٢" nbr="39">
+   <dictum id="٠٨٧١٢">
       <text>
-         <ar>كَمْ يَوْمًا عَبْدُ اللّٰهِ(عِنْدَكَ) مَاْكِثٌ</ar>
+         <ar>كَمْ يَوْمًا عَبْدُ اللهِ(عِنْدَكَ) مَاْكِثٌ</ar>
          <free/>
       </text>
       <igt>
@@ -686,16 +686,16 @@
             <ar>عَبْدُ</ar>
          </t>
          <t>
-            <ar>اللّٰهِ(عِنْدَكَ)</ar>
+            <ar>اللهِ(عِنْدَكَ)</ar>
          </t>
          <t>
             <ar>مَاْكِثٌ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٨٤٧٩" nbr="40">
+   <dictum id="٨٨٤٧٩">
       <text>
-         <ar>كَمْ شَهْرًا عَبْدُ اللّٰهِ عِنْدَك</ar>
+         <ar>كَمْ شَهْرًا عَبْدُ اللهِ عِنْدَك</ar>
          <free/>
       </text>
       <igt>
@@ -709,16 +709,16 @@
             <ar>عَبْدُ</ar>
          </t>
          <t>
-            <ar>اللّٰهِ</ar>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>عِنْدَك</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٥٤٢٤" nbr="41">
+   <dictum id="٨٥٤٢٤">
       <text>
-         <ar>كَمْ رَجُلًا ضَرَبَ عَبْدُ اللّٰهِ</ar>
+         <ar>كَمْ رَجُلًا ضَرَبَ عَبْدُ اللهِ</ar>
          <free/>
       </text>
       <igt>
@@ -735,11 +735,11 @@
             <ar>عَبْدُ</ar>
          </t>
          <t>
-            <ar>اللّٰهِ</ar>
+            <ar>اللهِ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٤٥٦٠" nbr="42">
+   <dictum id="٧٤٥٦٠">
       <text>
          <ar>كَمْ جَرِيْبًا أَرْضُكَ</ar>
          <free/>
@@ -756,7 +756,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣١٩٧١" nbr="43">
+   <dictum id="٣١٩٧١">
       <text>
          <ar>عِشْرُوْنَ دِرْهَمًا خَيْرٌ مِنْ عَشَرَةٍ</ar>
          <free/>
@@ -779,7 +779,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٨٦٧٦" nbr="44">
+   <dictum id="٠٨٦٧٦">
       <text>
          <ar>كَمْ غِلْمَاْنٌ لَكَ</ar>
          <free/>
@@ -796,7 +796,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٣٢٨٩" nbr="45">
+   <dictum id="٤٣٢٨٩">
       <text>
          <ar>عَلَى كَمْ جذعٍ بَيْتُكَ مَبْنِيٌّ</ar>
          <free/>
@@ -819,7 +819,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٨٩٥٩" nbr="46">
+   <dictum id="٨٨٩٥٩">
       <text>
          <ar>اللّٰهِ لَا أَفْعَلُ</ar>
          <free/>
@@ -836,17 +836,17 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٤٦١٧" nbr="47">
+   <dictum id="٥٤٦١٧">
       <text>
-         <ar>لاهَا اللّٰه لَا أَفْعَلُ</ar>
+         <ar>لاْهَا الله لَا أَفْعَلُ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>لاهَا</ar>
+            <ar>لاْهَا</ar>
          </t>
          <t>
-            <ar>اللّٰه</ar>
+            <ar>الله</ar>
          </t>
          <t>
             <ar>لَا</ar>
@@ -856,7 +856,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٨٣٨٨" nbr="48">
+   <dictum id="٣٨٣٨٨">
       <text>
          <ar>لَا وَاللّٰه</ar>
          <free/>
@@ -870,7 +870,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٩٣٩٨" nbr="49">
+   <dictum id="٩٩٣٩٨">
       <text>
          <ar>آللّٰه لَتَفْعَلَنَّ</ar>
          <free/>
@@ -884,9 +884,9 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٧٦٣٢" nbr="50">
+   <dictum id="٢٧٦٣٢">
       <text>
-         <ar>كَمْ غُلَامٍ لَكَ قَدْ ذَهَبَ</ar>
+         <ar>كَمْ غُلَاْمٍ لَكَ قَدْ ذَهَبَ</ar>
          <free/>
       </text>
       <igt>
@@ -894,7 +894,7 @@
             <ar>كَمْ</ar>
          </t>
          <t>
-            <ar>غُلَامٍ</ar>
+            <ar>غُلَاْمٍ</ar>
          </t>
          <t>
             <ar>لَكَ</ar>
@@ -907,7 +907,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٤٢٣٨" nbr="51">
+   <dictum id="٤٤٢٣٨">
       <text>
          <ar>كَمْ رَجُلٍ أفَضْلُ مِنْكَ</ar>
          <free/>
@@ -927,49 +927,49 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٩١٢٣" nbr="52">
+   <dictum id="٢٩١٢٣">
       <text>
-         <ar>ثَلَاثَةٌ أَثْوَاْبًا</ar>
+         <ar>ثَلَاْثَةٌ أَثْوَاْبًا</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>ثَلَاثَةٌ</ar>
+            <ar>ثَلَاْثَةٌ</ar>
          </t>
          <t>
             <ar>أَثْوَاْبًا</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٩٩٩٦" nbr="53">
+   <dictum id="٨٩٩٩٦">
       <text>
-         <ar>ثَلَاثَةُ أَثْوَاْبٍ</ar>
+         <ar>ثَلَاْثَةُ أَثْوَاْبٍ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>ثَلَاثَةُ</ar>
+            <ar>ثَلَاْثَةُ</ar>
          </t>
          <t>
             <ar>أَثْوَاْبٍ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٢٢٨٧" nbr="54">
+   <dictum id="٩٢٢٨٧">
       <text>
-         <ar>لاهِ أَبُوْكَ</ar>
+         <ar>لاْهِ أَبُوْكَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>لاهِ</ar>
+            <ar>لاْهِ</ar>
          </t>
          <t>
             <ar>أَبُوْكَ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٥٣٣٧" nbr="55">
+   <dictum id="٩٥٣٣٧">
       <text>
          <ar>لَقِيْتُهُ أَمْسِ</ar>
          <free/>
@@ -983,7 +983,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٨٢٠٧" nbr="56">
+   <dictum id="٨٨٢٠٧">
       <text>
          <ar>لِلّٰهِ أَبُوْكَ</ar>
          <free/>
@@ -997,9 +997,9 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٠٥٢٩" nbr="57">
+   <dictum id="٤٠٥٢٩">
       <text>
-         <ar>لَقِيْتُهُ بِالْأَمْسِ</ar>
+         <ar>لَقِيْتُهُ بِاْلْأَمْسِ</ar>
          <free/>
       </text>
       <igt>
@@ -1007,11 +1007,11 @@
             <ar>لَقِيْتُهُ</ar>
          </t>
          <t>
-            <ar>بِالْأَمْسِ</ar>
+            <ar>بِاْلْأَمْسِ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٦٩٦٥" nbr="58">
+   <dictum id="٩٦٩٦٥">
       <text>
          <ar>ذَهَبَ أَمْسِ بِمَا فِيْهِ</ar>
          <free/>
@@ -1031,7 +1031,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٢٧٤٥" nbr="59">
+   <dictum id="٩٢٧٤٥">
       <text>
          <ar>هٰذَا ضَاْرِبٌ بِكَ زَيْدًا</ar>
          <free/>
@@ -1051,7 +1051,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦٢١٩٨" nbr="60">
+   <dictum id="٦٢١٩٨">
       <text>
          <ar>هٰذَا ضَاْرِبُ بِكَ زَيْدٍ</ar>
          <free/>
@@ -1071,7 +1071,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٤٠٩٦" nbr="61">
+   <dictum id="٤٤٠٩٦">
       <text>
          <ar>كَمْ قَدْ أَتَاْنِي زَيْدٌ</ar>
          <free/>
@@ -1091,7 +1091,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦١٢٠٥" nbr="62">
+   <dictum id="٦١٢٠٥">
       <text>
          <ar>كَمْ مَرَّةً قَدْ حَلَبَتْ عِشَاْرِي عَلَيَّ عَمَّتُكِ</ar>
          <free/>
@@ -1120,7 +1120,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٣٤٧١" nbr="63">
+   <dictum id="٧٣٤٧١">
       <text>
          <ar>كَمْ فِيْهَا رَجُلٍ</ar>
          <free/>
@@ -1137,9 +1137,9 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٨٦٦٤" nbr="64">
+   <dictum id="٨٨٦٦٤">
       <text>
-         <ar>كَمْ قَدْ أَتَاْنِي لَا رَجُلٌ وَلَا رَجُلَانِ</ar>
+         <ar>كَمْ قَدْ أَتَاْنِي لَا رَجُلٌ وَلَا رَجُلَاْنِ</ar>
          <free/>
       </text>
       <igt>
@@ -1162,11 +1162,11 @@
             <ar>وَلَا</ar>
          </t>
          <t>
-            <ar>رَجُلَانِ</ar>
+            <ar>رَجُلَاْنِ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٩١٢٥" nbr="65">
+   <dictum id="٤٩١٢٥">
       <text>
          <ar>كَمْ عَبْدٍ لَكَ لَا عَبْدٌ وَلَا عَبْدَاْنِ</ar>
          <free/>
@@ -1195,9 +1195,9 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦٧٣٢٦" nbr="66">
+   <dictum id="٦٧٣٢٦">
       <text>
-         <ar>لَا رَجُلٌ أَتَاْنِي وَلَا رَجُلَانِ</ar>
+         <ar>لَا رَجُلٌ أَتَاْنِي وَلَا رَجُلَاْنِ</ar>
          <free/>
       </text>
       <igt>
@@ -1214,11 +1214,11 @@
             <ar>وَلَا</ar>
          </t>
          <t>
-            <ar>رَجُلَانِ</ar>
+            <ar>رَجُلَاْنِ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٤٤٨٩" nbr="67">
+   <dictum id="٨٤٤٨٩">
       <text>
          <ar>لَا عَبْدٌ لَكَ وَلَا عَبْدَاْنِ</ar>
          <free/>
@@ -1241,7 +1241,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٥٣٨١" nbr="68">
+   <dictum id="٤٥٣٨١">
       <text>
          <ar>عِشْرُوْنَ دِرْهَمًا</ar>
          <free/>
@@ -1255,7 +1255,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="١٢٣٣٦" nbr="69">
+   <dictum id="١٢٣٣٦">
       <text>
          <ar>ثَلاْثَةُ أَثَوَاْبٍ</ar>
          <free/>
@@ -1269,7 +1269,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٨٣٩٦" nbr="70">
+   <dictum id="٣٨٣٩٦">
       <text>
          <ar>كَمْ لَا رَجُلًا وَلَا رَجُلَيْنِ</ar>
          <free/>
@@ -1292,7 +1292,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="١٧٦٨٩" nbr="71">
+   <dictum id="١٧٦٨٩">
       <text>
          <ar>لَهُ عِشْرُوْنَ لَا عَبْدًا وَلَا عَبْدَيْنِ</ar>
          <free/>
@@ -1318,7 +1318,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٤٩٨٩" nbr="72">
+   <dictum id="٢٤٩٨٩">
       <text>
          <ar>كَمْ لَكَ عَبْدًا</ar>
          <free/>
@@ -1335,7 +1335,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٦٦٣٦" nbr="73">
+   <dictum id="٠٦٦٣٦">
       <text>
          <ar>عَبْدَاْنِ أَوْ ثَلَاْثَةُ أَعْبُدٍ</ar>
          <free/>
@@ -1355,7 +1355,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٧٠٧٨" nbr="74">
+   <dictum id="٥٧٠٧٨">
       <text>
          <ar>كَمْ عَبْدًا</ar>
          <free/>
@@ -1369,7 +1369,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦٥٩٠٨" nbr="75">
+   <dictum id="٦٥٩٠٨">
       <text>
          <ar>عَبْدَيْنِ</ar>
          <free/>
@@ -1380,23 +1380,23 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٤٩١٨" nbr="76">
+   <dictum id="٥٤٩١٨">
       <text>
-         <ar>ثَلَاثَةَ أَعْبُدٍ</ar>
+         <ar>ثَلَاْثَةَ أَعْبُدٍ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>ثَلَاثَةَ</ar>
+            <ar>ثَلَاْثَةَ</ar>
          </t>
          <t>
             <ar>أَعْبُدٍ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٥٨٠٥" nbr="77">
+   <dictum id="٧٥٨٠٥">
       <text>
-         <ar>كَمْ غُلَامًا لَكَ ذَاْهِبٌ</ar>
+         <ar>كَمْ غُلَاْمًا لَكَ ذَاْهِبٌ</ar>
          <free/>
       </text>
       <igt>
@@ -1404,7 +1404,7 @@
             <ar>كَمْ</ar>
          </t>
          <t>
-            <ar>غُلَامًا</ar>
+            <ar>غُلَاْمًا</ar>
          </t>
          <t>
             <ar>لَكَ</ar>
@@ -1414,9 +1414,9 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦٥٦٢٠" nbr="78">
+   <dictum id="٦٥٦٢٠">
       <text>
-         <ar>كَمْ مِنْكُمْ شَاْهِدٌ عَلَى فُلَانٍ</ar>
+         <ar>كَمْ مِنْكُمْ شَاْهِدٌ عَلَى فُلَاْنٍ</ar>
          <free/>
       </text>
       <igt>
@@ -1433,11 +1433,11 @@
             <ar>عَلَى</ar>
          </t>
          <t>
-            <ar>فُلَانٍ</ar>
+            <ar>فُلَاْنٍ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٥٠٣٢" nbr="79">
+   <dictum id="٧٥٠٣٢">
       <text>
          <ar>كَمْ مَأْخُوْذٌ بِكَ</ar>
          <free/>
@@ -1454,7 +1454,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٧٨٧٠" nbr="80">
+   <dictum id="٩٧٨٧٠">
       <text>
          <ar>كَمْ لَكَ</ar>
          <free/>
@@ -1468,7 +1468,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤١٥٢٨" nbr="81">
+   <dictum id="٤١٥٢٨">
       <text>
          <ar>كَمْ رَجُلٍ لَكَ</ar>
          <free/>
@@ -1485,7 +1485,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٥٣٨٥" nbr="82">
+   <dictum id="٤٥٣٨٥">
       <text>
          <ar>كَمْ مَاْخُوْذٌ بِكَ</ar>
          <free/>
@@ -1502,7 +1502,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩١٦٣٥" nbr="83">
+   <dictum id="٩١٦٣٥">
       <text>
          <ar>كَمْ رَجُلٍ لَكَ</ar>
          <free/>
@@ -1519,7 +1519,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٧١٤١" nbr="84">
+   <dictum id="٥٧١٤١">
       <text>
          <ar>رُبَّ رَجُلٍ لَكَ</ar>
          <free/>

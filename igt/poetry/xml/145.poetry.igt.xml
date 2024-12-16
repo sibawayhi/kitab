@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="145">
+   <verses id="٠٦٣٤٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>هَلْ تَعْرِفُ الدَّاْرَ يُعَفِّيْهَا الْمُوْرْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>هَلْ</ar>
+               </t>
+               <t>
+                  <ar>تَعْرِفُ</ar>
+               </t>
+               <t>
+                  <ar>الدَّاْرَ</ar>
+               </t>
+               <t>
+                  <ar>يُعَفِّيْهَا</ar>
+               </t>
+               <t>
+                  <ar>الْمُوْرْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَاْلدَّجْنُ يَوْمًا وَالسَّحَاْبُ الَمْهمُوْرْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَاْلدَّجْنُ</ar>
+               </t>
+               <t>
+                  <ar>يَوْمًا</ar>
+               </t>
+               <t>
+                  <ar>وَالسَّحَاْبُ</ar>
+               </t>
+               <t>
+                  <ar>الَمْهمُوْرْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لِكُلِّ رِيْحٍ فِيْهِ ذَيْلٌ مَسْفُوْرْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لِكُلِّ</ar>
+               </t>
+               <t>
+                  <ar>رِيْحٍ</ar>
+               </t>
+               <t>
+                  <ar>فِيْهِ</ar>
+               </t>
+               <t>
+                  <ar>ذَيْلٌ</ar>
+               </t>
+               <t>
+                  <ar>مَسْفُوْرْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٨٨٣٩٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَأَوْمَأْتُ إِيْمَاْءً خَفِيًّا لِحَبْتَرٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَأَوْمَأْتُ</ar>
+               </t>
+               <t>
+                  <ar>إِيْمَاْءً</ar>
+               </t>
+               <t>
+                  <ar>خَفِيًّا</ar>
+               </t>
+               <t>
+                  <ar>لِحَبْتَرٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَلِلّٰهِ عَيْنَا حَبْتَرٍ أَيُّمَا فَتًى</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَلِلّٰهِ</ar>
+               </t>
+               <t>
+                  <ar>عَيْنَا</ar>
+               </t>
+               <t>
+                  <ar>حَبْتَرٍ</ar>
+               </t>
+               <t>
+                  <ar>أَيُّمَا</ar>
+               </t>
+               <t>
+                  <ar>فَتًى</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

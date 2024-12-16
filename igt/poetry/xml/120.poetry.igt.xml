@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="120">
+   <verses id="٠٧٢٣٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>تَوَّهْتُ آيَاْتٍ لَهَا فَعَرَفْتُهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَوَّهْتُ</ar>
+               </t>
+               <t>
+                  <ar>آيَاْتٍ</ar>
+               </t>
+               <t>
+                  <ar>لَهَا</ar>
+               </t>
+               <t>
+                  <ar>فَعَرَفْتُهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>لِسِتَّةِ أَعْوَاْمٍ وَذَا الْعَاْمُ سَاْبِعُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لِسِتَّةِ</ar>
+               </t>
+               <t>
+                  <ar>أَعْوَاْمٍ</ar>
+               </t>
+               <t>
+                  <ar>وَذَا</ar>
+               </t>
+               <t>
+                  <ar>الْعَاْمُ</ar>
+               </t>
+               <t>
+                  <ar>سَاْبِعُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

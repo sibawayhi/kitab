@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="113">
+   <verses id="٢٢٩٤٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لا يَبعَدنْ قَوْمى الَّذِيْنَ هُمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لا</ar>
+               </t>
+               <t>
+                  <ar>يَبعَدنْ</ar>
+               </t>
+               <t>
+                  <ar>قَوْمى</ar>
+               </t>
+               <t>
+                  <ar>الَّذِيْنَ</ar>
+               </t>
+               <t>
+                  <ar>هُمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>سَمُّ الْعُداْةِ وَآفَةُ الْجُزْرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>سَمُّ</ar>
+               </t>
+               <t>
+                  <ar>الْعُداْةِ</ar>
+               </t>
+               <t>
+                  <ar>وَآفَةُ</ar>
+               </t>
+               <t>
+                  <ar>الْجُزْرِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>النّاْزِليْنَ بكُلِّ مُعْتَرَكٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>النّاْزِليْنَ</ar>
+               </t>
+               <t>
+                  <ar>بكُلِّ</ar>
+               </t>
+               <t>
+                  <ar>مُعْتَرَكٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَاْلطِّيْبوْنَ مَعاْقِدَ الْأَرْزِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَاْلطِّيْبوْنَ</ar>
+               </t>
+               <t>
+                  <ar>مَعاْقِدَ</ar>
+               </t>
+               <t>
+                  <ar>الْأَرْزِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

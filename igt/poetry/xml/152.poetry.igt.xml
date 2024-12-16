@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="152">
+   <verses id="٩٦٤١٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَا ابْنَ أُمِّي وَيَا شُقَيِّقَ نَفْسِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>ابْنَ</ar>
+               </t>
+               <t>
+                  <ar>أُمِّي</ar>
+               </t>
+               <t>
+                  <ar>وَيَا</ar>
+               </t>
+               <t>
+                  <ar>شُقَيِّقَ</ar>
+               </t>
+               <t>
+                  <ar>نَفْسِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>أَنْتَ خَلَّيْتَنِي لِدَهْرٍ شَدِيْدٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَنْتَ</ar>
+               </t>
+               <t>
+                  <ar>خَلَّيْتَنِي</ar>
+               </t>
+               <t>
+                  <ar>لِدَهْرٍ</ar>
+               </t>
+               <t>
+                  <ar>شَدِيْدٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٧٠٣٢١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَا ابْنَةَ عَمَّا لَا تَلُوْمِي وَاهْجَعِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>ابْنَةَ</ar>
+               </t>
+               <t>
+                  <ar>عَمَّا</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>تَلُوْمِي</ar>
+               </t>
+               <t>
+                  <ar>وَاهْجَعِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

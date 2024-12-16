@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="190">
+   <dictum id="٤٢١٢١">
+      <text>
+         <ar>مَا فِيْهَا أَحَدٌ إِلَّا حِمَاْرًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>أَحَدٌ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>حِمَاْرًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٦٠٤٤">
+      <text>
+         <ar>لَا أَحَدَ فِيْهَا إِلَّا حِمَاْرٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>أَحَدَ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>حِمَاْرٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٥٤٤٦">
+      <text>
+         <ar>لَيْسَ فِيْهَا إِلَّا حِمَاْرٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>حِمَاْرٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٨٩٤٨">
+      <text>
+         <ar>لَيْسَ فِيْهَا إِلَّا حِمَاْرٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>حِمَاْرٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٦٨٩٩">
+      <text>
+         <ar>مَاْلِي عِتَاْبٌ إِلَّا السَّيْفُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَاْلِي</ar>
+         </t>
+         <t>
+            <ar>عِتَاْبٌ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>السَّيْفُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١١٨٠٧">
+      <text>
+         <ar>مَا أَنْتَ إِلَّا سَيْرًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>سَيْرًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٧٤٦٥">
+      <text>
+         <ar>مَاْلَهُ عَلْيِهِ سُلْطَاْنٌ إِلَّا التَّكَلُّفَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَاْلَهُ</ar>
+         </t>
+         <t>
+            <ar>عَلْيِهِ</ar>
+         </t>
+         <t>
+            <ar>سُلْطَاْنٌ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>التَّكَلُّفَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

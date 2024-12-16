@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="173">
+   <verses id="٨٣٣١٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَا دَاْرٍ عَبْلَةَ بِاْلْجِوَاْءِ تَكَلَّمَى</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>دَاْرٍ</ar>
+               </t>
+               <t>
+                  <ar>عَبْلَةَ</ar>
+               </t>
+               <t>
+                  <ar>بِاْلْجِوَاْءِ</ar>
+               </t>
+               <t>
+                  <ar>تَكَلَّمَى</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

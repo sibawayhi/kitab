@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="131">
+   <ayah id="٥٢٨٤٩" surah="" verse="">
+      <text>
+         <ar>وَأَمَّا الَّذِيْنَ سُعِدُوْا فَفِي الْجَنَّةِ خِاْلِدِيْنَ فِيْهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَأَمَّا</ar>
+         </t>
+         <t>
+            <ar>الَّذِيْنَ</ar>
+         </t>
+         <t>
+            <ar>سُعِدُوْا</ar>
+         </t>
+         <t>
+            <ar>فَفِي</ar>
+         </t>
+         <t>
+            <ar>الْجَنَّةِ</ar>
+         </t>
+         <t>
+            <ar>خِاْلِدِيْنَ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٥٣٦٠٤" surah="" verse="">
+      <text>
+         <ar>إِنَّ الْمُتَّقِيْنَ فِي جَنَّاْتٍ وَعُيُوْنٍ آخِذِيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>الْمُتَّقِيْنَ</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>جَنَّاْتٍ</ar>
+         </t>
+         <t>
+            <ar>وَعُيُوْنٍ</ar>
+         </t>
+         <t>
+            <ar>آخِذِيْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٢٣٢٨٥" surah="" verse="">
+      <text>
+         <ar>فَاِْكِهِيْنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَاِْكِهِيْنِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

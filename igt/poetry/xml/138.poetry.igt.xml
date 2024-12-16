@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="138">
+   <verses id="٠٧٦٦٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>إِنَّ الرَّبِيْعَ الجَوْدَ وَالْخَرِيْفَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِنَّ</ar>
+               </t>
+               <t>
+                  <ar>الرَّبِيْعَ</ar>
+               </t>
+               <t>
+                  <ar>الجَوْدَ</ar>
+               </t>
+               <t>
+                  <ar>وَالْخَرِيْفَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>يَدَا أَبِي الْعَبَّاْسِ وَالصُّيُوْفَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَدَا</ar>
+               </t>
+               <t>
+                  <ar>أَبِي</ar>
+               </t>
+               <t>
+                  <ar>الْعَبَّاْسِ</ar>
+               </t>
+               <t>
+                  <ar>وَالصُّيُوْفَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣٣٠٤٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>إِنَّ الْخِلَاْفَةَ وَالنُّبُوَّةَ فِيْهِمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِنَّ</ar>
+               </t>
+               <t>
+                  <ar>الْخِلَاْفَةَ</ar>
+               </t>
+               <t>
+                  <ar>وَالنُّبُوَّةَ</ar>
+               </t>
+               <t>
+                  <ar>فِيْهِمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَالْمَكْرُمَاْتُ وَسَاْدَةٌ أَطْهاْرُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَالْمَكْرُمَاْتُ</ar>
+               </t>
+               <t>
+                  <ar>وَسَاْدَةٌ</ar>
+               </t>
+               <t>
+                  <ar>أَطْهاْرُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

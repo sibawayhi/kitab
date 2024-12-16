@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="146">
+   <ayah id="٤١٨٩٦" surah="" verse="">
+      <text>
+         <ar>يَا جِبَاْلُ أَوِّبِي مَعَهُ وَالطَّيْرَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>جِبَاْلُ</ar>
+         </t>
+         <t>
+            <ar>أَوِّبِي</ar>
+         </t>
+         <t>
+            <ar>مَعَهُ</ar>
+         </t>
+         <t>
+            <ar>وَالطَّيْرَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

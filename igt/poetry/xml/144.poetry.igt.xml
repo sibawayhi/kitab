@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="144">
+   <verses id="٥٨٥١١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَمُرَّةُ يَحْمِيْهِمْ إِذَا مَا تَبَدَّدُوْا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَمُرَّةُ</ar>
+               </t>
+               <t>
+                  <ar>يَحْمِيْهِمْ</ar>
+               </t>
+               <t>
+                  <ar>إِذَا</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>تَبَدَّدُوْا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَيَطْعَنُهُمْ شَزْرًا فَأَبْرَحْتَ فَاْرِسًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَيَطْعَنُهُمْ</ar>
+               </t>
+               <t>
+                  <ar>شَزْرًا</ar>
+               </t>
+               <t>
+                  <ar>فَأَبْرَحْتَ</ar>
+               </t>
+               <t>
+                  <ar>فَاْرِسًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٤١١١١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>[ تَقُوْلُ ابْنَتِي حِيْنَ جَدَّ الرَّحِيْلُ ]</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>[</ar>
+               </t>
+               <t>
+                  <ar>تَقُوْلُ</ar>
+               </t>
+               <t>
+                  <ar>ابْنَتِي</ar>
+               </t>
+               <t>
+                  <ar>حِيْنَ</ar>
+               </t>
+               <t>
+                  <ar>جَدَّ</ar>
+               </t>
+               <t>
+                  <ar>الرَّحِيْلُ</ar>
+               </t>
+               <t>
+                  <ar>]</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَأَبْرَحْتَ رُبًّا وَأَبْرَحْتَ جَاْرَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَأَبْرَحْتَ</ar>
+               </t>
+               <t>
+                  <ar>رُبًّا</ar>
+               </t>
+               <t>
+                  <ar>وَأَبْرَحْتَ</ar>
+               </t>
+               <t>
+                  <ar>جَاْرَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

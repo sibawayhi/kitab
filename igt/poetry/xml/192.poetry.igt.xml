@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="192">
+   <verses id="٦٢٧٦٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لَمْ يَمُنَعَ الشّرْبَ مِنْهَا غَيْرُ أَنْ نَطَقَتْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لَمْ</ar>
+               </t>
+               <t>
+                  <ar>يَمُنَعَ</ar>
+               </t>
+               <t>
+                  <ar>الشّرْبَ</ar>
+               </t>
+               <t>
+                  <ar>مِنْهَا</ar>
+               </t>
+               <t>
+                  <ar>غَيْرُ</ar>
+               </t>
+               <t>
+                  <ar>أَنْ</ar>
+               </t>
+               <t>
+                  <ar>نَطَقَتْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>حَمَاْمَةُ فِي غُصُوْنٍ ذَاْتِ أَوْقَاْلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>حَمَاْمَةُ</ar>
+               </t>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>غُصُوْنٍ</ar>
+               </t>
+               <t>
+                  <ar>ذَاْتِ</ar>
+               </t>
+               <t>
+                  <ar>أَوْقَاْلِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٩٢٥٧٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>عَلِى حِيْنَ غَاْتَبَتُ الْمُشَيَّبَ عَلَى الصِّبَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَلِى</ar>
+               </t>
+               <t>
+                  <ar>حِيْنَ</ar>
+               </t>
+               <t>
+                  <ar>غَاْتَبَتُ</ar>
+               </t>
+               <t>
+                  <ar>الْمُشَيَّبَ</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>الصِّبَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَقُلْتُ أَلَمَّا أَصْحُ وَالشَّيْبُ وَازِعُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَقُلْتُ</ar>
+               </t>
+               <t>
+                  <ar>أَلَمَّا</ar>
+               </t>
+               <t>
+                  <ar>أَصْحُ</ar>
+               </t>
+               <t>
+                  <ar>وَالشَّيْبُ</ar>
+               </t>
+               <t>
+                  <ar>وَازِعُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

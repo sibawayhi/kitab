@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="126">
+   <ayah id="٤٩٤٩٥" surah="" verse="">
+      <text>
+         <ar>وَكُلٌّ أَتَوْهُ دَاْخِرِيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَكُلٌّ</ar>
+         </t>
+         <t>
+            <ar>أَتَوْهُ</ar>
+         </t>
+         <t>
+            <ar>دَاْخِرِيْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤٢٢٩٧" surah="" verse="">
+      <text>
+         <ar>وَإِنْ كُلٌّلَمَّا جَمِيْعٌ لَدَيْنا مُحْضَرُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَإِنْ</ar>
+         </t>
+         <t>
+            <ar>كُلٌّلَمَّا</ar>
+         </t>
+         <t>
+            <ar>جَمِيْعٌ</ar>
+         </t>
+         <t>
+            <ar>لَدَيْنا</ar>
+         </t>
+         <t>
+            <ar>مُحْضَرُوْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

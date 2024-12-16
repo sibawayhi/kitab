@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="186">
+   <dictum id="٣٥٢٠٠">
+      <text>
+         <ar>لَا مَرْحَبًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>مَرْحَبًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٦٤٢٦">
+      <text>
+         <ar>لَا سَلَاْمٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>سَلَاْمٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠١٩٦٠">
+      <text>
+         <ar>مَا أَتَاْنِي إِلَّا زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٤٧٨٥">
+      <text>
+         <ar>مَا لَقِيْتُ إِلَّا زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>لَقِيْتُ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٨٣٣١">
+      <text>
+         <ar>مَا مَرَرْتُ إِلَّا بِزَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٨٩٩٦">
+      <text>
+         <ar>مَا أَتَاْنِي زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٥٨٩١">
+      <text>
+         <ar>مَا لَقِيْتُ زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>لَقِيْتُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٢٥٤١">
+      <text>
+         <ar>مَا مَرَرْتُ بِزَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="187">
+   <verses id="٥٩٨٢٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فِي لَيْلَةٍ لَا نَرَى بِهَا أَحَدًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>لَيْلَةٍ</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>نَرَى</ar>
+               </t>
+               <t>
+                  <ar>بِهَا</ar>
+               </t>
+               <t>
+                  <ar>أَحَدًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>يَحْكَى عَلَيْنَا إِلَّا كَوَاْكِبُهَاَْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَحْكَى</ar>
+               </t>
+               <t>
+                  <ar>عَلَيْنَا</ar>
+               </t>
+               <t>
+                  <ar>إِلَّا</ar>
+               </t>
+               <t>
+                  <ar>كَوَاْكِبُهَاَْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="١٥٩٧٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>رُبَّ مَا تَكْرَهُ النُّفُوْسُ مِنْ الْأَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>رُبَّ</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>تَكْرَهُ</ar>
+               </t>
+               <t>
+                  <ar>النُّفُوْسُ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>الْأَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>مْرِ لُهُ فَرْجَةٌ كَحَلِّ الْعِقَاْلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مْرِ</ar>
+               </t>
+               <t>
+                  <ar>لُهُ</ar>
+               </t>
+               <t>
+                  <ar>فَرْجَةٌ</ar>
+               </t>
+               <t>
+                  <ar>كَحَلِّ</ar>
+               </t>
+               <t>
+                  <ar>الْعِقَاْلِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

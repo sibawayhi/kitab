@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="199">
+   <dictum id="٩٧٤٢٦">
+      <text>
+         <ar>أَتَاْنِي الْقَوْمُ غَيْرَ زَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>الْقَوْمُ</ar>
+         </t>
+         <t>
+            <ar>غَيْرَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٨٠٠٣">
+      <text>
+         <ar>مَا أَتَاْنِي غَيْرُ زَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>غَيْرُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٨٦٣٥">
+      <text>
+         <ar>أَتَاْنِي الْقَوْمُ زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>الْقَوْمُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٩٣٩٠">
+      <text>
+         <ar>أَتَاْنِي غَيْرُ عَمْرٍو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>غَيْرُ</ar>
+         </t>
+         <t>
+            <ar>عَمْرٍو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٢٠٨٩">
+      <text>
+         <ar>مَا أَتَاْنِي غَيْرُ زَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>غَيْرُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٥٣١٧">
+      <text>
+         <ar>مَا أَتَاْنِي الَّذِي هُوَ غَيْرُ زَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>الَّذِي</ar>
+         </t>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>غَيْرُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٠٨١٠">
+      <text>
+         <ar>مَا أَتَاْنِي إِلَّا زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

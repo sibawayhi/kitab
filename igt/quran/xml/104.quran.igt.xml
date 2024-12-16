@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="104">
+   <ayah id="١٥٤٥١" surah="" verse="">
+      <text>
+         <ar>لَنَسْفَعَا بِاْلنَّاْصِيَةِ نَاْصِيَةٍ كَاْذِبَةٍ خَاْطِئَةٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَنَسْفَعَا</ar>
+         </t>
+         <t>
+            <ar>بِاْلنَّاْصِيَةِ</ar>
+         </t>
+         <t>
+            <ar>نَاْصِيَةٍ</ar>
+         </t>
+         <t>
+            <ar>كَاْذِبَةٍ</ar>
+         </t>
+         <t>
+            <ar>خَاْطِئَةٍ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="189">
+   <dictum id="٦١١٩٨">
+      <text>
+         <ar>مَا مَرَرْتُ بِأَحَدٍ إِلَّا زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِأَحَدٍ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٢٣١٣">
+      <text>
+         <ar>مَا أَتَاْنِي أَحَدٌ إِلَّا زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>أَحَدٌ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٨٧٦٩">
+      <text>
+         <ar>مَا رَأَيْتُ أَحَدًا إِلَّا زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>أَحَدًا</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٧٤١٨">
+      <text>
+         <ar>إِنَّ لِفُلَاْنٍ وَاَللهِ مَاْلًا إِلَّا أَنَّهُ شَقِيٌّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>لِفُلَاْنٍ</ar>
+         </t>
+         <t>
+            <ar>وَاَللهِ</ar>
+         </t>
+         <t>
+            <ar>مَاْلًا</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>أَنَّهُ</ar>
+         </t>
+         <t>
+            <ar>شَقِيٌّ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

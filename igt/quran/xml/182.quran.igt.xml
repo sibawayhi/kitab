@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="182">
+   <ayah id="٦٢١٣٢" surah="" verse="">
+      <text>
+         <ar>لا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لا</ar>
+         </t>
+         <t>
+            <ar>خَوْفٌ</ar>
+         </t>
+         <t>
+            <ar>عَلَيْهِمْ</ar>
+         </t>
+         <t>
+            <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>هُمْ</ar>
+         </t>
+         <t>
+            <ar>يَحْزَنُوْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٦٢٩١٧" surah="" verse="">
+      <text>
+         <ar>لَا فِيْهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنَزِّفُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>غَوْلٌ</ar>
+         </t>
+         <t>
+            <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>هُمْ</ar>
+         </t>
+         <t>
+            <ar>عَنْهَا</ar>
+         </t>
+         <t>
+            <ar>يُنَزِّفُوْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

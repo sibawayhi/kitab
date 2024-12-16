@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="172">
+   <verses id="٢٨٢٦٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَلَا رُبَّ مَوْلُوْدٍ وَلَيْسَ لَهُ أَبٌ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَلَا</ar>
+               </t>
+               <t>
+                  <ar>رُبَّ</ar>
+               </t>
+               <t>
+                  <ar>مَوْلُوْدٍ</ar>
+               </t>
+               <t>
+                  <ar>وَلَيْسَ</ar>
+               </t>
+               <t>
+                  <ar>لَهُ</ar>
+               </t>
+               <t>
+                  <ar>أَبٌ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وذِى وَلَدٍ لَمْ يَلْدَهُ أَبَوَاْنِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وذِى</ar>
+               </t>
+               <t>
+                  <ar>وَلَدٍ</ar>
+               </t>
+               <t>
+                  <ar>لَمْ</ar>
+               </t>
+               <t>
+                  <ar>يَلْدَهُ</ar>
+               </t>
+               <t>
+                  <ar>أَبَوَاْنِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

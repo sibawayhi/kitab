@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="135">
+   <dictum id="٦٤٧٩٥">
+      <text>
+         <ar>عَبْدُ اللهِ وَرَبِّي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>وَرَبِّي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٤١٨٦">
+      <text>
+         <ar>ذَاْكَ عَبْدُ اللهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ذَاْكَ</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٩٦٨٦">
+      <text>
+         <ar>هٰذَا عَبْدُ اللهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٦١٣٩">
+      <text>
+         <ar>زَيْدٌ وَرَبِّي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>وَرَبِّي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٦٤٦٨">
+      <text>
+         <ar>زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٥٢٢٠">
+      <text>
+         <ar>الْمِسْكُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>الْمِسْكُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٣٦٤٠">
+      <text>
+         <ar>الْعَسَلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>الْعَسَلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٣٨١٩">
+      <text>
+         <ar>عَبْدُ اللهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٧٣٨٨">
+      <text>
+         <ar>مَرَرْتُ بِرَجُلٍ رَاْحِمٍ لِلْمَسَاْكِيْنِ بَاْرٍّ بِوَاْلِدَيْهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِرَجُلٍ</ar>
+         </t>
+         <t>
+            <ar>رَاْحِمٍ</ar>
+         </t>
+         <t>
+            <ar>لِلْمَسَاْكِيْنِ</ar>
+         </t>
+         <t>
+            <ar>بَاْرٍّ</ar>
+         </t>
+         <t>
+            <ar>بِوَاْلِدَيْهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣١٩٣١">
+      <text>
+         <ar>فُلَاْنٌ وَاللّٰهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فُلَاْنٌ</ar>
+         </t>
+         <t>
+            <ar>وَاللّٰهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

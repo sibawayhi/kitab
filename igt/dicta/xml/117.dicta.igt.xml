@@ -1,100 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="117">
-   <dictum id="٤٦٤٢٤" nbr="1">
+   <dictum id="٤٦٤٢٤">
       <text>
-         <ar>هَذَا عَبْدُ اللهِ مُنْطَلِقًا</ar>
-         <free>This is Abdullah, departing</free>
+         <ar>هٰذَا عَبْدُ اللهِ مُنْطلِقًا</ar>
+         <free/>
       </text>
       <igt>
          <t>
-            <ar>هَذَا</ar>
-         </t>
-         <t class="copula">is</t>
-         <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>هٰذَا</ar>
          </t>
          <t>
-           <ar>مُنْطَلِقًا</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>مُنْطلِقًا</ar>
          </t>
       </igt>
    </dictum>
-
-   <dictum id="٣٠٥٢٨" nbr="2">
+   <dictum id="٣٠٥٢٨">
       <text>
-         <ar>هٰؤُلَاءِ قَوْمُكَ مُنْطَلِقِيْنَ</ar>
-         <free>These are your people departing</free>
+         <ar>هٰؤُلَاْءِ قَوْمُكَ مُنْطَلِقِيْنَ</ar>
+         <free/>
       </text>
       <igt>
          <t>
-            <ar>هٰؤُلَاءِ</ar>
-         </t>
-         <t class="copula">are</t>
-         <t join="1">
-           <t>
-             <ar>قَوْمُ</ar>
-             <en>people</en>
-           </t>
-           <t>
-             <ar>كَ</ar>
-             <en>your</en>
-           </t>
+            <ar>هٰؤُلَاْءِ</ar>
          </t>
          <t>
-           <ar>مُنْطَلِقِيْنَ٠</ar>
-           <en>departing</en>
+            <ar>قَوْمُكَ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقِيْنَ</ar>
          </t>
       </igt>
    </dictum>
-
-   <dictum id="٦٩٢٨٤" nbr="3">
+   <dictum id="٦٩٢٨٤">
       <text>
-         <ar>ذٰلِكَ عَبْدُ اللهِ ذَاهِبًا</ar>
-         <free>That is Abdullah leaving</free>
+         <ar>ذٰلِكَ عَبْدُ اللهِ ذَاْهِبًا</ar>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>ذٰلِكَ</ar>
          </t>
-         <t class="copula">is</t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
          </t>
          <t>
-           <ar>ذَاهِبًا</ar>
-           <en>leaving</en>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبًا</ar>
          </t>
       </igt>
    </dictum>
-
-   <dictum id="١٩٦٣٧" nbr="4">
+   <dictum id="١٩٦٣٧">
       <text>
-         <ar>هَذَا عَبْدُ اللهِ مَعْرُوْفًا</ar>
-         <free>This is Abdullah, recognizably</free>
+         <ar>هٰذَا عَبْدُ اللهِ مَعْرُوْفًا</ar>
+         <free/>
       </text>
       <igt>
          <t>
-            <ar>هَذَا</ar>
+            <ar>هٰذَا</ar>
          </t>
-         <t class="copula">is</t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>مَعْرُوْفًا</ar>
-            <en>recognizably</en>
          </t>
       </igt>
    </dictum>
-
-   <dictum id="٧٢٥٤٥" nbr="5">
+   <dictum id="٧٢٥٤٥">
       <text>
          <ar>اُنْظُرْ إِلَيْهِ مُنْطَلِقًا</ar>
-         <free>Look at him departing</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>اُنْظُرْ</ar>
-            <en>look</en>
          </t>
          <t>
             <ar>إِلَيْهِ</ar>
@@ -104,76 +94,66 @@
          </t>
       </igt>
    </dictum>
-
-   <dictum id="٨٠٠١٧" nbr="6">
+   <dictum id="٨٠٠١٧">
       <text>
-         <ar>جَاْءَ عَبْدُ اللهِ رَاكِبًا</ar>
-         <free>Abdullah came riding</free>
+         <ar>جَاْءَ عَبْدُ اللهِ رَاْكِبًا</ar>
+         <free/>
       </text>
       <igt>
-         <t class="bracket">
-           <ar>جَاْءَ</ar>
-           <en>came<ed>he</ed></en>
+         <t>
+            <ar>جَاْءَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>رَاْكِبًا</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٥١٦٦" nbr="8">
+   <dictum id="٤٥١٦٦">
       <text>
          <ar>هُوَ زَيْدٌ مَعْرُوْفًا</ar>
-         <free>He is Zayd, recognizably</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
-         <t class="copula">is</t>
          <t>
             <ar>زَيْدٌ</ar>
          </t>
          <t>
             <ar>مَعْرُوْفًا</ar>
-            <en>recognizably</en>
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٧١٤٨" nbr="9">
+   <dictum id="٣٧١٤٨">
       <text>
          <ar>الْزَمْهُ مَعْرُوْفًا</ar>
-         <free>Acknowledge(?) him recognizably</free>
+         <free/>
       </text>
       <igt>
-        <t join="1">
-          <t>
-            <ar>الْزَمْ</ar>
-            <en>bind</en>
-          </t>
-          <t>
-            <ar>هُ</ar>
-            <en>him</en>
-          </t>
-        </t>
          <t>
-           <ar>مَعْرُوْفًا</ar>
-           <en>recognizably</en>
+            <ar>الْزَمْهُ</ar>
+         </t>
+         <t>
+            <ar>مَعْرُوْفًا</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٧١٤٨" nbr="10">
+   <dictum id="٤٧١٤٨">
       <text>
          <ar>هٰذَا زَيْدٌ مُنْطَلِقًا</ar>
-         <free>This is Zayd departing</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
-         <t class="copula">is</t>
          <t>
             <ar>زَيْدٌ</ar>
          </t>
@@ -182,295 +162,224 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦١٦٣٧" nbr="12">
+   <dictum id="٦١٦٣٧">
       <text>
          <ar>هُوَ الْحَقُّ بَيِّنًا ومَعْلُوْمًا</ar>
-         <free>It is the truth, clearly and recognizably</free>
-      </text>
-      <igt>
-         <t>
-           <ar>هُوَ</ar>
-           <en>it</en>
-         </t>
-         <t class="copula">is</t>
-         <t class="the">
-           <ar>الْحَقُّ</ar>
-           <en>truth</en>
-         </t>
-         <t>
-           <ar>بَيِّنًا</ar>
-           <en>clearly</en>
-         </t>
-         <t join="1">
-           <t>
-             <ar>وَ</ar>
-           </t>
-           <t>
-             <ar>مَعْلُوْمًا</ar>
-             <en>recognizably</en>
-           </t>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٥٦٠٥" nbr="13">
-      <text>
-         <ar>هٰذَا عَبْدُ اللّٰهِ فَاعْرِفْهُ</ar>
-         <free>This is Abdullah, so recognize him</free>
-      </text>
-      <igt>
-         <t>
-            <ar>هٰذَا</ar>
-         </t>
-         <t class="copula">is</t>
-         <t>
-            <ar>عَبْدُ اللهِ</ar>
-         </t>
-         <t join="1">
-           <t>
-             <ar>فَ</ar>
-             <en>so</en>
-           </t>
-           <t>
-             <ar>اعْرِفْ</ar>
-             <en>recognize</en>
-           </t>
-           <t>
-             <ar>هُ</ar>
-             <en>him</en>
-           </t>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٦٥٦٠" nbr="14">
-      <text>
-         <ar>هُوَ عَبْدُ اللّٰهِ</ar>
-         <free>He is Abdullah</free>
-      </text>
-      <igt>
-         <t>
-           <ar>هُوَ</ar>
-         </t>
-         <t class="copula">is</t>
-         <t>
-            <ar>عَبْدُ اللهِ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٤٦٥٠" nbr="15">
-      <text>
-         <ar>أَنَا عَبْدُ اللّٰهِ</ar>
-         <free>I am Abdullah</free>
-      </text>
-      <igt>
-         <t>
-            <ar>أَنَا</ar>
-         </t>
-         <t class="copula">am</t>
-         <t>
-            <ar>عَبْدُ اللهِ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٠٩٤٦٠" nbr="16">
-      <text>
-         <ar>اِعْرِفْنِي بِمَا كُنْتَ تَعْرِفُ وَبِمَا كَاْنَ بَلَغَكَ عَنِّي</ar>
-         <free>Recognize me by what you recognized and by what reached you about me</free>
-      </text>
-      <igt>
-        <t join="1">
-          <t>
-            <ar>اِعْرِفْ</ar>
-            <en>recognize</en>
-          </t>
-          <t>
-            <ar>نِي</ar>
-            <en>me</en>
-          </t>
-        </t>
-         <t join="1">
-           <t>
-           <ar>بِ</ar>
-           <en>by</en>
-           </t>
-           <t>
-           <ar>مَا</ar>
-           <en>what</en>
-           </t>
-         </t>
-         <t>
-            <ar>كُنْتَ٠</ar>
-            <en>you did</en>
-         </t>
-         <t>
-            <ar>تَعْرِفُ</ar>
-            <en>you recognize</en>
-         </t>
-         <t join="1">
-           <t>
-            <ar>وَ</ar>
-            <en>and</en>
-           </t>
-           <t>
-            <ar>بِ</ar>
-            <en>by</en>
-           </t>
-           <t>
-            <ar>مَا</ar>
-            <en>what</en>
-           </t>
-         </t>
-         <t>
-            <ar>كَاْنَ</ar>
-            <en>did</en>
-         </t>
-         <t join="1">
-           <t>
-             <ar>بَلَغَ٠</ar>
-             <en><ed>it</ed>reached</en>
-           </t>
-           <t>
-             <ar>كَ</ar>
-             <en>you</en>
-           </t>
-         </t>
-         <t join="1">
-           <t>
-             <ar>عَن</ar>
-             <en>about</en>
-           </t>
-           <t>
-             <ar>نِي</ar>
-             <en>me</en>
-           </t>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣١٧٢٢" nbr="17">
-      <text>
-         <ar>أَنَا عَبْدُ اللّٰهِ كَرِيْمًا جَوَّاْدًا</ar>
-         <free>I am the noble and excellent Abdullah!</free>
-      </text>
-      <igt>
-         <t>
-            <ar>أَنَا</ar>
-         </t>
-         <t class="copula">am</t>
-         <t>
-            <ar>عَبْدُ اللهِ</ar>
-         </t>
-         <t>
-            <ar>كَرِيْمًا</ar>
-            <en><inflan>noble</inflan></en>
-         </t>
-         <t>
-           <ar>جَوَّاْدًا</ar>
-           <en><inflan>excellent</inflan></en>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٧٢٠٦٠" nbr="18">
-      <text>
-         <ar>هُوَ عَبْدُ اللّٰهِ شُجَاْعًا بَطَلًا</ar>
-         <free>He is the courageous and heroic Abdullah!</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
-         <t class="copula">is</t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>الْحَقُّ</ar>
          </t>
          <t>
-            <ar>شُجَاْعًا</ar>
-            <en><inflan>courageous</inflan></en>
+            <ar>بَيِّنًا</ar>
          </t>
          <t>
-           <ar>بَطَلًا</ar>
-           <en><inflan>heroic</inflan></en>
+            <ar>ومَعْلُوْمًا</ar>
          </t>
       </igt>
    </dictum>
-
-   <dictum id="٦١١٥٠" nbr="19">
+   <dictum id="٤٥٦٠٥">
       <text>
-         <ar>إِنِّي عَبْدُ اللّٰهِ</ar>
-         <free>Indeed I am Abdullah</free>
+         <ar>هٰذَا عَبْدُ اللهِ فَاْعْرِفْهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>فَاْعْرِفْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٦٥٦٠">
+      <text>
+         <ar>هُوَ عَبْدُ اللهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٤٦٥٠">
+      <text>
+         <ar>أَنَا عَبْدُ اللهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَنَا</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٩٤٦٠">
+      <text>
+         <ar>اِعْرِفْنِي بِمَا كُنْتَ تَعْرِفُ وَبِمَا كَاْنَ بَلَغَكَ عَنِّي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اِعْرِفْنِي</ar>
+         </t>
+         <t>
+            <ar>بِمَا</ar>
+         </t>
+         <t>
+            <ar>كُنْتَ</ar>
+         </t>
+         <t>
+            <ar>تَعْرِفُ</ar>
+         </t>
+         <t>
+            <ar>وَبِمَا</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>بَلَغَكَ</ar>
+         </t>
+         <t>
+            <ar>عَنِّي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣١٧٢٢">
+      <text>
+         <ar>أَنَا عَبْدُ اللهِ كَرِيْمًا جَوَّاْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَنَا</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>كَرِيْمًا</ar>
+         </t>
+         <t>
+            <ar>جَوَّاْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٢٠٦٠">
+      <text>
+         <ar>هُوَ عَبْدُ اللهِ شُجاْعًا بَطْلًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>شُجاْعًا</ar>
+         </t>
+         <t>
+            <ar>بَطْلًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦١١٥٠">
+      <text>
+         <ar>إِنِّي عَبْدُ اللهِ</ar>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>إِنِّي</ar>
-            <en>Indeed I</en>
          </t>
-         <t class="copula">am</t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٥٥٦٨" nbr="20">
+   <dictum id="٣٥٥٦٨">
       <text>
          <ar>آكِلًا كَمَا تَأْكُلُ الْعَبِيْدُ</ar>
-         <free>eating like the slaves eat</free>
+         <free/>
       </text>
       <igt>
          <t>
-           <ar>آكِلًا</ar>
-           <en>eating</en>
-         </t>
-         <t join="1">
-           <t>
-             <ar>كَ</ar>
-             <en>like</en>
-           </t>
-           <t>
-             <ar>مَا</ar>
-             <en>that</en>
-           </t>
+            <ar>آكِلًا</ar>
          </t>
          <t>
-           <ar>تَأْكُلُ</ar>
-           <en><ed>they</ed> eat</en>
+            <ar>كَمَا</ar>
          </t>
-         <t join="1">
-           <t>
-             <ar>الْ</ar>
-           </t>
-           <t>
-             <ar>عَبِيْدُ</ar>
-             <en>slaves</en>
-           </t>
+         <t>
+            <ar>تَأْكُلُ</ar>
+         </t>
+         <t>
+            <ar>الْعَبِيْدُ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٢٤٩٤" nbr="21">
+   <dictum id="٠٢٤٩٤">
       <text>
-         <ar>أَنَا عَبْدُ اللّٰهِ مُنْطَلِقًا</ar>
-         <free>I am Abdullah, departing</free>
+         <ar>أَنَا عَبْدُ اللهِ مُنْطَلِقًا</ar>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>أَنَا</ar>
          </t>
-         <t class="copula">am</t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>مُنْطَلِقًا</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٤٤٣٩" nbr="22">
-     <text>
+   <dictum id="٤٤٤٣٩">
+      <text>
          <ar>هُوَ زَيْدٌ مُنْطَلِقًا</ar>
-         <free>He is Zayd departing</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
-         <t class="copula">is</t>
          <t>
             <ar>زَيْدٌ</ar>
          </t>
@@ -479,71 +388,63 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٦١٩٠" nbr="23">
+   <dictum id="٩٦١٩٠">
       <text>
          <ar>مَنْ أَنْتَ</ar>
-         <free>Who are you?</free>
+         <free/>
       </text>
       <igt>
          <t>
-           <ar>مَنْ</ar>
-           <en>who</en>
+            <ar>مَنْ</ar>
          </t>
-         <t class="copula">are</t>
          <t>
-           <ar>أَنْتَ</ar>
-           <en>you</en>
+            <ar>أَنْتَ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٣١٠٩٧" nbr="24">
+   <dictum id="٣١٠٩٧">
       <text>
-         <ar>أَنَا عَبْدُ اللّٰهِ مُنْطَلِقًا فِي حَاْجَتِكَ</ar>
-         <free>I am Abdullah departing in your need</free>
-         <alt>I am Abdullah attending to your need</alt>
+         <ar>أَنَا عَبْدُ اللهِ مُنْطَلِقًا فِي حَاْجَتِكَ</ar>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>أَنَا</ar>
          </t>
-         <t class="copula">am</t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>مُنْطَلِقًا</ar>
          </t>
          <t>
-           <ar>فِي</ar>
-           <en>in</en>
+            <ar>فِي</ar>
          </t>
-         <t join="1" class="idafah">
-           <t>
-             <ar>حَاْجَتِ</ar>
-             <en><ed>the</ed><infli>need</infli></en>
-           </t>
-           <t>
-             <ar>كَ</ar>
-           </t>
+         <t>
+            <ar>حَاْجَتِكَ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="١٤١٨٠" nbr="25">
+   <dictum id="١٤١٨٠">
       <text>
-         <ar>أَخُوْكَ عَبْدُ اللّٰهِ مَعْرُوْفًا</ar>
-         <free>Your brother is Abdullah, recognizably</free>
+         <ar>أَخُوْكَ عَبْدُ اللهِ مَعْرُوْفًا</ar>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>أَخُوْكَ</ar>
          </t>
-         <t class="copula">is</t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>مَعْرُوْفًا</ar>
-            <en><inflan>recognizably</inflan></en>
          </t>
       </igt>
    </dictum>

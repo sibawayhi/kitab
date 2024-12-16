@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="154">
+   <dictum id="٥٧٠٦٧">
+      <text>
+         <ar>يَا لِلْعَجَبِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>لِلْعَجَبِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٠٢٦٣">
+      <text>
+         <ar>يَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٩٤٨٢">
+      <text>
+         <ar>يَا وَيْلٌ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>وَيْلٌ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٢٢٢٨">
+      <text>
+         <ar>يَا وَيْحٌ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>وَيْحٌ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٩٣٠٨">
+      <text>
+         <ar>هٰذَا لَزَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>لَزَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣١٠٠٩">
+      <text>
+         <ar>يَا لَزَيْدٍ وَلَعَمْرٍو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>لَزَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>وَلَعَمْرٍو</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

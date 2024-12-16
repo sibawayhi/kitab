@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="148">
+   <ayah id="٧٧٢٤٠" surah="" verse="">
+      <text>
+         <ar>اللّٰهُمَّ فَاْطِرَ السَّمَاْوَاْتِ وَالْأّرْضِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اللّٰهُمَّ</ar>
+         </t>
+         <t>
+            <ar>فَاْطِرَ</ar>
+         </t>
+         <t>
+            <ar>السَّمَاْوَاْتِ</ar>
+         </t>
+         <t>
+            <ar>وَالْأّرْضِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

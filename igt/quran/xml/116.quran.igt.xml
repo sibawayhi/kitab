@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="116">
+   <ayah id="١١٠٤٩" surah="" verse="">
+      <text>
+         <ar>وَٱمْرَأَتُهُ حَمَّاْلَةَ الْحَطَبِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَٱمْرَأَتُهُ</ar>
+         </t>
+         <t>
+            <ar>حَمَّاْلَةَ</ar>
+         </t>
+         <t>
+            <ar>الْحَطَبِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

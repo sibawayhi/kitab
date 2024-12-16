@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="195">
+   <verses id="٢٦٣٣٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>النَّاْسُ أَلْبٌ عَلَيْنَا فِيْكَ لَيْسَ لَنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>النَّاْسُ</ar>
+               </t>
+               <t>
+                  <ar>أَلْبٌ</ar>
+               </t>
+               <t>
+                  <ar>عَلَيْنَا</ar>
+               </t>
+               <t>
+                  <ar>فِيْكَ</ar>
+               </t>
+               <t>
+                  <ar>لَيْسَ</ar>
+               </t>
+               <t>
+                  <ar>لَنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>إِلَّا السُّيُوْفَ وَأَطْرَاْفَ الْقَنَا وَزَرُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِلَّا</ar>
+               </t>
+               <t>
+                  <ar>السُّيُوْفَ</ar>
+               </t>
+               <t>
+                  <ar>وَأَطْرَاْفَ</ar>
+               </t>
+               <t>
+                  <ar>الْقَنَا</ar>
+               </t>
+               <t>
+                  <ar>وَزَرُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٥٠٥٨٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>[ أَمَرْتُكُمُ أَمْرِي بِمُنْقَطَعِ الّلِوَى ]</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>[</ar>
+               </t>
+               <t>
+                  <ar>أَمَرْتُكُمُ</ar>
+               </t>
+               <t>
+                  <ar>أَمْرِي</ar>
+               </t>
+               <t>
+                  <ar>بِمُنْقَطَعِ</ar>
+               </t>
+               <t>
+                  <ar>الّلِوَى</ar>
+               </t>
+               <t>
+                  <ar>]</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>ولَا أَمْرَ لِلْمَعْصِيِّ إِلَّا مُضَيَّعَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ولَا</ar>
+               </t>
+               <t>
+                  <ar>أَمْرَ</ar>
+               </t>
+               <t>
+                  <ar>لِلْمَعْصِيِّ</ar>
+               </t>
+               <t>
+                  <ar>إِلَّا</ar>
+               </t>
+               <t>
+                  <ar>مُضَيَّعَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

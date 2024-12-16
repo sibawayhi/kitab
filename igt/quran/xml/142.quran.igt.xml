@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="142">
+   <ayah id="٢٥١١٨" surah="" verse="">
+      <text>
+         <ar>وَكَأَيِّن مِّنْ قَرْيَةٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَكَأَيِّن</ar>
+         </t>
+         <t>
+            <ar>مِّنْ</ar>
+         </t>
+         <t>
+            <ar>قَرْيَةٍ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

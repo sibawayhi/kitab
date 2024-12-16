@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="143">
-   <verses id="٦٩٢٦٣" nbr="1">
+   <verses id="٦٩٢٦٣" poet="">
       <verse>
          <hemistiche>
             <text>
@@ -11,23 +11,18 @@
             <igt>
                <t>
                   <ar>لَنَا</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مِرْفَدٌ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>سَبْعُوْنَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>أَلْفَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مُدَجَّجٍ</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>
@@ -39,27 +34,21 @@
             <igt>
                <t>
                   <ar>فَهَلْ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>فِي</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مَعَدٍّ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>فَوْقَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>ذٰلِكَ</ar>
-                  <en/>
                </t>
                <t>
                   <ar>مِرْفَدَا</ar>
-                  <en/>
                </t>
             </igt>
          </hemistiche>

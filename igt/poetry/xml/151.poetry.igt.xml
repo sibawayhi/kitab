@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="151">
+   <verses id="١٥٧٣٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَكُنْتَ إذْ كُنْتَ إِلٰهِي وَحْدَكَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَكُنْتَ</ar>
+               </t>
+               <t>
+                  <ar>إذْ</ar>
+               </t>
+               <t>
+                  <ar>كُنْتَ</ar>
+               </t>
+               <t>
+                  <ar>إِلٰهِي</ar>
+               </t>
+               <t>
+                  <ar>وَحْدَكَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>لَمْ يَكُ شَيْءٌ يَا إَلٰهِي قَبْلَكَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لَمْ</ar>
+               </t>
+               <t>
+                  <ar>يَكُ</ar>
+               </t>
+               <t>
+                  <ar>شَيْءٌ</ar>
+               </t>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>إَلٰهِي</ar>
+               </t>
+               <t>
+                  <ar>قَبْلَكَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

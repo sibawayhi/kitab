@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="154">
+   <verses id="٦٠٢٥٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَيَا لَلنَّاْسِ لِلْوَاْشِي الْمُطَاْعِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَيَا</ar>
+               </t>
+               <t>
+                  <ar>لَلنَّاْسِ</ar>
+               </t>
+               <t>
+                  <ar>لِلْوَاْشِي</ar>
+               </t>
+               <t>
+                  <ar>الْمُطَاْعِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٠٧٦٨٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَا لَقَوْمِي لِفِرْقَةِ الْأَحْبَاْبِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>لَقَوْمِي</ar>
+               </t>
+               <t>
+                  <ar>لِفِرْقَةِ</ar>
+               </t>
+               <t>
+                  <ar>الْأَحْبَاْبِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٥٨٦٢٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَا لَعْنَةُ اللهُِ وَالْأَقْوَاْمِ كُلِّهِمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>لَعْنَةُ</ar>
+               </t>
+               <t>
+                  <ar>اللهُِ</ar>
+               </t>
+               <t>
+                  <ar>وَالْأَقْوَاْمِ</ar>
+               </t>
+               <t>
+                  <ar>كُلِّهِمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَاْلصَّاْلِحِيْنَ عَلَى سِمْعَاْنَ مِنْ جَاْرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَاْلصَّاْلِحِيْنَ</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>سِمْعَاْنَ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>جَاْرِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

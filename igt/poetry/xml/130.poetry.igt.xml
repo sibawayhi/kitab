@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="130">
+   <verses id="٧٣٨٧٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَتَحْتَ الْعَوَاْلِي فِي الْقَنَا مُسْتَظِلَّةً</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَتَحْتَ</ar>
+               </t>
+               <t>
+                  <ar>الْعَوَاْلِي</ar>
+               </t>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>الْقَنَا</ar>
+               </t>
+               <t>
+                  <ar>مُسْتَظِلَّةً</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>ظِبَاْءٌ أَعَاْرَتْهَا الْعُيُوْنَ الجَآذِرُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ظِبَاْءٌ</ar>
+               </t>
+               <t>
+                  <ar>أَعَاْرَتْهَا</ar>
+               </t>
+               <t>
+                  <ar>الْعُيُوْنَ</ar>
+               </t>
+               <t>
+                  <ar>الجَآذِرُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٦٥٦٣٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَبِاْلْجِسْمِ مِنِّي بَيِّنَا لَوْ عَلِمْتِهِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَبِاْلْجِسْمِ</ar>
+               </t>
+               <t>
+                  <ar>مِنِّي</ar>
+               </t>
+               <t>
+                  <ar>بَيِّنَا</ar>
+               </t>
+               <t>
+                  <ar>لَوْ</ar>
+               </t>
+               <t>
+                  <ar>عَلِمْتِهِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>شُحُوْبٌ وَإِنْ تَسْتَشْهِدِي الْعَيْنَ تَشْهَدِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>شُحُوْبٌ</ar>
+               </t>
+               <t>
+                  <ar>وَإِنْ</ar>
+               </t>
+               <t>
+                  <ar>تَسْتَشْهِدِي</ar>
+               </t>
+               <t>
+                  <ar>الْعَيْنَ</ar>
+               </t>
+               <t>
+                  <ar>تَشْهَدِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٦٩١١٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لِمَيَّةَ مُوْحِشًا طَلَلُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لِمَيَّةَ</ar>
+               </t>
+               <t>
+                  <ar>مُوْحِشًا</ar>
+               </t>
+               <t>
+                  <ar>طَلَلُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

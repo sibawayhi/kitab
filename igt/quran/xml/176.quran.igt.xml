@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="176">
+   <ayah id="٧٤٢٠٣" surah="" verse="">
+      <text>
+         <ar>مَثَلًا مَا بِعُوْضَةِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَثَلًا</ar>
+         </t>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>بِعُوْضَةِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

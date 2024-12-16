@@ -2,7 +2,7 @@
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="132">
    <dictum id="٥٤٨٥٢">
       <text>
-         <ar>عَبْدُ اللّٰهِ مُنْطَلِقٌ</ar>
+         <ar>عَبْدُ اللهِ مُنْطَلِقٌ</ar>
          <free/>
       </text>
       <igt>
@@ -10,7 +10,7 @@
             <ar>عَبْدُ</ar>
          </t>
          <t>
-            <ar>اللّٰهِ</ar>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>مُنْطَلِقٌ</ar>
@@ -64,12 +64,12 @@
    </dictum>
    <dictum id="٩٩٦٨٤">
       <text>
-         <ar>مَشْنُوءٌ مَنْ يَشْنَؤُكَ</ar>
+         <ar>مَشْنُوْءٌ مَنْ يَشْنَؤُكَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>مَشْنُوءٌ</ar>
+            <ar>مَشْنُوْءٌ</ar>
          </t>
          <t>
             <ar>مَنْ</ar>
@@ -81,7 +81,7 @@
    </dictum>
    <dictum id="٢٥٧٣١">
       <text>
-         <ar>رَجُلٌ عَبْدُ اللّٰهِ</ar>
+         <ar>رَجُلٌ عَبْدُ اللهِ</ar>
          <free/>
       </text>
       <igt>
@@ -92,7 +92,7 @@
             <ar>عَبْدُ</ar>
          </t>
          <t>
-            <ar>اللّٰهِ</ar>
+            <ar>اللهِ</ar>
          </t>
       </igt>
    </dictum>
@@ -126,12 +126,12 @@
    </dictum>
    <dictum id="١٨٢٥٤">
       <text>
-         <ar>قَامَ زَيْدٌ</ar>
+         <ar>قَاْمَ زَيْدٌ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>قَامَ</ar>
+            <ar>قَاْمَ</ar>
          </t>
          <t>
             <ar>زَيْدٌ</ar>

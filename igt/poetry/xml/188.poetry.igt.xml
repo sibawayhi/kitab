@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="188">
+   <verses id="٤٨٢٤٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَا ابْنَيْ لُبَيْنَى لَسْتُمَا بِيَدٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>ابْنَيْ</ar>
+               </t>
+               <t>
+                  <ar>لُبَيْنَى</ar>
+               </t>
+               <t>
+                  <ar>لَسْتُمَا</ar>
+               </t>
+               <t>
+                  <ar>بِيَدٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>إِلَّا يَدًا لَيْسَتْ لَهَا عَضُدُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِلَّا</ar>
+               </t>
+               <t>
+                  <ar>يَدًا</ar>
+               </t>
+               <t>
+                  <ar>لَيْسَتْ</ar>
+               </t>
+               <t>
+                  <ar>لَهَا</ar>
+               </t>
+               <t>
+                  <ar>عَضُدُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣٩٥٤٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَحْكِي عَلَيْنَا إِلَّا كَوَاْكِبُهَاَْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَحْكِي</ar>
+               </t>
+               <t>
+                  <ar>عَلَيْنَا</ar>
+               </t>
+               <t>
+                  <ar>إِلَّا</ar>
+               </t>
+               <t>
+                  <ar>كَوَاْكِبُهَاَْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

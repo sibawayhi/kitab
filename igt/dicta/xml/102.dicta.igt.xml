@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="102">
+   <dictum id="٣٩٥٧٦">
+      <text>
+         <ar>مَرَرْتُ بِرَجُلٍ وَحِمَاْرٍ قَبْلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِرَجُلٍ</ar>
+         </t>
+         <t>
+            <ar>وَحِمَاْرٍ</ar>
+         </t>
+         <t>
+            <ar>قَبْلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٦٥٢٣">
+      <text>
+         <ar>مَرَرْتُ بِهِمَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِمَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٣٨٣٠">
+      <text>
+         <ar>مَا مَرَرْتُ بِرَجُلٍ وَحِمَاْرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِرَجُلٍ</ar>
+         </t>
+         <t>
+            <ar>وَحِمَاْرٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٠٩٣٢">
+      <text>
+         <ar>مَا مَرَرْتُ بِهِمَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِمَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٧٠٦٥">
+      <text>
+         <ar>مَرَرْتُ بِزَيْدٍ وَعَمْرٍو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>وَعَمْرٍو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٥٤٠٦">
+      <text>
+         <ar>مَرَرْتُ بِزَيْدٍ وَعَمْرٍو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>وَعَمْرٍو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٥١٧٣">
+      <text>
+         <ar>وَمَرَرْتُ أَيْضًا بِعَمْرٍو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَمَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>أَيْضًا</ar>
+         </t>
+         <t>
+            <ar>بِعَمْرٍو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٣٩١٧">
+      <text>
+         <ar>مَا مَرَرْتُ بِزَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٩٩٧٤">
+      <text>
+         <ar>مَا مَرَرْتُ بِعَمْرٍو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِعَمْرٍو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٩٣١٩">
+      <text>
+         <ar>مَرَرْتُ بِزَيْدٍ فَعَمْرٍو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>فَعَمْرٍو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٥٠٣٣">
+      <text>
+         <ar>مَرَرْتُ بِرَجُلٍٍ فَٱمْرَأَةٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِرَجُلٍٍ</ar>
+         </t>
+         <t>
+            <ar>فَٱمْرَأَةٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٥٥٩٧">
+      <text>
+         <ar>مَرَرْتُ بِرَجُلٍ ثُمَّ ٱمْرَأَةٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِرَجُلٍ</ar>
+         </t>
+         <t>
+            <ar>ثُمَّ</ar>
+         </t>
+         <t>
+            <ar>ٱمْرَأَةٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٢٨٨٣">
+      <text>
+         <ar>مَرَرْتُ بِرَجُلٍ أَوِ ٱمْرَأَةٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِرَجُلٍ</ar>
+         </t>
+         <t>
+            <ar>أَوِ</ar>
+         </t>
+         <t>
+            <ar>ٱمْرَأَةٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٢٣٤٨">
+      <text>
+         <ar>مَا مَرَرْتُ بِزَيْدٍ فَعَمْرٍو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>فَعَمْرٍو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٢٠٦٢">
+      <text>
+         <ar>مَا مَرَرْتُ بِزَيْدٍ ثُمَّ عَمْرٍو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>ثُمَّ</ar>
+         </t>
+         <t>
+            <ar>عَمْرٍو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٤٦٦٧">
+      <text>
+         <ar>مَا مَرَرْتُ بِوَاْحِدٍ مِنْهُمْا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِوَاْحِدٍ</ar>
+         </t>
+         <t>
+            <ar>مِنْهُمْا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٠٥٠١">
+      <text>
+         <ar>مَا مَرَرْتُ بِفُلَاْنٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِفُلَاْنٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٩٩٨٠">
+      <text>
+         <ar>مَرَرْتُ بِرَجُلٍ لَا ٱمْرَأَةٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِرَجُلٍ</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>ٱمْرَأَةٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

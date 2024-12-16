@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="109">
+   <verses id="٧١٤٢٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كَفَى الشَّيْبُ وَالإِسْلَاْمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَفَى</ar>
+               </t>
+               <t>
+                  <ar>الشَّيْبُ</ar>
+               </t>
+               <t>
+                  <ar>وَالإِسْلَاْمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

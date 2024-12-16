@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="124">
+   <ayah id="٧٣٥٩٩" surah="" verse="">
+      <text>
+         <ar>هٰذَا مَا لَدَيَّ عَتِيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>لَدَيَّ</ar>
+         </t>
+         <t>
+            <ar>عَتِيْدٌ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٥٤٥٧٧" surah="" verse="">
+      <text>
+         <ar>هٰذَا بَعْلِي شَيْخٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>بَعْلِي</ar>
+         </t>
+         <t>
+            <ar>شَيْخٌ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٧٢٢٠٣" surah="" verse="">
+      <text>
+         <ar>تَمَاْمًا عَلَى الَّذِي أَحْسَنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تَمَاْمًا</ar>
+         </t>
+         <t>
+            <ar>عَلَى</ar>
+         </t>
+         <t>
+            <ar>الَّذِي</ar>
+         </t>
+         <t>
+            <ar>أَحْسَنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

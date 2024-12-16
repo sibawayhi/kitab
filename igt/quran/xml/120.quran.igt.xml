@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="120">
+   <ayah id="٩٩٠٢٨" surah="" verse="">
+      <text>
+         <ar>هُوَ الْحَقُّ مُصَدِّقًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>الْحَقُّ</ar>
+         </t>
+         <t>
+            <ar>مُصَدِّقًا</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

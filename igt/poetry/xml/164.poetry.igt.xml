@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="164">
+   <verses id="١١٥١٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>جَاْرِىَ لَا تَسْتَنْكِرَى عَذِيْرِى</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>جَاْرِىَ</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>تَسْتَنْكِرَى</ar>
+               </t>
+               <t>
+                  <ar>عَذِيْرِى</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣٩٥٩٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كَاْدَتْ فَزَاْرَةُ تَشْقَى بِنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَاْدَتْ</ar>
+               </t>
+               <t>
+                  <ar>فَزَاْرَةُ</ar>
+               </t>
+               <t>
+                  <ar>تَشْقَى</ar>
+               </t>
+               <t>
+                  <ar>بِنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَأُوْلَى فَزَاْرَةُ أَوْلَى فَزَاْرَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَأُوْلَى</ar>
+               </t>
+               <t>
+                  <ar>فَزَاْرَةُ</ar>
+               </t>
+               <t>
+                  <ar>أَوْلَى</ar>
+               </t>
+               <t>
+                  <ar>فَزَاْرَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٨٠٨٥٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>قِفِى قَبْلَ التَّفَرِّقِ يَا ضُبَاَْعَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قِفِى</ar>
+               </t>
+               <t>
+                  <ar>قَبْلَ</ar>
+               </t>
+               <t>
+                  <ar>التَّفَرِّقِ</ar>
+               </t>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>ضُبَاَْعَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢٨٠٢٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>عُوْجِى عَلَيْنَا وَارَبْعَى يَا فَاْطِمَاَْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عُوْجِى</ar>
+               </t>
+               <t>
+                  <ar>عَلَيْنَا</ar>
+               </t>
+               <t>
+                  <ar>وَارَبْعَى</ar>
+               </t>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>فَاْطِمَاَْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

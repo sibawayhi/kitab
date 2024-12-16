@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="139">
+   <ayah id="٠٣٥٤٨" surah="" verse="">
+      <text>
+         <ar>قُلْ إِنَّ رَبِّي يَقْذِفُ بِاْلْحَقِّ عَلَّاْمُ الْغُيُوْبِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قُلْ</ar>
+         </t>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>رَبِّي</ar>
+         </t>
+         <t>
+            <ar>يَقْذِفُ</ar>
+         </t>
+         <t>
+            <ar>بِاْلْحَقِّ</ar>
+         </t>
+         <t>
+            <ar>عَلَّاْمُ</ar>
+         </t>
+         <t>
+            <ar>الْغُيُوْبِ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤٠١١٠" surah="" verse="">
+      <text>
+         <ar>وَعَلَّاْمَ الْغُيُوْبِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَعَلَّاْمَ</ar>
+         </t>
+         <t>
+            <ar>الْغُيُوْبِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

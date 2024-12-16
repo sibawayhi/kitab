@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="155">
+   <verses id="٦٨٧٠٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>تَبْكِيْهِمْ دَهْمَاْءَ مُعْوِلَةً</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَبْكِيْهِمْ</ar>
+               </t>
+               <t>
+                  <ar>دَهْمَاْءَ</ar>
+               </t>
+               <t>
+                  <ar>مُعْوِلَةً</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَتَقُوْلُ سَلْمَى وَارَزِيَّتِيِهْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَتَقُوْلُ</ar>
+               </t>
+               <t>
+                  <ar>سَلْمَى</ar>
+               </t>
+               <t>
+                  <ar>وَارَزِيَّتِيِهْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="١٧٥٧٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَهْى تُنَاْدَى بِأُبِى وَابْنِيْمَاَْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَهْى</ar>
+               </t>
+               <t>
+                  <ar>تُنَاْدَى</ar>
+               </t>
+               <t>
+                  <ar>بِأُبِى</ar>
+               </t>
+               <t>
+                  <ar>وَابْنِيْمَاَْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

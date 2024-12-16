@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="120">
+   <dictum id="٤٠٢١٠">
+      <text>
+         <ar>هٰذَا الرَّجُلُ مُنْطَلِقٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلُ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢١٠٧٣">
+      <text>
+         <ar>هٰذَا مُنْطَلِقٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٢٢٧٨">
+      <text>
+         <ar>وَهٰذَا سَاْبِعٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَهٰذَا</ar>
+         </t>
+         <t>
+            <ar>سَاْبِعٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥١٠٠٠">
+      <text>
+         <ar>هٰذَا الرَّجُلُ مُنْطَلِقًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلُ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٤٩٦٣">
+      <text>
+         <ar>هٰذَا عَبْدُ اللهِ مُنْطَلِقًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢١٨٥٢">
+      <text>
+         <ar>هٰذَا مُنْطَلِقٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٤٣٤٨">
+      <text>
+         <ar>فِيْهَا زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٥٢٦٥">
+      <text>
+         <ar>اسْتَقَرَّ فِيْهَا زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اسْتَقَرَّ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٢٤٦٦">
+      <text>
+         <ar>مَرَّ زَيْدٌ رَاْكِبًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَّ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>رَاْكِبًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٤٠٩١">
+      <text>
+         <ar>مَرَرْتُ بِهُوَ الرَّجُلِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهُوَ</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٢٥٧٥">
+      <text>
+         <ar>مَرَرْتُ بِهٰذَا الرَّجُلِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهٰذَا</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلِ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

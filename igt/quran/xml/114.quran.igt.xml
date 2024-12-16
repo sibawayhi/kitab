@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="114">
+   <ayah id="١٠٨٣٠" surah="" verse="">
+      <text>
+         <ar>فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَمَا</ar>
+         </t>
+         <t>
+            <ar>لَهُمْ</ar>
+         </t>
+         <t>
+            <ar>عَنِ</ar>
+         </t>
+         <t>
+            <ar>التَّذْكِرَةِ</ar>
+         </t>
+         <t>
+            <ar>مُعْرِضِيْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

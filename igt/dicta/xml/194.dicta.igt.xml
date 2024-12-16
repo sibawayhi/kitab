@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="194">
+   <dictum id="١٧٣٢٦">
+      <text>
+         <ar>لَوْ كَاْنَ مَعَنَا رَجُلٌ إِلَّا زَيْدٌ لَغُلِبْنًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَوْ</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>مَعَنَا</ar>
+         </t>
+         <t>
+            <ar>رَجُلٌ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>لَغُلِبْنًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٤٩١٩">
+      <text>
+         <ar>لَوْ كَاْنَ مَعَنَا إِلَّا زَيْدٌ لَهْلَكْنَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَوْ</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>مَعَنَا</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>لَهْلَكْنَا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

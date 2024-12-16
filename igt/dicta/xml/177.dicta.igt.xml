@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="177">
+   <dictum id="٩٠٧٣٤">
+      <text>
+         <ar>لَا خَيْرًا مِنْهُ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>خَيْرًا</ar>
+         </t>
+         <t>
+            <ar>مِنْهُ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٨٣٨٧">
+      <text>
+         <ar>لَا حَسَنًا وَجْهُهُ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>حَسَنًا</ar>
+         </t>
+         <t>
+            <ar>وَجْهُهُ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٩١٦٦">
+      <text>
+         <ar>لَا ضَاْرِبًا زَيْدًا لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>ضَاْرِبًا</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٥٠٧٣">
+      <text>
+         <ar>خَيْرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>خَيْرٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٩٢٨٠">
+      <text>
+         <ar>لَا عِشْرِيْنَ دِرْهَمًا لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>عِشْرِيْنَ</ar>
+         </t>
+         <t>
+            <ar>دِرْهَمًا</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٩٥٨٣">
+      <text>
+         <ar>لَا آمِرًا بِاْلْمَعْرُوْفِ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>آمِرًا</ar>
+         </t>
+         <t>
+            <ar>بِاْلْمَعْرُوْفِ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٤٨١٠">
+      <text>
+         <ar>لَا آمِرًا مَعْرُوْفًا لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>آمِرًا</ar>
+         </t>
+         <t>
+            <ar>مَعْرُوْفًا</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٠١٣٣">
+      <text>
+         <ar>لَا آمِرَ بِمَعْرُوْفٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>آمِرَ</ar>
+         </t>
+         <t>
+            <ar>بِمَعْرُوْفٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٠٧٤٩">
+      <text>
+         <ar>لَا آمِرَ فِي الدَّاْرِ يَوْمَ الْجُمْعَةِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>آمِرَ</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>الدَّاْرِ</ar>
+         </t>
+         <t>
+            <ar>يَوْمَ</ar>
+         </t>
+         <t>
+            <ar>الْجُمْعَةِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٤١٨٤">
+      <text>
+         <ar>لَا آمِرَ يَوْمَ الْجُمْعَةِ فِيْهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>آمِرَ</ar>
+         </t>
+         <t>
+            <ar>يَوْمَ</ar>
+         </t>
+         <t>
+            <ar>الْجُمْعَةِ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٤٥٧٣">
+      <text>
+         <ar>لَا دَاْعِيًّا [رَاْغِبًاْ] إِلَى اللهِ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>دَاْعِيًّا</ar>
+         </t>
+         <t>
+            <ar>[رَاْغِبًاْ]</ar>
+         </t>
+         <t>
+            <ar>إِلَى</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٦٩٩٧">
+      <text>
+         <ar>لَا مُغِيْرًا عَلَى الْأَعْدَاْءِ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>مُغِيْرًا</ar>
+         </t>
+         <t>
+            <ar>عَلَى</ar>
+         </t>
+         <t>
+            <ar>الْأَعْدَاْءِ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٢٦٩٤">
+      <text>
+         <ar>لَا آمِرًا يَوْمَ الْجُمْعَةِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>آمِرًا</ar>
+         </t>
+         <t>
+            <ar>يَوْمَ</ar>
+         </t>
+         <t>
+            <ar>الْجُمْعَةِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٦٧٢٥">
+      <text>
+         <ar>لَا آمِرَ يَوْمَ الْجُمْعَةِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>آمِرَ</ar>
+         </t>
+         <t>
+            <ar>يَوْمَ</ar>
+         </t>
+         <t>
+            <ar>الْجُمْعَةِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٥٥٦٦">
+      <text>
+         <ar>لَا ضَاْرِبًا يَوْمَ الْجُمْعَةِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>ضَاْرِبًا</ar>
+         </t>
+         <t>
+            <ar>يَوْمَ</ar>
+         </t>
+         <t>
+            <ar>الْجُمْعَةِ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

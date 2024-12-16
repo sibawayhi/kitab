@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="139">
+   <dictum id="٤٨٢٧٨">
+      <text>
+         <ar>إِنَّ زَيْدًا مُنْطَلِقٌ الْعَاْقِلُ اللَّبِيْبُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقٌ</ar>
+         </t>
+         <t>
+            <ar>الْعَاْقِلُ</ar>
+         </t>
+         <t>
+            <ar>اللَّبِيْبُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٣٣٣٥">
+      <text>
+         <ar>مَرَرْتُ بِهِ زَيْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٦١٢٤">
+      <text>
+         <ar>بِمَنْ مَرَرْتَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>بِمَنْ</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٢٧٩٨">
+      <text>
+         <ar>مَنْ يَنْطَلِقُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَنْ</ar>
+         </t>
+         <t>
+            <ar>يَنْطَلِقُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٦٤٨٢">
+      <text>
+         <ar>زَيْدٌ الْعَاْقِلُ اللَّبِيْبُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>الْعَاْقِلُ</ar>
+         </t>
+         <t>
+            <ar>اللَّبِيْبُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٩٧٥٠">
+      <text>
+         <ar>مَرَرْتُ بِهِ زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٥٢١٥">
+      <text>
+         <ar>مَنْ هُوَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَنْ</ar>
+         </t>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٠٢٩٤">
+      <text>
+         <ar>زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٨٠٥١">
+      <text>
+         <ar>مَنْ هُوَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَنْ</ar>
+         </t>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٧٦٠٥">
+      <text>
+         <ar>الْعَاْقِلُ اللَّبِيْبُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>الْعَاْقِلُ</ar>
+         </t>
+         <t>
+            <ar>اللَّبِيْبُ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

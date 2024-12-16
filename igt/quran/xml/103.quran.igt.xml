@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="103">
+   <ayah id="٢٣٨٠١" surah="" verse="">
+      <text>
+         <ar>وَقَاْلُوْا اتَّخَذَ الرَّحْمٰنُ وَلَدًا سُبْحَاْنَهُ بَلْ عِبَاْدٌ مُكْرَمُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَقَاْلُوْا</ar>
+         </t>
+         <t>
+            <ar>اتَّخَذَ</ar>
+         </t>
+         <t>
+            <ar>الرَّحْمٰنُ</ar>
+         </t>
+         <t>
+            <ar>وَلَدًا</ar>
+         </t>
+         <t>
+            <ar>سُبْحَاْنَهُ</ar>
+         </t>
+         <t>
+            <ar>بَلْ</ar>
+         </t>
+         <t>
+            <ar>عِبَاْدٌ</ar>
+         </t>
+         <t>
+            <ar>مُكْرَمُوْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="160">
+   <verses id="٨٥٥٥٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>جَاْرِىَ لَا تَسْتَنْكِرِى عَذْيْرِى</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>جَاْرِىَ</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>تَسْتَنْكِرِى</ar>
+               </t>
+               <t>
+                  <ar>عَذْيْرِى</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

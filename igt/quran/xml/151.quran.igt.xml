@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="151">
+   <ayah id="٢٤٩٧٥" surah="" verse="">
+      <text>
+         <ar>يَا عِبَاْدِ فَاْتَّقُوْنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>عِبَاْدِ</ar>
+         </t>
+         <t>
+            <ar>فَاْتَّقُوْنِ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٩٤٢١٧" surah="" verse="">
+      <text>
+         <ar>يَا عِبَاْدِي فَاْتَّقُوْنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>عِبَاْدِي</ar>
+         </t>
+         <t>
+            <ar>فَاْتَّقُوْنِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="149">
+   <verses id="٢٨٥٢٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَا حَكَمَ بْنَ الْمُنْذِرِ بْنِ الْجَاْرُوْدْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>حَكَمَ</ar>
+               </t>
+               <t>
+                  <ar>بْنَ</ar>
+               </t>
+               <t>
+                  <ar>الْمُنْذِرِ</ar>
+               </t>
+               <t>
+                  <ar>بْنِ</ar>
+               </t>
+               <t>
+                  <ar>الْجَاْرُوْدْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٤٥٤٢٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَا عُمَرَ بْنَ مَعْمَرٍ لَا مُنتَظَرْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>عُمَرَ</ar>
+               </t>
+               <t>
+                  <ar>بْنَ</ar>
+               </t>
+               <t>
+                  <ar>مَعْمَرٍ</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>مُنتَظَرْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

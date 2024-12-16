@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="152">
+   <dictum id="١٤٠٦٠">
+      <text>
+         <ar>يَا ابْنَ أَخِيْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>ابْنَ</ar>
+         </t>
+         <t>
+            <ar>أَخِيْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٧٨٦٣">
+      <text>
+         <ar>يَا ابْنَ أَبِيْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>ابْنَ</ar>
+         </t>
+         <t>
+            <ar>أَبِيْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٧٥٥٩">
+      <text>
+         <ar>يَا غُلَاْمَ غُلَاْمِيْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمَ</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمِيْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٧٧٣٠">
+      <text>
+         <ar>يَا ابْنَ أُمَّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>ابْنَ</ar>
+         </t>
+         <t>
+            <ar>أُمَّ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٩٩٤٥">
+      <text>
+         <ar>يَا ابْنَ عَمَّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>ابْنَ</ar>
+         </t>
+         <t>
+            <ar>عَمَّ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٣٥٧٢">
+      <text>
+         <ar>يَا ابْنُ أَبِيْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>ابْنُ</ar>
+         </t>
+         <t>
+            <ar>أَبِيْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٤٥٤٦">
+      <text>
+         <ar>يَا غُلَاْمَ غُلَاْمِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمَ</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمِي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٨٦٢٣">
+      <text>
+         <ar>يَا ابْنَ أُمِّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>ابْنَ</ar>
+         </t>
+         <t>
+            <ar>أُمِّ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٢٧٤٩">
+      <text>
+         <ar>يَا ابْنَ عَمِّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>ابْنَ</ar>
+         </t>
+         <t>
+            <ar>عَمِّ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٢٧٥٦">
+      <text>
+         <ar>يَا أَحَدَ عَشَرَ أَقبِلُوْا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>أَحَدَ</ar>
+         </t>
+         <t>
+            <ar>عَشَرَ</ar>
+         </t>
+         <t>
+            <ar>أَقبِلُوْا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
