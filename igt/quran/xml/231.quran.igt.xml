@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="231">
+   <ayah id="٣٩٣٤٢" surah="" verse="">
+      <text>
+         <ar>مَاْذًا أَنْزِلْ رَبَّكُمْ قَاْلُوْا خَيْرَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَاْذًا</ar>
+         </t>
+         <t>
+            <ar>أَنْزِلْ</ar>
+         </t>
+         <t>
+            <ar>رَبَّكُمْ</ar>
+         </t>
+         <t>
+            <ar>قَاْلُوْا</ar>
+         </t>
+         <t>
+            <ar>خَيْرَا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="١١٤٨٠" surah="" verse="">
+      <text>
+         <ar>مَاْذَا أَنْزَلَ رَبَّكُمْ قَاْلُوْا أَسَاْطِيْرُ الأَوَّلِيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَاْذَا</ar>
+         </t>
+         <t>
+            <ar>أَنْزَلَ</ar>
+         </t>
+         <t>
+            <ar>رَبَّكُمْ</ar>
+         </t>
+         <t>
+            <ar>قَاْلُوْا</ar>
+         </t>
+         <t>
+            <ar>أَسَاْطِيْرُ</ar>
+         </t>
+         <t>
+            <ar>الأَوَّلِيْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

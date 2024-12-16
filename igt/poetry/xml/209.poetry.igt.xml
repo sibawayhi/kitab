@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="209">
+   <verses id="٣٤٩٧٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>إِلَيْكَ حَتَّى بَلَغَتْ إيَّاْكَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِلَيْكَ</ar>
+               </t>
+               <t>
+                  <ar>حَتَّى</ar>
+               </t>
+               <t>
+                  <ar>بَلَغَتْ</ar>
+               </t>
+               <t>
+                  <ar>إيَّاْكَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٥٧٢٣٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كَأَنَّا يَوْمَ قُرَّى إ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَأَنَّا</ar>
+               </t>
+               <t>
+                  <ar>يَوْمَ</ar>
+               </t>
+               <t>
+                  <ar>قُرَّى</ar>
+               </t>
+               <t>
+                  <ar>إ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>نَّمَا نَقْتُلُ إيَّاْنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>نَّمَا</ar>
+               </t>
+               <t>
+                  <ar>نَقْتُلُ</ar>
+               </t>
+               <t>
+                  <ar>إيَّاْنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>[ قُتِلْنْا مِنْهُمْ كَلَّ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>[</ar>
+               </t>
+               <t>
+                  <ar>قُتِلْنْا</ar>
+               </t>
+               <t>
+                  <ar>مِنْهُمْ</ar>
+               </t>
+               <t>
+                  <ar>كَلَّ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَتًى أَبْيَضَ حُسَّاْنَاَْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَتًى</ar>
+               </t>
+               <t>
+                  <ar>أَبْيَضَ</ar>
+               </t>
+               <t>
+                  <ar>حُسَّاْنَاَْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

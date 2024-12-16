@@ -467,7 +467,7 @@ ednote =
           element أقوال {
               attribute نسخة {text},
               attribute نسبة {text}
-          },
+          }?,
           element شواهد {
               attribute نسخة {text},
               attribute نسبة {text}

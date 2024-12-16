@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="211">
+   <verses id="٥٨٠١٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَقَدْ جَعَلْتْ نَفْسِى تَطَيَّبُ لِضَغْمَةٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَقَدْ</ar>
+               </t>
+               <t>
+                  <ar>جَعَلْتْ</ar>
+               </t>
+               <t>
+                  <ar>نَفْسِى</ar>
+               </t>
+               <t>
+                  <ar>تَطَيَّبُ</ar>
+               </t>
+               <t>
+                  <ar>لِضَغْمَةٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>لْضَغْمِهِمَاْهَا يَقْرَعُ الْعَظْمَ نَاْبُهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لْضَغْمِهِمَاْهَا</ar>
+               </t>
+               <t>
+                  <ar>يَقْرَعُ</ar>
+               </t>
+               <t>
+                  <ar>الْعَظْمَ</ar>
+               </t>
+               <t>
+                  <ar>نَاْبُهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="205">
+   <dictum id="٨٠٩٧٥">
+      <text>
+         <ar>كَيْفَ أَنْتَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كَيْفَ</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٣٠٥٠">
+      <text>
+         <ar>أَيْنَ هُوَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَيْنَ</ar>
+         </t>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٩٠١٩">
+      <text>
+         <ar>نَحْنُ وَأَنْتُمْ ذَاْهِبُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>نَحْنُ</ar>
+         </t>
+         <t>
+            <ar>وَأَنْتُمْ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبُوْنَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>جَاْءَ عَبْدُ اللَّهِ وَأَنْتَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>جَاْءَ</ar>
+         </t>
+         <t>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللَّهِ</ar>
+         </t>
+         <t>
+            <ar>وَأَنْتَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>فِيْهَا أَنْتُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>أَنْتُمْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>فِيْهَا هُمْ قِيَاْمًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>هُمْ</ar>
+         </t>
+         <t>
+            <ar>قِيَاْمًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>أَمَّا الْخَبِيْثُ فَأَنْتَ وَأَمَّا الْعَاْقِلُ فَهُوَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَمَّا</ar>
+         </t>
+         <t>
+            <ar>الْخَبِيْثُ</ar>
+         </t>
+         <t>
+            <ar>فَأَنْتَ</ar>
+         </t>
+         <t>
+            <ar>وَأَمَّا</ar>
+         </t>
+         <t>
+            <ar>الْعَاْقِلُ</ar>
+         </t>
+         <t>
+            <ar>فَهُوَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>كُنَّا وَأَنْتُمْ ذَاْهِبِيْنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كُنَّا</ar>
+         </t>
+         <t>
+            <ar>وَأَنْتُمْ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبِيْنِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>أَهُوَ هَوَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَهُوَ</ar>
+         </t>
+         <t>
+            <ar>هَوَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

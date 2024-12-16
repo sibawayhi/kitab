@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="222">
+   <dictum id="٣٩٣١٤">
+      <text>
+         <ar>أَيٌّ أَفْضَلَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَيٌّ</ar>
+         </t>
+         <t>
+            <ar>أَفْضَلَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٠٤٤٨">
+      <text>
+         <ar>أَىُّ الْقَوْمِ أَفْضْلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَىُّ</ar>
+         </t>
+         <t>
+            <ar>الْقَوْمِ</ar>
+         </t>
+         <t>
+            <ar>أَفْضْلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

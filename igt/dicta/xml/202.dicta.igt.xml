@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="202">
+   <dictum id="٢٧٦٨٥">
+      <text>
+         <ar>مَا أَتَاْنِي الْقَوْمُ لَيْسَ زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>الْقَوْمُ</ar>
+         </t>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="230">
+   <verses id="٢٣٨٢٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>تَعَاْلَ فَإِنْ عَاْهَدْتَنِي لَا تَخُوُنِنِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَعَاْلَ</ar>
+               </t>
+               <t>
+                  <ar>فَإِنْ</ar>
+               </t>
+               <t>
+                  <ar>عَاْهَدْتَنِي</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>تَخُوُنِنِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>نَكُنْ مِثْلَ مَنْ يَا ذِئْبُ يَصْطَحِبَاْنِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>نَكُنْ</ar>
+               </t>
+               <t>
+                  <ar>مِثْلَ</ar>
+               </t>
+               <t>
+                  <ar>مَنْ</ar>
+               </t>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>ذِئْبُ</ar>
+               </t>
+               <t>
+                  <ar>يَصْطَحِبَاْنِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

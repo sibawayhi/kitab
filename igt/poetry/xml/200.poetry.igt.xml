@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="200">
+   <verses id="٩٣٨١١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَلَسْنَا بِاْلْجِبَاْلِ وَلَا الْحَدِيْدَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَلَسْنَا</ar>
+               </t>
+               <t>
+                  <ar>بِاْلْجِبَاْلِ</ar>
+               </t>
+               <t>
+                  <ar>وَلَا</ar>
+               </t>
+               <t>
+                  <ar>الْحَدِيْدَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

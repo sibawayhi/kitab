@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="211">
+   <ayah id="٨٥٠٣٢" surah="" verse="">
+      <text>
+         <ar>فَعُمِيَتْ عَلَيْكُمْ أَنْلَزِمُكُمُوْهَا وَأَنْتُمْ لَهَا كَاْرِهُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَعُمِيَتْ</ar>
+         </t>
+         <t>
+            <ar>عَلَيْكُمْ</ar>
+         </t>
+         <t>
+            <ar>أَنْلَزِمُكُمُوْهَا</ar>
+         </t>
+         <t>
+            <ar>وَأَنْتُمْ</ar>
+         </t>
+         <t>
+            <ar>لَهَا</ar>
+         </t>
+         <t>
+            <ar>كَاْرِهُوْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

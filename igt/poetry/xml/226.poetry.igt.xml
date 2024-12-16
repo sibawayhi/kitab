@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="226">
+   <verses id="٢٨٥٥٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أْتَوْا نَاْرَى فَقُلْتُ مَنُوْنَ أَنْتْمِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أْتَوْا</ar>
+               </t>
+               <t>
+                  <ar>نَاْرَى</ar>
+               </t>
+               <t>
+                  <ar>فَقُلْتُ</ar>
+               </t>
+               <t>
+                  <ar>مَنُوْنَ</ar>
+               </t>
+               <t>
+                  <ar>أَنْتْمِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَقَاْلُوْا الْجِنُّ قُلْتُ عِمُوْا ظَلَاْمَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَقَاْلُوْا</ar>
+               </t>
+               <t>
+                  <ar>الْجِنُّ</ar>
+               </t>
+               <t>
+                  <ar>قُلْتُ</ar>
+               </t>
+               <t>
+                  <ar>عِمُوْا</ar>
+               </t>
+               <t>
+                  <ar>ظَلَاْمَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

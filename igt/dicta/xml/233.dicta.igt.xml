@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="233">
+   <dictum id="٦٣٩٦٢">
+      <text>
+         <ar>أُرِيْدُ أَنْ تَفْعَلَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أُرِيْدُ</ar>
+         </t>
+         <t>
+            <ar>أَنْ</ar>
+         </t>
+         <t>
+            <ar>تَفْعَلَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٨٢٠١">
+      <text>
+         <ar>جِئْتُكَ لِكَيْ تَفْعَلَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>جِئْتُكَ</ar>
+         </t>
+         <t>
+            <ar>لِكَيْ</ar>
+         </t>
+         <t>
+            <ar>تَفْعَلَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٤٨٣٤">
+      <text>
+         <ar>أَمَّا زَيْدًا فَلَنْ أَضْرِبَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَمَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>فَلَنْ</ar>
+         </t>
+         <t>
+            <ar>أَضْرِبَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠١٠٨٩">
+      <text>
+         <ar>أَمَّا زَيْدًا فَلَا الضَّرْبُ لَهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَمَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>فَلَا</ar>
+         </t>
+         <t>
+            <ar>الضَّرْبُ</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

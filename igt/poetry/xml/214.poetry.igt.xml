@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="214">
+   <verses id="٥٧٤٤٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وكَمْ مَوْطِنٍ لِوْلَاْىَ طِحْتَ كَمَا هَوَى</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وكَمْ</ar>
+               </t>
+               <t>
+                  <ar>مَوْطِنٍ</ar>
+               </t>
+               <t>
+                  <ar>لِوْلَاْىَ</ar>
+               </t>
+               <t>
+                  <ar>طِحْتَ</ar>
+               </t>
+               <t>
+                  <ar>كَمَا</ar>
+               </t>
+               <t>
+                  <ar>هَوَى</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>بِأَجْرَاْمِهِ مِنْ قُلّةِ النّيْقِ مُنْهَوِى</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بِأَجْرَاْمِهِ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>قُلّةِ</ar>
+               </t>
+               <t>
+                  <ar>النّيْقِ</ar>
+               </t>
+               <t>
+                  <ar>مُنْهَوِى</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٨٣١٣٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يًّا أَبَتَا عَلَّكَ أَوْ عَسَاْكَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يًّا</ar>
+               </t>
+               <t>
+                  <ar>أَبَتَا</ar>
+               </t>
+               <t>
+                  <ar>عَلَّكَ</ar>
+               </t>
+               <t>
+                  <ar>أَوْ</ar>
+               </t>
+               <t>
+                  <ar>عَسَاْكَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٩٢٦٧١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>ولِى نَفْسٌ أَقُوْلُ لَهَا إذَا مَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ولِى</ar>
+               </t>
+               <t>
+                  <ar>نَفْسٌ</ar>
+               </t>
+               <t>
+                  <ar>أَقُوْلُ</ar>
+               </t>
+               <t>
+                  <ar>لَهَا</ar>
+               </t>
+               <t>
+                  <ar>إذَا</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>تُنَاْزِعُنَى لَعَلّى أَوْ عَسَاْنِى</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تُنَاْزِعُنَى</ar>
+               </t>
+               <t>
+                  <ar>لَعَلّى</ar>
+               </t>
+               <t>
+                  <ar>أَوْ</ar>
+               </t>
+               <t>
+                  <ar>عَسَاْنِى</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

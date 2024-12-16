@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="246">
+   <verses id="٠٣٩١٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>ومَنْ يَمِيْلُ أَمَاْلَ السَّيْفُ ذِرْوَتَهْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ومَنْ</ar>
+               </t>
+               <t>
+                  <ar>يَمِيْلُ</ar>
+               </t>
+               <t>
+                  <ar>أَمَاْلَ</ar>
+               </t>
+               <t>
+                  <ar>السَّيْفُ</ar>
+               </t>
+               <t>
+                  <ar>ذِرْوَتَهْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>حَيْثُ الْتَقَى مِنْ حِفَاْفِي رَأْسِهِ الشَّعَرُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>حَيْثُ</ar>
+               </t>
+               <t>
+                  <ar>الْتَقَى</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>حِفَاْفِي</ar>
+               </t>
+               <t>
+                  <ar>رَأْسِهِ</ar>
+               </t>
+               <t>
+                  <ar>الشَّعَرُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٩٧١١٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَقُلْتُ تَحَمَّلْ فَوْقَ طَوْقِك إنَّهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَقُلْتُ</ar>
+               </t>
+               <t>
+                  <ar>تَحَمَّلْ</ar>
+               </t>
+               <t>
+                  <ar>فَوْقَ</ar>
+               </t>
+               <t>
+                  <ar>طَوْقِك</ar>
+               </t>
+               <t>
+                  <ar>إنَّهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>مُطَبَّعَةٌ مَنْ يَأْتِهَا لَا يَضَيِّرُهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مُطَبَّعَةٌ</ar>
+               </t>
+               <t>
+                  <ar>مَنْ</ar>
+               </t>
+               <t>
+                  <ar>يَأْتِهَا</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>يَضَيِّرُهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

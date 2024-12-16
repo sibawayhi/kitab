@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="213">
+   <verses id="٢٢١١٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كُمْنْيَّةُ جَاْبِرٍ إذْ قَاْلَ لَيْتَيَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كُمْنْيَّةُ</ar>
+               </t>
+               <t>
+                  <ar>جَاْبِرٍ</ar>
+               </t>
+               <t>
+                  <ar>إذْ</ar>
+               </t>
+               <t>
+                  <ar>قَاْلَ</ar>
+               </t>
+               <t>
+                  <ar>لَيْتَيَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>أُصَاْدِفُهُ وَأَفْقَدُ جُلَّ مَاْلِى</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أُصَاْدِفُهُ</ar>
+               </t>
+               <t>
+                  <ar>وَأَفْقَدُ</ar>
+               </t>
+               <t>
+                  <ar>جُلَّ</ar>
+               </t>
+               <t>
+                  <ar>مَاْلِى</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣١٥٣٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>قَدْنِىَ مِنْ نَصْرِ الْخُبَيْبَيْنِ قَدِى</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قَدْنِىَ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>نَصْرِ</ar>
+               </t>
+               <t>
+                  <ar>الْخُبَيْبَيْنِ</ar>
+               </t>
+               <t>
+                  <ar>قَدِى</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>[ لَيْسَ الْإِمَاْمُ بِاْلشَّحِيْحِ الْمُلْحِدِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>[</ar>
+               </t>
+               <t>
+                  <ar>لَيْسَ</ar>
+               </t>
+               <t>
+                  <ar>الْإِمَاْمُ</ar>
+               </t>
+               <t>
+                  <ar>بِاْلشَّحِيْحِ</ar>
+               </t>
+               <t>
+                  <ar>الْمُلْحِدِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

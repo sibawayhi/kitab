@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="221">
+   <dictum id="٢٥٩١٤">
+      <text>
+         <ar>مَا أَظُنُّ أَحَدًا هُوَ خَيْرٌ مِنْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَظُنُّ</ar>
+         </t>
+         <t>
+            <ar>أَحَدًا</ar>
+         </t>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>خَيْرٌ</ar>
+         </t>
+         <t>
+            <ar>مِنْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢١٧٧٤">
+      <text>
+         <ar>مَا أَجَعَلَ رَجُلًا هُوَ أَكْرَمُ مِنْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَجَعَلَ</ar>
+         </t>
+         <t>
+            <ar>رَجُلًا</ar>
+         </t>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>أَكْرَمُ</ar>
+         </t>
+         <t>
+            <ar>مِنْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٧٠٦٠">
+      <text>
+         <ar>مَا إِخَاْلٌ رَجُلًا هُوَ أَكْرَمْ مِنْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>إِخَاْلٌ</ar>
+         </t>
+         <t>
+            <ar>رَجُلًا</ar>
+         </t>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>أَكْرَمْ</ar>
+         </t>
+         <t>
+            <ar>مِنْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

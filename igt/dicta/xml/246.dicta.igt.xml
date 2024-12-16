@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="246">
+   <dictum id="٤٣٠٠١">
+      <text>
+         <ar>الَّذِي تَقُوْلُ أَقُوْلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>الَّذِي</ar>
+         </t>
+         <t>
+            <ar>تَقُوْلُ</ar>
+         </t>
+         <t>
+            <ar>أَقُوْلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

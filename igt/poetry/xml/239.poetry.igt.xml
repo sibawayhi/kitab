@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="239">
+   <verses id="٩٥٨٠٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَإِنَّ الْمُنَدَّى رِحْلَةٌ فَرُكُوْبَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَإِنَّ</ar>
+               </t>
+               <t>
+                  <ar>الْمُنَدَّى</ar>
+               </t>
+               <t>
+                  <ar>رِحْلَةٌ</ar>
+               </t>
+               <t>
+                  <ar>فَرُكُوْبَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٩٤٤٧٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>ولَقَدْ أَمُرُّ عَلَى اللَّئِيْمِ يَسُبُّنِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ولَقَدْ</ar>
+               </t>
+               <t>
+                  <ar>أَمُرُّ</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>اللَّئِيْمِ</ar>
+               </t>
+               <t>
+                  <ar>يَسُبُّنِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَمَضَّيْتُ ثُمَّتَ قُلْتُ لَا يَعْنِيْنِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَمَضَّيْتُ</ar>
+               </t>
+               <t>
+                  <ar>ثُمَّتَ</ar>
+               </t>
+               <t>
+                  <ar>قُلْتُ</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>يَعْنِيْنِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

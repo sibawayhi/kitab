@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="237">
-   <ayah id="٣٨٤٣٤" nbr="1" surah="١٧" verse="٧٦">
+   <ayah id="٣٨٤٣٤" surah="١٧" verse="٧٦">
       <text>
-         <ar>وَإِذًا لَّا يَلْبَثُوْنَ خِلٰفَكَ إِلَّا قَلِيلًا</ar>
+         <ar>وَإِذًا لَّا يَلْبَثُوْنَ خِلٰفَكَ إِلَّا قَلِيْلًا</ar>
          <free/>
       </text>
       <igt>
@@ -23,11 +23,11 @@
             <ar>إِلَّا</ar>
          </t>
          <t>
-            <ar>قَلِيلًا</ar>
+            <ar>قَلِيْلًا</ar>
          </t>
       </igt>
    </ayah>
-   <ayah id="٤٨١٦٣" nbr="2" surah="١٧" verse="٧٦">
+   <ayah id="٤٨١٦٣" surah="١٧" verse="٧٦">
       <text>
          <ar>وإِذَنْ لَا يَلَبَثَوْا</ar>
          <free/>
@@ -44,9 +44,9 @@
          </t>
       </igt>
    </ayah>
-   <ayah id="٢٧٨٥١" nbr="3" surah="٤" verse="٥٣">
+   <ayah id="٢٧٨٥١" surah="٤" verse="٥٣">
       <text>
-         <ar>فَإِذًا لَا يُؤْتُونَ النَّاسَ نَقِيرًا</ar>
+         <ar>فَإِذًا لَا يُؤْتُوْنَ النَّاْسَ نَقِيْرًا</ar>
          <free/>
       </text>
       <igt>
@@ -57,13 +57,13 @@
             <ar>لَا</ar>
          </t>
          <t>
-            <ar>يُؤْتُونَ</ar>
+            <ar>يُؤْتُوْنَ</ar>
          </t>
          <t>
-            <ar>النَّاسَ</ar>
+            <ar>النَّاْسَ</ar>
          </t>
          <t>
-            <ar>نَقِيرًا</ar>
+            <ar>نَقِيْرًا</ar>
          </t>
       </igt>
    </ayah>

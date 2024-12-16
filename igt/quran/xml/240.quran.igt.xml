@@ -1,51 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="240">
-   <ayah id="" nbr="1" surah="" verse="">
+   <ayah id="٣٥٤٢٩" surah="" verse="">
       <text>
-         <ar>وَزَلْزِلُوا حَتَّى يَقُولَ الرَّسُولُ</ar>
+         <ar>وَزَلْزِلُوْا حَتَّى يَقُوْلَ الرَّسُوْلُ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>وَزَلْزِلُوا</ar>
-            <en/>
+            <ar>وَزَلْزِلُوْا</ar>
          </t>
          <t>
             <ar>حَتَّى</ar>
-            <en/>
          </t>
          <t>
-            <ar>يَقُولَ</ar>
-            <en/>
+            <ar>يَقُوْلَ</ar>
          </t>
          <t>
-            <ar>الرَّسُولُ</ar>
-            <en/>
+            <ar>الرَّسُوْلُ</ar>
          </t>
       </igt>
    </ayah>
-   <ayah id="" nbr="2" surah="" verse="">
+   <ayah id="٣٦٧٠٠" surah="" verse="">
       <text>
-         <ar>وَزَلْزِلُوا حَتَّى يَقُولَ الرَّسُولَ</ar>
+         <ar>وَزَلْزِلُوْا حَتَّى يَقُوْلَ الرَّسُوْلَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>وَزَلْزِلُوا</ar>
-            <en/>
+            <ar>وَزَلْزِلُوْا</ar>
          </t>
          <t>
             <ar>حَتَّى</ar>
-            <en/>
          </t>
          <t>
-            <ar>يَقُولَ</ar>
-            <en/>
+            <ar>يَقُوْلَ</ar>
          </t>
          <t>
-            <ar>الرَّسُولَ</ar>
-            <en/>
+            <ar>الرَّسُوْلَ</ar>
          </t>
       </igt>
    </ayah>

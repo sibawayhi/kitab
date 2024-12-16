@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="249">
+   <verses id="١٠٢٧٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لَمَّا تَمَكَّنَ دُنْيَاْهُمْ أَطَاْعَهُمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لَمَّا</ar>
+               </t>
+               <t>
+                  <ar>تَمَكَّنَ</ar>
+               </t>
+               <t>
+                  <ar>دُنْيَاْهُمْ</ar>
+               </t>
+               <t>
+                  <ar>أَطَاْعَهُمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فِيٌّ أَيِّ نَحْوٍ يُمِيْلُوْا دِيْنَهُ يَمِلِّ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فِيٌّ</ar>
+               </t>
+               <t>
+                  <ar>أَيِّ</ar>
+               </t>
+               <t>
+                  <ar>نَحْوٍ</ar>
+               </t>
+               <t>
+                  <ar>يُمِيْلُوْا</ar>
+               </t>
+               <t>
+                  <ar>دِيْنَهُ</ar>
+               </t>
+               <t>
+                  <ar>يَمِلِّ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٦٥٦٤٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>إِنّ الْكَرِيْمُ وَأَبِيْكَ يَعْتَمِلْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِنّ</ar>
+               </t>
+               <t>
+                  <ar>الْكَرِيْمُ</ar>
+               </t>
+               <t>
+                  <ar>وَأَبِيْكَ</ar>
+               </t>
+               <t>
+                  <ar>يَعْتَمِلْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>إُنْ لَمْ يَجِدْ يَوْمًا عَلَى مَنْ يَتَّكِلَّ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إُنْ</ar>
+               </t>
+               <t>
+                  <ar>لَمْ</ar>
+               </t>
+               <t>
+                  <ar>يَجِدْ</ar>
+               </t>
+               <t>
+                  <ar>يَوْمًا</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>مَنْ</ar>
+               </t>
+               <t>
+                  <ar>يَتَّكِلَّ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

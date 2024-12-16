@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="230">
+   <ayah id="٩٠٢٨٩" surah="" verse="">
+      <text>
+         <ar>وَمِنْهُمْ مَنْ يَسْتَمِعُوْنَ إِلَيْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَمِنْهُمْ</ar>
+         </t>
+         <t>
+            <ar>مَنْ</ar>
+         </t>
+         <t>
+            <ar>يَسْتَمِعُوْنَ</ar>
+         </t>
+         <t>
+            <ar>إِلَيْكَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٧١٩٧٤" surah="" verse="">
+      <text>
+         <ar>وَمَنْ تَقَنُتْ مِنْكُنَّ لِلَّهِ وَرَسُوْلِهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَمَنْ</ar>
+         </t>
+         <t>
+            <ar>تَقَنُتْ</ar>
+         </t>
+         <t>
+            <ar>مِنْكُنَّ</ar>
+         </t>
+         <t>
+            <ar>لِلَّهِ</ar>
+         </t>
+         <t>
+            <ar>وَرَسُوْلِهِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

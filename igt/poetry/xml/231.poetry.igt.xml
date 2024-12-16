@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="231">
+   <verses id="٩٧٠٦٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَلَا تَسْأَلَاْنِ الْمَرْءَ مَاْذَا يُحَاْوِلُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَلَا</ar>
+               </t>
+               <t>
+                  <ar>تَسْأَلَاْنِ</ar>
+               </t>
+               <t>
+                  <ar>الْمَرْءَ</ar>
+               </t>
+               <t>
+                  <ar>مَاْذَا</ar>
+               </t>
+               <t>
+                  <ar>يُحَاْوِلُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>أَنَحْبٌ فَيُقْضَى أُمُّ ضَلَّاْلٌ وَبَاْطِلُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَنَحْبٌ</ar>
+               </t>
+               <t>
+                  <ar>فَيُقْضَى</ar>
+               </t>
+               <t>
+                  <ar>أُمُّ</ar>
+               </t>
+               <t>
+                  <ar>ضَلَّاْلٌ</ar>
+               </t>
+               <t>
+                  <ar>وَبَاْطِلُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٧٥٠٥٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>دَعِىٌّ مَاْذَا عَلِمْتِ سَأَتَّقِيَّهِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>دَعِىٌّ</ar>
+               </t>
+               <t>
+                  <ar>مَاْذَا</ar>
+               </t>
+               <t>
+                  <ar>عَلِمْتِ</ar>
+               </t>
+               <t>
+                  <ar>سَأَتَّقِيَّهِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>ولَكُنْ بِاْلْمَغِيَّبِ نَبِّئِيْنِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ولَكُنْ</ar>
+               </t>
+               <t>
+                  <ar>بِاْلْمَغِيَّبِ</ar>
+               </t>
+               <t>
+                  <ar>نَبِّئِيْنِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

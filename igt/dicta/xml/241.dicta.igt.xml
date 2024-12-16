@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="241">
+   <dictum id="٦١٩٣٠">
+      <text>
+         <ar>لَا تَأْتِيْنِي فَتُحَدِّثَنِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>تَأْتِيْنِي</ar>
+         </t>
+         <t>
+            <ar>فَتُحَدِّثَنِي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٦٤٦٥">
+      <text>
+         <ar>لَا تَأْتِيْنِي وَلَا تُحَدِّثُنِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>تَأْتِيْنِي</ar>
+         </t>
+         <t>
+            <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>تُحَدِّثُنِي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧١٣٥٤">
+      <text>
+         <ar>لَيْسَ يَكُوْنُ مِنْك إتْيَاْنٌ فَحَدِيْثٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>يَكُوْنُ</ar>
+         </t>
+         <t>
+            <ar>مِنْك</ar>
+         </t>
+         <t>
+            <ar>إتْيَاْنٌ</ar>
+         </t>
+         <t>
+            <ar>فَحَدِيْثٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٢٩٦٤">
+      <text>
+         <ar>لَمْ يَكُنْ إتْيَاْنٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَمْ</ar>
+         </t>
+         <t>
+            <ar>يَكُنْ</ar>
+         </t>
+         <t>
+            <ar>إتْيَاْنٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

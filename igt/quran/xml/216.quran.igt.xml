@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="216">
+   <ayah id="٣٢٠٤٨" surah="" verse="">
+      <text>
+         <ar>اذْهَبْ أَنْتَ وَرَبَّكُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اذْهَبْ</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>وَرَبَّكُ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٩٣٠٤٢" surah="" verse="">
+      <text>
+         <ar>اسْكَنَ أَنْتَ وَزَوْجُكَ الْجَنَةَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اسْكَنَ</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>وَزَوْجُكَ</ar>
+         </t>
+         <t>
+            <ar>الْجَنَةَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٦٧١٦٢" surah="" verse="">
+      <text>
+         <ar>لُوَ شَاْءَ اللَّهُ مَا أَشْرَكْنَا وَلا آبَاْؤُنَا وَلا حَرْمْنَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لُوَ</ar>
+         </t>
+         <t>
+            <ar>شَاْءَ</ar>
+         </t>
+         <t>
+            <ar>اللَّهُ</ar>
+         </t>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَشْرَكْنَا</ar>
+         </t>
+         <t>
+            <ar>وَلا</ar>
+         </t>
+         <t>
+            <ar>آبَاْؤُنَا</ar>
+         </t>
+         <t>
+            <ar>وَلا</ar>
+         </t>
+         <t>
+            <ar>حَرْمْنَا</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

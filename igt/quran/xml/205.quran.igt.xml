@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="205">
+   <ayah id="٢٠٤٢٧" surah="" verse="">
+      <text>
+         <ar>كَأَنَّهُ هُوَ وَأُوْتِيْنَا الْعِلْمَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كَأَنَّهُ</ar>
+         </t>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>وَأُوْتِيْنَا</ar>
+         </t>
+         <t>
+            <ar>الْعِلْمَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٣٠٢٨٣" surah="" verse="">
+      <text>
+         <ar>هَا أَنْتُمْ هَؤْلًاْءُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَا</ar>
+         </t>
+         <t>
+            <ar>أَنْتُمْ</ar>
+         </t>
+         <t>
+            <ar>هَؤْلًاْءُ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٦٣٥٧٨" surah="" verse="">
+      <text>
+         <ar>ثُمْ أَنْتُمْ هَؤُلَاْءِ تَقْتُلُوْنَ أَنْفُسَكَمُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ثُمْ</ar>
+         </t>
+         <t>
+            <ar>أَنْتُمْ</ar>
+         </t>
+         <t>
+            <ar>هَؤُلَاْءِ</ar>
+         </t>
+         <t>
+            <ar>تَقْتُلُوْنَ</ar>
+         </t>
+         <t>
+            <ar>أَنْفُسَكَمُ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
