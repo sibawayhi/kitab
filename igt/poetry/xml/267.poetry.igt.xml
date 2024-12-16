@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="267">
+   <verses id="٣٤٣٧٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وعِلْمِي بِأَسْدَاْمِ الْمِيَاْهِ فَلَمْ تَزَلْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وعِلْمِي</ar>
+               </t>
+               <t>
+                  <ar>بِأَسْدَاْمِ</ar>
+               </t>
+               <t>
+                  <ar>الْمِيَاْهِ</ar>
+               </t>
+               <t>
+                  <ar>فَلَمْ</ar>
+               </t>
+               <t>
+                  <ar>تَزَلْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>قَلَاْئِصُ تَخْدِى فِي طَرِيْقٍ طَلَاْئِحُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قَلَاْئِصُ</ar>
+               </t>
+               <t>
+                  <ar>تَخْدِى</ar>
+               </t>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>طَرِيْقٍ</ar>
+               </t>
+               <t>
+                  <ar>طَلَاْئِحُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَأَنَّي إذَا مَلَّتْ رِكَّاْبِي مُنَاْخَهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَأَنَّي</ar>
+               </t>
+               <t>
+                  <ar>إذَا</ar>
+               </t>
+               <t>
+                  <ar>مَلَّتْ</ar>
+               </t>
+               <t>
+                  <ar>رِكَّاْبِي</ar>
+               </t>
+               <t>
+                  <ar>مُنَاْخَهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَإِنِّي عَلَى حَظِّي مِنَ الْأَمْرِ جَاْمِحُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَإِنِّي</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>حَظِّي</ar>
+               </t>
+               <t>
+                  <ar>مِنَ</ar>
+               </t>
+               <t>
+                  <ar>الْأَمْرِ</ar>
+               </t>
+               <t>
+                  <ar>جَاْمِحُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

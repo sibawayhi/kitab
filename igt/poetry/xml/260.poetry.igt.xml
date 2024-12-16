@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="260">
+   <verses id="٧١٩١٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>بِآيَةِ تُقْدِّمُوْنَ الْخَيْلَ شُعْثَاًْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بِآيَةِ</ar>
+               </t>
+               <t>
+                  <ar>تُقْدِّمُوْنَ</ar>
+               </t>
+               <t>
+                  <ar>الْخَيْلَ</ar>
+               </t>
+               <t>
+                  <ar>شُعْثَاًْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>كَأَنّ عَلَى سَنَاْبِكِهَا مُدَاْمَاْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَأَنّ</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>سَنَاْبِكِهَا</ar>
+               </t>
+               <t>
+                  <ar>مُدَاْمَاْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢٤٢٦١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَلَا مَنْ مُبْلِغٌ عَنِّي تَمِيْمَاًْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَلَا</ar>
+               </t>
+               <t>
+                  <ar>مَنْ</ar>
+               </t>
+               <t>
+                  <ar>مُبْلِغٌ</ar>
+               </t>
+               <t>
+                  <ar>عَنِّي</ar>
+               </t>
+               <t>
+                  <ar>تَمِيْمَاًْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>بِآيَةِ مَا تُحِبُّوْنَ الطَّعَاْمَاْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بِآيَةِ</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>تُحِبُّوْنَ</ar>
+               </t>
+               <t>
+                  <ar>الطَّعَاْمَاْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

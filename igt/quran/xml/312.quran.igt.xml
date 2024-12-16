@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="312">
+   <ayah id="٨٧٧٩٢" surah="١٩" verse="">
+      <text>
+         <ar>ولُهُمْ رِزْقُهُمْ فِيْهَا بُكْرَةٌ وَعُشْيَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ولُهُمْ</ar>
+         </t>
+         <t>
+            <ar>رِزْقُهُمْ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>بُكْرَةٌ</ar>
+         </t>
+         <t>
+            <ar>وَعُشْيَا</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

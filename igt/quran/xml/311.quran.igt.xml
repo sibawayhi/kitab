@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="311">
+   <ayah id="٢١٠١٢" surah="٨" verse="٢٤">
+      <text>
+         <ar>وَاْلرَّكْبُ أَسْفَلُ مِنْكَمُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَاْلرَّكْبُ</ar>
+         </t>
+         <t>
+            <ar>أَسْفَلُ</ar>
+         </t>
+         <t>
+            <ar>مِنْكَمُ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٠٣٧٧٧" surah="٣٣" verse="١٠">
+      <text>
+         <ar>إِذْ جَاْؤَكُمْ مِنْ فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنْكَمُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِذْ</ar>
+         </t>
+         <t>
+            <ar>جَاْؤَكُمْ</ar>
+         </t>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>فَوْقِكُمْ</ar>
+         </t>
+         <t>
+            <ar>وَمِنْ</ar>
+         </t>
+         <t>
+            <ar>أَسْفَلَ</ar>
+         </t>
+         <t>
+            <ar>مِنْكَمُ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

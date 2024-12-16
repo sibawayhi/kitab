@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="251">
+   <verses id="٢١٩٥٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَأَنْتُمْ لِهٰذَا النَّاْسِ كَاْلْقِبْلَةِ التَّيْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَأَنْتُمْ</ar>
+               </t>
+               <t>
+                  <ar>لِهٰذَا</ar>
+               </t>
+               <t>
+                  <ar>النَّاْسِ</ar>
+               </t>
+               <t>
+                  <ar>كَاْلْقِبْلَةِ</ar>
+               </t>
+               <t>
+                  <ar>التَّيْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>بُهَا أَنْ يَضِلَّ النَّاْسُ يُهْدَى ضَلَاْلُهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بُهَا</ar>
+               </t>
+               <t>
+                  <ar>أَنْ</ar>
+               </t>
+               <t>
+                  <ar>يَضِلَّ</ar>
+               </t>
+               <t>
+                  <ar>النَّاْسُ</ar>
+               </t>
+               <t>
+                  <ar>يُهْدَى</ar>
+               </t>
+               <t>
+                  <ar>ضَلَاْلُهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

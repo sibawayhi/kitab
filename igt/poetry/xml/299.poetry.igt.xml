@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="299">
+   <verses id="٨٧٩٥٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>تَنُوَّرَتُهَا مِنْ أَذْرِعَاْتٍ وَأَهُلَهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَنُوَّرَتُهَا</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>أَذْرِعَاْتٍ</ar>
+               </t>
+               <t>
+                  <ar>وَأَهُلَهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>بَيَثْرِبَ أَدْنَى دَاْرِهَا نَظَرٌ عَاْلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بَيَثْرِبَ</ar>
+               </t>
+               <t>
+                  <ar>أَدْنَى</ar>
+               </t>
+               <t>
+                  <ar>دَاْرِهَا</ar>
+               </t>
+               <t>
+                  <ar>نَظَرٌ</ar>
+               </t>
+               <t>
+                  <ar>عَاْلِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

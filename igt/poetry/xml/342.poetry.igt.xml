@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="342">
+   <verses id="٤٨٩٣٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لَسْتُ بِلَيْلِيٍّ وَلَكِنَّي نَهِرْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لَسْتُ</ar>
+               </t>
+               <t>
+                  <ar>بِلَيْلِيٍّ</ar>
+               </t>
+               <t>
+                  <ar>وَلَكِنَّي</ar>
+               </t>
+               <t>
+                  <ar>نَهِرْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>لًا أُدْلِجُ اللَّيْلَ وَلَكِنْ أَبْتَكِرْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لًا</ar>
+               </t>
+               <t>
+                  <ar>أُدْلِجُ</ar>
+               </t>
+               <t>
+                  <ar>اللَّيْلَ</ar>
+               </t>
+               <t>
+                  <ar>وَلَكِنْ</ar>
+               </t>
+               <t>
+                  <ar>أَبْتَكِرْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

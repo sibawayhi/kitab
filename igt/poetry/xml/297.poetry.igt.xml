@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="297">
+   <verses id="٣٢٧٣٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>قَدُ لَفَّهَا اللَّيْلُ بِسَوّاْقٍ حُطَمْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قَدُ</ar>
+               </t>
+               <t>
+                  <ar>لَفَّهَا</ar>
+               </t>
+               <t>
+                  <ar>اللَّيْلُ</ar>
+               </t>
+               <t>
+                  <ar>بِسَوّاْقٍ</ar>
+               </t>
+               <t>
+                  <ar>حُطَمْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣٨٠٠٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَعَاْوِدَنِي دِيْنِي فَبِتُّ كَأَنَّمَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَعَاْوِدَنِي</ar>
+               </t>
+               <t>
+                  <ar>دِيْنِي</ar>
+               </t>
+               <t>
+                  <ar>فَبِتُّ</ar>
+               </t>
+               <t>
+                  <ar>كَأَنَّمَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>خِلَاْلَ ضُلُوْعِ الصَّدْرِ شِرْعٌ مُمَدَّدُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>خِلَاْلَ</ar>
+               </t>
+               <t>
+                  <ar>ضُلُوْعِ</ar>
+               </t>
+               <t>
+                  <ar>الصَّدْرِ</ar>
+               </t>
+               <t>
+                  <ar>شِرْعٌ</ar>
+               </t>
+               <t>
+                  <ar>مُمَدَّدُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٠٥٤٩٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>ولَكِنَّمَا أَهْلِيَ بِوَاْدٍ أَنْيْسُهَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ولَكِنَّمَا</ar>
+               </t>
+               <t>
+                  <ar>أَهْلِيَ</ar>
+               </t>
+               <t>
+                  <ar>بِوَاْدٍ</ar>
+               </t>
+               <t>
+                  <ar>أَنْيْسُهَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>ذِئَاْبٌ تَبَغَّى النَّاْسَ مَثْنَى وَمَوْحَدُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ذِئَاْبٌ</ar>
+               </t>
+               <t>
+                  <ar>تَبَغَّى</ar>
+               </t>
+               <t>
+                  <ar>النَّاْسَ</ar>
+               </t>
+               <t>
+                  <ar>مَثْنَى</ar>
+               </t>
+               <t>
+                  <ar>وَمَوْحَدُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

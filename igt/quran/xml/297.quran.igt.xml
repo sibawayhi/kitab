@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="297">
+   <ayah id="٦٠٥٣٢" surah="" verse="">
+      <text>
+         <ar>أُوْلِي أَجْنِحَةٌ مَثْنِى وَثُلاْثَ وَرْبَاْعُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أُوْلِي</ar>
+         </t>
+         <t>
+            <ar>أَجْنِحَةٌ</ar>
+         </t>
+         <t>
+            <ar>مَثْنِى</ar>
+         </t>
+         <t>
+            <ar>وَثُلاْثَ</ar>
+         </t>
+         <t>
+            <ar>وَرْبَاْعُ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

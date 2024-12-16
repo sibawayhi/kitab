@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="260">
+   <ayah id="٥٦٩٦٣" surah="" verse="">
+      <text>
+         <ar>هٰذَا يَوْمَ لَا يَنْطِقُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>يَوْمَ</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>يَنْطِقُوْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٠١٩٨١" surah="" verse="">
+      <text>
+         <ar>هٰذَا يَوْمَ يَنْفَعُ الصَّاْدِقِيْنَ صَدَّقَهُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>يَوْمَ</ar>
+         </t>
+         <t>
+            <ar>يَنْفَعُ</ar>
+         </t>
+         <t>
+            <ar>الصَّاْدِقِيْنَ</ar>
+         </t>
+         <t>
+            <ar>صَدَّقَهُمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

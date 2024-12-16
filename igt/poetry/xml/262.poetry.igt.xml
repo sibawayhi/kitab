@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="262">
+   <verses id="٩٧٧١٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لُو بِغَيْرِ الْمَاْءِ حَلِقِي شَرِقٌ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لُو</ar>
+               </t>
+               <t>
+                  <ar>بِغَيْرِ</ar>
+               </t>
+               <t>
+                  <ar>الْمَاْءِ</ar>
+               </t>
+               <t>
+                  <ar>حَلِقِي</ar>
+               </t>
+               <t>
+                  <ar>شَرِقٌ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٨٠٧٣٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>رَأَتُهْ عَلَى شَيْبِ الْقَذَّاْلِ وَأَنْهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>رَأَتُهْ</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>شَيْبِ</ar>
+               </t>
+               <t>
+                  <ar>الْقَذَّاْلِ</ar>
+               </t>
+               <t>
+                  <ar>وَأَنْهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>تُوَاْقِعُ بَعْلًا مَرَّةً وَتَئِيْمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تُوَاْقِعُ</ar>
+               </t>
+               <t>
+                  <ar>بَعْلًا</ar>
+               </t>
+               <t>
+                  <ar>مَرَّةً</ar>
+               </t>
+               <t>
+                  <ar>وَتَئِيْمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="270">
+   <dictum id="٦٧٧٨١">
+      <text>
+         <ar>قَدْ قَاْلَهُ الْقَوْمُ حَتَّى إِنَّ زَيْدًا يَقُوْلُهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>قَاْلَهُ</ar>
+         </t>
+         <t>
+            <ar>الْقَوْمُ</ar>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+         </t>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>يَقُوْلُهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٩١٧٠">
+      <text>
+         <ar>انْطَلَقَ الْقَوْمُ حَتَّى إِنَّ زَيْدًا لَمُنْطَلِقٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>انْطَلَقَ</ar>
+         </t>
+         <t>
+            <ar>الْقَوْمُ</ar>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+         </t>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>لَمُنْطَلِقٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

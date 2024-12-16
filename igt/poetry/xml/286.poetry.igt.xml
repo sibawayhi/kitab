@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="286">
+   <verses id="٥٢٣٥٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>قَدْ عَلَتْ ذَاْكَ بَنَاْتُ أَلْبُبِهَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قَدْ</ar>
+               </t>
+               <t>
+                  <ar>عَلَتْ</ar>
+               </t>
+               <t>
+                  <ar>ذَاْكَ</ar>
+               </t>
+               <t>
+                  <ar>بَنَاْتُ</ar>
+               </t>
+               <t>
+                  <ar>أَلْبُبِهَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

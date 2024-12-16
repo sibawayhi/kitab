@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="326">
+   <verses id="٧٥٨١١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كَأَنَّمَا يَقَعُ الْبُصْرِيُّ بَيْنَهُمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَأَنَّمَا</ar>
+               </t>
+               <t>
+                  <ar>يَقَعُ</ar>
+               </t>
+               <t>
+                  <ar>الْبُصْرِيُّ</ar>
+               </t>
+               <t>
+                  <ar>بَيْنَهُمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>مِنُ الطَّوَاْئِفُ وَالْأَعْنَاْقُ بِاْلْوَذَمِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مِنُ</ar>
+               </t>
+               <t>
+                  <ar>الطَّوَاْئِفُ</ar>
+               </t>
+               <t>
+                  <ar>وَالْأَعْنَاْقُ</ar>
+               </t>
+               <t>
+                  <ar>بِاْلْوَذَمِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="301">
+   <ayah id="٢١٦٠٧" surah="" verse="">
+      <text>
+         <ar>وَاْلَّذِيْنَ اجْتَنَبُوْا الطَّاْغُوْتَ أَنْ يَعْبُدُوْهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَاْلَّذِيْنَ</ar>
+         </t>
+         <t>
+            <ar>اجْتَنَبُوْا</ar>
+         </t>
+         <t>
+            <ar>الطَّاْغُوْتَ</ar>
+         </t>
+         <t>
+            <ar>أَنْ</ar>
+         </t>
+         <t>
+            <ar>يَعْبُدُوْهَا</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

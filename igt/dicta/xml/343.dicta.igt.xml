@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="343">
+   <dictum id="٢٧٣٠٧">
+      <text>
+         <ar>رَأَيْتُ رَجُلَيْنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>رَجُلَيْنِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦١٤٨٦">
+      <text>
+         <ar>مَرَرْتُ بِعَنْكَبُوْتَيْنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِعَنْكَبُوْتَيْنِ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

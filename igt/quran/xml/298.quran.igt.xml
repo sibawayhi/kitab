@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="298">
+   <ayah id="٩٠٦٣٣" surah="" verse="">
+      <text>
+         <ar>نَسِقِيْكُمْ مِمَّا فِي بُطُوْنِهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>نَسِقِيْكُمْ</ar>
+         </t>
+         <t>
+            <ar>مِمَّا</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>بُطُوْنِهِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

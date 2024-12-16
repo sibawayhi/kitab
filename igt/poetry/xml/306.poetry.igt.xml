@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="306">
+   <verses id="٨٧٧٢٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَجَدْنَا لَكُمْ فِي آلِ حَاْمِيْمَ آيَةً</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَجَدْنَا</ar>
+               </t>
+               <t>
+                  <ar>لَكُمْ</ar>
+               </t>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>آلِ</ar>
+               </t>
+               <t>
+                  <ar>حَاْمِيْمَ</ar>
+               </t>
+               <t>
+                  <ar>آيَةً</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>تَأَوَّلَهَا مِنّا تَقِيٌّ وَمُعْرِبُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَأَوَّلَهَا</ar>
+               </t>
+               <t>
+                  <ar>مِنّا</ar>
+               </t>
+               <t>
+                  <ar>تَقِيٌّ</ar>
+               </t>
+               <t>
+                  <ar>وَمُعْرِبُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٨٧٩١٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أُوْ كُتُبًا بُيِّنَّ مِنْ حَاْمِيْمَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أُوْ</ar>
+               </t>
+               <t>
+                  <ar>كُتُبًا</ar>
+               </t>
+               <t>
+                  <ar>بُيِّنَّ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>حَاْمِيْمَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>قَدْ عَلِمَتْ أَبْنَاْءُ إِبْرَاْهِيْمَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قَدْ</ar>
+               </t>
+               <t>
+                  <ar>عَلِمَتْ</ar>
+               </t>
+               <t>
+                  <ar>أَبْنَاْءُ</ar>
+               </t>
+               <t>
+                  <ar>إِبْرَاْهِيْمَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

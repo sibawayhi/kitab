@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="271">
+   <dictum id="٥١٧٠٢">
+      <text>
+         <ar>مَا قَدِمَ عَلَيْنَا أَمِيْرٌ إِلَّا إِنَّهُ مُكْرَمٌ لِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>قَدِمَ</ar>
+         </t>
+         <t>
+            <ar>عَلَيْنَا</ar>
+         </t>
+         <t>
+            <ar>أَمِيْرٌ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>إِنَّهُ</ar>
+         </t>
+         <t>
+            <ar>مُكْرَمٌ</ar>
+         </t>
+         <t>
+            <ar>لِي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٨٣٧١">
+      <text>
+         <ar>مَا قَدِمَ عَلَيْنَا أَمِيْرٌ إِلَّا هُوَ مُكْرَمٌ لِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>قَدِمَ</ar>
+         </t>
+         <t>
+            <ar>عَلَيْنَا</ar>
+         </t>
+         <t>
+            <ar>أَمِيْرٌ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>مُكْرَمٌ</ar>
+         </t>
+         <t>
+            <ar>لِي</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

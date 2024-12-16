@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="291">
+   <verses id="٣٦٥٦٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَسْتَنُّ فِي عَلْقَى وَفِي مُكُوْرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَسْتَنُّ</ar>
+               </t>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>عَلْقَى</ar>
+               </t>
+               <t>
+                  <ar>وَفِي</ar>
+               </t>
+               <t>
+                  <ar>مُكُوْرِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

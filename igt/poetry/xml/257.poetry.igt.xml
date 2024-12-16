@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="257">
+   <verses id="٦٨٦٨٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>صَدَدْتِ فَأَطْوَلَتِ الصُّدُوْدِ وَقَلَّمَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>صَدَدْتِ</ar>
+               </t>
+               <t>
+                  <ar>فَأَطْوَلَتِ</ar>
+               </t>
+               <t>
+                  <ar>الصُّدُوْدِ</ar>
+               </t>
+               <t>
+                  <ar>وَقَلَّمَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وِصَاْلٌ عَلَى طُوْلِ الصُّدُوْدِ يَدْوْمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وِصَاْلٌ</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>طُوْلِ</ar>
+               </t>
+               <t>
+                  <ar>الصُّدُوْدِ</ar>
+               </t>
+               <t>
+                  <ar>يَدْوْمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

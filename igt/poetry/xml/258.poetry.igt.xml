@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="258">
+   <verses id="٣١٧٢١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لًا تَشْتُمِ النّاْسَ كَمَا لَا تُشْتَمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لًا</ar>
+               </t>
+               <t>
+                  <ar>تَشْتُمِ</ar>
+               </t>
+               <t>
+                  <ar>النّاْسَ</ar>
+               </t>
+               <t>
+                  <ar>كَمَا</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>تُشْتَمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣٦٨٦٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>قُلْتُ لِشَيْبَاْنَ ادْنُ مِنْ لَقَاْئِهْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قُلْتُ</ar>
+               </t>
+               <t>
+                  <ar>لِشَيْبَاْنَ</ar>
+               </t>
+               <t>
+                  <ar>ادْنُ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>لَقَاْئِهْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>كُمَا تُغَدِّي النَاْسَ مِنْ شِوَاْئِهِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كُمَا</ar>
+               </t>
+               <t>
+                  <ar>تُغَدِّي</ar>
+               </t>
+               <t>
+                  <ar>النَاْسَ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>شِوَاْئِهِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

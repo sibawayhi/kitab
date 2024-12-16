@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="274">
+   <ayah id="١٥١٤٩" surah="" verse="">
+      <text>
+         <ar>وَأَنْ تَصُوْمُوْا خَيْرٌ لَكُمُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَأَنْ</ar>
+         </t>
+         <t>
+            <ar>تَصُوْمُوْا</ar>
+         </t>
+         <t>
+            <ar>خَيْرٌ</ar>
+         </t>
+         <t>
+            <ar>لَكُمُ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٥٩٠٣٩" surah="" verse="">
+      <text>
+         <ar>أَنْ تَضِلَّ إِحْدَاْهُمَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَنْ</ar>
+         </t>
+         <t>
+            <ar>تَضِلَّ</ar>
+         </t>
+         <t>
+            <ar>إِحْدَاْهُمَا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="١٠١٧٨" surah="" verse="">
+      <text>
+         <ar>أَأَنْ كَاْنَ ذَا مَاْلٍ وَبَنِيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَأَنْ</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>ذَا</ar>
+         </t>
+         <t>
+            <ar>مَاْلٍ</ar>
+         </t>
+         <t>
+            <ar>وَبَنِيْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٧٣٧٣١" surah="" verse="">
+      <text>
+         <ar>فَمَا كَاْنَ جَوَاْبَ قَوْمِهِ إِلَّا أَنْ قَاْلَوَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَمَا</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>جَوَاْبَ</ar>
+         </t>
+         <t>
+            <ar>قَوْمِهِ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>أَنْ</ar>
+         </t>
+         <t>
+            <ar>قَاْلَوَا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٦٠٥٦٣" surah="" verse="">
+      <text>
+         <ar>بِئْسَمَا اشْتَرَوْا بِهِ أَنْفُسَهُمُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>بِئْسَمَا</ar>
+         </t>
+         <t>
+            <ar>اشْتَرَوْا</ar>
+         </t>
+         <t>
+            <ar>بِهِ</ar>
+         </t>
+         <t>
+            <ar>أَنْفُسَهُمُ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٦٩٧٩١" surah="" verse="">
+      <text>
+         <ar>وَأَمَرْتَ لَأَنْ أَكُوْنَ أَوَّلَ الْمُسْلِمِيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَأَمَرْتَ</ar>
+         </t>
+         <t>
+            <ar>لَأَنْ</ar>
+         </t>
+         <t>
+            <ar>أَكُوْنَ</ar>
+         </t>
+         <t>
+            <ar>أَوَّلَ</ar>
+         </t>
+         <t>
+            <ar>الْمُسْلِمِيْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

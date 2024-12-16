@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="298">
+   <verses id="٠٦٤٢٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَحْدُو ثَمَاْنِيَ سُوْلَعًا بِلَقَاْحِهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَحْدُو</ar>
+               </t>
+               <t>
+                  <ar>ثَمَاْنِيَ</ar>
+               </t>
+               <t>
+                  <ar>سُوْلَعًا</ar>
+               </t>
+               <t>
+                  <ar>بِلَقَاْحِهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>حَتَّى هَمَمْنَ بَزْيْغَةِ الْأَرْتَاْجِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>حَتَّى</ar>
+               </t>
+               <t>
+                  <ar>هَمَمْنَ</ar>
+               </t>
+               <t>
+                  <ar>بَزْيْغَةِ</ar>
+               </t>
+               <t>
+                  <ar>الْأَرْتَاْجِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

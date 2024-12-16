@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="282">
+   <verses id="٠٧٢٨٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>إَذًا مَا انْتَهَى عِلْمْي تَنَاْهَيْتُ عِنْدَهُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إَذًا</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>انْتَهَى</ar>
+               </t>
+               <t>
+                  <ar>عِلْمْي</ar>
+               </t>
+               <t>
+                  <ar>تَنَاْهَيْتُ</ar>
+               </t>
+               <t>
+                  <ar>عِنْدَهُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>أَطَاْلَ فَأَمْلَى أَوْ تَنَاْهَى فَأَقْصَرَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَطَاْلَ</ar>
+               </t>
+               <t>
+                  <ar>فَأَمْلَى</ar>
+               </t>
+               <t>
+                  <ar>أَوْ</ar>
+               </t>
+               <t>
+                  <ar>تَنَاْهَى</ar>
+               </t>
+               <t>
+                  <ar>فَأَقْصَرَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٩٥٠١٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَلَسْتُ أُبَاْلِي بَعْدَ يَوْمِ مُطَرِفٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَلَسْتُ</ar>
+               </t>
+               <t>
+                  <ar>أُبَاْلِي</ar>
+               </t>
+               <t>
+                  <ar>بَعْدَ</ar>
+               </t>
+               <t>
+                  <ar>يَوْمِ</ar>
+               </t>
+               <t>
+                  <ar>مُطَرِفٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>حُتُوْفَ الْمَنَاْيَا أَكْثَرَتْ أَوْ أَقَلَّتِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>حُتُوْفَ</ar>
+               </t>
+               <t>
+                  <ar>الْمَنَاْيَا</ar>
+               </t>
+               <t>
+                  <ar>أَكْثَرَتْ</ar>
+               </t>
+               <t>
+                  <ar>أَوْ</ar>
+               </t>
+               <t>
+                  <ar>أَقَلَّتِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

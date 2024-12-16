@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="329">
+   <verses id="٨١٦٤٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>ومَا النَّاْسُ إلَّاّْ كَاْلدِّيَاْرِ وَأَهْلُهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ومَا</ar>
+               </t>
+               <t>
+                  <ar>النَّاْسُ</ar>
+               </t>
+               <t>
+                  <ar>إلَّاّْ</ar>
+               </t>
+               <t>
+                  <ar>كَاْلدِّيَاْرِ</ar>
+               </t>
+               <t>
+                  <ar>وَأَهْلُهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>بُهَا يَوْمَ حَلُّوْهَا وَغَدْوًا بَلَاْقِعُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بُهَا</ar>
+               </t>
+               <t>
+                  <ar>يَوْمَ</ar>
+               </t>
+               <t>
+                  <ar>حَلُّوْهَا</ar>
+               </t>
+               <t>
+                  <ar>وَغَدْوًا</ar>
+               </t>
+               <t>
+                  <ar>بَلَاْقِعُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

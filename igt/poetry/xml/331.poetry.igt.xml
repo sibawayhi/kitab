@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="331">
+   <verses id="٤٧٠٤٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>هُمَا نَفَثَا فِي فِيَّ مِنْ فَمَوَيْهِمَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>هُمَا</ar>
+               </t>
+               <t>
+                  <ar>نَفَثَا</ar>
+               </t>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>فِيَّ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>فَمَوَيْهِمَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>عَلِى النَّاْبِحِ الْعَاْوِي أَشَدَّ رِجَاْمِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَلِى</ar>
+               </t>
+               <t>
+                  <ar>النَّاْبِحِ</ar>
+               </t>
+               <t>
+                  <ar>الْعَاْوِي</ar>
+               </t>
+               <t>
+                  <ar>أَشَدَّ</ar>
+               </t>
+               <t>
+                  <ar>رِجَاْمِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٦١٦٣٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَلَسْتُ بِشَاْوِيٍّ عَلَيْهِ دَمَاْمِةٌ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَلَسْتُ</ar>
+               </t>
+               <t>
+                  <ar>بِشَاْوِيٍّ</ar>
+               </t>
+               <t>
+                  <ar>عَلَيْهِ</ar>
+               </t>
+               <t>
+                  <ar>دَمَاْمِةٌ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>إَذًا مَا غَدَا يَغْدُو بِقَوْسٍ وَأَسْهُمِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إَذًا</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>غَدَا</ar>
+               </t>
+               <t>
+                  <ar>يَغْدُو</ar>
+               </t>
+               <t>
+                  <ar>بِقَوْسٍ</ar>
+               </t>
+               <t>
+                  <ar>وَأَسْهُمِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="275">
+   <verses id="٠٣٢٢٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كَأَنْ وَرِيْدَيْهِ رِشَاْءُ خُلْبِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَأَنْ</ar>
+               </t>
+               <t>
+                  <ar>وَرِيْدَيْهِ</ar>
+               </t>
+               <t>
+                  <ar>رِشَاْءُ</ar>
+               </t>
+               <t>
+                  <ar>خُلْبِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٠٩٢٩٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فِيٌّ فِتْيْةٍ كَسُيُوْفِ الْهِنْدِ قَدْ عَلِمَوَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فِيٌّ</ar>
+               </t>
+               <t>
+                  <ar>فِتْيْةٍ</ar>
+               </t>
+               <t>
+                  <ar>كَسُيُوْفِ</ar>
+               </t>
+               <t>
+                  <ar>الْهِنْدِ</ar>
+               </t>
+               <t>
+                  <ar>قَدْ</ar>
+               </t>
+               <t>
+                  <ar>عَلِمَوَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>أَنْ هَاْلِكٌ كُلُّ مَنْ يَحْفَى وَيَنْتَعِلُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَنْ</ar>
+               </t>
+               <t>
+                  <ar>هَاْلِكٌ</ar>
+               </t>
+               <t>
+                  <ar>كُلُّ</ar>
+               </t>
+               <t>
+                  <ar>مَنْ</ar>
+               </t>
+               <t>
+                  <ar>يَحْفَى</ar>
+               </t>
+               <t>
+                  <ar>وَيَنْتَعِلُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٦٢٣٨٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كَأَنْ وَرِيْدَاْهُ رِشَاْءُ خُلْبِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَأَنْ</ar>
+               </t>
+               <t>
+                  <ar>وَرِيْدَاْهُ</ar>
+               </t>
+               <t>
+                  <ar>رِشَاْءُ</ar>
+               </t>
+               <t>
+                  <ar>خُلْبِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٥٨١٠٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كَأَنْ ظَبْيَةٌ تَعُطُو إلَى وَارِقِ السَّلَمْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَأَنْ</ar>
+               </t>
+               <t>
+                  <ar>ظَبْيَةٌ</ar>
+               </t>
+               <t>
+                  <ar>تَعُطُو</ar>
+               </t>
+               <t>
+                  <ar>إلَى</ar>
+               </t>
+               <t>
+                  <ar>وَارِقِ</ar>
+               </t>
+               <t>
+                  <ar>السَّلَمْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

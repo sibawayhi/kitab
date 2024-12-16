@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="260">
+   <dictum id="٦٥٢٧٠">
+      <text>
+         <ar>هٰذَا يَوْمُ يَقَوْمُ زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>يَوْمُ</ar>
+         </t>
+         <t>
+            <ar>يَقَوْمُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٨٨٠٣">
+      <text>
+         <ar>آتِيْكَ يَوْمَ يَقُوْلُ ذَاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>آتِيْكَ</ar>
+         </t>
+         <t>
+            <ar>يَوْمَ</ar>
+         </t>
+         <t>
+            <ar>يَقُوْلُ</ar>
+         </t>
+         <t>
+            <ar>ذَاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

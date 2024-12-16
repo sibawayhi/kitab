@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="250">
+   <ayah id="٨٣٢١٦" surah="" verse="">
+      <text>
+         <ar>أَفَإِنْ مِتُّ فَهُمْ الْخَاْلِدُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَفَإِنْ</ar>
+         </t>
+         <t>
+            <ar>مِتُّ</ar>
+         </t>
+         <t>
+            <ar>فَهُمْ</ar>
+         </t>
+         <t>
+            <ar>الْخَاْلِدُوْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

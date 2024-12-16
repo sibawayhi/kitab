@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="272">
+   <dictum id="٦٦٣٢٠">
+      <text>
+         <ar>أَشْهَدُ إِنَّكَ لَمُنْطَلِقٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَشْهَدُ</ar>
+         </t>
+         <t>
+            <ar>إِنَّكَ</ar>
+         </t>
+         <t>
+            <ar>لَمُنْطَلِقٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٨٦٤٦">
+      <text>
+         <ar>وَاللَّهِ إِنَّكَ لَذَاْهِبٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَاللَّهِ</ar>
+         </t>
+         <t>
+            <ar>إِنَّكَ</ar>
+         </t>
+         <t>
+            <ar>لَذَاْهِبٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

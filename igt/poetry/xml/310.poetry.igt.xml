@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="310">
+   <verses id="٣٦٧٧٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَلَا أَعْنِي بِذٰلِكَ أَسْفَلِيْكُمْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَلَا</ar>
+               </t>
+               <t>
+                  <ar>أَعْنِي</ar>
+               </t>
+               <t>
+                  <ar>بِذٰلِكَ</ar>
+               </t>
+               <t>
+                  <ar>أَسْفَلِيْكُمْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>ولَكِنّي أُرِيْدُ بِهِ الذّوَيْنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ولَكِنّي</ar>
+               </t>
+               <t>
+                  <ar>أُرِيْدُ</ar>
+               </t>
+               <t>
+                  <ar>بِهِ</ar>
+               </t>
+               <t>
+                  <ar>الذّوَيْنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣٧٤٤٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لْقَدْ رَأَيْتُ عَجَبًا مُذْ أَمْسَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لْقَدْ</ar>
+               </t>
+               <t>
+                  <ar>رَأَيْتُ</ar>
+               </t>
+               <t>
+                  <ar>عَجَبًا</ar>
+               </t>
+               <t>
+                  <ar>مُذْ</ar>
+               </t>
+               <t>
+                  <ar>أَمْسَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>عَجَاْئِزًا مِثْلَ السَّعَاْلِيِ خَمْسَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَجَاْئِزًا</ar>
+               </t>
+               <t>
+                  <ar>مِثْلَ</ar>
+               </t>
+               <t>
+                  <ar>السَّعَاْلِيِ</ar>
+               </t>
+               <t>
+                  <ar>خَمْسَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

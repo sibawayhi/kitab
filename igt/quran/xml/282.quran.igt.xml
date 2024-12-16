@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="282">
+   <ayah id="٥٩٥٨٩" surah="" verse="">
+      <text>
+         <ar>وَلَا تُطِعْ مِنْهُ آثِمًا أَوْ كَفُوْرَاًْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>تُطِعْ</ar>
+         </t>
+         <t>
+            <ar>مِنْهُ</ar>
+         </t>
+         <t>
+            <ar>آثِمًا</ar>
+         </t>
+         <t>
+            <ar>أَوْ</ar>
+         </t>
+         <t>
+            <ar>كَفُوْرَاًْ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

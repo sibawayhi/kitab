@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="261">
+   <dictum id="٧٢٣٢٣">
+      <text>
+         <ar>قَدْ عَرَفْتُ أَنَّكَ مُنْطَلِقٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>عَرَفْتُ</ar>
+         </t>
+         <t>
+            <ar>أَنَّكَ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٨٢٦٩">
+      <text>
+         <ar>قَدْ عَرَفْتُ ذَاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>عَرَفْتُ</ar>
+         </t>
+         <t>
+            <ar>ذَاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٠٦٦٦">
+      <text>
+         <ar>بَلَغَنِي أَنَّكَ مُنْطَلِقٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>بَلَغَنِي</ar>
+         </t>
+         <t>
+            <ar>أَنَّكَ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٤٩٨٧">
+      <text>
+         <ar>بَلَغَنِي ذَاْكِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>بَلَغَنِي</ar>
+         </t>
+         <t>
+            <ar>ذَاْكِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٤٦٢٥">
+      <text>
+         <ar>رَأَيْتُ الضَّاْرِبَ أَبَاْهُ زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>الضَّاْرِبَ</ar>
+         </t>
+         <t>
+            <ar>أَبَاْهُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦١٣٢١">
+      <text>
+         <ar>إِنَّ زَيْدًا مُنْطَلِقٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٣٢٦١">
+      <text>
+         <ar>إِنَّك ذَاْهِبٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّك</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="303">
+   <ayah id="٤٦٧٩٤" surah="" verse="">
+      <text>
+         <ar>اهْبِطُوْا مِصْرَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اهْبِطُوْا</ar>
+         </t>
+         <t>
+            <ar>مِصْرَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

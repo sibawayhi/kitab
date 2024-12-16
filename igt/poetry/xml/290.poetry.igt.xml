@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="290">
+   <verses id="٦٩٨٣٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَنَا ابْنُ جَلَاَْ وَطَلَاّْعُ الثّنَاْيَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَنَا</ar>
+               </t>
+               <t>
+                  <ar>ابْنُ</ar>
+               </t>
+               <t>
+                  <ar>جَلَاَْ</ar>
+               </t>
+               <t>
+                  <ar>وَطَلَاّْعُ</ar>
+               </t>
+               <t>
+                  <ar>الثّنَاْيَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>مَتِى أَضَعِ الْعِمِاْمَةَ تَعْرِفُوْنِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مَتِى</ar>
+               </t>
+               <t>
+                  <ar>أَضَعِ</ar>
+               </t>
+               <t>
+                  <ar>الْعِمِاْمَةَ</ar>
+               </t>
+               <t>
+                  <ar>تَعْرِفُوْنِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢٩٦٢٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>بَنِي شَاْبَ قَرْنَاْهَا تَصُرُّ وَتَحْلُبُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بَنِي</ar>
+               </t>
+               <t>
+                  <ar>شَاْبَ</ar>
+               </t>
+               <t>
+                  <ar>قَرْنَاْهَا</ar>
+               </t>
+               <t>
+                  <ar>تَصُرُّ</ar>
+               </t>
+               <t>
+                  <ar>وَتَحْلُبُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

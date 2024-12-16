@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="302">
+   <verses id="١٩٨٦٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لم تَتَلَفَّعْ بِفَضْلِ مِئْزَرِها</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لم</ar>
+               </t>
+               <t>
+                  <ar>تَتَلَفَّعْ</ar>
+               </t>
+               <t>
+                  <ar>بِفَضْلِ</ar>
+               </t>
+               <t>
+                  <ar>مِئْزَرِها</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>دَعْدٌ ولم تُغْذَ دَعْدُ في العُلَبِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>دَعْدٌ</ar>
+               </t>
+               <t>
+                  <ar>ولم</ar>
+               </t>
+               <t>
+                  <ar>تُغْذَ</ar>
+               </t>
+               <t>
+                  <ar>دَعْدُ</ar>
+               </t>
+               <t>
+                  <ar>في</ar>
+               </t>
+               <t>
+                  <ar>العُلَبِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

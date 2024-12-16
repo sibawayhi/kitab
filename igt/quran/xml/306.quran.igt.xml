@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="306">
+   <ayah id="١٨٩٦٥" surah="" verse="">
+      <text>
+         <ar>يَاْسَيْنِ وَالْقُرْآنُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَاْسَيْنِ</ar>
+         </t>
+         <t>
+            <ar>وَالْقُرْآنُ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٩٢٩٥٠" surah="" verse="">
+      <text>
+         <ar>قَاْفَ وَالْقُرْآنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَاْفَ</ar>
+         </t>
+         <t>
+            <ar>وَالْقُرْآنِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

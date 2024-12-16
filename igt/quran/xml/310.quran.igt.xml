@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="310">
+   <ayah id="٦٨٦٥٣" surah="" verse="">
+      <text>
+         <ar>نَحْنَ أُوْلُو قُوَّةٍ وَأُوْلُو بَأْسٍ شَدِيْدِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>نَحْنَ</ar>
+         </t>
+         <t>
+            <ar>أُوْلُو</ar>
+         </t>
+         <t>
+            <ar>قُوَّةٍ</ar>
+         </t>
+         <t>
+            <ar>وَأُوْلُو</ar>
+         </t>
+         <t>
+            <ar>بَأْسٍ</ar>
+         </t>
+         <t>
+            <ar>شَدِيْدِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

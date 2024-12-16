@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="304">
+   <ayah id="٣٠٦٧٦" surah="" verse="">
+      <text>
+         <ar>وَاْسْأَلِ الْقَرْيَةَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَاْسْأَلِ</ar>
+         </t>
+         <t>
+            <ar>الْقَرْيَةَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٨٥٨١٣" surah="" verse="">
+      <text>
+         <ar>وَعَاْدًا وَثَمُوْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَعَاْدًا</ar>
+         </t>
+         <t>
+            <ar>وَثَمُوْدًا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤٢١٤٥" surah="" verse="">
+      <text>
+         <ar>أَلا إنَ ثَمُوْدًا كَفَرُوْا رَبَّهَمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَلا</ar>
+         </t>
+         <t>
+            <ar>إنَ</ar>
+         </t>
+         <t>
+            <ar>ثَمُوْدًا</ar>
+         </t>
+         <t>
+            <ar>كَفَرُوْا</ar>
+         </t>
+         <t>
+            <ar>رَبَّهَمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٩٤٣٨٣" surah="" verse="">
+      <text>
+         <ar>وَآتِيْنَا ثَمُوْدَ النَّاْقَةِ مُبْصَرَةً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَآتِيْنَا</ar>
+         </t>
+         <t>
+            <ar>ثَمُوْدَ</ar>
+         </t>
+         <t>
+            <ar>النَّاْقَةِ</ar>
+         </t>
+         <t>
+            <ar>مُبْصَرَةً</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٣٢٩٢٨" surah="" verse="">
+      <text>
+         <ar>وَأَمَّا ثَمُوْدُ فَهَدَيْنَاْهُمُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَأَمَّا</ar>
+         </t>
+         <t>
+            <ar>ثَمُوْدُ</ar>
+         </t>
+         <t>
+            <ar>فَهَدَيْنَاْهُمُ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="١٧٢٦٠" surah="" verse="">
+      <text>
+         <ar>لَقَدْ كَاْنَ لِسَبَأٍ فِي مَسَاْكِنِهُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَقَدْ</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>لِسَبَأٍ</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>مَسَاْكِنِهُمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٦٥٠٥٧" surah="" verse="">
+      <text>
+         <ar>مِنْ سَبَأٍ بِنَبَأٍ يَقِيْنٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>سَبَأٍ</ar>
+         </t>
+         <t>
+            <ar>بِنَبَأٍ</ar>
+         </t>
+         <t>
+            <ar>يَقِيْنٍ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

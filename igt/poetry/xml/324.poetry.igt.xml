@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="324">
+   <verses id="٧٧٥٤٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>إَذًا هَبَطْنَ سَمَاْوِيًّا مَوَاْرِدُهُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إَذًا</ar>
+               </t>
+               <t>
+                  <ar>هَبَطْنَ</ar>
+               </t>
+               <t>
+                  <ar>سَمَاْوِيًّا</ar>
+               </t>
+               <t>
+                  <ar>مَوَاْرِدُهُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>مَنَ نَحْوُ دَوْمْةِ خَبْتٍ قَلَّ تَعْرِيْسِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مَنَ</ar>
+               </t>
+               <t>
+                  <ar>نَحْوُ</ar>
+               </t>
+               <t>
+                  <ar>دَوْمْةِ</ar>
+               </t>
+               <t>
+                  <ar>خَبْتٍ</ar>
+               </t>
+               <t>
+                  <ar>قَلَّ</ar>
+               </t>
+               <t>
+                  <ar>تَعْرِيْسِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

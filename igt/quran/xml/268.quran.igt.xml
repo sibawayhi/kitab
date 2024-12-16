@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="268">
+   <ayah id="٨٥٤٦٥" surah="" verse="">
+      <text>
+         <ar>عَنْ الْيَمِيْنِ وَعَنْ الشِّمَاْلِ قَعِيْدُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَنْ</ar>
+         </t>
+         <t>
+            <ar>الْيَمِيْنِ</ar>
+         </t>
+         <t>
+            <ar>وَعَنْ</ar>
+         </t>
+         <t>
+            <ar>الشِّمَاْلِ</ar>
+         </t>
+         <t>
+            <ar>قَعِيْدُ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤٧٨٢٤" surah="" verse="">
+      <text>
+         <ar>لا جْرٌم أَّن لُهْم الَّناَْرَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لا</ar>
+         </t>
+         <t>
+            <ar>جْرٌم</ar>
+         </t>
+         <t>
+            <ar>أَّن</ar>
+         </t>
+         <t>
+            <ar>لُهْم</ar>
+         </t>
+         <t>
+            <ar>الَّناَْرَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٩٥١٧٧" surah="" verse="">
+      <text>
+         <ar>لو أْنُتْم تْمِلُكوَن خَزاِْئَن رْحَمِة رِبيٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لو</ar>
+         </t>
+         <t>
+            <ar>أْنُتْم</ar>
+         </t>
+         <t>
+            <ar>تْمِلُكوَن</ar>
+         </t>
+         <t>
+            <ar>خَزاِْئَن</ar>
+         </t>
+         <t>
+            <ar>رْحَمِة</ar>
+         </t>
+         <t>
+            <ar>رِبيٍ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٢٧٢٥٥" surah="" verse="">
+      <text>
+         <ar>إَّنُه اْلَحُّق مْثُل ما أَّنُكْم تْنِطُقوَنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إَّنُه</ar>
+         </t>
+         <t>
+            <ar>اْلَحُّق</ar>
+         </t>
+         <t>
+            <ar>مْثُل</ar>
+         </t>
+         <t>
+            <ar>ما</ar>
+         </t>
+         <t>
+            <ar>أَّنُكْم</ar>
+         </t>
+         <t>
+            <ar>تْنِطُقوَنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

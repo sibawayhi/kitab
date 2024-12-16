@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="316">
-   <verses id="٩٦٢٨٠" poet="قيمُ بْنُ أَوْسٍ">
+   <verses id="٩٦٢٨٠" poet="قيْمُ بْنُ أَوْسٍ">
       <verse>
          <hemistiche>
             <text>
-               <ar>بِالْخَيْرِ خَيْرَاْتٍ وَإِنْ شَرًّا فَا</ar>
+               <ar>بِاْلْخَيْرِ خَيْرَاْتٍ وَإِنْ شَرًّا فَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>بِالْخَيْرِ</ar>
+                  <ar>بِاْلْخَيْرِ</ar>
                </t>
                <t>
                   <ar>خَيْرَاْتٍ</ar>
@@ -84,12 +84,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>بِالشَّحْمِ إِنَّا قَدْ مَلِلْنَاْهُ بَجَلْ</ar>
+               <ar>بِاْلشَّحْمِ إِنَّا قَدْ مَلِلْنَاْهُ بَجَلْ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>بِالشَّحْمِ</ar>
+                  <ar>بِاْلشَّحْمِ</ar>
                </t>
                <t>
                   <ar>إِنَّا</ar>

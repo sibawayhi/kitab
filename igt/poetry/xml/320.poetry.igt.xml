@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="320">
+   <verses id="٠٨٧٧٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَكَيْفَ لَنَا بِاْلشُّرْبِ إنْ لَمْ تَكُنْ لِنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَكَيْفَ</ar>
+               </t>
+               <t>
+                  <ar>لَنَا</ar>
+               </t>
+               <t>
+                  <ar>بِاْلشُّرْبِ</ar>
+               </t>
+               <t>
+                  <ar>إنْ</ar>
+               </t>
+               <t>
+                  <ar>لَمْ</ar>
+               </t>
+               <t>
+                  <ar>تَكُنْ</ar>
+               </t>
+               <t>
+                  <ar>لِنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>دَوَاْنِيْقُ عِنْدَ الْحَاْنَوِيِّ وَلَا نَقْدُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>دَوَاْنِيْقُ</ar>
+               </t>
+               <t>
+                  <ar>عِنْدَ</ar>
+               </t>
+               <t>
+                  <ar>الْحَاْنَوِيِّ</ar>
+               </t>
+               <t>
+                  <ar>وَلَا</ar>
+               </t>
+               <t>
+                  <ar>نَقْدُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٦٥٢٠٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كَأُسُ عَزِيْزِ مِنَ الْأَعْنَاْبِ عَتَّقَهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَأُسُ</ar>
+               </t>
+               <t>
+                  <ar>عَزِيْزِ</ar>
+               </t>
+               <t>
+                  <ar>مِنَ</ar>
+               </t>
+               <t>
+                  <ar>الْأَعْنَاْبِ</ar>
+               </t>
+               <t>
+                  <ar>عَتَّقَهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>لَبَعْضِ أَرْبَاْبِهَا حَاْنِيّةٌ حُوْمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لَبَعْضِ</ar>
+               </t>
+               <t>
+                  <ar>أَرْبَاْبِهَا</ar>
+               </t>
+               <t>
+                  <ar>حَاْنِيّةٌ</ar>
+               </t>
+               <t>
+                  <ar>حُوْمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

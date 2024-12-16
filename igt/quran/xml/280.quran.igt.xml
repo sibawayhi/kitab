@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="280">
+   <ayah id="٨٠٠١٦" surah="" verse="">
+      <text>
+         <ar>هَلْ يَسْمَعُوْنَكُمْ إِذْ تَدْعُوْنَ أَوْ يَنْفَعُوْنَكُمْ أَوْ يَضُرُّوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَلْ</ar>
+         </t>
+         <t>
+            <ar>يَسْمَعُوْنَكُمْ</ar>
+         </t>
+         <t>
+            <ar>إِذْ</ar>
+         </t>
+         <t>
+            <ar>تَدْعُوْنَ</ar>
+         </t>
+         <t>
+            <ar>أَوْ</ar>
+         </t>
+         <t>
+            <ar>يَنْفَعُوْنَكُمْ</ar>
+         </t>
+         <t>
+            <ar>أَوْ</ar>
+         </t>
+         <t>
+            <ar>يَضُرُّوْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="308">
+   <verses id="٩٤٥١٤" poet="اْبْنُ مُقْبِلٍ">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَصْبَحَ الدَّهْرُ وَقَدْ أَلْوَى بِهِمْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَصْبَحَ</ar>
+               </t>
+               <t>
+                  <ar>الدَّهْرُ</ar>
+               </t>
+               <t>
+                  <ar>وَقَدْ</ar>
+               </t>
+               <t>
+                  <ar>أَلْوَى</ar>
+               </t>
+               <t>
+                  <ar>بِهِمْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>غَيْرَ تِقْوَاْلِكَ مِنْ قِيْلٍ وَقَاْلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>غَيْرَ</ar>
+               </t>
+               <t>
+                  <ar>تِقْوَاْلِكَ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>قِيْلٍ</ar>
+               </t>
+               <t>
+                  <ar>وَقَاْلِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٥١١٤٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَلَمْ أَسْمَعْ بِهِ قِيْلًا وَقَاْلَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَلَمْ</ar>
+               </t>
+               <t>
+                  <ar>أَسْمَعْ</ar>
+               </t>
+               <t>
+                  <ar>بِهِ</ar>
+               </t>
+               <t>
+                  <ar>قِيْلًا</ar>
+               </t>
+               <t>
+                  <ar>وَقَاْلَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

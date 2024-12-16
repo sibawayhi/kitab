@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="271">
+   <verses id="٦٣٠٣٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>مَا أَعْطَيَاْنِي وَلَا سَأَلَتُهُمَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>أَعْطَيَاْنِي</ar>
+               </t>
+               <t>
+                  <ar>وَلَا</ar>
+               </t>
+               <t>
+                  <ar>سَأَلَتُهُمَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>إِلَاّْ وَإِنِّي لَحَاْجِزِيِ كَرَمِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِلَاّْ</ar>
+               </t>
+               <t>
+                  <ar>وَإِنِّي</ar>
+               </t>
+               <t>
+                  <ar>لَحَاْجِزِيِ</ar>
+               </t>
+               <t>
+                  <ar>كَرَمِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

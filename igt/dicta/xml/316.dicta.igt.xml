@@ -2,7 +2,7 @@
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="316">
    <dictum id="٢٨٥٥١">
       <text>
-         <ar>كَ وَبَ فَاعْلَمْ يَا فَتَى</ar>
+         <ar>كَ وَبَ فَاْعْلَمْ يَا فَتَى</ar>
          <free/>
       </text>
       <igt>
@@ -13,7 +13,7 @@
             <ar>وَبَ</ar>
          </t>
          <t>
-            <ar>فَاعْلَمْ</ar>
+            <ar>فَاْعْلَمْ</ar>
          </t>
          <t>
             <ar>يَا</ar>
@@ -188,20 +188,6 @@
          </t>
          <t>
             <ar>لَكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٥١٨٩">
-      <text>
-         <ar>قَدْ فَعَلَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>قَدْ</ar>
-         </t>
-         <t>
-            <ar>فَعَلَ</ar>
          </t>
       </igt>
    </dictum>

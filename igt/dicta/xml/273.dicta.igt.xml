@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="273">
-   <dictum id="١٦٧٢٠" nbr="1">
+   <dictum id="١٦٧٢٠">
       <text>
-         <ar>لَمَّا أَنْ جَاءُوْا [ذَهَبْتَ]</ar>
+         <ar>لَمَّا أَنْ جَاْءُوْا [ذَهَبْتَ]</ar>
          <free/>
       </text>
       <igt>
@@ -13,14 +13,14 @@
             <ar>أَنْ</ar>
          </t>
          <t>
-            <ar>جَاءُوْا</ar>
+            <ar>جَاْءُوْا</ar>
          </t>
          <t>
             <ar>[ذَهَبْتَ]</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٣٢٥٩" nbr="2">
+   <dictum id="٠٣٢٥٩">
       <text>
          <ar>أَمَّا وَاللهِ أَنْ لَوْ فَعَلْتَ لَأَكْرَمْتُكَ</ar>
          <free/>
@@ -46,7 +46,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٧٠٣٠" nbr="3">
+   <dictum id="٧٧٠٣٠">
       <text>
          <ar>إِنْ زَيْدٌ لَذَاْهِبٌ</ar>
          <free/>
@@ -63,7 +63,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦١٠٧٩" nbr="4">
+   <dictum id="٦١٠٧٩">
       <text>
          <ar>مَا الْكَاْفِرُوْنَ إِلَّا فِي غُرُوْرٍ</ar>
          <free/>
@@ -86,7 +86,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٦٧٩٩" nbr="5">
+   <dictum id="٨٦٧٩٩">
       <text>
          <ar>مَا إِنْ زَيْدٌ ذَاْهِبٌ</ar>
          <free/>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="264">
+   <verses id="٠٨٩٧١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَأَغْفِرُ عَوْرَاْءَ الْكَرِيْمِ ادِّخَاْرَهُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَأَغْفِرُ</ar>
+               </t>
+               <t>
+                  <ar>عَوْرَاْءَ</ar>
+               </t>
+               <t>
+                  <ar>الْكَرِيْمِ</ar>
+               </t>
+               <t>
+                  <ar>ادِّخَاْرَهُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَأُعْرِضُ عَنْ ذَنْبِ اللَّئِيْمِ تَكْرُّمَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَأُعْرِضُ</ar>
+               </t>
+               <t>
+                  <ar>عَنْ</ar>
+               </t>
+               <t>
+                  <ar>ذَنْبِ</ar>
+               </t>
+               <t>
+                  <ar>اللَّئِيْمِ</ar>
+               </t>
+               <t>
+                  <ar>تَكْرُّمَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٥١٩١٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>مَنَعْتٌ تَمِيْمًا مِنْكَ أَنِّي أَنَا ابْنُهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مَنَعْتٌ</ar>
+               </t>
+               <t>
+                  <ar>تَمِيْمًا</ar>
+               </t>
+               <t>
+                  <ar>مِنْكَ</ar>
+               </t>
+               <t>
+                  <ar>أَنِّي</ar>
+               </t>
+               <t>
+                  <ar>أَنَا</ar>
+               </t>
+               <t>
+                  <ar>ابْنُهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَشَاْعِرُهَا الْمَعْرُوْفُ عِنْدَ الْمَوَاْسِمِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَشَاْعِرُهَا</ar>
+               </t>
+               <t>
+                  <ar>الْمَعْرُوْفُ</ar>
+               </t>
+               <t>
+                  <ar>عِنْدَ</ar>
+               </t>
+               <t>
+                  <ar>الْمَوَاْسِمِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣٠٨٤١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَبَلَدٍ تَحْسَبُهُ مَكْسُوْحَاًْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَبَلَدٍ</ar>
+               </t>
+               <t>
+                  <ar>تَحْسَبُهُ</ar>
+               </t>
+               <t>
+                  <ar>مَكْسُوْحَاًْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

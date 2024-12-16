@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="270">
+   <verses id="٢٩٠٩٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَكُنْتُ أَرْىَ زَيْدًا كَمَا قِيْلَ سَيْدّاًْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَكُنْتُ</ar>
+               </t>
+               <t>
+                  <ar>أَرْىَ</ar>
+               </t>
+               <t>
+                  <ar>زَيْدًا</ar>
+               </t>
+               <t>
+                  <ar>كَمَا</ar>
+               </t>
+               <t>
+                  <ar>قِيْلَ</ar>
+               </t>
+               <t>
+                  <ar>سَيْدّاًْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>إِذَا إنّهُ عَبْدُ الْقَفَا وَاللَّهَاْزِمِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِذَا</ar>
+               </t>
+               <t>
+                  <ar>إنّهُ</ar>
+               </t>
+               <t>
+                  <ar>عَبْدُ</ar>
+               </t>
+               <t>
+                  <ar>الْقَفَا</ar>
+               </t>
+               <t>
+                  <ar>وَاللَّهَاْزِمِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>
