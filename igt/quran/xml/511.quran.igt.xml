@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="511">
+   <ayah id="٠٤٥٣٨" surah="" verse="">
+      <text>
+         <ar>أَهَلَكَتْ مَاْلَا لُبَدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَهَلَكَتْ</ar>
+         </t>
+         <t>
+            <ar>مَاْلَا</ar>
+         </t>
+         <t>
+            <ar>لُبَدًا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٠٢٨٨٥" surah="" verse="">
+      <text>
+         <ar>إِلَى شَيْءٍ نُكْرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِلَى</ar>
+         </t>
+         <t>
+            <ar>شَيْءٍ</ar>
+         </t>
+         <t>
+            <ar>نُكْرٍ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

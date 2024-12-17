@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="500">
+   <verses id="٨٤١٤٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَأَرَاْكَ تَفْرِي مَا خَلَقْتَ وَبَعْضُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَأَرَاْكَ</ar>
+               </t>
+               <t>
+                  <ar>تَفْرِي</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>خَلَقْتَ</ar>
+               </t>
+               <t>
+                  <ar>وَبَعْضُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>الْقَوْمِ يَخْلُقُ ثُمَّ لَا يَفْرْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>الْقَوْمِ</ar>
+               </t>
+               <t>
+                  <ar>يَخْلُقُ</ar>
+               </t>
+               <t>
+                  <ar>ثُمَّ</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>يَفْرْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

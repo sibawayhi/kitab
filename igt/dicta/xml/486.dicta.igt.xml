@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="486">
+   <dictum id="٢٨٦١٨">
+      <text>
+         <ar>اضْرِبْ ابْنَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اضْرِبْ</ar>
+         </t>
+         <t>
+            <ar>ابْنَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٣٠٥٠">
+      <text>
+         <ar>أَكْرِمِ الرَّجُلَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَكْرِمِ</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٤٤٧٨">
+      <text>
+         <ar>اذْهَبِ اذْهَبْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اذْهَبِ</ar>
+         </t>
+         <t>
+            <ar>اذْهَبْ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="542">
+   <verses id="٧٢٩٢٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>مَا بَاْلُ عَيْنِيٌّ كَاْلشَّعِيْبِ الْعَيَّنِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>بَاْلُ</ar>
+               </t>
+               <t>
+                  <ar>عَيْنِيٌّ</ar>
+               </t>
+               <t>
+                  <ar>كَاْلشَّعِيْبِ</ar>
+               </t>
+               <t>
+                  <ar>الْعَيَّنِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

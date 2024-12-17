@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="531">
+   <verses id="٨٣٢٨٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>إِلَاَّْ الْإِفَاْدَةَ فَاْسْتَوْلَتْ رَكَاْئُبَنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِلَاَّْ</ar>
+               </t>
+               <t>
+                  <ar>الْإِفَاْدَةَ</ar>
+               </t>
+               <t>
+                  <ar>فَاْسْتَوْلَتْ</ar>
+               </t>
+               <t>
+                  <ar>رَكَاْئُبَنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>عِنْدُ الْجَبَاْبِيْرُ بِاْلْبَأْسَاْءِ وَالنِّعَمِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عِنْدُ</ar>
+               </t>
+               <t>
+                  <ar>الْجَبَاْبِيْرُ</ar>
+               </t>
+               <t>
+                  <ar>بِاْلْبَأْسَاْءِ</ar>
+               </t>
+               <t>
+                  <ar>وَالنِّعَمِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٨٤٥١٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَإِنْ يَكُنْ أَمْسَى الْبِلَى تَيْقُوْرِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَإِنْ</ar>
+               </t>
+               <t>
+                  <ar>يَكُنْ</ar>
+               </t>
+               <t>
+                  <ar>أَمْسَى</ar>
+               </t>
+               <t>
+                  <ar>الْبِلَى</ar>
+               </t>
+               <t>
+                  <ar>تَيْقُوْرِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

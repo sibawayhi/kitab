@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="546">
+   <verses id="٢١١١٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>مُظَاْهِرَةً نِيّاًْ عَتِيْقًا وَعُوْطَطًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مُظَاْهِرَةً</ar>
+               </t>
+               <t>
+                  <ar>نِيّاًْ</ar>
+               </t>
+               <t>
+                  <ar>عَتِيْقًا</ar>
+               </t>
+               <t>
+                  <ar>وَعُوْطَطًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَقَدْ أَحْكَمَا خَلْقًا لَهَا مُتَبَاْيِنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَقَدْ</ar>
+               </t>
+               <t>
+                  <ar>أَحْكَمَا</ar>
+               </t>
+               <t>
+                  <ar>خَلْقًا</ar>
+               </t>
+               <t>
+                  <ar>لَهَا</ar>
+               </t>
+               <t>
+                  <ar>مُتَبَاْيِنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

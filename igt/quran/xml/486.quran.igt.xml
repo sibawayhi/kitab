@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="486">
+   <ayah id="٢١٠٢٥" surah="١١٢" verse="١ ٢">
+      <text>
+         <ar>قَلْ هُوَ اللَّهُ أَحَدُ<نهاية آية="١"/>  اللَّهْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَلْ</ar>
+         </t>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>اللَّهُ</ar>
+         </t>
+         <t>
+            <ar>أَحَدُ</ar>
+         </t>
+         <t>
+            <ar>اللَّهْ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٦٧٧١٨" surah="١٠" verse="">
+      <text>
+         <ar>قَلْ انْظُرُوْا مَاْذَا فِي السَّمَاْوَاْتِ وَالْأَرْضُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَلْ</ar>
+         </t>
+         <t>
+            <ar>انْظُرُوْا</ar>
+         </t>
+         <t>
+            <ar>مَاْذَا</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>السَّمَاْوَاْتِ</ar>
+         </t>
+         <t>
+            <ar>وَالْأَرْضُ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٣٢٢٦٣" surah="١٠" verse="">
+      <text>
+         <ar>قَلٌ انْظَرْوَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَلٌ</ar>
+         </t>
+         <t>
+            <ar>انْظَرْوَا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٠٠١٤٤" surah="١٢" verse="">
+      <text>
+         <ar>وَقَاْلَتِ اخْرُجْ عَلَيْهُنَّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَقَاْلَتِ</ar>
+         </t>
+         <t>
+            <ar>اخْرُجْ</ar>
+         </t>
+         <t>
+            <ar>عَلَيْهُنَّ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٦٤٨٩٣" surah="٣٨" verse="٤١ ٤٢">
+      <text>
+         <ar>وَعَذَاْبٌ<نهاية آية="٤١"/>  ارْكُضْ بِرِجْلِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَعَذَاْبٌ</ar>
+         </t>
+         <t>
+            <ar>ارْكُضْ</ar>
+         </t>
+         <t>
+            <ar>بِرِجْلِكَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٦٨٩٨٠" surah="٧٣" verse="">
+      <text>
+         <ar>أَوْ اُنْقُصْ مِنْهُ قُلِيْلَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَوْ</ar>
+         </t>
+         <t>
+            <ar>اُنْقُصْ</ar>
+         </t>
+         <t>
+            <ar>مِنْهُ</ar>
+         </t>
+         <t>
+            <ar>قُلِيْلَا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٢٨٢٩١" surah="١٠" verse="">
+      <text>
+         <ar>قِلْ انْظِرُوَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قِلْ</ar>
+         </t>
+         <t>
+            <ar>انْظِرُوَا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٨٩٧٨٤" surah="٣" verse="١ ٢">
+      <text>
+         <ar>الٓمٓ<نهاية آية="١"/>  ٱللهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>الٓمٓ</ar>
+         </t>
+         <t>
+            <ar>ٱللهُ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٠٦٥٥٢" surah="٢٩" verse="١ ٢">
+      <text>
+         <ar>الٓمٓ<نهاية آية="١"/>  أَحَسِبَ ٱلنَّاْسُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>الٓمٓ</ar>
+         </t>
+         <t>
+            <ar>أَحَسِبَ</ar>
+         </t>
+         <t>
+            <ar>ٱلنَّاْسُ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

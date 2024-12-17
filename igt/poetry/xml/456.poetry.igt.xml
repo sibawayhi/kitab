@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="456">
+   <verses id="٧٠٣١٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَمّلْتُ خَيْرَك هَلْ تَأْتَى مَوَاْعِدَهُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَمّلْتُ</ar>
+               </t>
+               <t>
+                  <ar>خَيْرَك</ar>
+               </t>
+               <t>
+                  <ar>هَلْ</ar>
+               </t>
+               <t>
+                  <ar>تَأْتَى</ar>
+               </t>
+               <t>
+                  <ar>مَوَاْعِدَهُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَاْلْيَوْمَ قَصّرَ عَنْ تِلْقَاْئِكَ الْأَمَلُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَاْلْيَوْمَ</ar>
+               </t>
+               <t>
+                  <ar>قَصّرَ</ar>
+               </t>
+               <t>
+                  <ar>عَنْ</ar>
+               </t>
+               <t>
+                  <ar>تِلْقَاْئِكَ</ar>
+               </t>
+               <t>
+                  <ar>الْأَمَلُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

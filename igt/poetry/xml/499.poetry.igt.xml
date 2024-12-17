@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="499">
+   <verses id="٥٥٩٩٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>خَاْلِيٌّ عُوَيْفٌ وَأَبُو عَلْجٍّ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>خَاْلِيٌّ</ar>
+               </t>
+               <t>
+                  <ar>عُوَيْفٌ</ar>
+               </t>
+               <t>
+                  <ar>وَأَبُو</ar>
+               </t>
+               <t>
+                  <ar>عَلْجٍّ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>الْمُطْعِمَاْنِ الشَّمَمُ بِاْلْعَشِجِّ % وَبِاْلْغَدَاْةِ فِلَقَ الْبَرْنِجِّ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>الْمُطْعِمَاْنِ</ar>
+               </t>
+               <t>
+                  <ar>الشَّمَمُ</ar>
+               </t>
+               <t>
+                  <ar>بِاْلْعَشِجِّ</ar>
+               </t>
+               <t>
+                  <ar>%</ar>
+               </t>
+               <t>
+                  <ar>وَبِاْلْغَدَاْةِ</ar>
+               </t>
+               <t>
+                  <ar>فِلَقَ</ar>
+               </t>
+               <t>
+                  <ar>الْبَرْنِجِّ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

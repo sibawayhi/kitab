@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="554">
+   <verses id="١٧٧٥٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وكُنَّا حَسِبْنَاْهُمْ فَوَاْرِسَ كَهْمَسٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وكُنَّا</ar>
+               </t>
+               <t>
+                  <ar>حَسِبْنَاْهُمْ</ar>
+               </t>
+               <t>
+                  <ar>فَوَاْرِسَ</ar>
+               </t>
+               <t>
+                  <ar>كَهْمَسٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>حَيُوْا بَعْدَ مَا مَاْتُوْا مِنْ الدَّهْرِ أَعْصُرَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>حَيُوْا</ar>
+               </t>
+               <t>
+                  <ar>بَعْدَ</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>مَاْتُوْا</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>الدَّهْرِ</ar>
+               </t>
+               <t>
+                  <ar>أَعْصُرَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢٧٦٥٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>عَيُّوْا بِأَمْرِهِمُ كَمَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَيُّوْا</ar>
+               </t>
+               <t>
+                  <ar>بِأَمْرِهِمُ</ar>
+               </t>
+               <t>
+                  <ar>كَمَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>عَيّتْ بَبْيْضَتِهَا الْحَمَاْمَةْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَيّتْ</ar>
+               </t>
+               <t>
+                  <ar>بَبْيْضَتِهَا</ar>
+               </t>
+               <t>
+                  <ar>الْحَمَاْمَةْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

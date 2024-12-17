@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="515">
+   <verses id="٨٩٩٧٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وصَاْلِيَّاْتٍ كَكَمَا يُؤَثْفْيْنْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وصَاْلِيَّاْتٍ</ar>
+               </t>
+               <t>
+                  <ar>كَكَمَا</ar>
+               </t>
+               <t>
+                  <ar>يُؤَثْفْيْنْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢٥٥١١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كُرَاْتُ غُلَاْمٍ مِنْ كِسَاْءٍ مُؤَرْنَبِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كُرَاْتُ</ar>
+               </t>
+               <t>
+                  <ar>غُلَاْمٍ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>كِسَاْءٍ</ar>
+               </t>
+               <t>
+                  <ar>مُؤَرْنَبِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

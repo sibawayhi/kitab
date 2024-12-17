@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="498">
+   <verses id="٧٢٣٧٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>عَجِبْتُ وَالدَّهْرُ كَثِيْرٌ عَجَبُهْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَجِبْتُ</ar>
+               </t>
+               <t>
+                  <ar>وَالدَّهْرُ</ar>
+               </t>
+               <t>
+                  <ar>كَثِيْرٌ</ar>
+               </t>
+               <t>
+                  <ar>عَجَبُهْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>مِنْ عَنَزِيٍّ سَبّنِي لَمْ أَضْرِبُهْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>عَنَزِيٍّ</ar>
+               </t>
+               <t>
+                  <ar>سَبّنِي</ar>
+               </t>
+               <t>
+                  <ar>لَمْ</ar>
+               </t>
+               <t>
+                  <ar>أَضْرِبُهْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٠٢٨٥٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَقَرِّبَنْ هٰذَا وَهٰذَا أَزْحِلُهْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَقَرِّبَنْ</ar>
+               </t>
+               <t>
+                  <ar>هٰذَا</ar>
+               </t>
+               <t>
+                  <ar>وَهٰذَا</ar>
+               </t>
+               <t>
+                  <ar>أَزْحِلُهْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

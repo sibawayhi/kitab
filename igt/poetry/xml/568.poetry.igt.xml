@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="568">
+   <verses id="٤٣٣٦٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَكَأَنَّمَا اغْتَبَقَصَبَّيْرَ غَمَاْمَةٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَكَأَنَّمَا</ar>
+               </t>
+               <t>
+                  <ar>اغْتَبَقَصَبَّيْرَ</ar>
+               </t>
+               <t>
+                  <ar>غَمَاْمَةٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>بِعَرًا تُصَفِّقُهُ الرِّيَاْحُ زُلَاْلَاَْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بِعَرًا</ar>
+               </t>
+               <t>
+                  <ar>تُصَفِّقُهُ</ar>
+               </t>
+               <t>
+                  <ar>الرِّيَاْحُ</ar>
+               </t>
+               <t>
+                  <ar>زُلَاْلَاَْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٥٨٢٢٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>ثَاْرٌ فَضَجّضَّجّةً رَكَاْئِبُهْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ثَاْرٌ</ar>
+               </t>
+               <t>
+                  <ar>فَضَجّضَّجّةً</ar>
+               </t>
+               <t>
+                  <ar>رَكَاْئِبُهْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٩٣٦٠٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>هٰذَا الْجَوَاْدُ الَّذِي يُعْطِيْكَ نَاْئِلَهُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>هٰذَا</ar>
+               </t>
+               <t>
+                  <ar>الْجَوَاْدُ</ar>
+               </t>
+               <t>
+                  <ar>الَّذِي</ar>
+               </t>
+               <t>
+                  <ar>يُعْطِيْكَ</ar>
+               </t>
+               <t>
+                  <ar>نَاْئِلَهُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>عَفُوْاًْ وَيُظْلَمُ أَحْيَاْنًا فَيَطَّلِمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَفُوْاًْ</ar>
+               </t>
+               <t>
+                  <ar>وَيُظْلَمُ</ar>
+               </t>
+               <t>
+                  <ar>أَحْيَاْنًا</ar>
+               </t>
+               <t>
+                  <ar>فَيَطَّلِمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٧١٥٦٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وفِي كُلِّ حَيِّ قَدْ خَبَطَّ بِنَعْمَةٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وفِي</ar>
+               </t>
+               <t>
+                  <ar>كُلِّ</ar>
+               </t>
+               <t>
+                  <ar>حَيِّ</ar>
+               </t>
+               <t>
+                  <ar>قَدْ</ar>
+               </t>
+               <t>
+                  <ar>خَبَطَّ</ar>
+               </t>
+               <t>
+                  <ar>بِنَعْمَةٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَحُقَّ لِشَأْشٍ مِنْ نَدَاْكَ ذَنُوْبُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَحُقَّ</ar>
+               </t>
+               <t>
+                  <ar>لِشَأْشٍ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>نَدَاْكَ</ar>
+               </t>
+               <t>
+                  <ar>ذَنُوْبُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="454">
+   <verses id="٤٢١٠٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وخَيْرُ الْأَمْرِ مَا اسْتَقْبَلَتْ مَنْهُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وخَيْرُ</ar>
+               </t>
+               <t>
+                  <ar>الْأَمْرِ</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>اسْتَقْبَلَتْ</ar>
+               </t>
+               <t>
+                  <ar>مَنْهُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَلَيْسَ بِأَنْ تَتَبّعَهُ اتِّبَاْعًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَلَيْسَ</ar>
+               </t>
+               <t>
+                  <ar>بِأَنْ</ar>
+               </t>
+               <t>
+                  <ar>تَتَبّعَهُ</ar>
+               </t>
+               <t>
+                  <ar>اتِّبَاْعًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٩٨١٢١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَقَدْ تَطَوّيَتُ انْطِوَاْءَ الْحِضْبِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَقَدْ</ar>
+               </t>
+               <t>
+                  <ar>تَطَوّيَتُ</ar>
+               </t>
+               <t>
+                  <ar>انْطِوَاْءَ</ar>
+               </t>
+               <t>
+                  <ar>الْحِضْبِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

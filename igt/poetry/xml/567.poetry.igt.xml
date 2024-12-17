@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="567">
+   <verses id="٠١٤٣٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كَأَنَّهَا بَعْدَ كَلَاْلِ الْزَّاْجِرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَأَنَّهَا</ar>
+               </t>
+               <t>
+                  <ar>بَعْدَ</ar>
+               </t>
+               <t>
+                  <ar>كَلَاْلِ</ar>
+               </t>
+               <t>
+                  <ar>الْزَّاْجِرِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>ومْسحَيّ مُرُّ عُقَاْبٍ كَاْسِرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ومْسحَيّ</ar>
+               </t>
+               <t>
+                  <ar>مُرُّ</ar>
+               </t>
+               <t>
+                  <ar>عُقَاْبٍ</ar>
+               </t>
+               <t>
+                  <ar>كَاْسِرِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٥٢٥١٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>تَقُوْلُ إِذَا اسْتَهْلَكْتُ مَاْلْا لِلَّذَّةٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَقُوْلُ</ar>
+               </t>
+               <t>
+                  <ar>إِذَا</ar>
+               </t>
+               <t>
+                  <ar>اسْتَهْلَكْتُ</ar>
+               </t>
+               <t>
+                  <ar>مَاْلْا</ar>
+               </t>
+               <t>
+                  <ar>لِلَّذَّةٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فُكَيْهَةُ هَشَّيْءٌ بِكَفَّيْكَ لَاْئِقُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فُكَيْهَةُ</ar>
+               </t>
+               <t>
+                  <ar>هَشَّيْءٌ</ar>
+               </t>
+               <t>
+                  <ar>بِكَفَّيْكَ</ar>
+               </t>
+               <t>
+                  <ar>لَاْئِقُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٩١٦٥١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَدَعْ ذَا وَلَكِنْ هَتَعِيْنَ مُتَيَّمَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَدَعْ</ar>
+               </t>
+               <t>
+                  <ar>ذَا</ar>
+               </t>
+               <t>
+                  <ar>وَلَكِنْ</ar>
+               </t>
+               <t>
+                  <ar>هَتَعِيْنَ</ar>
+               </t>
+               <t>
+                  <ar>مُتَيَّمَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>عَلَىضَوْءِ بَرْقٍ آَخِرَ الْلَّيْلِ نَاْصِبِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَلَىضَوْءِ</ar>
+               </t>
+               <t>
+                  <ar>بَرْقٍ</ar>
+               </t>
+               <t>
+                  <ar>آَخِرَ</ar>
+               </t>
+               <t>
+                  <ar>الْلَّيْلِ</ar>
+               </t>
+               <t>
+                  <ar>نَاْصِبِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

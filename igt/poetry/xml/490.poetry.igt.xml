@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="490">
+   <verses id="٧٣٠٨٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>بْدًا لِيَ أَنْ لَسْتُ مُدْرِكَ مَا مَضَى</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بْدًا</ar>
+               </t>
+               <t>
+                  <ar>لِيَ</ar>
+               </t>
+               <t>
+                  <ar>أَنْ</ar>
+               </t>
+               <t>
+                  <ar>لَسْتُ</ar>
+               </t>
+               <t>
+                  <ar>مُدْرِكَ</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>مَضَى</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>ولَا سَاْبِقٍ شَيْئًا إذَا كَاْنَ جَاْئِيَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ولَا</ar>
+               </t>
+               <t>
+                  <ar>سَاْبِقٍ</ar>
+               </t>
+               <t>
+                  <ar>شَيْئًا</ar>
+               </t>
+               <t>
+                  <ar>إذَا</ar>
+               </t>
+               <t>
+                  <ar>كَاْنَ</ar>
+               </t>
+               <t>
+                  <ar>جَاْئِيَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

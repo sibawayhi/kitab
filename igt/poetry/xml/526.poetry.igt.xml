@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="526">
+   <verses id="٣٣٦١٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>بَشِيَةٍ كِشِيَةِ الْمُمَرْجَلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بَشِيَةٍ</ar>
+               </t>
+               <t>
+                  <ar>كِشِيَةِ</ar>
+               </t>
+               <t>
+                  <ar>الْمُمَرْجَلِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢٠٤٢٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَهْوِي بِهَا مَرّاًْ هَوِيّ الْتَّتْفُلَهَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَهْوِي</ar>
+               </t>
+               <t>
+                  <ar>بِهَا</ar>
+               </t>
+               <t>
+                  <ar>مَرّاًْ</ar>
+               </t>
+               <t>
+                  <ar>هَوِيّ</ar>
+               </t>
+               <t>
+                  <ar>الْتَّتْفُلَهَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

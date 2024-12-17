@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="539">
+   <verses id="٤٨٨١٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وفِي الْأَكُفِّ اللَّاْمِعَاْتِ سُوُرْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وفِي</ar>
+               </t>
+               <t>
+                  <ar>الْأَكُفِّ</ar>
+               </t>
+               <t>
+                  <ar>اللَّاْمِعَاْتِ</ar>
+               </t>
+               <t>
+                  <ar>سُوُرْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

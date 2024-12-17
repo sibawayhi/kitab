@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="525">
+   <verses id="١٥٢٦٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يًّا ابْنَ رُقَيْعٍ هَلْ لَهَا مِنْ مَغْبِقَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يًّا</ar>
+               </t>
+               <t>
+                  <ar>ابْنَ</ar>
+               </t>
+               <t>
+                  <ar>رُقَيْعٍ</ar>
+               </t>
+               <t>
+                  <ar>هَلْ</ar>
+               </t>
+               <t>
+                  <ar>لَهَا</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>مَغْبِقَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>مَا شَرِبَتْ بَعْدُ طَوِىِّ الْقُرْبَقِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>شَرِبَتْ</ar>
+               </t>
+               <t>
+                  <ar>بَعْدُ</ar>
+               </t>
+               <t>
+                  <ar>طَوِىِّ</ar>
+               </t>
+               <t>
+                  <ar>الْقُرْبَقِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣٠٤٢٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>مِنّ قَطْرَةٍ غَيْرَ النَّجَاْءِ الْأَدْفِقَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مِنّ</ar>
+               </t>
+               <t>
+                  <ar>قَطْرَةٍ</ar>
+               </t>
+               <t>
+                  <ar>غَيْرَ</ar>
+               </t>
+               <t>
+                  <ar>النَّجَاْءِ</ar>
+               </t>
+               <t>
+                  <ar>الْأَدْفِقَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

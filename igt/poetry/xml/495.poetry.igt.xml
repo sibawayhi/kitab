@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="495">
+   <verses id="٧٠٩٨٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَنَا ابْنُ مَاْوِيّةَ إذْ جَدّ النَّقُرْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَنَا</ar>
+               </t>
+               <t>
+                  <ar>ابْنُ</ar>
+               </t>
+               <t>
+                  <ar>مَاْوِيّةَ</ar>
+               </t>
+               <t>
+                  <ar>إذْ</ar>
+               </t>
+               <t>
+                  <ar>جَدّ</ar>
+               </t>
+               <t>
+                  <ar>النَّقُرْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="485">
+   <verses id="٨٤١٥٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>ولَا يُبَاْدِرُ فِي الشِّتَاْءِ وَلِيَدُنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ولَا</ar>
+               </t>
+               <t>
+                  <ar>يُبَاْدِرُ</ar>
+               </t>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>الشِّتَاْءِ</ar>
+               </t>
+               <t>
+                  <ar>وَلِيَدُنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>الْقِدْرُ يُنْزِلُهَا بِغَيْرِ جِعَاْلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>الْقِدْرُ</ar>
+               </t>
+               <t>
+                  <ar>يُنْزِلُهَا</ar>
+               </t>
+               <t>
+                  <ar>بِغَيْرِ</ar>
+               </t>
+               <t>
+                  <ar>جِعَاْلِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢١١٥٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أُو مُذْهَبٌ جُدَدٌ عَلَى أَلْوَاْحِهِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أُو</ar>
+               </t>
+               <t>
+                  <ar>مُذْهَبٌ</ar>
+               </t>
+               <t>
+                  <ar>جُدَدٌ</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>أَلْوَاْحِهِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>أَلْنَّاْطِقُ الْمَزْبُوْرُ وَالْمَخْتُوْمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَلْنَّاْطِقُ</ar>
+               </t>
+               <t>
+                  <ar>الْمَزْبُوْرُ</ar>
+               </t>
+               <t>
+                  <ar>وَالْمَخْتُوْمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

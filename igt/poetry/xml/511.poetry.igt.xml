@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="511">
+   <verses id="٧٤٠٧٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>[ذَرُوْا التخاْجُؤَ واْمشَوْاْ] مِشْيَةً سُجُحًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>[ذَرُوْا</ar>
+               </t>
+               <t>
+                  <ar>التخاْجُؤَ</ar>
+               </t>
+               <t>
+                  <ar>واْمشَوْاْ]</ar>
+               </t>
+               <t>
+                  <ar>مِشْيَةً</ar>
+               </t>
+               <t>
+                  <ar>سُجُحًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>[إَنّ الرجاْل ذوْو عَصْبْ وتذكيْر]</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>[إَنّ</ar>
+               </t>
+               <t>
+                  <ar>الرجاْل</ar>
+               </t>
+               <t>
+                  <ar>ذوْو</ar>
+               </t>
+               <t>
+                  <ar>عَصْبْ</ar>
+               </t>
+               <t>
+                  <ar>وتذكيْر]</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

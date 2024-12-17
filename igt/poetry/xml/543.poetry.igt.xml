@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="543">
+   <verses id="٦٢٩٤٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَكَحَّلَتْ الْعَيْنَيْنِ بِاْلْعَوَاْوِرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَكَحَّلَتْ</ar>
+               </t>
+               <t>
+                  <ar>الْعَيْنَيْنِ</ar>
+               </t>
+               <t>
+                  <ar>بِاْلْعَوَاْوِرِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

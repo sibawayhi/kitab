@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="475">
+   <verses id="٣٧٤٧٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لُو عُصْرَ مِنْهُ الْبَاْنُ وَالْمِسْكُ انْعَصَرْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لُو</ar>
+               </t>
+               <t>
+                  <ar>عُصْرَ</ar>
+               </t>
+               <t>
+                  <ar>مِنْهُ</ar>
+               </t>
+               <t>
+                  <ar>الْبَاْنُ</ar>
+               </t>
+               <t>
+                  <ar>وَالْمِسْكُ</ar>
+               </t>
+               <t>
+                  <ar>انْعَصَرْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٥١٠٩٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>عِجِبْتُ لِمَوْلُوْدٍ وَلَيْسَ لَهُ أَبٌ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عِجِبْتُ</ar>
+               </t>
+               <t>
+                  <ar>لِمَوْلُوْدٍ</ar>
+               </t>
+               <t>
+                  <ar>وَلَيْسَ</ar>
+               </t>
+               <t>
+                  <ar>لَهُ</ar>
+               </t>
+               <t>
+                  <ar>أَبٌ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وذِي وَلَدٍ لَمْ يَلْدَهُ أَبَوَاْنِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وذِي</ar>
+               </t>
+               <t>
+                  <ar>وَلَدٍ</ar>
+               </t>
+               <t>
+                  <ar>لَمْ</ar>
+               </t>
+               <t>
+                  <ar>يَلْدَهُ</ar>
+               </t>
+               <t>
+                  <ar>أَبَوَاْنِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

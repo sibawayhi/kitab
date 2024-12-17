@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="503">
+   <verses id="١٢٩١٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وإنْ قَاْلَ مَوْلَاْهُمْ عَلَى جُلِّ حَاْدِثٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وإنْ</ar>
+               </t>
+               <t>
+                  <ar>قَاْلَ</ar>
+               </t>
+               <t>
+                  <ar>مَوْلَاْهُمْ</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>جُلِّ</ar>
+               </t>
+               <t>
+                  <ar>حَاْدِثٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>مِنَّ الدّهْرِ رُدُّوْا فَضْلَ أَحْلَاْمِكِمْ رَدُّوَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مِنَّ</ar>
+               </t>
+               <t>
+                  <ar>الدّهْرِ</ar>
+               </t>
+               <t>
+                  <ar>رُدُّوْا</ar>
+               </t>
+               <t>
+                  <ar>فَضْلَ</ar>
+               </t>
+               <t>
+                  <ar>أَحْلَاْمِكِمْ</ar>
+               </t>
+               <t>
+                  <ar>رَدُّوَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

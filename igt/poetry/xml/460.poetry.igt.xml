@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="460">
+   <verses id="٢١٤٢٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>بُنِيَتْ مَرَاْفِقُهُنّ فَوْقَ مَزِلّةٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بُنِيَتْ</ar>
+               </t>
+               <t>
+                  <ar>مَرَاْفِقُهُنّ</ar>
+               </t>
+               <t>
+                  <ar>فَوْقَ</ar>
+               </t>
+               <t>
+                  <ar>مَزِلّةٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>لًا يَسْتَطِيْعُ بِهَا الْقُرَاْدُ مَقِيْلَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لًا</ar>
+               </t>
+               <t>
+                  <ar>يَسْتَطِيْعُ</ar>
+               </t>
+               <t>
+                  <ar>بِهَا</ar>
+               </t>
+               <t>
+                  <ar>الْقُرَاْدُ</ar>
+               </t>
+               <t>
+                  <ar>مَقِيْلَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

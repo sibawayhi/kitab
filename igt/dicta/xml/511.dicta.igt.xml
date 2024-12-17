@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="511">
+   <dictum id="٩٤٥٩٦">
+      <text>
+         <ar>قَوْمٌ عِدًى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَوْمٌ</ar>
+         </t>
+         <t>
+            <ar>عِدًى</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

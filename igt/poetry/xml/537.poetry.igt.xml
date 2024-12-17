@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="537">
+   <verses id="٤٦٨١١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>بِتْنَا بَتْدَوِرَةٍ يُضِيْءُ وُجُوْهَنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بِتْنَا</ar>
+               </t>
+               <t>
+                  <ar>بَتْدَوِرَةٍ</ar>
+               </t>
+               <t>
+                  <ar>يُضِيْءُ</ar>
+               </t>
+               <t>
+                  <ar>وُجُوْهَنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>دَسَمُ السِّلِيْطِ عَلَى فَتِيْلِ ذُبَاْلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>دَسَمُ</ar>
+               </t>
+               <t>
+                  <ar>السِّلِيْطِ</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>فَتِيْلِ</ar>
+               </t>
+               <t>
+                  <ar>ذُبَاْلِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>
