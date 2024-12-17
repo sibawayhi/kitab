@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="449">
+   <verses id="٢٢٧٣٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>تَحَلِمْ عَنِ الْأَدْنَيْنَ وَاسْتَبْقِ وُدَّهَمَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَحَلِمْ</ar>
+               </t>
+               <t>
+                  <ar>عَنِ</ar>
+               </t>
+               <t>
+                  <ar>الْأَدْنَيْنَ</ar>
+               </t>
+               <t>
+                  <ar>وَاسْتَبْقِ</ar>
+               </t>
+               <t>
+                  <ar>وُدَّهَمَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>ولَنْ تَسْتَطِيْعُ الْحُلُمَ حَتَّى تَحْلّمَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ولَنْ</ar>
+               </t>
+               <t>
+                  <ar>تَسْتَطِيْعُ</ar>
+               </t>
+               <t>
+                  <ar>الْحُلُمَ</ar>
+               </t>
+               <t>
+                  <ar>حَتَّى</ar>
+               </t>
+               <t>
+                  <ar>تَحْلّمَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

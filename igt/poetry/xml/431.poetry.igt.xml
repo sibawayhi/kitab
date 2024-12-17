@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="431">
+   <verses id="٩٣٥٥٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وإِذَا الرِّجَاْلُ رَأَوْا يَزِيْدَ رَأَيْتَهُمْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وإِذَا</ar>
+               </t>
+               <t>
+                  <ar>الرِّجَاْلُ</ar>
+               </t>
+               <t>
+                  <ar>رَأَوْا</ar>
+               </t>
+               <t>
+                  <ar>يَزِيْدَ</ar>
+               </t>
+               <t>
+                  <ar>رَأَيْتَهُمْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>خُضُعَ الرِّقَاْبِ نَوَاْكِسَ الْأَبْصَاْرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>خُضُعَ</ar>
+               </t>
+               <t>
+                  <ar>الرِّقَاْبِ</ar>
+               </t>
+               <t>
+                  <ar>نَوَاْكِسَ</ar>
+               </t>
+               <t>
+                  <ar>الْأَبْصَاْرِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣٠٧١٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وكَأَنّ رَيِّضَهَا إذَا يَاْسَرْتَهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وكَأَنّ</ar>
+               </t>
+               <t>
+                  <ar>رَيِّضَهَا</ar>
+               </t>
+               <t>
+                  <ar>إذَا</ar>
+               </t>
+               <t>
+                  <ar>يَاْسَرْتَهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>كَاْنَتْ مُعَوَّدَةَ الرّحِيْلِ ذُلُوْلَاَْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَاْنَتْ</ar>
+               </t>
+               <t>
+                  <ar>مُعَوَّدَةَ</ar>
+               </t>
+               <t>
+                  <ar>الرّحِيْلِ</ar>
+               </t>
+               <t>
+                  <ar>ذُلُوْلَاَْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

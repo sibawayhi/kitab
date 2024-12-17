@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="448">
+   <verses id="٣١٧١٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>إِذَا تَخَاْزَرَتْ وَمَا بِي مِنْ خَزْرَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِذَا</ar>
+               </t>
+               <t>
+                  <ar>تَخَاْزَرَتْ</ar>
+               </t>
+               <t>
+                  <ar>وَمَا</ar>
+               </t>
+               <t>
+                  <ar>بِي</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>خَزْرَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

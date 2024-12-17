@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="409">
+   <verses id="٩٢٨٠١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>غُضَّ الطَّرْفَ إنَّكَ مِنْ نُمَيْرٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>غُضَّ</ar>
+               </t>
+               <t>
+                  <ar>الطَّرْفَ</ar>
+               </t>
+               <t>
+                  <ar>إنَّكَ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>نُمَيْرٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٩٤٢٢٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>مَهْلًا أَعَاْذِلَ قَدْ جَرَّبْتِ مِنْ خُلُقِيِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مَهْلًا</ar>
+               </t>
+               <t>
+                  <ar>أَعَاْذِلَ</ar>
+               </t>
+               <t>
+                  <ar>قَدْ</ar>
+               </t>
+               <t>
+                  <ar>جَرَّبْتِ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>خُلُقِيِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>أَنّيِ أَجُوَدُ لِأَقْوَاْمٍ وَإِنْ ضَنِنُوَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَنّيِ</ar>
+               </t>
+               <t>
+                  <ar>أَجُوَدُ</ar>
+               </t>
+               <t>
+                  <ar>لِأَقْوَاْمٍ</ar>
+               </t>
+               <t>
+                  <ar>وَإِنْ</ar>
+               </t>
+               <t>
+                  <ar>ضَنِنُوَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢٨٠٤٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>تَشْكُو الْوَجَى مِنْ أَظْلَلٍ وَأَظْلَلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَشْكُو</ar>
+               </t>
+               <t>
+                  <ar>الْوَجَى</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>أَظْلَلٍ</ar>
+               </t>
+               <t>
+                  <ar>وَأَظْلَلِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

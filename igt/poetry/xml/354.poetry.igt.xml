@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="354">
+   <verses id="٣١٠٥٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَكِلْتَاْهُمَا خَرَّتْ وَأَسْجَدَ رَأْسُهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَكِلْتَاْهُمَا</ar>
+               </t>
+               <t>
+                  <ar>خَرَّتْ</ar>
+               </t>
+               <t>
+                  <ar>وَأَسْجَدَ</ar>
+               </t>
+               <t>
+                  <ar>رَأْسُهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>كُمَا سَجَدَتْ نَصْرَاْنَةٌ لَمْ تَحَنَّفِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كُمَا</ar>
+               </t>
+               <t>
+                  <ar>سَجَدَتْ</ar>
+               </t>
+               <t>
+                  <ar>نَصْرَاْنَةٌ</ar>
+               </t>
+               <t>
+                  <ar>لَمْ</ar>
+               </t>
+               <t>
+                  <ar>تَحَنَّفِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

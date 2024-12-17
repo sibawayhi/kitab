@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="384">
+   <verses id="٢٢٩٣٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>إِلَى هَاْدِرَاْتٍ صِعَاْبِ الرُّؤُسِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِلَى</ar>
+               </t>
+               <t>
+                  <ar>هَاْدِرَاْتٍ</ar>
+               </t>
+               <t>
+                  <ar>صِعَاْبِ</ar>
+               </t>
+               <t>
+                  <ar>الرُّؤُسِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>قَسَاْوِرَ لِلْقَسْوَرِ الْأَصْيَدِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قَسَاْوِرَ</ar>
+               </t>
+               <t>
+                  <ar>لِلْقَسْوَرِ</ar>
+               </t>
+               <t>
+                  <ar>الْأَصْيَدِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

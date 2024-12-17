@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="404">
+   <dictum id="٤٢٥٠٢">
+      <text>
+         <ar>اضْرِبَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اضْرِبَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٦٤٢١">
+      <text>
+         <ar>هٰذَا مُثْنًّى كَمَا تَرَى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>مُثْنًّى</ar>
+         </t>
+         <t>
+            <ar>كَمَا</ar>
+         </t>
+         <t>
+            <ar>تَرَى</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٥٨٠٥">
+      <text>
+         <ar>اضْرِبِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اضْرِبِي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٤٠٦٩">
+      <text>
+         <ar>اضْرِبُوْا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اضْرِبُوْا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٠٢٩٩">
+      <text>
+         <ar>ارْمُوْا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ارْمُوْا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٣٨٣٢">
+      <text>
+         <ar>ارْمِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ارْمِي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٨٨٠٣">
+      <text>
+         <ar>اغْزِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اغْزِي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٠١٦٨">
+      <text>
+         <ar>اخْشَيْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اخْشَيْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٩٥٢٥">
+      <text>
+         <ar>اخْشَوْا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اخْشَوْا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٣٨٥٩">
+      <text>
+         <ar>اخْشَيِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اخْشَيِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٧٧٤٩">
+      <text>
+         <ar>اخْشَوُوْا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اخْشَوُوْا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٨٩٥٤">
+      <text>
+         <ar>هٰذَا عَمْرُو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>عَمْرُو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٢١١٩">
+      <text>
+         <ar>مَرَرْتُ بِعَمْرِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِعَمْرِي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٢٦٢٤">
+      <text>
+         <ar>هَلْ تَضْرِبِيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَلْ</ar>
+         </t>
+         <t>
+            <ar>تَضْرِبِيْنَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٧٩١٩">
+      <text>
+         <ar>هَلْ تَضْرِبُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَلْ</ar>
+         </t>
+         <t>
+            <ar>تَضْرِبُوْنَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٧٥٨٥">
+      <text>
+         <ar>هَلْ تَضْرِبَاْنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَلْ</ar>
+         </t>
+         <t>
+            <ar>تَضْرِبَاْنِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٤٧٦٩">
+      <text>
+         <ar>هَلْ تَضْرِبُوْنَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَلْ</ar>
+         </t>
+         <t>
+            <ar>تَضْرِبُوْنَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٥٦٨٤">
+      <text>
+         <ar>هَلْ تَضْرِبُوْا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَلْ</ar>
+         </t>
+         <t>
+            <ar>تَضْرِبُوْا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

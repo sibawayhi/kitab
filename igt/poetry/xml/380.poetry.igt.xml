@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="380">
+   <verses id="٧٠٨٨٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>يَا خَاْتِمَ النُّبَاْءِ إنَّكَ مُرْسَلٌ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>خَاْتِمَ</ar>
+               </t>
+               <t>
+                  <ar>النُّبَاْءِ</ar>
+               </t>
+               <t>
+                  <ar>إنَّكَ</ar>
+               </t>
+               <t>
+                  <ar>مُرْسَلٌ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>بِاْلْحَقّ كُلُّ هُدَى السَّبِيْلِ هَدَاْكَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بِاْلْحَقّ</ar>
+               </t>
+               <t>
+                  <ar>كُلُّ</ar>
+               </t>
+               <t>
+                  <ar>هُدَى</ar>
+               </t>
+               <t>
+                  <ar>السَّبِيْلِ</ar>
+               </t>
+               <t>
+                  <ar>هَدَاْكَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

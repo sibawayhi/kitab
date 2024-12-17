@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="417">
+   <verses id="١٠٥٩٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>قَدْ نَاْلَنِي مِنْهُمْ عَلَى عَدَمٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قَدْ</ar>
+               </t>
+               <t>
+                  <ar>نَاْلَنِي</ar>
+               </t>
+               <t>
+                  <ar>مِنْهُمْ</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>عَدَمٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>مِثْلُ الْفَسِيْلِ صِغَاْرُهَا الْحِقَقُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مِثْلُ</ar>
+               </t>
+               <t>
+                  <ar>الْفَسِيْلِ</ar>
+               </t>
+               <t>
+                  <ar>صِغَاْرُهَا</ar>
+               </t>
+               <t>
+                  <ar>الْحِقَقُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

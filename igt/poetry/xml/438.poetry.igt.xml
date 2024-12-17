@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="438">
+   <verses id="٦٨٧٥٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>ولَتْ وَدَعْوَاْهَا كَثِيْرٌ صَخْبَةَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ولَتْ</ar>
+               </t>
+               <t>
+                  <ar>وَدَعْوَاْهَا</ar>
+               </t>
+               <t>
+                  <ar>كَثِيْرٌ</ar>
+               </t>
+               <t>
+                  <ar>صَخْبَةَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

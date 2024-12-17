@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="370">
+   <verses id="٦٤٤٣٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>قَدْ قَرّبَتْ سَاْدَاْتُهَا الرَّوَاْئِسَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قَدْ</ar>
+               </t>
+               <t>
+                  <ar>قَرّبَتْ</ar>
+               </t>
+               <t>
+                  <ar>سَاْدَاْتُهَا</ar>
+               </t>
+               <t>
+                  <ar>الرَّوَاْئِسَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>واْلْبَكَرَاْتِ الْفُسَّجَ الْعَطَاْمِسَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>واْلْبَكَرَاْتِ</ar>
+               </t>
+               <t>
+                  <ar>الْفُسَّجَ</ar>
+               </t>
+               <t>
+                  <ar>الْعَطَاْمِسَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

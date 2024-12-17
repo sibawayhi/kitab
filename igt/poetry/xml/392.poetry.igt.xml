@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="392">
+   <verses id="٤٦٨٠٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>قَاْلُ الْعَوَاْذِلُ مَا لِجًهْلِكَ بِعِدْمَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قَاْلُ</ar>
+               </t>
+               <t>
+                  <ar>الْعَوَاْذِلُ</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>لِجًهْلِكَ</ar>
+               </t>
+               <t>
+                  <ar>بِعِدْمَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>شَاْبُ الْمَفَاْرِقُ وَاكْتَسَيْنَ قَتَيِرَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>شَاْبُ</ar>
+               </t>
+               <t>
+                  <ar>الْمَفَاْرِقُ</ar>
+               </t>
+               <t>
+                  <ar>وَاكْتَسَيْنَ</ar>
+               </t>
+               <t>
+                  <ar>قَتَيِرَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٧٩٨٦٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>كَأَنّ الْغُبَاْرَ الَّذِي غَاْدًرْتْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>كَأَنّ</ar>
+               </t>
+               <t>
+                  <ar>الْغُبَاْرَ</ar>
+               </t>
+               <t>
+                  <ar>الَّذِي</ar>
+               </t>
+               <t>
+                  <ar>غَاْدًرْتْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>ضُحَيَّا دَوَاْخِنُ مَنْ تَنْضُبِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ضُحَيَّا</ar>
+               </t>
+               <t>
+                  <ar>دَوَاْخِنُ</ar>
+               </t>
+               <t>
+                  <ar>مَنْ</ar>
+               </t>
+               <t>
+                  <ar>تَنْضُبِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٩٣٤٦٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>صُبَيّةً عَلَى الدُّخَاْنِ رُمْكَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>صُبَيّةً</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>الدُّخَاْنِ</ar>
+               </t>
+               <t>
+                  <ar>رُمْكَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>مَا إنْ عَدَا أَصْغَرَهُمْ أَنْ زَكَّا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>إنْ</ar>
+               </t>
+               <t>
+                  <ar>عَدَا</ar>
+               </t>
+               <t>
+                  <ar>أَصْغَرَهُمْ</ar>
+               </t>
+               <t>
+                  <ar>أَنْ</ar>
+               </t>
+               <t>
+                  <ar>زَكَّا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

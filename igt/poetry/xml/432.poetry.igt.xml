@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="432">
+   <verses id="٥٥١٣٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أُوَ كُلَّمَا وَرَدَتْ عُكّاْظَ قَبَيْلَةٌ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أُوَ</ar>
+               </t>
+               <t>
+                  <ar>كُلَّمَا</ar>
+               </t>
+               <t>
+                  <ar>وَرَدَتْ</ar>
+               </t>
+               <t>
+                  <ar>عُكّاْظَ</ar>
+               </t>
+               <t>
+                  <ar>قَبَيْلَةٌ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>بَعَثُوْا إلَيَّ عَرِيْفَهُمْ يَتَوَسَّمُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بَعَثُوْا</ar>
+               </t>
+               <t>
+                  <ar>إلَيَّ</ar>
+               </t>
+               <t>
+                  <ar>عَرِيْفَهُمْ</ar>
+               </t>
+               <t>
+                  <ar>يَتَوَسَّمُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="445">
+   <verses id="٤٤٦٢٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>مَا زِلْتُ أَفْتَحُ أَبْوَاْبِا وَأُغْلِقُهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>زِلْتُ</ar>
+               </t>
+               <t>
+                  <ar>أَفْتَحُ</ar>
+               </t>
+               <t>
+                  <ar>أَبْوَاْبِا</ar>
+               </t>
+               <t>
+                  <ar>وَأُغْلِقُهَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>حَتَّى أَتَيْتُ أَبَا عَمْرٍو بْنَ عَمّاْرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>حَتَّى</ar>
+               </t>
+               <t>
+                  <ar>أَتَيْتُ</ar>
+               </t>
+               <t>
+                  <ar>أَبَا</ar>
+               </t>
+               <t>
+                  <ar>عَمْرٍو</ar>
+               </t>
+               <t>
+                  <ar>بْنَ</ar>
+               </t>
+               <t>
+                  <ar>عَمّاْرِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

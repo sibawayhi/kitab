@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="396">
+   <verses id="٨٣٢٥٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>قَدْ شَرِبْتْ إلَّاَّْ دُهَيْدَهِيْنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قَدْ</ar>
+               </t>
+               <t>
+                  <ar>شَرِبْتْ</ar>
+               </t>
+               <t>
+                  <ar>إلَّاَّْ</ar>
+               </t>
+               <t>
+                  <ar>دُهَيْدَهِيْنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>قُلْيِّصَاْتٍ وَأُبَيْكِرِيْنَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قُلْيِّصَاْتٍ</ar>
+               </t>
+               <t>
+                  <ar>وَأُبَيْكِرِيْنَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

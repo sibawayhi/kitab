@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="413">
+   <dictum id="٣٣٥٦٨">
+      <text>
+         <ar>هٰذَا خَاْمِسُ أَرْبَعَةٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>خَاْمِسُ</ar>
+         </t>
+         <t>
+            <ar>أَرْبَعَةٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٥١٩٠">
+      <text>
+         <ar>هٰذَا الَّذِي خَمَسَ الْأَرْبَعَةَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>الَّذِي</ar>
+         </t>
+         <t>
+            <ar>خَمَسَ</ar>
+         </t>
+         <t>
+            <ar>الْأَرْبَعَةَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٤٥٠٩">
+      <text>
+         <ar>ثَنَيْتُ الْوَاْحِدَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ثَنَيْتُ</ar>
+         </t>
+         <t>
+            <ar>الْوَاْحِدَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٧١٤٦">
+      <text>
+         <ar>هٰذَا حَاْدِي أَحَدَ عَشَرَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>حَاْدِي</ar>
+         </t>
+         <t>
+            <ar>أَحَدَ</ar>
+         </t>
+         <t>
+            <ar>عَشَرَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩١٥٢٧">
+      <text>
+         <ar>هُوَ تَمَاْمُ خَمْسَةٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>تَمَاْمُ</ar>
+         </t>
+         <t>
+            <ar>خَمْسَةٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٢٨٤٩">
+      <text>
+         <ar>هُوَ خَاْمِسُ أَرْبَعٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>خَاْمِسُ</ar>
+         </t>
+         <t>
+            <ar>أَرْبَعٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

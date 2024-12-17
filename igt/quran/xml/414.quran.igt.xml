@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="414">
+   <ayah id="٦١٠٦٥" surah="اْلكهف" verse="">
+      <text>
+         <ar>هٰذَا رَحْمَةٌ مِّن رَّبِّي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>رَحْمَةٌ</ar>
+         </t>
+         <t>
+            <ar>مِّن</ar>
+         </t>
+         <t>
+            <ar>رَّبِّي</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

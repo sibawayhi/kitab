@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="430">
+   <verses id="٨٠٠٥٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>قَاْلَتْ سُلَيْمَى لَا أُحِبُّ الْجَعْدِ بِنْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قَاْلَتْ</ar>
+               </t>
+               <t>
+                  <ar>سُلَيْمَى</ar>
+               </t>
+               <t>
+                  <ar>لَا</ar>
+               </t>
+               <t>
+                  <ar>أُحِبُّ</ar>
+               </t>
+               <t>
+                  <ar>الْجَعْدِ</ar>
+               </t>
+               <t>
+                  <ar>بِنْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>ولَا السِّبَاْطَ إنّهُمْ مَنَاْتِيْنُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ولَا</ar>
+               </t>
+               <t>
+                  <ar>السِّبَاْطَ</ar>
+               </t>
+               <t>
+                  <ar>إنّهُمْ</ar>
+               </t>
+               <t>
+                  <ar>مَنَاْتِيْنُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

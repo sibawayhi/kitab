@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="406">
+   <verses id="٦٦٩٧٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>اسْتْقَدِرِ اللّهَ خَيْرًا وَارْضَيَنَّ بِهَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>اسْتْقَدِرِ</ar>
+               </t>
+               <t>
+                  <ar>اللّهَ</ar>
+               </t>
+               <t>
+                  <ar>خَيْرًا</ar>
+               </t>
+               <t>
+                  <ar>وَارْضَيَنَّ</ar>
+               </t>
+               <t>
+                  <ar>بِهَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَبَيْنَمَا الْعُسْرُ إذْ دَاْرَتْ مَيَاْسِيْرُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَبَيْنَمَا</ar>
+               </t>
+               <t>
+                  <ar>الْعُسْرُ</ar>
+               </t>
+               <t>
+                  <ar>إذْ</ar>
+               </t>
+               <t>
+                  <ar>دَاْرَتْ</ar>
+               </t>
+               <t>
+                  <ar>مَيَاْسِيْرُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

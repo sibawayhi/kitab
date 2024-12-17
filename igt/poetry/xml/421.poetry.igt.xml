@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="421">
+   <verses id="٥٩٥٣٥" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وهُمْ أَهَلَاْتٌ حَوْلَ قَيْسٍ بْنِ عَاْصِمٍ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وهُمْ</ar>
+               </t>
+               <t>
+                  <ar>أَهَلَاْتٌ</ar>
+               </t>
+               <t>
+                  <ar>حَوْلَ</ar>
+               </t>
+               <t>
+                  <ar>قَيْسٍ</ar>
+               </t>
+               <t>
+                  <ar>بْنِ</ar>
+               </t>
+               <t>
+                  <ar>عَاْصِمٍ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>إَذَا أَدْلَجُوْا بِاْلّلَّيْلِ يَدْعُوْنَ كَوْثَرَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إَذَا</ar>
+               </t>
+               <t>
+                  <ar>أَدْلَجُوْا</ar>
+               </t>
+               <t>
+                  <ar>بِاْلّلَّيْلِ</ar>
+               </t>
+               <t>
+                  <ar>يَدْعُوْنَ</ar>
+               </t>
+               <t>
+                  <ar>كَوْثَرَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٦٤٩٩٧" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>أَمّا الْإٍ مَاْءُ فَلَا يَدْعُوْنَنِي وَلَدًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَمّا</ar>
+               </t>
+               <t>
+                  <ar>الْإٍ</ar>
+               </t>
+               <t>
+                  <ar>مَاْءُ</ar>
+               </t>
+               <t>
+                  <ar>فَلَا</ar>
+               </t>
+               <t>
+                  <ar>يَدْعُوْنَنِي</ar>
+               </t>
+               <t>
+                  <ar>وَلَدًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>إَذًا تَرَاْمَى بَنُو الْأَمْوَاْنِ بِاْلْعَاْرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إَذًا</ar>
+               </t>
+               <t>
+                  <ar>تَرَاْمَى</ar>
+               </t>
+               <t>
+                  <ar>بَنُو</ar>
+               </t>
+               <t>
+                  <ar>الْأَمْوَاْنِ</ar>
+               </t>
+               <t>
+                  <ar>بِاْلْعَاْرِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

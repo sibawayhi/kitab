@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="393">
+   <verses id="٦٥٠٤٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَخَبَّرْ تَمَاْنِي أَنَّمَا الْمَوْتُ فِي الْقُرَى</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَخَبَّرْ</ar>
+               </t>
+               <t>
+                  <ar>تَمَاْنِي</ar>
+               </t>
+               <t>
+                  <ar>أَنَّمَا</ar>
+               </t>
+               <t>
+                  <ar>الْمَوْتُ</ar>
+               </t>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>الْقُرَى</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَكَيْفَ وَهَاْتَا هَضْبَةٌ وَقَلَيْبُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَكَيْفَ</ar>
+               </t>
+               <t>
+                  <ar>وَهَاْتَا</ar>
+               </t>
+               <t>
+                  <ar>هَضْبَةٌ</ar>
+               </t>
+               <t>
+                  <ar>وَقَلَيْبُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٨٨٣١٣" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَلَيْسَ لِعَيْشِنَا هٰذَا مَهَاْهٌ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَلَيْسَ</ar>
+               </t>
+               <t>
+                  <ar>لِعَيْشِنَا</ar>
+               </t>
+               <t>
+                  <ar>هٰذَا</ar>
+               </t>
+               <t>
+                  <ar>مَهَاْهٌ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَلَيْسَتْ دَاْرُنَا هَاْتَا بَدَاْرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَلَيْسَتْ</ar>
+               </t>
+               <t>
+                  <ar>دَاْرُنَا</ar>
+               </t>
+               <t>
+                  <ar>هَاْتَا</ar>
+               </t>
+               <t>
+                  <ar>بَدَاْرِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٩٣١١٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>بَعْدُ اللَّتَيَا وَاَللّتِيّا وَالتَّيْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>بَعْدُ</ar>
+               </t>
+               <t>
+                  <ar>اللَّتَيَا</ar>
+               </t>
+               <t>
+                  <ar>وَاَللّتِيّا</ar>
+               </t>
+               <t>
+                  <ar>وَالتَّيْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

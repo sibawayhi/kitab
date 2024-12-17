@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="419">
+   <verses id="٥٧٣٦٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فُكُنّا كَاْلْحَرِيْقِ أَصَاْبَ غَاْبًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فُكُنّا</ar>
+               </t>
+               <t>
+                  <ar>كَاْلْحَرِيْقِ</ar>
+               </t>
+               <t>
+                  <ar>أَصَاْبَ</ar>
+               </t>
+               <t>
+                  <ar>غَاْبًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>فَيَخْبُو سَاْعَةً وَيَهَيِّجُ سَاْعَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَيَخْبُو</ar>
+               </t>
+               <t>
+                  <ar>سَاْعَةً</ar>
+               </t>
+               <t>
+                  <ar>وَيَهَيِّجُ</ar>
+               </t>
+               <t>
+                  <ar>سَاْعَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="١٢٦٧٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَخَطَرَتْ أَيْدِي الْكُمَاْةِ وَخَطَرَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَخَطَرَتْ</ar>
+               </t>
+               <t>
+                  <ar>أَيْدِي</ar>
+               </t>
+               <t>
+                  <ar>الْكُمَاْةِ</ar>
+               </t>
+               <t>
+                  <ar>وَخَطَرَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>أِيٌ إذَا أَوْرَدَهُ الطَّعْنُ صَدَرْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أِيٌ</ar>
+               </t>
+               <t>
+                  <ar>إذَا</ar>
+               </t>
+               <t>
+                  <ar>أَوْرَدَهُ</ar>
+               </t>
+               <t>
+                  <ar>الطَّعْنُ</ar>
+               </t>
+               <t>
+                  <ar>صَدَرْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="426">
+   <verses id="٣٣٦١٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>تُحْلَبُ مِنْهَا سِتَّةُ الْأَوَاْطِبِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تُحْلَبُ</ar>
+               </t>
+               <t>
+                  <ar>مِنْهَا</ar>
+               </t>
+               <t>
+                  <ar>سِتَّةُ</ar>
+               </t>
+               <t>
+                  <ar>الْأَوَاْطِبِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢١٩٦٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لُهَا بَحَقِيْلٍ فَاْلثُّمَيْرَةِ مَوْضِعٌ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لُهَا</ar>
+               </t>
+               <t>
+                  <ar>بَحَقِيْلٍ</ar>
+               </t>
+               <t>
+                  <ar>فَاْلثُّمَيْرَةِ</ar>
+               </t>
+               <t>
+                  <ar>مَوْضِعٌ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>تَرَى الْوَحْشَ عُوْذَاْتٍ بِهِ وَمَتَاْلِيَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَرَى</ar>
+               </t>
+               <t>
+                  <ar>الْوَحْشَ</ar>
+               </t>
+               <t>
+                  <ar>عُوْذَاْتٍ</ar>
+               </t>
+               <t>
+                  <ar>بِهِ</ar>
+               </t>
+               <t>
+                  <ar>وَمَتَاْلِيَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٤٩٨٠١" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>تَرْعَى أَنَاْضٍ مِنْ جَزِيْزِ الْحَمْضِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَرْعَى</ar>
+               </t>
+               <t>
+                  <ar>أَنَاْضٍ</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>جَزِيْزِ</ar>
+               </t>
+               <t>
+                  <ar>الْحَمْضِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

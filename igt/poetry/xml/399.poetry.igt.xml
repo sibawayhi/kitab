@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="399">
+   <verses id="٥٨٥١٩" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَقَاْلَ فَرِيْقُ الْقَوْمِ لَمَّا نَشَدَتُهُمْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَقَاْلَ</ar>
+               </t>
+               <t>
+                  <ar>فَرِيْقُ</ar>
+               </t>
+               <t>
+                  <ar>الْقَوْمِ</ar>
+               </t>
+               <t>
+                  <ar>لَمَّا</ar>
+               </t>
+               <t>
+                  <ar>نَشَدَتُهُمْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>نَعَمْ وَفَرِيْقٌ لَيْمُنُ اللَّهِ مَا نَدْرِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>نَعَمْ</ar>
+               </t>
+               <t>
+                  <ar>وَفَرِيْقٌ</ar>
+               </t>
+               <t>
+                  <ar>لَيْمُنُ</ar>
+               </t>
+               <t>
+                  <ar>اللَّهِ</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>نَدْرِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣٢٧٧٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فَقُلْتُ يَمِيْنُ اللَّهِ أَبْرَحُ قَاْعِدًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فَقُلْتُ</ar>
+               </t>
+               <t>
+                  <ar>يَمِيْنُ</ar>
+               </t>
+               <t>
+                  <ar>اللَّهِ</ar>
+               </t>
+               <t>
+                  <ar>أَبْرَحُ</ar>
+               </t>
+               <t>
+                  <ar>قَاْعِدًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَلَوْ قَطَعُوْا رَأْسِي لَدَيْكِ وَأَوْصَاْلِيِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَلَوْ</ar>
+               </t>
+               <t>
+                  <ar>قَطَعُوْا</ar>
+               </t>
+               <t>
+                  <ar>رَأْسِي</ar>
+               </t>
+               <t>
+                  <ar>لَدَيْكِ</ar>
+               </t>
+               <t>
+                  <ar>وَأَوْصَاْلِيِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

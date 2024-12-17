@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="403">
+   <verses id="١٤٧٤٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>تَرَاْهُ كَاْلثَّغَاْمِ يُعَلُّ مِسْكًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>تَرَاْهُ</ar>
+               </t>
+               <t>
+                  <ar>كَاْلثَّغَاْمِ</ar>
+               </t>
+               <t>
+                  <ar>يُعَلُّ</ar>
+               </t>
+               <t>
+                  <ar>مِسْكًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>يَسُوْءُ الْفَاْلِيَاْتِ إذَا فَلَيْنِيِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>يَسُوْءُ</ar>
+               </t>
+               <t>
+                  <ar>الْفَاْلِيَاْتِ</ar>
+               </t>
+               <t>
+                  <ar>إذَا</ar>
+               </t>
+               <t>
+                  <ar>فَلَيْنِيِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

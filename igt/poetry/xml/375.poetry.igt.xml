@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="375">
+   <verses id="٥٣٦٩٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>إِنَّ عُبَيْدًا هِيَ صِئْبَاْنُ السَّهْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِنَّ</ar>
+               </t>
+               <t>
+                  <ar>عُبَيْدًا</ar>
+               </t>
+               <t>
+                  <ar>هِيَ</ar>
+               </t>
+               <t>
+                  <ar>صِئْبَاْنُ</ar>
+               </t>
+               <t>
+                  <ar>السَّهْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

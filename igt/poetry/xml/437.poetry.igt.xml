@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="437">
+   <verses id="٣٢٦١٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَهَلْ يَنْعَمْنَ مَنْ كَاْنَ فِي الْعَصْرِ الْخَاْلَيْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَهَلْ</ar>
+               </t>
+               <t>
+                  <ar>يَنْعَمْنَ</ar>
+               </t>
+               <t>
+                  <ar>مَنْ</ar>
+               </t>
+               <t>
+                  <ar>كَاْنَ</ar>
+               </t>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>الْعَصْرِ</ar>
+               </t>
+               <t>
+                  <ar>الْخَاْلَيْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٣١٢٣٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَاْعْوَجَّ غُصْنُك مِنْ لَحْوٍ وَمِنْ قِدَمِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَاْعْوَجَّ</ar>
+               </t>
+               <t>
+                  <ar>غُصْنُك</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>لَحْوٍ</ar>
+               </t>
+               <t>
+                  <ar>وَمِنْ</ar>
+               </t>
+               <t>
+                  <ar>قِدَمِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>لًا يَنْعِمُ الْغُصْنُ حَتَّى يَنْعِمَ الْوَرَقُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لًا</ar>
+               </t>
+               <t>
+                  <ar>يَنْعِمُ</ar>
+               </t>
+               <t>
+                  <ar>الْغُصْنُ</ar>
+               </t>
+               <t>
+                  <ar>حَتَّى</ar>
+               </t>
+               <t>
+                  <ar>يَنْعِمَ</ar>
+               </t>
+               <t>
+                  <ar>الْوَرَقُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٨٤٤٩٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وكُوْمٍ تَنْعِمُ الْأَضْيَاْفَ عَيْنًا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وكُوْمٍ</ar>
+               </t>
+               <t>
+                  <ar>تَنْعِمُ</ar>
+               </t>
+               <t>
+                  <ar>الْأَضْيَاْفَ</ar>
+               </t>
+               <t>
+                  <ar>عَيْنًا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَتُصْبِحُ فِي مَبَاْرِكِهَا ثِقَاْلَاَْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَتُصْبِحُ</ar>
+               </t>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>مَبَاْرِكِهَا</ar>
+               </t>
+               <t>
+                  <ar>ثِقَاْلَاَْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="429">
+   <verses id="٥٦٣٩٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>سُرَيْتُ بِهِمْ حَتَّى تَكِلّ غَزِيُّهُمْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>سُرَيْتُ</ar>
+               </t>
+               <t>
+                  <ar>بِهِمْ</ar>
+               </t>
+               <t>
+                  <ar>حَتَّى</ar>
+               </t>
+               <t>
+                  <ar>تَكِلّ</ar>
+               </t>
+               <t>
+                  <ar>غَزِيُّهُمْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وحَتًّى الْجِيَاْدُ مَا يُقَدْنَ بِأَرْسَاْنِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وحَتًّى</ar>
+               </t>
+               <t>
+                  <ar>الْجِيَاْدُ</ar>
+               </t>
+               <t>
+                  <ar>مَا</ar>
+               </t>
+               <t>
+                  <ar>يُقَدْنَ</ar>
+               </t>
+               <t>
+                  <ar>بِأَرْسَاْنِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="368">
+   <verses id="٤٢٤٥٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَلْم أَجِدْ باْلِمِصْر مِنْ حاَْجاَْتْيِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَلْم</ar>
+               </t>
+               <t>
+                  <ar>أَجِدْ</ar>
+               </t>
+               <t>
+                  <ar>باْلِمِصْر</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>حاَْجاَْتْيِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>غيَرَ عَفاِْرِيَتَ عَفَرْنَيْاِْتِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>غيَرَ</ar>
+               </t>
+               <t>
+                  <ar>عَفاِْرِيَتَ</ar>
+               </t>
+               <t>
+                  <ar>عَفَرْنَيْاِْتِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

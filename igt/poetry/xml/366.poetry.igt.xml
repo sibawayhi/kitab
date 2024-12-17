@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="366">
+   <verses id="٧٥٢٩٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>خَصْمٌ أَبَرَّدَ عَلَى الْخُصُوْمِ أَلَنْدَدُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>خَصْمٌ</ar>
+               </t>
+               <t>
+                  <ar>أَبَرَّدَ</ar>
+               </t>
+               <t>
+                  <ar>عَلَى</ar>
+               </t>
+               <t>
+                  <ar>الْخُصُوْمِ</ar>
+               </t>
+               <t>
+                  <ar>أَلَنْدَدُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

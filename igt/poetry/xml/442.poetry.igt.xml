@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="442">
+   <verses id="١٧٧٦٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>لَمَّا أَتَوْهَا بِمِصْبْاْحٍ وَمُبْزَلِهِمْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>لَمَّا</ar>
+               </t>
+               <t>
+                  <ar>أَتَوْهَا</ar>
+               </t>
+               <t>
+                  <ar>بِمِصْبْاْحٍ</ar>
+               </t>
+               <t>
+                  <ar>وَمُبْزَلِهِمْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>سَاْرَتْ إلَيْهِمْ سُؤُوْرُ الْأَبْجَلِ الضَّاْرِي</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>سَاْرَتْ</ar>
+               </t>
+               <t>
+                  <ar>إلَيْهِمْ</ar>
+               </t>
+               <t>
+                  <ar>سُؤُوْرُ</ar>
+               </t>
+               <t>
+                  <ar>الْأَبْجَلِ</ar>
+               </t>
+               <t>
+                  <ar>الضَّاْرِي</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢٨٥٨٨" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>ورَبُّ ذِي سِرْدَاْقٍ مَحْجُوْرِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>ورَبُّ</ar>
+               </t>
+               <t>
+                  <ar>ذِي</ar>
+               </t>
+               <t>
+                  <ar>سِرْدَاْقٍ</ar>
+               </t>
+               <t>
+                  <ar>مَحْجُوْرِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>سَرْت إلَيْهِ فِي أَعَاْلِي السُّوْرَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>سَرْت</ar>
+               </t>
+               <t>
+                  <ar>إلَيْهِ</ar>
+               </t>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>أَعَاْلِي</ar>
+               </t>
+               <t>
+                  <ar>السُّوْرَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

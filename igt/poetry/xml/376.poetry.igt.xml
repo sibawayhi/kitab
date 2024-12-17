@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="376">
+   <verses id="٤٠٢٣٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فِي لَجَّةٍ أَمْسِكْ فُلَاْنًا عَنْ فُلِ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فِي</ar>
+               </t>
+               <t>
+                  <ar>لَجَّةٍ</ar>
+               </t>
+               <t>
+                  <ar>أَمْسِكْ</ar>
+               </t>
+               <t>
+                  <ar>فُلَاْنًا</ar>
+               </t>
+               <t>
+                  <ar>عَنْ</ar>
+               </t>
+               <t>
+                  <ar>فُلِ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢٥٣٣٦" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>فِيٌّ حَسَبٍ بَخٍّ وَعِزٍّ أَقْعَسَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>فِيٌّ</ar>
+               </t>
+               <t>
+                  <ar>حَسَبٍ</ar>
+               </t>
+               <t>
+                  <ar>بَخٍّ</ar>
+               </t>
+               <t>
+                  <ar>وَعِزٍّ</ar>
+               </t>
+               <t>
+                  <ar>أَقْعَسَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٠٦٧٨٤" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>وَهْيَ تَنُوْشُ الْحَوْضَ نَوْشًا مِنْ عَلَاَْ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَهْيَ</ar>
+               </t>
+               <t>
+                  <ar>تَنُوْشُ</ar>
+               </t>
+               <t>
+                  <ar>الْحَوْضَ</ar>
+               </t>
+               <t>
+                  <ar>نَوْشًا</ar>
+               </t>
+               <t>
+                  <ar>مِنْ</ar>
+               </t>
+               <t>
+                  <ar>عَلَاَْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٢٤٣٩٠" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>قَدُ عِلْمْوَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>قَدُ</ar>
+               </t>
+               <t>
+                  <ar>عِلْمْوَا</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>أَنْ هَاْلِكٌ كُلّ مَنْ يَحْفَى وَيَنْتَعِلُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>أَنْ</ar>
+               </t>
+               <t>
+                  <ar>هَاْلِكٌ</ar>
+               </t>
+               <t>
+                  <ar>كُلّ</ar>
+               </t>
+               <t>
+                  <ar>مَنْ</ar>
+               </t>
+               <t>
+                  <ar>يَحْفَى</ar>
+               </t>
+               <t>
+                  <ar>وَيَنْتَعِلُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>

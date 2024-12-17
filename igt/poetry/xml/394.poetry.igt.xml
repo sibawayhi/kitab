@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="394">
+   <verses id="١٤٨٦٢" poet="">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>إِنْ تَرَيْنَا قُلَيِّلِيْنِ كَمَا ذِيَّدَ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>إِنْ</ar>
+               </t>
+               <t>
+                  <ar>تَرَيْنَا</ar>
+               </t>
+               <t>
+                  <ar>قُلَيِّلِيْنِ</ar>
+               </t>
+               <t>
+                  <ar>كَمَا</ar>
+               </t>
+               <t>
+                  <ar>ذِيَّدَ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>عَنُ الْمُجْرِبِيْنَ ذَوْدٌ صِحَاْحُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>عَنُ</ar>
+               </t>
+               <t>
+                  <ar>الْمُجْرِبِيْنَ</ar>
+               </t>
+               <t>
+                  <ar>ذَوْدٌ</ar>
+               </t>
+               <t>
+                  <ar>صِحَاْحُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+</poetry>
