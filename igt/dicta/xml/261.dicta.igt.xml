@@ -3,7 +3,7 @@
    <dictum id="٧٢٣٢٣">
       <text>
          <ar>قَدْ عَرَفْتُ أَنَّكَ مُنْطَلِقٌ</ar>
-         <free/>
+         <free>I have recognized that you are departing</free>
       </text>
       <igt>
          <t>
@@ -23,7 +23,7 @@
    <dictum id="٧٨٢٦٩">
       <text>
          <ar>قَدْ عَرَفْتُ ذَاْكَ</ar>
-         <free/>
+         <free>I have recognized that</free>
       </text>
       <igt>
          <t>
@@ -40,11 +40,11 @@
    <dictum id="٤٠٦٦٦">
       <text>
          <ar>بَلَغَنِي أَنَّكَ مُنْطَلِقٌ</ar>
-         <free/>
+         <free>It reached me that you are departing</free>
       </text>
       <igt>
          <t>
-            <ar>بَلَغَنِي</ar>
+           <ar>بَلَغَنِي</ar>
          </t>
          <t>
             <ar>أَنَّكَ</ar>
@@ -56,22 +56,22 @@
    </dictum>
    <dictum id="٣٤٩٨٧">
       <text>
-         <ar>بَلَغَنِي ذَاْكِ</ar>
-         <free/>
+         <ar>بَلَغَنِي ذَاْكَ</ar>
+         <free>That reached me</free>
       </text>
       <igt>
          <t>
             <ar>بَلَغَنِي</ar>
          </t>
          <t>
-            <ar>ذَاْكِ</ar>
+            <ar>ذَاْكَ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٨٤٦٢٥">
       <text>
          <ar>رَأَيْتُ الضَّاْرِبَ أَبَاْهُ زَيْدٌ</ar>
-         <free/>
+         <free>I saw <ed>that</ed> the striker of his father is Zayd</free>
       </text>
       <igt>
          <t>
@@ -91,7 +91,7 @@
    <dictum id="٦١٣٢١">
       <text>
          <ar>إِنَّ زَيْدًا مُنْطَلِقٌ</ar>
-         <free/>
+         <free>Indeed Zayd is departing</free>
       </text>
       <igt>
          <t>
@@ -107,12 +107,12 @@
    </dictum>
    <dictum id="٣٣٢٦١">
       <text>
-         <ar>إِنَّك ذَاْهِبٌ</ar>
-         <free/>
+         <ar>إِنَّكَ ذَاْهِبٌ</ar>
+         <free>Indeed you are going</free>
       </text>
       <igt>
          <t>
-            <ar>إِنَّك</ar>
+            <ar>إِنَّكَ</ar>
          </t>
          <t>
             <ar>ذَاْهِبٌ</ar>
