@@ -7,6 +7,7 @@
 <!ENTITY RCEIL "⌉">
 <!ENTITY LFLOOR "⌊">
 <!ENTITY RFLOOR "⌋">
+<!ENTITY eth "ð">               <!-- U+00F0 -->
 <!ENTITY DH "ð">
 <!ENTITY H  "ḥ">
 <!ENTITY sh "š">
@@ -38,6 +39,14 @@
 <terms xmlns="http://www.sibawayhi.org/schema/2024/06/terms">
 
   <term>
+    <key>أَبُوْهُ</key> <xlit>&LCEIL;Ɂᵃb<influ/>ẘ-hᵘ&RCEIL;</xlit>
+    <gloss>&LFLOOR;<ed>the</ed>father<influ/>-<ed>of</ed>him&RFLOOR;</gloss>
+  </term>
+  <term>
+    <key>أَبَاْهُ</key> <xlit>&LCEIL;Ɂᵃb<infla/>å-hᵘ&RCEIL;</xlit>
+    <gloss>&LFLOOR;<ed>the</ed>father<infla/>-<ed>of</ed>him&RFLOOR;</gloss>
+  </term>
+  <term>
     <key>أَخَاْهُ</key> <xlit>&LCEIL;Ɂᵃx<infla/>å-hᵘ&RCEIL;</xlit>
     <gloss>&LFLOOR;<ed>the</ed>brother<infla/>-<ed>of</ed>him&RFLOOR;</gloss> <parse>n-pro3sg</parse>
   </term>
@@ -67,7 +76,23 @@
     <key>أَنَا</key> <xlit>Ɂᵃnᵃå</xlit> <gloss>I</gloss>
   </term>
   <term>
+    <key>أَنَّكَ</key> <xlit>Ɂᵃn²ᵃ-kᵃ</xlit> <gloss>ðat-you</gloss>
+  </term>
+
+  <term>
+    <key>أَنْ</key> <xlit>Ɂᵃn°</xlit> <gloss>that</gloss>
+  </term>
+  <term>
+    <key>إِنَّ</key> <xlit>Ɂᵢn²ᵃ</xlit> <gloss><ed>indeed</ed>ðat</gloss>
+  </term>
+  <term>
+    <key>إِنَّكَ</key> <xlit>Ɂᵢn²ᵃ-kᵃ</xlit> <gloss><ed>indeed</ed>ðat-you</gloss>
+  </term>
+  <term>
     <key>إِنَّمَا</key> <xlit>Ɂᵢn&shadda;ᵃmᵃā</xlit> <gloss>in fact</gloss>
+  </term>
+  <term>
+    <key>أَمَّا</key> <xlit>Ɂᵃm&shadda;ᵃā</xlit> <gloss>as for</gloss>
   </term>
   <term>
     <key>أَمْسِ</key> <xlit>Ɂᵃm°sᵢ</xlit> <gloss>yesterday</gloss>
@@ -84,18 +109,20 @@
     <key>أَيَّهُمْ</key> <xlit>Ɂᵃy&shadda;<infla/>-hᵘm°</xlit> <gloss>which<infla/>-<ed>of</ed>-them</gloss>
   </term>
 
+  <!-- harf ب -->
   <term>
-    <key>بِهِ</key> <xlit>bᵢ-hᵢ</xlit>
-    <gloss>by-him</gloss> <parse>prep-pro3sg</parse>
+    <key>بِهِ</key> <xlit>bᵢ-hᵢ</xlit> <gloss>by-him</gloss> <parse>prep-pro3sg</parse>
   </term>
-
   <term>
     <key>الْبَحْرِ</key> <xlit>_l°-bᵃḥ°r<infli/></xlit> <gloss>the-ocean<infli/></gloss>
   </term>
-
   <term>
-    <key>جَلَسَ</key> <xlit>jᵃlᵃsᵃ</xlit>
-    <gloss>sat</gloss> <parse>v31.perf</parse>
+    <key>بَلَغَنِي</key> <xlit>bᵃlᵃgᵃ-nᵢ</xlit> <gloss>reached-<ed>it</ed>-me</gloss>
+  </term>
+
+  <!-- harf ج -->
+  <term>
+    <key>جَلَسَ</key> <xlit>jᵃlᵃsᵃ</xlit> <gloss>sat</gloss> <parse>v31.perf</parse>
   </term>
 
   <term>
@@ -107,16 +134,26 @@
   </term>
 
   <term>
+    <key>جِئْتُكَ</key> <xlit>jᵢɁ°-tᵘ-kᵃ</xlit> <gloss>came-I-you</gloss>
+  </term>
+
+  <!-- harf ح -->
+  <term>
     <key>حَمَلْتُ</key> <xlit>ḥᵃmᵃl°-tᵘ</xlit> <gloss>carried-I</gloss>
   </term>
 
   <!-- harf ذ -->
   <term>
-    <key>ذَهَبَ</key> <xlit>&DH;ᵃhᵃbᵃ</xlit>
-    <gloss>went <ed>he</ed></gloss>
+    <key>ذَاْكَ</key> <xlit>ðᵃå-kᵃ</xlit> <gloss>ðat</gloss>
   </term>
   <term>
-    <key>ذَهَاْبٌ</key> <xlit>&DH;ᵃhᵃåb<influn/></xlit> <gloss>going</gloss>
+    <key>ذَهَبَ</key> <xlit>ðᵃhᵃbᵃ</xlit> <gloss>went <ed>he</ed></gloss>
+  </term>
+  <term>
+    <key>ذَهَاْبٌ</key> <xlit>ðᵃhᵃåb<influn/></xlit> <gloss>going</gloss>
+  </term>
+  <term>
+    <key>ذَاْهِبٌ</key> <xlit>ðᵃåhᵢb<influn/></xlit> <gloss>going</gloss>
   </term>
 
   <!-- harf ر -->
@@ -128,6 +165,9 @@
   </term>
   <term>
     <key>تَرَ</key> <xlit>tᵃrᵃ</xlit> <gloss>see-you</gloss>
+  </term>
+  <term>
+    <key>أُرِيْدُ</key> <xlit>Ɂᵘrᵢẙdᵘ</xlit> <gloss>desire-I</gloss>
   </term>
 
   <!-- harf ز -->
@@ -157,34 +197,7 @@
     <key>أَشْرَبُ</key> <xlit>Ɂᵃš°rᵃbᵘ</xlit> <gloss>I-drink</gloss>
   </term>
 
-  <term>
-    <key>ضَاْرِبًا</key> <xlit>&D;ᵃårᵢb<inflan/></xlit> <gloss>striking<inflan/></gloss> <parse>v31.perf</parse>
-  </term>
-  <term>
-    <key>ضَرَبَ</key> <xlit>&D;ᵃrᵃbᵃ</xlit> <gloss>struck</gloss> <parse>v31.perf</parse>
-  </term>
-  <term>
-    <key>ضَرَبْتُ</key> <xlit>&D;ᵃrᵃb°-tᵘ</xlit> <gloss>struck-I</gloss> <parse>v31.perf</parse>
-  </term>
-  <term>
-    <key>ضَرَبْتُهُ</key> <xlit>&D;ᵃrᵃb°-tᵘ-hᵘ</xlit>
-    <gloss>struck-I-him</gloss> <parse>v31.perf</parse>
-  </term>
-  <term>
-    <key>ضُرِبَ</key> <xlit>&D;ᵘrᵢbᵃ</xlit>
-    <gloss>was-struck</gloss>
-    <parse>v31.perf</parse>
-  </term>
-  <term>
-    <key>يُضْرَبُ</key> <xlit>yᵘ&D;°rᵃbᵘ</xlit>
-    <gloss>is-being-struck</gloss> <parse>v31.perf</parse>
-  </term>
-
-  <term>
-    <key>عَلَى</key> <xlit>&AYN;ᵃlᵃʎ</xlit>
-    <gloss>upon</gloss>
-  </term>
-
+  <!-- harf ط -->
   <term>
     <key>طَرِيْقِي</key> <xlit>&T;ᵃrīqᵢ-y</xlit>
     <gloss>road<ed>of</ed>-me</gloss>
@@ -197,7 +210,46 @@
     <key>مُنْطَلِقًا</key> <xlit>mᵘn°ṭᵃlᵢq<inflan/></xlit> <gloss>departing<inflan/></gloss> <parse>ap.m.1</parse>
   </term>
 
+  <!-- harf ض -->
+  <term>
+    <key>ضَاْرِبًا</key> <xlit>ḍᵃårᵢb<inflan/></xlit> <gloss>striking<inflan/></gloss> <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>الضَّاْرِبَ</key> <xlit>_l°-ḍ²ᵃårᵢb<infla/></xlit> <gloss>the-<ed>one</ed>-striking<infla/></gloss>
+  </term>
+  <term>
+    <key>الضَّرْبُ</key> <xlit>_l°-ḍ²ᵃr°b<influ/></xlit> <gloss>the-striking<influ/></gloss>
+  </term>
+  <term>
+    <key>ضَرَبَ</key> <xlit>ḍᵃrᵃbᵃ</xlit> <gloss>struck</gloss> <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>ضَرَبْتُ</key> <xlit>ḍᵃrᵃb°-tᵘ</xlit> <gloss>struck-I</gloss> <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>ضَرَبْتُهُ</key> <xlit>ḍᵃrᵃb°-tᵘ-hᵘ</xlit>
+    <gloss>struck-I-him</gloss> <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>ضُرِبَ</key> <xlit>ḍᵘrᵢbᵃ</xlit>
+    <gloss>was-struck</gloss>
+    <parse>v31.perf</parse>
+  </term>
+  <term>
+    <key>أَضْرِبَ</key> <xlit>Ɂᵃḍ°rᵢbᵃ</xlit> <gloss>I-strike<infla/></gloss>
+  </term>
+  <term>
+    <key>يُضْرَبُ</key> <xlit>yᵘḍ°rᵃbᵘ</xlit> <gloss>is-being-struck</gloss> <parse>v31.perf</parse>
+  </term>
+
   <!-- harf ع -->
+  <term>
+    <key>عَرَفْتُ</key> <xlit>ʕᵃrᵃf°-tᵘ</xlit> <gloss>recognized-I</gloss>
+  </term>
+  <term>
+    <key>عَلَى</key> <xlit>&AYN;ᵃlᵃʎ</xlit> <gloss>upon</gloss>
+  </term>
+
   <term>
     <key>عَبْدُ اللهِ</key> <xlit>&LCEIL;&AYN;ᵃb°d<influ/> ـll²āh<infli/>&RCEIL;</xlit>
     <gloss>ʕAbd<influ/> llah<infli/></gloss> <parse>v31.perf</parse>
@@ -237,6 +289,15 @@
 
   <!-- harf ف -->
   <term>
+    <key>فَلَا</key> <xlit>fᵃ-lᵃā<infla/></xlit> <gloss>then-not</gloss>
+  </term>
+  <term>
+    <key>فَلَنْ</key> <xlit>fᵃ-lᵃn°</xlit> <gloss>then-not<ed>-that</ed></gloss>
+  </term>
+  <term>
+    <key>تَفْعَلَ</key> <xlit>tᵃf°ʕᵃlᵃ<infla/></xlit> <gloss>you-do<infla/></gloss>
+  </term>
+  <term>
     <key>فُلَاْنًا</key> <xlit>fᵘlᵃån<inflan/></xlit> <gloss>somebody<inflan/></gloss>
   </term>
 
@@ -245,7 +306,12 @@
     <key>قَاْتِلًا</key> <xlit>qᵃåtᵢl<inflan/></xlit> <gloss>killing<inflan/></gloss>
   </term>
   <term>
-    <key>قَدْ</key> <xlit>qᵃd°<inflan/></xlit> <gloss><ed>qad</ed></gloss>
+    <key>قَدْ</key> <xlit>qᵃd°</xlit> <gloss><ed>qad</ed></gloss>
+  </term>
+
+  <term>
+    <key>طَرِيْقِي</key> <xlit>&T;ᵃrīqᵢ-y</xlit>
+    <gloss>road<ed>of</ed>-me</gloss>
   </term>
 
   <!-- harf ك -->
@@ -277,6 +343,15 @@
   </term>
 
   <!-- harf ل -->
+  <term>
+    <key>لَا</key> <xlit>lᵃā</xlit> <gloss>not</gloss>
+  </term>
+  <term>
+    <key>لَهُ</key> <xlit>lᵃ-hᵘ</xlit> <gloss>for-it</gloss>
+  </term>
+  <term>
+    <key>لِكَيْ</key> <xlit>lᵢ-kᵃẙ</xlit> <gloss>&LFLOOR;in order that&RFLOOR;</gloss>
+  </term>
   <term>
     <key>لَاْبَسْتُ</key> <xlit>lᵃåbᵃs°-tᵘ</xlit> <gloss>consorted-I</gloss>
   </term>

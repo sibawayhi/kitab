@@ -28,7 +28,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>إَذَا مَا خِفْتَ مِنْ شَيْءٍ تَبَاْلَاَْ</ar>
+               <ar>إَذَا مَا خِفْتَ مِنْ شَيْءٍ تَبَاْلَا</ar>
                <free/>
             </text>
             <igt>
@@ -48,17 +48,17 @@
                   <ar>شَيْءٍ</ar>
                </t>
                <t>
-                  <ar>تَبَاْلَاَْ</ar>
+                  <ar>تَبَاْلَا</ar>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٦٤١٥١" poet="">
+   <verses id="٦٤١٥١" poet="مُتَمِّمُ بْنُ نُوَيْرَةَ">
       <verse>
          <hemistiche>
             <text>
-               <ar>عَلِى مِثْلِ أَصْحَاْبِ الْبَعُوْضَةِ فَاْخْمُشِي</ar>
+               <ar>عَلِى مِثْلِ أَصْحَاْبِ الْبَعُوْضَةِ فَاخْمُشِي</ar>
                <free/>
             </text>
             <igt>
@@ -75,7 +75,7 @@
                   <ar>الْبَعُوْضَةِ</ar>
                </t>
                <t>
-                  <ar>فَاْخْمُشِي</ar>
+                  <ar>فَاخْمُشِي</ar>
                </t>
             </igt>
          </hemistiche>
@@ -113,7 +113,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٥٧٣٨١" poet="">
+   <verses id="٥٧٣٨١" poet="أُحَيْجَةُ بْنُ الْجُلَاْحِ">
       <verse>
          <hemistiche>
             <text>
@@ -137,12 +137,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>صَنِعَتَهُ وَيَجْهَدْ كُلَّ جَهْدِ</ar>
+               <ar>صَنِيْعَتَهُ وَيَجْهَدْ كُلَّ جَهْدِ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>صَنِعَتَهُ</ar>
+                  <ar>صَنِيْعَتَهُ</ar>
                </t>
                <t>
                   <ar>وَيَجْهَدْ</ar>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="096">
-   <ayah id="٩٢٤٣٣" surah="" verse="">
+   <ayah id="٩٢٤٣٣" surah="٩٦" verse="١٥">
       <text>
-         <ar>بَاْنَّاْصِيَةِ نَاْصِيَة كَاْذِبَة</ar>
+         <ar>بِٱلنَّاْصِيَةِ<نهاية آية="١٥"/>  نَاْصِيَةٍ كَـٰذِبَةٍ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>بَاْنَّاْصِيَةِ</ar>
+            <ar>بِٱلنَّاْصِيَةِ</ar>
          </t>
          <t>
-            <ar>نَاْصِيَة</ar>
+            <ar>نَاْصِيَةٍ</ar>
          </t>
          <t>
-            <ar>كَاْذِبَة</ar>
+            <ar>كَـٰذِبَةٍ</ar>
          </t>
       </igt>
    </ayah>

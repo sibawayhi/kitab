@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="192">
-   <verses id="٦٢٧٦٠" poet="">
+   <verses id="٦٢٧٦٠" poet="الْكَنَاْنِيُّ">
       <verse>
          <hemistiche>
             <text>
-               <ar>لَمْ يَمُنَعَ الشّرْبَ مِنْهَا غَيْرُ أَنْ نَطَقَتْ</ar>
+               <ar>لَمْ يَمْنَعِ الشَّرْبَ مِنْهَا غَيْرُ أَنْ نَطَقَتْ</ar>
                <free/>
             </text>
             <igt>
@@ -13,10 +13,10 @@
                   <ar>لَمْ</ar>
                </t>
                <t>
-                  <ar>يَمُنَعَ</ar>
+                  <ar>يَمْنَعِ</ar>
                </t>
                <t>
-                  <ar>الشّرْبَ</ar>
+                  <ar>الشَّرْبَ</ar>
                </t>
                <t>
                   <ar>مِنْهَا</ar>
@@ -57,25 +57,25 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٩٢٥٧٣" poet="">
+   <verses id="٩٢٥٧٣" poet="النَّاْبِغَةُ">
       <verse>
          <hemistiche>
             <text>
-               <ar>عَلِى حِيْنَ غَاْتَبَتُ الْمُشَيَّبَ عَلَى الصِّبَا</ar>
+               <ar>عَلَى حِيْنَ عَاْتَبْتُ الْمشيبَ عَلَى الصِّبَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>عَلِى</ar>
+                  <ar>عَلَى</ar>
                </t>
                <t>
                   <ar>حِيْنَ</ar>
                </t>
                <t>
-                  <ar>غَاْتَبَتُ</ar>
+                  <ar>عَاْتَبْتُ</ar>
                </t>
                <t>
-                  <ar>الْمُشَيَّبَ</ar>
+                  <ar>الْمشيبَ</ar>
                </t>
                <t>
                   <ar>عَلَى</ar>

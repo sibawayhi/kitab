@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="238">
-   <verses id="٢٨٢٨٢" poet="">
+   <verses id="٢٨٢٨٢" poet="الْفَرْزَدْقُ">
       <verse>
          <hemistiche>
             <text>
-               <ar>فِيًّا عَجَبًا حَتَّى كُلَيْبٌ تَسُبُّنِي</ar>
+               <ar>فَيَا عَجَبًا حَتَّى كُلَيْبٌ تَسُبُّنِي</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>فِيًّا</ar>
+                  <ar>فَيَا</ar>
                </t>
                <t>
                   <ar>عَجَبًا</ar>
@@ -51,7 +51,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٩٦٦٧٦" poet="">
+   <verses id="٩٦٦٧٦" poet="حَسَّاْنُ ابْنُ ثَاْبِتٍ">
       <verse>
          <hemistiche>
             <text>
@@ -78,18 +78,18 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>لًا يَسَاْلُوْنَ عَنْ السَّوَاْدِ الْمُقْبِلِ</ar>
+               <ar>لَا يَسَاْلُوْنَ عَنِ السَّوَاْدِ الْمُقْبِلِ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>لًا</ar>
+                  <ar>لَا</ar>
                </t>
                <t>
                   <ar>يَسَاْلُوْنَ</ar>
                </t>
                <t>
-                  <ar>عَنْ</ar>
+                  <ar>عَنِ</ar>
                </t>
                <t>
                   <ar>السَّوَاْدِ</ar>
@@ -101,7 +101,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٧٦٢٤٨" poet="">
+   <verses id="٧٦٢٤٨" poet="عَلْقَمَةُ ابْنُ عَبْدَةَ">
       <verse>
          <hemistiche>
             <text>
@@ -131,12 +131,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>فَإِنّ الْمُنَدَّى رِحْلَةٌ فَرُكُوْبُ</ar>
+               <ar>فَإِنَّ الْمُنَدَّى رِحْلَةٌ فَرُكُوْبُ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>فَإِنّ</ar>
+                  <ar>فَإِنَّ</ar>
                </t>
                <t>
                   <ar>الْمُنَدَّى</ar>

@@ -1,1 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="200">
+   <dictum id="٦٩٤٥٣">
+      <text>
+         <ar>مَا أَتَاْنِي غَيْرَ زَيْدٍ وَعَمْرٌو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>غَيْرَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>وَعَمْرٌو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٥٢٣٩">
+      <text>
+         <ar>مَا أَتَاْنِي غَيْرُ زَيْدٍ وَإِلَّا عَمْرٌو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>غَيْرُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>وَإِلَّا</ar>
+         </t>
+         <t>
+            <ar>عَمْرٌو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٥٤٧٣">
+      <text>
+         <ar>مَا أَتَاْنِي إِلَّا زَيْدٌ وَإِلَّا عَمْرٌو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>وَإِلَّا</ar>
+         </t>
+         <t>
+            <ar>عَمْرٌو</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

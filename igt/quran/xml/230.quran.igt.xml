@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="230">
-   <ayah id="٩٠٢٨٩" surah="" verse="">
+   <ayah id="٩٠٢٨٩" surah="١٠" verse="٤٢">
       <text>
-         <ar>وَمِنْهُمْ مَنْ يَسْتَمِعُوْنَ إِلَيْكَ</ar>
+         <ar>وَمِنْهُم مَّنْ يَسْتَمِعُوْنَ إِلَيْكَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>وَمِنْهُمْ</ar>
+            <ar>وَمِنْهُم</ar>
          </t>
          <t>
-            <ar>مَنْ</ar>
+            <ar>مَّنْ</ar>
          </t>
          <t>
             <ar>يَسْتَمِعُوْنَ</ar>
@@ -21,9 +21,9 @@
          </t>
       </igt>
    </ayah>
-   <ayah id="٧١٩٧٤" surah="" verse="">
+   <ayah id="٧١٩٧٤" surah="٣٣" verse="٣١">
       <text>
-         <ar>وَمَنْ تَقَنُتْ مِنْكُنَّ لِلَّهِ وَرَسُوْلِهِ</ar>
+         <ar>وَمَنْ يَقْنُتْ مِنْكُنَّ لِلَّهِ وَرَسُوْلِهِ</ar>
          <free/>
       </text>
       <igt>
@@ -31,7 +31,7 @@
             <ar>وَمَنْ</ar>
          </t>
          <t>
-            <ar>تَقَنُتْ</ar>
+            <ar>يَقْنُتْ</ar>
          </t>
          <t>
             <ar>مِنْكُنَّ</ar>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="230">
-   <verses id="٢٣٨٢٨" poet="">
+   <verses id="٢٣٨٢٨" poet="الْفَرْزَدْقُ">
       <verse>
          <hemistiche>
             <text>
-               <ar>تَعَاْلَ فَإِنْ عَاْهَدْتَنِي لَا تَخُوُنِنِي</ar>
+               <ar>تَعَاْلَ فَإِنْ عَاْهَدْتَنِي لَا تَخُوْنُنِي</ar>
                <free/>
             </text>
             <igt>
@@ -22,7 +22,7 @@
                   <ar>لَا</ar>
                </t>
                <t>
-                  <ar>تَخُوُنِنِي</ar>
+                  <ar>تَخُوْنُنِي</ar>
                </t>
             </igt>
          </hemistiche>
