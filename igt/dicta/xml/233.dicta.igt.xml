@@ -3,7 +3,7 @@
    <dictum id="٦٣٩٦٢">
       <text>
          <ar>أُرِيْدُ أَنْ تَفْعَلَ</ar>
-         <free/>
+         <free>I desire that you do</free>
       </text>
       <igt>
          <t>
@@ -20,7 +20,7 @@
    <dictum id="٠٨٢٠١">
       <text>
          <ar>جِئْتُكَ لِكَيْ تَفْعَلَ</ar>
-         <free/>
+         <free>I came to you in order that you do</free>
       </text>
       <igt>
          <t>
@@ -34,10 +34,11 @@
          </t>
       </igt>
    </dictum>
+
    <dictum id="١٤٨٣٤">
       <text>
          <ar>أَمَّا زَيْدًا فَلَنْ أَضْرِبَ</ar>
-         <free/>
+         <free>As for Zayd, so I shall not strike</free>
       </text>
       <igt>
          <t>
@@ -54,10 +55,11 @@
          </t>
       </igt>
    </dictum>
+
    <dictum id="٠١٠٨٩">
       <text>
          <ar>أَمَّا زَيْدًا فَلَا الضَّرْبُ لَهُ</ar>
-         <free/>
+         <free>As for Zayd, then the striking is not for him</free>
       </text>
       <igt>
          <t>
@@ -73,7 +75,8 @@
             <ar>الضَّرْبُ</ar>
          </t>
          <t>
-            <ar>لَهُ</ar>
+           <ar>لَهُ</ar>
+           <en>for-him</en>
          </t>
       </igt>
    </dictum>
