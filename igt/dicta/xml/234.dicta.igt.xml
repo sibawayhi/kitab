@@ -3,7 +3,7 @@
    <dictum id="٩٨٣٥١">
       <text>
          <ar>جِئْتُكَ لِتَفْعَلَ</ar>
-         <free/>
+         <free>I came to you for that you do</free>
       </text>
       <igt>
          <t>
@@ -17,7 +17,7 @@
    <dictum id="٧١٦٤٢">
       <text>
          <ar>حَتَّى تَفْعَلَ ذَاْكَ</ar>
-         <free/>
+         <free>in order that you do that</free>
       </text>
       <igt>
          <t>
@@ -34,7 +34,7 @@
    <dictum id="٤٢٧٩٢">
       <text>
          <ar>هُوَ الَّذِي فَعَلَ</ar>
-         <free/>
+         <free>He is the one that did</free>
       </text>
       <igt>
          <t>
@@ -51,7 +51,7 @@
    <dictum id="٢٧٠٩٢">
       <text>
          <ar>هُوَ الْفَاْعِلُ</ar>
-         <free/>
+         <free>He is the doer</free>
       </text>
       <igt>
          <t>
@@ -65,7 +65,7 @@
    <dictum id="٦٤٠١٤">
       <text>
          <ar>أَخْشَى أَنْ تَفْعَلَ</ar>
-         <free/>
+         <free>I fear lest you do</free>
       </text>
       <igt>
          <t>
@@ -82,7 +82,7 @@
    <dictum id="٧١٤٤٧">
       <text>
          <ar>أَخْشَى فِعْلَكَ</ar>
-         <free/>
+         <free>I fear your doing</free>
       </text>
       <igt>
          <t>
@@ -93,32 +93,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٥٧٧٤">
-      <text>
-         <ar>كَيْمَهْ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَيْمَهْ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥٧٧٧١">
-      <text>
-         <ar>كَيْمَهْ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَيْمَهْ</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٦٠٨٧٨">
       <text>
-         <ar>أَمَّا أَنْتَ مُنْطَلِقًا [اْنْطَلَقْتُ]</ar>
-         <free/>
+         <ar>أَمَّا أَنْتَ مُنْطَلِقًا اِنْطَلَقْتُ</ar>
+         <free>As for you departing I depart</free>
       </text>
       <igt>
          <t>
@@ -131,27 +109,13 @@
             <ar>مُنْطَلِقًا</ar>
          </t>
          <t>
-            <ar>[اْنْطَلَقْتُ]</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٦٤٢٨">
-      <text>
-         <ar>جِئْتُكَ لِتَفْعَلَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>جِئْتُكَ</ar>
-         </t>
-         <t>
-            <ar>لِتَفْعَلَ</ar>
+            <ar>اِنْطَلَقْتُ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="١٨٣٥٥">
       <text>
-         <ar>إِنْ خَيْرًا فَخَيْرٌ</ar>
+         <ar>إِنْ خَيْرًا فَخَيْرٌ وَإِنْ شَرَّا فَشَرٌّ</ar>
          <free/>
       </text>
       <igt>
@@ -164,22 +128,14 @@
          <t>
             <ar>فَخَيْرٌ</ar>
          </t>
-      </igt>
-   </dictum>
-   <dictum id="٩١٣١٥">
-      <text>
-         <ar>إِنْ شَرَّا فَشَرٌّ</ar>
-         <free/>
-      </text>
-      <igt>
          <t>
-            <ar>إِنْ</ar>
+            <ar>وَإِنْ</ar>
          </t>
          <t>
             <ar>شَرَّا</ar>
          </t>
          <t>
-            <ar>فَشَرٌّ</ar>
+            <ar>فَشَرٌّ</ar>
          </t>
       </igt>
    </dictum>
@@ -291,39 +247,14 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٧٦٠٣">
-      <text>
-         <ar>لَنْ يَفْعَلَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>لَنْ</ar>
-         </t>
-         <t>
-            <ar>يَفْعَلَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٩٠٤٨">
-      <text>
-         <ar>سَيَفْعَلُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سَيَفْعَلُ</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٢٥٨٥١">
       <text>
-         <ar>آلِلَّهِ لَتَفْعَلَنَّ</ar>
+         <ar>آللَّهِ لَتَفْعَلَنَّ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>آلِلَّهِ</ar>
+            <ar>آللَّهِ</ar>
          </t>
          <t>
             <ar>لَتَفْعَلَنَّ</ar>
