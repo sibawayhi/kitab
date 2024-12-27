@@ -121,7 +121,8 @@
       </text>
       <igt>
          <t>
-            <ar>مَنْ</ar>
+           <ar>مَنْ</ar>
+           <en>who?</en>
          </t>
          <t>
             <ar>يَضْرِبُكَ</ar>
@@ -148,14 +149,11 @@
    <dictum id="٣٦٨٢٠">
       <text>
          <ar>مَتَى مَا تَأْتِنِي آتِكَ</ar>
-         <free/>
+         <free>Whensoeveer you come to me, I come to you</free>
       </text>
       <igt>
          <t>
-            <ar>مَتَى</ar>
-         </t>
-         <t>
-            <ar>مَا</ar>
+            <ar>مَتَى مَا</ar>
          </t>
          <t>
             <ar>تَأْتِنِي</ar>
@@ -167,7 +165,7 @@
    </dictum>
    <dictum id="٦٤٧٢٦">
       <text>
-         <ar>إِمَّا تَأْتِنِي آتِكِ</ar>
+         <ar>إِمَّا تَأْتِنِي آتِكَ</ar>
          <free/>
       </text>
       <igt>
@@ -178,7 +176,7 @@
             <ar>تَأْتِنِي</ar>
          </t>
          <t>
-            <ar>آتِكِ</ar>
+            <ar>آتِكَ</ar>
          </t>
       </igt>
    </dictum>
@@ -239,10 +237,30 @@
          </t>
       </igt>
    </dictum>
+   <dictum id="٧٣٣١٥">
+      <text>
+         <ar>آتِيْكَ إِذَا احْمَرَّ الْبُسْرُ</ar>
+         <free>I come to you when the unripe dates shall have ripened</free>
+      </text>
+      <igt>
+         <t>
+            <ar>آتِيْكَ</ar>
+         </t>
+         <t>
+            <ar>إِذَا</ar>
+         </t>
+         <t>
+            <ar>احْمَرَّ</ar>
+         </t>
+         <t>
+            <ar>الْبُسْرُ</ar>
+         </t>
+      </igt>
+   </dictum>
    <dictum id="٤٤٦٨٠">
       <text>
          <ar>آتِيْكَ إِنِ احْمَرَّ الْبُسْرُ</ar>
-         <free/>
+         <free>I come to you if the unripe dates ripened</free>
       </text>
       <igt>
          <t>
