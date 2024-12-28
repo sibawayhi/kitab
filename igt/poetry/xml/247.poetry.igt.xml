@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="247">
-   <verses id="٨٠٤٥١" poet="">
+   <verses id="٨٠٤٥١" poet="الْأَعْشَى">
       <verse>
          <hemistiche>
             <text>
-               <ar>إِنَّ مَنْ لَاْمَ فِي بَنِي بِنْتِ حَسَّاْنِ</ar>
+               <ar>إِنَّ مَنْ لَاْمَ فِي بَنِي بِنْتِ حَسَّاْ</ar>
                <free/>
             </text>
             <igt>
@@ -28,18 +28,21 @@
                   <ar>بِنْتِ</ar>
                </t>
                <t>
-                  <ar>حَسَّاْنِ</ar>
+                  <ar>حَسَّاْ</ar>
                </t>
             </igt>
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>أَلُمَهْ وَأَعْصِهُ فِي الْخُطُوْبِ</ar>
+               <ar>نَ أَلُمُهُ وَأَعْصِهُ فِي الْخُطُوْبِ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>أَلُمَهْ</ar>
+                  <ar>نَ</ar>
+               </t>
+               <t>
+                  <ar>أَلُمُهُ</ar>
                </t>
                <t>
                   <ar>وَأَعْصِهُ</ar>
@@ -54,7 +57,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨٩١٠٦" poet="">
+   <verses id="٨٩١٠٦" poet="أُمَيّةُ بْنُ أَبِي الصَّلْتِ">
       <verse>
          <hemistiche>
             <text>
@@ -84,15 +87,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>بُعَدّ بِهِ يَنْزِلْ بِهِ وَهْوَ أَعْزَلُ</ar>
+               <ar>بِعُدَّتِهِ يَنْزِلْ بِهِ وَهْوَ أَعْزَلُ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>بُعَدّ</ar>
-               </t>
-               <t>
-                  <ar>بِهِ</ar>
+                  <ar>بِعُدَّتِهِ</ar>
                </t>
                <t>
                   <ar>يَنْزِلْ</ar>
@@ -110,11 +110,11 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٧٨٥٤٣" poet="">
+   <verses id="٧٨٥٤٣" poet="الرَّاْعِي">
       <verse>
          <hemistiche>
             <text>
-               <ar>فَلَوْ أَنَّ حُقَّ الْيَوْمَ مِنْكُمْ إقَاْمَةٌ</ar>
+               <ar>فَلَوْ أَنَّ حُقَّ الْيَوْمَ مِنْكُمْ إِقَاْمَةٌ</ar>
                <free/>
             </text>
             <igt>
@@ -134,18 +134,18 @@
                   <ar>مِنْكُمْ</ar>
                </t>
                <t>
-                  <ar>إقَاْمَةٌ</ar>
+                  <ar>إِقَاْمَةٌ</ar>
                </t>
             </igt>
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>وإِنْ كَاْنَ سَرْحٌ قَدْ مَضَى فَتَسَرَّعَا</ar>
+               <ar>وَإِنْ كَاْنَ سَرْحٌ قَدْ مَضَى فَتَسَرَّعَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>وإِنْ</ar>
+                  <ar>وَإِنْ</ar>
                </t>
                <t>
                   <ar>كَاْنَ</ar>
@@ -166,7 +166,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٠٨٤٥٨" poet="">
+   <verses id="٠٨٤٥٨" poet="عَدِيُّ بْنُ زَيْدٍ">
       <verse>
          <hemistiche>
             <text>
@@ -190,12 +190,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>عَلِى مَا سَاْءَ صَاْحِبَهُ حَرَيْصُ</ar>
+               <ar>عَلَى مَا سَاْءَ صَاْحِبَهُ حَرِيْصُ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>عَلِى</ar>
+                  <ar>عَلَى</ar>
                </t>
                <t>
                   <ar>مَا</ar>
@@ -207,22 +207,22 @@
                   <ar>صَاْحِبَهُ</ar>
                </t>
                <t>
-                  <ar>حَرَيْصُ</ar>
+                  <ar>حَرِيْصُ</ar>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="١١٨٣٠" poet="">
+   <verses id="١١٨٣٠" poet="الْأَعْشَى">
       <verse>
          <hemistiche>
             <text>
-               <ar>فِيٌّ فِتْيَةٍ كَسُيُوْفِ الْهِنْدِ قَدْ عَلَّمَوَا</ar>
+               <ar>فِي فِتْيَةٍ كَسُيُوْفِ الْهِنْدِ قَدْ عَلِمُوْا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>فِيٌّ</ar>
+                  <ar>فِي</ar>
                </t>
                <t>
                   <ar>فِتْيَةٍ</ar>
@@ -237,7 +237,7 @@
                   <ar>قَدْ</ar>
                </t>
                <t>
-                  <ar>عَلَّمَوَا</ar>
+                  <ar>عَلِمُوْا</ar>
                </t>
             </igt>
          </hemistiche>
