@@ -61,7 +61,7 @@
   <term>
     <key>أَتَيْتُكَ</key> <xlit>Ɂᵃtᵃẙ-tᵘ-kᵃ</xlit> <gloss>came-I-you</gloss>
   </term>
-  <term><key>آتِيْكَ</key> <xlit>ɁᵃAtᵢẙ-kᵃ</xlit> <gloss>I_come<ed>-to</ed>you</gloss></term>
+  <term><key>آتِيْكَ</key> <xlit>ɁᵃAtᵢẙ<influ/>-kᵃ</xlit> <gloss>I_come<influ/><ed>-to</ed>you</gloss></term>
   <term><key>سَآتِيْكَ</key> <xlit>sᵃɁᵃAtᵢẙ-kᵃ</xlit> <gloss>shall-I_come-you</gloss></term>
   <term><key>آتِكَ</key> <xlit>ɁᵃAtᵢ<inflo/>-kᵃ</xlit> <gloss>I_come<inflo/>-you</gloss></term>
 
@@ -112,10 +112,12 @@
 
   <term><key>أَيِّ</key> <xlit>Ɂᵃy&shadda;<infli/></xlit> <gloss>whatever<infli/></gloss></term>
 
-  <term><key>أَيُّهُمْ</key> <xlit>Ɂᵃy&shadda;<influ/>-hᵘm°</xlit> <gloss>which<influ/>-<ed>of</ed>-them</gloss></term>
-  <term><key>أَيَّهُمْ</key> <xlit>Ɂᵃy&shadda;<infla/>-hᵘm°</xlit> <gloss>which<infla/>-<ed>of</ed>-them</gloss></term>
+  <term><key>أَيُّهُمْ</key> <xlit>Ɂᵃy&shadda;<influ/>-hᵘm°</xlit> <gloss>which<influ/><of/>them</gloss></term>
+  <term><key>أَيَّهُمْ</key> <xlit>Ɂᵃy&shadda;<infla/>-hᵘm°</xlit> <gloss>which<infla/><of/>them</gloss></term>
+  <term><key>أَيَّهَا</key> <xlit>Ɂᵃy&shadda;<infla/>-hᵃā</xlit> <gloss>which<infla/><of/>them</gloss></term>
+
   <term><key>إِيَّاْكَ</key> <xlit>Ɂᵢy&shadda;ᵃå-kᵃ</xlit> <gloss>thee</gloss></term>
-  <term><key>أَيْنَ</key> <xlit>Ɂᵃy°nᵃ</xlit> <gloss>where<ed>?</ed></gloss></term>
+  <term><key>أَيْنَ</key> <xlit>Ɂᵃy°nᵃ</xlit> <gloss>where</gloss></term>
 
   <!-- harf ب -->
   <term><key>بِهِ</key> <xlit>bᵢ-hᵢ</xlit> <gloss>by-him</gloss> <parse>prep-pro3sg</parse></term>
@@ -347,9 +349,12 @@
   <term><key>قَدْ</key> <xlit>qᵃd°</xlit> <gloss><ed>qad</ed></gloss></term>
 
   <term><key>قَاْلَ</key> <xlit>qᵃålᵃ</xlit> <gloss>said<ed>-he</ed></gloss></term>
+  <term><key>أَقُوْلُ</key> <xlit>Ɂᵃqᵘẘl<influ/></xlit> <gloss>I-say<influ/></gloss></term>
   <term><key>يَقُوْلُ</key> <xlit>yᵃqᵘẘl<influ/></xlit> <gloss>he-says<influ/></gloss></term>
   <term><key>يَقُوْلَ</key> <xlit>yᵃqᵘẘl<infla/></xlit> <gloss>he-say<infla/></gloss></term>
   <term><key>تَقُوْلُ</key> <xlit>tᵃqᵘẘl<influ/></xlit> <gloss>you-say<influ/></gloss></term>
+
+  <term><key>تَقُلْ</key> <xlit>tᵃqᵘl<inflo/></xlit> <gloss>you-say<inflo/></gloss></term>
 
   <term><key>قَاْرَبَ</key> <xlit>qᵃårᵃbᵃ</xlit> <gloss>neared<ed>-he</ed></gloss></term>
 
@@ -434,6 +439,8 @@
   <term><key>مَنْ</key> <xlit>mᵃn°</xlit> <gloss>who</gloss></term>
   <term><key>مِنْهُ</key> <xlit>mᵢn°-hᵘ</xlit> <gloss>from-him</gloss></term>
   <term><key>مِنْكَ</key> <xlit>mᵢn°-kᵃ</xlit> <gloss>from-you</gloss></term>
+
+  <term><key>مَهْمَا</key> <xlit>mᵃh°mᵃā</xlit> <gloss>whatsoever</gloss></term>
 
   <term>
     <key>مَرَرْتُ</key> <xlit>mᵃrᵃr°-tᵘ</xlit> <gloss>passed-I</gloss>
