@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="250">
-   <ayah id="٨٣٢١٦" surah="" verse="">
+   <ayah id="٨٣٢١٦" surah="٢١" verse="٣٤">
       <text>
-         <ar>أَفَإِنْ مِتُّ فَهُمْ الْخَاْلِدُوْنَ</ar>
+         <ar>أَفَإِنْ مِّتَّ فَهُمْ الْخَاْلِدُوْنَ</ar>
          <free/>
       </text>
       <igt>
@@ -11,7 +11,7 @@
             <ar>أَفَإِنْ</ar>
          </t>
          <t>
-            <ar>مِتُّ</ar>
+            <ar>مِّتَّ</ar>
          </t>
          <t>
             <ar>فَهُمْ</ar>
