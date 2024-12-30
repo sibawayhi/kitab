@@ -71,6 +71,7 @@
 
   <term><key>تَأْتِيْنِي</key> <xlit>tᵃɁ°tᵢẙ<influ/>-nᵢy</xlit> <gloss>you_come<influ/>-me</gloss></term>
   <term><key>تَأْتِنِي</key> <xlit>tᵃɁ°tᵢ<inflo/>-nᵢy</xlit> <gloss>you_come<inflo/>-me</gloss></term>
+  <term><key>تَأْتِهِ</key> <xlit>tᵃɁ°tᵢ<inflo/>-hᵢ</xlit> <gloss>you_come<inflo/>-him</gloss></term>
 
   <term><key>أَخَا</key> <xlit>Ɂᵃx<infla/>å</xlit> <gloss>brother<infla/></gloss></term>
 
@@ -201,9 +202,8 @@
   <term>
     <key>زَيْدٍ</key> <xlit>zᵃẙd<inflin/></xlit> <gloss>Zayd<inflin/></gloss>
   </term>
-  <term>
-    <key>بِزَيْدٍ</key> <xlit>bᵢ-zᵃẙd<inflin/></xlit> <gloss>by-Zayd<inflin/></gloss>
-  </term>
+  <term><key>بِزَيْدٍ</key> <xlit>bᵢ-zᵃẙd<inflin/></xlit> <gloss>by-Zayd<inflin/></gloss></term>
+  <term><key>أَزَيْدٍ</key> <xlit>Ɂᵃ-zᵃẙd<inflin/></xlit> <gloss>?Zayd<inflin/></gloss></term>
 
   <!-- harf س -->
   <term>
@@ -244,26 +244,19 @@
   <term>
     <key>الضَّرْبُ</key> <xlit>_l°-ḍ²ᵃr°b<influ/></xlit> <gloss>the-striking<influ/></gloss>
   </term>
-  <term>
-    <key>ضَرَبَ</key> <xlit>ḍᵃrᵃbᵃ</xlit> <gloss>struck</gloss> <parse>v31.perf</parse>
-  </term>
-  <term>
-    <key>ضَرَبْتُ</key> <xlit>ḍᵃrᵃb°-tᵘ</xlit> <gloss>struck-I</gloss> <parse>v31.perf</parse>
-  </term>
-  <term>
-    <key>ضَرَبْتُهُ</key> <xlit>ḍᵃrᵃb°-tᵘ-hᵘ</xlit>
-    <gloss>struck-I-him</gloss> <parse>v31.perf</parse>
-  </term>
-  <term>
-    <key>ضُرِبَ</key> <xlit>ḍᵘrᵢbᵃ</xlit>
-    <gloss>was-struck</gloss>
-    <parse>v31.perf</parse>
-  </term>
+  <term><key>ضَرَبَ</key> <xlit>ḍᵃrᵃbᵃ</xlit> <gloss>struck</gloss> <parse>v31.perf</parse></term>
+  <term><key>ضَرَبْتُ</key> <xlit>ḍᵃrᵃb°-tᵘ</xlit> <gloss>struck-I</gloss> <parse>v31.perf</parse></term>
+  <term><key>ضَرَبْتُهُ</key> <xlit>ḍᵃrᵃb°-tᵘ-hᵘ</xlit> <gloss>struck-I-him</gloss> <parse>v31.perf</parse></term>
+  <term><key>ضُرِبَ</key> <xlit>ḍᵘrᵢbᵃ</xlit> <gloss>was-struck</gloss> <parse>v31.perf</parse></term>
   <term><key>أَضْرِبَ</key> <xlit>Ɂᵃḍ°rᵢb<infla/></xlit> <gloss>I_strike<infla/></gloss></term>
+  <term><key>أَضْرِبْ</key> <xlit>Ɂᵃḍ°rᵢb<inflo/></xlit> <gloss>I_strike<inflo/></gloss></term>
   <term><key>أَضْرِبْهُ</key> <xlit>Ɂᵃḍ°rᵢb<inflo/>-hᵘ</xlit> <gloss>I_strike<inflo/>-him</gloss></term>
   <term><key>يَضْرِبُكَ</key> <xlit>yᵘḍ°rᵢb<influ/>-kᵃ</xlit> <gloss>he_strikes<influ/>-you</gloss></term>
   <term><key>يَضْرِبْكَ</key> <xlit>yᵘḍ°rᵢb<influ/>-kᵃ</xlit> <gloss>he_strike<inflo/>-you</gloss></term>
   <term><key>يُضْرَبُ</key> <xlit>yᵘḍ°rᵃb<influ/></xlit> <gloss>he_being_struck<influ/></gloss> <parse>v31.perf</parse>
+  <term><key>تَضْرِبُ</key> <xlit>tᵃḍ°rᵢb<influ/></xlit> <gloss>you_strike<influ/></gloss></term>
+  <term><key>تَضْرِبَ</key> <xlit>tᵃḍ°rᵢb<infla/></xlit> <gloss>you_strike<infla/></gloss></term>
+  <term><key>تَضْرِبْ</key> <xlit>tᵃḍ°rᵢb<inflo/></xlit> <gloss>you_strike<inflo/></gloss></term>
   </term>
 
   <!-- harf ع -->
