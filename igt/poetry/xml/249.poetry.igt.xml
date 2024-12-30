@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="249">
-   <verses id="١٠٢٧٨" poet="">
+   <verses id="١٠٢٧٨" poet="اْبْنُ هَمَّاْمٍ السَّلُوْلِيُّ">
       <verse>
          <hemistiche>
             <text>
@@ -25,12 +25,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>فِيٌّ أَيِّ نَحْوٍ يُمِيْلُوْا دِيْنَهُ يَمِلِّ</ar>
+               <ar>فِي أَيِّ نَحْوٍ يُمِيْلُوْا دِيْنَهُ يَمِلِ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>فِيٌّ</ar>
+                  <ar>فِي</ar>
                </t>
                <t>
                   <ar>أَيِّ</ar>
@@ -45,7 +45,7 @@
                   <ar>دِيْنَهُ</ar>
                </t>
                <t>
-                  <ar>يَمِلِّ</ar>
+                  <ar>يَمِلِ</ar>
                </t>
             </igt>
          </hemistiche>
@@ -55,15 +55,15 @@
       <verse>
          <hemistiche>
             <text>
-               <ar>إِنّ الْكَرِيْمُ وَأَبِيْكَ يَعْتَمِلْ</ar>
+               <ar>إِنَّ الكَرِيْمَ وَأَبِيْكَ يَعْتَمِلْ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>إِنّ</ar>
+                  <ar>إِنَّ</ar>
                </t>
                <t>
-                  <ar>الْكَرِيْمُ</ar>
+                  <ar>الكَرِيْمَ</ar>
                </t>
                <t>
                   <ar>وَأَبِيْكَ</ar>
@@ -75,12 +75,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>إُنْ لَمْ يَجِدْ يَوْمًا عَلَى مَنْ يَتَّكِلَّ</ar>
+               <ar>إِنْ لَمْ يَجِدْ يَوْمًا عَلَى مَنْ يَتَّكِل</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>إُنْ</ar>
+                  <ar>إِنْ</ar>
                </t>
                <t>
                   <ar>لَمْ</ar>
@@ -98,7 +98,7 @@
                   <ar>مَنْ</ar>
                </t>
                <t>
-                  <ar>يَتَّكِلَّ</ar>
+                  <ar>يَتَّكِل</ar>
                </t>
             </igt>
          </hemistiche>
