@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="251">
-   <verses id="٢١٩٥٤" poet="">
+   <verses id="٢١٩٥٤" poet="الْفَرْزَدْقُ">
       <verse>
          <hemistiche>
             <text>
-               <ar>وَأَنْتُمْ لِهٰذَا النَّاْسِ كَاْلْقِبْلَةِ التَّيْ</ar>
+               <ar>وَأَنْتُمْ لِهٰذَا النَّاْسِ كَاْلْقِبْلَةِ التَّي</ar>
                <free/>
             </text>
             <igt>
@@ -22,18 +22,18 @@
                   <ar>كَاْلْقِبْلَةِ</ar>
                </t>
                <t>
-                  <ar>التَّيْ</ar>
+                  <ar>التَّي</ar>
                </t>
             </igt>
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>بُهَا أَنْ يَضِلَّ النَّاْسُ يُهْدَى ضَلَاْلُهَا</ar>
+               <ar>بِهَا أَنْ يَضِلَّ النَّاْسُ يُهْدَى ضَلَاْلُهَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>بُهَا</ar>
+                  <ar>بِهَا</ar>
                </t>
                <t>
                   <ar>أَنْ</ar>
