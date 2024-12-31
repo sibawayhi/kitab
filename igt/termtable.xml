@@ -163,15 +163,14 @@
   </term>
 
   <!-- harf ذ -->
-  <term>
-    <key>ذَاْكَ</key> <xlit>ðᵃå-kᵃ</xlit> <gloss>ðat<ed>ô-you</ed></gloss>
-  </term>
+  <term><key>ذَاْكَ</key> <xlit>ðᵃå-kᵃ</xlit> <gloss>ðat<ed>ô-you</ed></gloss></term>
+  <term><key>ذٰلِكَ</key> <xlit>ðᴬ-lᵢ-kᵃ</xlit> <gloss>ðat</gloss></term>
   <term><key>تَذْكُرُ</key> <xlit>tᵃð°kᵘrᵘ</xlit> <gloss>you-mention</gloss></term>
   <term><key>ذَهَبَ</key> <xlit>ðᵃhᵃbᵃ</xlit> <gloss>went<ed>-he</ed></gloss></term>
   <term><key>ذَهَبْتُ</key> <xlit>ðᵃhᵃb°-tᵘ</xlit> <gloss>went-I</gloss></term>
   <term><key>ذَهَاْبٌ</key> <xlit>ðᵃhᵃåb<influn/></xlit> <gloss>going</gloss></term>
   <term><key>ذَاْهِبٌ</key> <xlit>ðᵃåhᵢb<influn/></xlit> <gloss>going<influn/></gloss></term>
-  <term><key>ذَاْهِبًا</key> <xlit>ðᵃåhᵢb<inflan/></xlit> <gloss>going<inflan/></gloss></term>
+  <term><key>ذَاْهِبًا</key> <xlit>ðᵃåhᵢwb<inflan/></xlit> <gloss>going<inflan/></gloss></term>
 
   <term><key>ذَاْكِرًا</key> <xlit>ðᵃåkᵢr<inflan/></xlit> <gloss>mentioning<inflan/></gloss></term>
   <term><key>ذِكْرُكَ</key> <xlit>ðᵢk°rᵘ-kᵃ<inflan/></xlit> <gloss>mention<influ/><of/>you</gloss></term>
@@ -206,9 +205,8 @@
   <term><key>أَزَيْدٍ</key> <xlit>Ɂᵃ-zᵃẙd<inflin/></xlit> <gloss>?Zayd<inflin/></gloss></term>
 
   <!-- harf س -->
-  <term>
-    <key>سَوْفَ</key> <xlit>sᵃw°fᵃ</xlit> <gloss><ed>[fut.]</ed></gloss>
-  </term>
+  <term><key>سَوْفَ</key> <xlit>sᵃw°fᵃ</xlit> <gloss><ed>[fut.]</ed></gloss></term>
+  <term><key>سَاْئِلًا</key> <xlit>sᵃåɁᵢl<inflan/></xlit> <gloss>questioning<inflan/></gloss></term>
 
   <!-- harf ش -->
   <term>
@@ -362,6 +360,7 @@
   <term><key>كَاْنَ</key> <xlit>kᵃånᵃ</xlit> <gloss>was<ed>-he</ed></gloss></term>
   <term><key>لَكَاْنَ</key> <xlit>lᵃ-kᵃånᵃ</xlit> <gloss>then-was<ed>-it</ed></gloss></term>
   <term><key>يَكُوْنُ</key> <xlit>yᵃkᵘẘn<influ/></xlit> <gloss>he-is<influ/></gloss></term>
+  <term><key>يَكُنْ</key> <xlit>yᵃkᵘn<inflo/></xlit> <gloss>it-be<inflo/></gloss></term>
   <term><key>تَكُوْنُ</key> <xlit>tᵃkᵘẘn<influ/></xlit> <gloss>you-are<influ/></gloss></term>
   <term><key>تَكُنْ</key> <xlit>tᵃkᵘn<inflo/></xlit> <gloss>you-be<inflo/></gloss></term>
   <term><key>أَكُوْنُ</key> <xlit>Ɂᵃkᵘẘn<influ/></xlit> <gloss>I-am<influ/></gloss></term>
