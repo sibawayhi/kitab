@@ -3,75 +3,83 @@
    <dictum id="٩٨٧٨٩">
       <text>
          <ar>هٰذَا حَسَنُ الْوَجْهِ</ar>
-         <free/>
+         <free>This [one, he] is beautiful of face</free>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
-         <t>
-            <ar>حَسَنُ</ar>
-         </t>
-         <t>
-            <ar>الْوَجْهِ</ar>
+         <t class="idafah">
+           <t>
+             <ar>حَسَنُ</ar>
+           </t>
+           <t>
+             <ar>الْوَجْهِ</ar>
+           </t>
          </t>
       </igt>
    </dictum>
    <dictum id="١٥٠٩٧">
       <text>
-         <ar>هَذِهِ حَسَنَةُ الْوَجْهِ</ar>
-         <free/>
+         <ar>هٰذِهِ حَسَنَةُ الْوَجْهِ</ar>
+         <free>This [one, she] is beautiful of face</free>
       </text>
       <igt>
          <t>
-            <ar>هَذِهِ</ar>
+            <ar>هٰذِهِ</ar>
          </t>
-         <t>
-            <ar>حَسَنَةُ</ar>
-         </t>
-         <t>
-            <ar>الْوَجْهِ</ar>
+         <t class="idafah">
+           <t>
+             <ar>حَسَنَةُ</ar>
+           </t>
+           <t>
+             <ar>الْوَجْهِ</ar>
+           </t>
          </t>
       </igt>
    </dictum>
    <dictum id="٢٧١٩١">
       <text>
-         <ar>هٰذَا ضَارِبُ الرَّجُلِ</ar>
-         <free/>
+         <ar>هٰذَا ضَاْرِبُ الرَّجُلِ</ar>
+         <free>This [m. is the] striker of the man</free>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
-         <t>
-            <ar>ضَارِبُ</ar>
-         </t>
-         <t>
-            <ar>الرَّجُلِ</ar>
+         <t class="idafah">
+           <t>
+             <ar>ضَاْرِبُ</ar>
+           </t>
+           <t>
+             <ar>الرَّجُلِ</ar>
+           </t>
          </t>
       </igt>
    </dictum>
    <dictum id="٧٤٠٣١">
       <text>
-         <ar>هَذِهِ ضَارِبَةُ الرَّجُلِ</ar>
-         <free/>
+         <ar>هٰذِهِ ضَاْرِبَةُ الرَّجُلِ</ar>
+         <free>This [f. is the] striker of the man</free>
       </text>
       <igt>
          <t>
-            <ar>هَذِهِ</ar>
+            <ar>هٰذِهِ</ar>
          </t>
-         <t>
-            <ar>ضَارِبَةُ</ar>
-         </t>
-         <t>
-            <ar>الرَّجُلِ</ar>
+         <t class="idafah">
+           <t>
+             <ar>ضَاْرِبَةُ</ar>
+           </t>
+           <t>
+             <ar>الرَّجُلِ</ar>
+           </t>
          </t>
       </igt>
    </dictum>
    <dictum id="٠٨٩٩٨">
       <text>
-         <ar>هُوَ أَحْمَرُ بَيْنِ الْعَيْنَيْنِ</ar>
-         <free/>
+         <ar>هُوَ أَحْمَرُ بَيْنَ الْعَيْنَيْنِ</ar>
+         <free>He is red between the eyes</free>
       </text>
       <igt>
          <t>
@@ -79,49 +87,60 @@
          </t>
          <t>
             <ar>أَحْمَرُ</ar>
+            <en>red</en>
          </t>
          <t>
-            <ar>بَيْنِ</ar>
+            <ar>بَيْنَ</ar>
          </t>
          <t>
-            <ar>الْعَيْنَيْنِ</ar>
+           <ar>الْعَيْنَيْنِ</ar>
+           <en>the [2]eyes</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٢٠٥٨٨">
       <text>
          <ar>هُوَ جَيِّدُ وَجْهِ الدَّاْرِ</ar>
-         <free/>
+         <free>He is the most excellent chief of the tribe(???)</free>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
-         <t>
-            <ar>جَيِّدُ</ar>
-         </t>
-         <t>
-            <ar>وَجْهِ</ar>
-         </t>
-         <t>
-            <ar>الدَّاْرِ</ar>
+         <t class="idafah">
+           <t>
+             <ar>جَيِّدُ</ar>
+             <en>most-excellent</en>
+           </t>
+           <t class="idafah">
+             <t>
+               <ar>وَجْهِ</ar>
+               <en>chief</en>
+             </t>
+             <t>
+               <ar>الدَّاْرِ</ar>
+               <en>the-tribe</en>
+             </t>
+           </t>
          </t>
       </igt>
    </dictum>
    <dictum id="٧٧٨٨٨">
       <text>
          <ar>هُوَ حَدِيْثُ عَهْدٍ بِالْوَجَعِ</ar>
-         <free/>
+         <free>He is recently in pain(?)</free>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
-         <t>
-            <ar>حَدِيْثُ</ar>
-         </t>
-         <t>
-            <ar>عَهْدٍ</ar>
+         <t class="idafah">
+           <t>
+             <ar>حَدِيْثُ</ar>
+           </t>
+           <t>
+             <ar>عَهْدٍ</ar>
+           </t>
          </t>
          <t>
             <ar>بِالْوَجَعِ</ar>
@@ -131,24 +150,27 @@
    <dictum id="٥١٣٤٦">
       <text>
          <ar>هٰذَا الْحَسَنُ الْوَجْهِ</ar>
-         <free/>
+         <free>This [is] the beautiful of face</free>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
-         <t>
-            <ar>الْحَسَنُ</ar>
-         </t>
-         <t>
-            <ar>الْوَجْهِ</ar>
+         <t class="idafah">
+           <t>
+             <ar>الْحَسَنُ</ar>
+           </t>
+           <t>
+             <ar>الْوَجْهِ</ar>
+           </t>
          </t>
       </igt>
    </dictum>
    <dictum id="٦١٧٣٣">
       <text>
          <ar>الضَّاْرِبُ زَيْدًا</ar>
-         <free/>
+         <free>the one striking Zayd</free>
+         <alt>the striker of Zayd</alt>
       </text>
       <igt>
          <t>
@@ -162,58 +184,67 @@
    <dictum id="٣٦٤٠٥">
       <text>
          <ar>هُوَ الْحَسَنُ الْوَجْهَ</ar>
-         <free/>
+         <free>He is the beautiful [in] the face</free>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
          <t>
-            <ar>الْحَسَنُ</ar>
+           <ar>الْحَسَنُ</ar>
          </t>
          <t>
-            <ar>الْوَجْهَ</ar>
+           <ar>الْوَجْهَ</ar>
          </t>
       </igt>
+      <sidecomment>Here <ar>الْحَسَنُ</ar> is the <ar>عامِل</ar> (factor) that elaborates <ar>الْوَجْهَ</ar> with naṣb.</sidecomment>
    </dictum>
    <dictum id="٦٧٢٣٩">
       <text>
          <ar>هُوَ الْحَسَنُ الْوَجْهِ</ar>
-         <free/>
+         <free>He is the beautiful of face</free>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
-         <t>
-            <ar>الْحَسَنُ</ar>
-         </t>
-         <t>
-            <ar>الْوَجْهِ</ar>
+         <t class="idafah">
+           <t>
+             <ar>الْحَسَنُ</ar>
+           </t>
+           <t>
+             <ar>الْوَجْهِ</ar>
+           </t>
          </t>
       </igt>
+      <sidecomment>
+        In this case <ar>حَسَنُ</ar> is <ar>مُضَاْف</ar> to <ar>الْوَجْهِ</ar>; the resulting iḍafah is indefinite, since <ar>حَسَن</ar> is
+        a <ar>صِفَة مُشَبَّهَة</ar>; the leading <ar>ال</ar> makes it definite.
+      </sidecomment>
    </dictum>
    <dictum id="١١٣١٨">
       <text>
          <ar>هُوَ الضَّارِبُ الرَّجُلِ</ar>
-         <free/>
+         <free>He [is] the striker of the man</free>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
-         <t>
-            <ar>الضَّارِبُ</ar>
-         </t>
-         <t>
-            <ar>الرَّجُلِ</ar>
+         <t class="idafah">
+           <t>
+             <ar>الضَّارِبُ</ar>
+           </t>
+           <t>
+             <ar>الرَّجُلِ</ar>
+           </t>
          </t>
       </igt>
    </dictum>
    <dictum id="٤١٥٦١">
       <text>
          <ar>هُمُ الطَّيِّبُوْنَ الْأَخْبَاْرَ</ar>
-         <free/>
+         <free>They are pleasant of tidings</free>
       </text>
       <igt>
          <t>
@@ -226,11 +257,17 @@
             <ar>الْأَخْبَاْرَ</ar>
          </t>
       </igt>
+      <sidecomment>
+        Caution: not an idafah. Here <ar>الطَّيِّبُوْنَ</ar>
+        is a <ar>صِفة مُشَبَّهَة</ar> that functions like
+        a verb, putting its argument <ar>الْأَخْبَاْرَ</ar>
+        in naṣb case.
+      </sidecomment>
    </dictum>
    <dictum id="٦٦٥٢٤">
       <text>
          <ar>هُمَا الْحَسَنَاْنِ الْوُجُوْهَ</ar>
-         <free/>
+         <free>They[2] are beautiful[2] of face[pl].</free>
       </text>
       <igt>
          <t>
@@ -244,64 +281,82 @@
          </t>
       </igt>
    </dictum>
+
    <dictum id="٠٦٤٠٢">
       <text>
-         <ar>هَؤُلَاءِ الضَارْبُو زَيْدٍ</ar>
-         <free/>
+         <ar>هٰؤُلَاءِ الضَّاْرِبُو زَيْدٍ</ar>
+         <free>Those [are] the strikers of Zayd</free>
       </text>
       <igt>
          <t>
-            <ar>هَؤُلَاءِ</ar>
+            <ar>هٰؤُلَاءِ</ar>
          </t>
-         <t>
-            <ar>الضَارْبُو</ar>
-         </t>
-         <t>
-            <ar>زَيْدٍ</ar>
+         <t class="idafah">
+           <t>
+             <ar>الضَّاْرِبُو</ar>
+             <en>the-strikers</en>
+           </t>
+           <t>
+             <ar>زَيْدٍ</ar>
+           </t>
          </t>
       </igt>
+      <sidecomment>
+        An indefinite idafah made definite by prefixed
+        <ar>ال</ar>
+      </sidecomment>
    </dictum>
+
    <dictum id="٩٢٨٨٥">
       <text>
          <ar>هُمُ الطَّيِّبُو أَخْبَاْرٍ</ar>
-         <free/>
+         <free>They are the pleasant of tidings</free>
       </text>
       <igt>
          <t>
             <ar>هُمُ</ar>
          </t>
-         <t>
-            <ar>الطَّيِّبُو</ar>
-         </t>
-         <t>
-            <ar>أَخْبَاْرٍ</ar>
+         <t class="idafah">
+           <t>
+             <ar>الطَّيِّبُو</ar>
+           </t>
+           <t>
+             <ar>أَخْبَاْرٍ</ar>
+           </t>
          </t>
       </igt>
    </dictum>
    <dictum id="٥٣٢٧٥">
       <text>
          <ar>هُوَ خَيْرٌ مِنْكَ أَبًا</ar>
-         <free/>
+         <free>He is better than you, with respect to father</free>
+         <alt>His father is better than yours(?)</alt>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
          <t>
-            <ar>خَيْرٌ</ar>
+           <ar>خَيْرٌ</ar>
+           <en>better</en>
          </t>
          <t>
-            <ar>مِنْكَ</ar>
+           <ar>مِنْكَ</ar>
+           <en>than-you</en>
          </t>
          <t>
             <ar>أَبًا</ar>
          </t>
       </igt>
+      <sidecomment>
+        Not: He is better than you as a father.
+      </sidecomment>
    </dictum>
    <dictum id="٧٠٦١٠">
       <text>
          <ar>هُوَ أَحْسَنُ مِنْكَ وَجْهًا</ar>
-         <free/>
+         <free>He is more beautiful than you in face</free>
+         <alt>His face is more beautiful than yours</alt>
       </text>
       <igt>
          <t>
@@ -311,7 +366,8 @@
             <ar>أَحْسَنُ</ar>
          </t>
          <t>
-            <ar>مِنْكَ</ar>
+           <ar>مِنْكَ</ar>
+           <en>than-you</en>
          </t>
          <t>
             <ar>وَجْهًا</ar>
@@ -321,24 +377,28 @@
    <dictum id="٤٣٨٨٥">
       <text>
          <ar>هُوَ خَيْرٌ عَمَلًا</ar>
-         <free/>
+         <free>He is better [than you] in work</free>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
          <t>
-            <ar>خَيْرٌ</ar>
+           <ar>خَيْرٌ</ar>
+           <en>better</en>
          </t>
          <t>
             <ar>عَمَلًا</ar>
          </t>
       </igt>
+      <sidecomment>
+        Here <ar>مِنْكَ</ar> is implicit.
+      </sidecomment>
    </dictum>
    <dictum id="٢١٨٩٠">
       <text>
          <ar>ضَرَبَ زَيْدًا عَمْرٌو</ar>
-         <free/>
+         <free>Amr struck Zayd</free>
       </text>
       <igt>
          <t>
@@ -355,17 +415,19 @@
    <dictum id="٥٩٨٩٠">
       <text>
          <ar>هُوَ خَيْرٌ مِنْكَ أَعْمَاْلًا</ar>
-         <free/>
+         <free>He is better than you in works</free>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
          <t>
-            <ar>خَيْرٌ</ar>
+           <ar>خَيْرٌ</ar>
+           <en>better</en>
          </t>
          <t>
             <ar>مِنْكَ</ar>
+            <en>than-you</en>
          </t>
          <t>
             <ar>أَعْمَاْلًا</ar>
@@ -375,70 +437,50 @@
    <dictum id="٦٥٢٤٦">
       <text>
          <ar>هٰذَا أَوَّلُ رَجُلٍ</ar>
-         <free/>
+         <free>This is the first man</free>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
-         <t>
+         <t class="idafah">
+            <t>
             <ar>أَوَّلُ</ar>
-         </t>
-         <t>
-            <ar>رَجُلٍ</ar>
+            </t>
+            <t>
+              <ar>رَجُلٍ</ar>
+            </t>
          </t>
       </igt>
+      <sidecomment>
+        Meaning, <ar>هٰذَا أَوَّلُ الرِّجَاْلِ</ar>,
+        this is the first of the men.
+      </sidecomment>
    </dictum>
    <dictum id="٨٤٤٩٢">
       <text>
          <ar>
-            <ed>هٰذا</ed> أَوَّلُ الرِّجَاْلِ</ar>
-         <free/>
+            <ed>هٰذَا</ed> أَوَّلُ الرِّجَاْلِ</ar>
+         <free>This [is] the first of the men</free>
       </text>
       <igt>
-         <t ed="1">
-            <ar>هٰذا</ar>
+         <t> <!-- ed="1"> -->
+            <ar>هٰذَا</ar>
          </t>
-         <t>
-            <ar>أَوَّلُ</ar>
-         </t>
-         <t>
-            <ar>الرِّجَاْلِ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥٢٨٢٦">
-      <text>
-         <ar>خَيْرُ الرِّجَاْلِ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>خَيْرُ</ar>
-         </t>
-         <t>
-            <ar>الرِّجَاْلِ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٦٥٠٥">
-      <text>
-         <ar>أَوَّلُ الرِّجَاْلِ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>أَوَّلُ</ar>
-         </t>
-         <t>
-            <ar>الرِّجَاْلِ</ar>
+         <t class="idafah">
+           <t>
+             <ar>أَوَّلُ</ar>
+           </t>
+           <t>
+             <ar>الرِّجَاْلِ</ar>
+           </t>
          </t>
       </igt>
    </dictum>
    <dictum id="٦٨١١٥">
       <text>
          <ar>مَرَرْتُ بِرَجُلٍ حَسَنِ الْوَجْهِ أَبُوْهُ</ar>
-         <free/>
+         <free>I passed by a man whose father was beautiful of face</free>
       </text>
       <igt>
          <t>
@@ -447,11 +489,13 @@
          <t>
             <ar>بِرَجُلٍ</ar>
          </t>
-         <t>
-            <ar>حَسَنِ</ar>
-         </t>
-         <t>
-            <ar>الْوَجْهِ</ar>
+         <t class="idafah">
+           <t>
+             <ar>حَسَنِ</ar>
+           </t>
+           <t>
+             <ar>الْوَجْهِ</ar>
+           </t>
          </t>
          <t>
             <ar>أَبُوْهُ</ar>
@@ -461,7 +505,7 @@
    <dictum id="٢٤٦٦٠">
       <text>
          <ar>مَرَرْتُ بِرَجُلٍ حَسَنٍ أَبُوْهُ</ar>
-         <free/>
+         <free>I passed by a man whose father was beautiful</free>
       </text>
       <igt>
          <t>
@@ -480,8 +524,8 @@
    </dictum>
    <dictum id="١٠٢٥٣">
       <text>
-         <ar>مَرَرْتُ بِرَجُلٍ ضَارِبٍ أَبُوْهُ</ar>
-         <free/>
+         <ar>مَرَرْتُ بِرَجُلٍ ضَاْرِبٍ أَبُوْهُ</ar>
+         <free>I passed by a man whose father was striking</free>
       </text>
       <igt>
          <t>
@@ -491,59 +535,69 @@
             <ar>بِرَجُلٍ</ar>
          </t>
          <t>
-            <ar>ضَارِبٍ</ar>
+            <ar>ضَاْرِبٍ</ar>
          </t>
          <t>
             <ar>أَبُوْهُ</ar>
          </t>
       </igt>
    </dictum>
+
    <dictum id="٥٢٨٠٩">
       <text>
-         <ar>هُوَ خَيْرُ رَجُلٍ في النَّاسِ</ar>
-         <free/>
+         <ar>هُوَ خَيْرُ رَجُلٍ في النَّاْسِ</ar>
+         <free>He is the best man of the people</free>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
-         <t>
-            <ar>خَيْرُ</ar>
+         <t class="idafah">
+           <t>
+             <ar>خَيْرُ</ar>
+             <en>best</en>
+           </t>
+           <t>
+             <ar>رَجُلٍ</ar>
+           </t>
          </t>
          <t>
-            <ar>رَجُلٍ</ar>
+            <ar>فِي</ar>
          </t>
          <t>
-            <ar>في</ar>
-         </t>
-         <t>
-            <ar>النَّاسِ</ar>
+            <ar>النَّاْسِ</ar>
          </t>
       </igt>
    </dictum>
+
    <dictum id="٢٤٤٥٠">
       <text>
-         <ar>
-            <ed>هُوَ</ed> أَفْرَهُ عَبْدٍ في النَّاسِ</ar>
-         <free/>
+        <ar><ed>هُوَ</ed> أَفْرَهُ عَبْدٍ فِي النَّاْسِ</ar>
+        <free>He is the most skillful slave of the people</free>
       </text>
       <igt>
          <t ed="1">
             <ar>هُوَ</ar>
          </t>
-         <t>
-            <ar>أَفْرَهُ</ar>
+         <t class="idafah">
+           <t>
+             <ar>أَفْرَهُ</ar>
+             <en>most-skillful</en>
+           </t>
+           <t>
+             <ar>عَبْدٍ</ar>
+           </t>
          </t>
          <t>
-            <ar>عَبْدٍ</ar>
+            <ar>فِي</ar>
          </t>
          <t>
-            <ar>في</ar>
-         </t>
-         <t>
-            <ar>النَّاسِ</ar>
+            <ar>النَّاْسِ</ar>
          </t>
       </igt>
+      <sidecomment>
+        NB:  <ar>أَفْرَهُ عَبْدٍ</ar> means <ar>أَفْرَهُ الْعَبِيْدِ</ar>, most skillfull of the slaves[pl].
+      </sidecomment>
    </dictum>
    <dictum id="٩٤٥٦٥">
       <text>
@@ -573,7 +627,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩١٦٥٣">
+   <dictum id="٩١٦٥٣" j="*">
       <text>
          <ar>مَاْءً امْتَلَأْتُ</ar>
          <free/>

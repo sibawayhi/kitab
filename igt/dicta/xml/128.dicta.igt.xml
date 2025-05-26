@@ -141,7 +141,7 @@
    </dictum>
    <dictum id="٣٩١٦٧">
       <text>
-         <ar>لَقِيْتُهُ كِفَاْحًا</ar>
+         <ar> لَقِيْتُهُ كِفَاْحًا</ar>
          <free/>
       </text>
       <igt>
@@ -170,7 +170,7 @@
    <dictum id="٤٢٨٨٦">
       <text>
          <ar>هٰذِهِ عِشْرُوْنَ مِرَاْرًا</ar>
-         <free/>
+         <free>This [is a] twenty-lot [in] repetition.</free>
       </text>
       <igt>
          <t>
@@ -187,7 +187,8 @@
    <dictum id="٦٨٦٣٣">
       <text>
          <ar>هٰذِهِ عِشْرُوْنَ أَضْعَاْفًا</ar>
-         <free/>
+         <free>This [is a] twenty-lot [in] likeness.</free>
+         <alt>This [is a] twenty-lot, doubly[?].</alt>
       </text>
       <igt>
          <t>
@@ -237,8 +238,9 @@
    </dictum>
    <dictum id="٠١٥٢٧">
       <text>
-         <ar>هٰذَا دِرْهَمٌ سَوَاْءٌ</ar>
-         <free/>
+         <ar>هٰذَا دِرْهَمٌ سَوَاْءً</ar>
+         <free>This [is a] dirham equally.</free>
+         <alt>This [is a] complete dirham.</alt>
       </text>
       <igt>
          <t>
@@ -248,14 +250,14 @@
             <ar>دِرْهَمٌ</ar>
          </t>
          <t>
-            <ar>سَوَاْءٌ</ar>
+           <ar>سَوَاْءً</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٩١٩٧٣">
       <text>
-         <ar>هٰذَا دِرْهَمٌ اسْتِوَاْءٌ</ar>
-         <free/>
+         <ar>هٰذَا دِرْهَمٌ اسْتِوَاْءً</ar>
+         <free>This [is an] even dirham.</free>
       </text>
       <igt>
          <t>
@@ -265,14 +267,15 @@
             <ar>دِرْهَمٌ</ar>
          </t>
          <t>
-            <ar>اسْتِوَاْءٌ</ar>
+            <ar>اسْتِوَاْءً</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٨٧٢٠٨">
       <text>
          <ar>هٰذَا دِرْهَمٌ سَوَاْءٌ</ar>
-         <free/>
+         <free>This [is an] equal dirham.</free>
+         <alt>This [is a] complete dirham.</alt>
       </text>
       <igt>
          <t>
@@ -289,7 +292,7 @@
    <dictum id="٦٣٢١٢">
       <text>
          <ar>هٰذَا دِرْهَمٌ تَاْمٌّ</ar>
-         <free/>
+         <free>This [is a] complete dirham.</free>
       </text>
       <igt>
          <t>

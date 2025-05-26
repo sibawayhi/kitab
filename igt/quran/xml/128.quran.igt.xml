@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="128">
-   <ayah id="٩٧١٨٨" surah="" verse="">
+   <ayah id="٩٧١٨٨" surah="٤١" verse="١٠">
       <text>
-         <ar>فِي أَرْبَعَةِ أَيَّاْمٍ سَوَاْءً لِلسَّاْئِلِيْنَ</ar>
+         <ar>فِي أَرْبَعَةِ أَيَّاْمٍ سَوَآءً لِّلسَّآئِلِيْنَ</ar>
          <free/>
       </text>
       <igt>
@@ -17,16 +17,16 @@
             <ar>أَيَّاْمٍ</ar>
          </t>
          <t>
-            <ar>سَوَاْءً</ar>
+            <ar>سَوَآءً</ar>
          </t>
          <t>
-            <ar>لِلسَّاْئِلِيْنَ</ar>
+            <ar>لِّلسَّآئِلِيْنَ</ar>
          </t>
       </igt>
    </ayah>
-   <ayah id="٢٥١٢٦" surah="" verse="">
+   <ayah id="٢٥١٢٦" surah="٤١" verse="١٠">
       <text>
-         <ar>فِي أَرْبَعَةِ أَيَّاْمٍ سَوَاْءٍ</ar>
+         <ar>فِي أَرْبَعَةِ أَيَّاْمٍ سَوَآءٍ</ar>
          <free/>
       </text>
       <igt>
@@ -40,7 +40,7 @@
             <ar>أَيَّاْمٍ</ar>
          </t>
          <t>
-            <ar>سَوَاْءٍ</ar>
+            <ar>سَوَآءٍ</ar>
          </t>
       </igt>
    </ayah>

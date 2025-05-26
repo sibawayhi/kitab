@@ -98,10 +98,7 @@
             <ar>أَخُوْكَ</ar>
          </t>
          <t>
-            <ar>عَبْدَ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>عَبْدَ اللهِ</ar>
          </t>
       </igt>
    </dictum>
@@ -115,10 +112,7 @@
             <ar>كَأَنَّ</ar>
          </t>
          <t>
-            <ar>عَبْدَ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>عَبْدَ اللهِ</ar>
          </t>
          <t>
             <ar>أَخُوْكَ</ar>
@@ -127,7 +121,7 @@
    </dictum>
    <dictum id="٣٣١٥٧">
       <text>
-         <ar>إِنَّ زَيْدًا الظَّرِيْفَ مَنْطَلِقٌ</ar>
+         <ar>إِنَّ زَيْدًا الظَّرِيْفَ مُنْطَلِقٌ</ar>
          <free/>
       </text>
       <igt>
@@ -141,7 +135,7 @@
             <ar>الظَّرِيْفَ</ar>
          </t>
          <t>
-            <ar>مَنْطَلِقٌ</ar>
+            <ar>مُنْطَلِقٌ</ar>
          </t>
       </igt>
    </dictum>
@@ -264,7 +258,7 @@
    </dictum>
    <dictum id="١١٢٧٧">
       <text>
-         <ar>إِنَّ لَكَ زَيْدًا وَاقِفٌ</ar>
+         <ar>إِنَّ لَكَ زَيْدًا وَاْقِفٌ</ar>
          <free/>
       </text>
       <igt>
@@ -278,7 +272,7 @@
             <ar>زَيْدًا</ar>
          </t>
          <t>
-            <ar>وَاقِفٌ</ar>
+            <ar>وَاْقِفٌ</ar>
          </t>
       </igt>
    </dictum>
@@ -296,10 +290,11 @@
          </t>
       </igt>
    </dictum>
+
    <dictum id="٥٩٩١٠">
       <text>
          <ar>إِنَّ فِيْكَ زَيْدًا لَرَاْغِبٌ</ar>
-         <free/>
+         <free>Indeed Zayd is desirous of you</free>
       </text>
       <igt>
          <t>
@@ -601,6 +596,7 @@
       <igt>
          <t>
             <ar>إِنَّهُ</ar>
+            <en>indeed <ed>it is the case that</ed></en>
          </t>
          <t>
             <ar>بِكَ</ar>
@@ -668,11 +664,12 @@
    <dictum id="٠٥٤٣٩">
       <text>
          <ar>لَيْتَمَا زَيْدًا مُنْطَلِقٌ</ar>
-         <free/>
+         <free>Would that Zayd were departing!</free>
       </text>
       <igt>
          <t>
-            <ar>لَيْتَمَا</ar>
+           <ar>لَيْتَمَا</ar>
+           <en>would that</en>
          </t>
          <t>
             <ar>زَيْدًا</ar>
@@ -702,28 +699,31 @@
    <dictum id="٨٦٩٨٥">
       <text>
          <ar>إِنْ زَيْدٌ لَذَاْهِبٌ</ar>
-         <free/>
+         <free>Indeed Zayd [is] going</free>
       </text>
       <igt>
          <t>
-            <ar>إِنْ</ar>
+           <ar>إِنْ</ar>
+           <en>indeed</en>
          </t>
          <t>
             <ar>زَيْدٌ</ar>
          </t>
          <t>
-            <ar>لَذَاْهِبٌ</ar>
+           <ar>لَذَاْهِبٌ</ar>
+           <en>going<influn/></en>
          </t>
       </igt>
    </dictum>
    <dictum id="٣٢٣٩٥">
       <text>
          <ar>إِنْ عَمْرٌو لَخَيْرٌ مِنْكَ</ar>
-         <free/>
+         <free>Indeed Amr [is] better than you</free>
       </text>
       <igt>
          <t>
-            <ar>إِنْ</ar>
+           <ar>إِنْ</ar>
+           <en>indeed</en>
          </t>
          <t>
             <ar>عَمْرٌو</ar>
@@ -733,23 +733,26 @@
          </t>
          <t>
             <ar>مِنْكَ</ar>
+            <en>than-you</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٣٧٩٥٩">
       <text>
          <ar>إِنْ عَمْرًا لَمُنْطَلِقٌ</ar>
-         <free/>
+         <free>Indeed Amr [is] departing</free>
       </text>
       <igt>
          <t>
-            <ar>إِنْ</ar>
+           <ar>إِنْ</ar>
+           <en>indeed</en>
          </t>
          <t>
             <ar>عَمْرًا</ar>
          </t>
          <t>
             <ar>لَمُنْطَلِقٌ</ar>
+            <en>departing<influn/></en>
          </t>
       </igt>
    </dictum>

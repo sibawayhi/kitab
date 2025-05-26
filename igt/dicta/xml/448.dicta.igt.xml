@@ -1,1 +1,202 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="448">
+   <dictum id="٨٧٣٤٨">
+      <text>
+         <ar>كَاْرَمَنِي فَكَرَمْتُهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كَاْرَمَنِي</ar>
+         </t>
+         <t>
+            <ar>فَكَرَمْتُهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٠٣١٦">
+      <text>
+         <ar>عَاْزَّنِي فَعَزَزْتُهُ أَعُزُّهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَاْزَّنِي</ar>
+         </t>
+         <t>
+            <ar>فَعَزَزْتُهُ</ar>
+         </t>
+         <t>
+            <ar>أَعُزُّهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٣٩٩٤">
+      <text>
+         <ar>خَاْصَمَنِي فَخَصَمْتُهُ أَخْصُمُهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>خَاْصَمَنِي</ar>
+         </t>
+         <t>
+            <ar>فَخَصَمْتُهُ</ar>
+         </t>
+         <t>
+            <ar>أَخْصُمُهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٥٥٦٥">
+      <text>
+         <ar>شَاْتَمَنِي فَشَتَمْتُهُ أَشْتُمُهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>شَاْتَمَنِي</ar>
+         </t>
+         <t>
+            <ar>فَشَتَمْتُهُ</ar>
+         </t>
+         <t>
+            <ar>أَشْتُمُهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٦٥٥٠">
+      <text>
+         <ar>خَاْصَمَنِي فَخَصَمْتُهُ أَخْصُمُهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>خَاْصَمَنِي</ar>
+         </t>
+         <t>
+            <ar>فَخَصَمْتُهُ</ar>
+         </t>
+         <t>
+            <ar>أَخْصُمُهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٠٥١٤">
+      <text>
+         <ar>نَاْزَعَنِي فَنَزَعْتُهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>نَاْزَعَنِي</ar>
+         </t>
+         <t>
+            <ar>فَنَزَعْتُهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٢٩٤٧">
+      <text>
+         <ar>غَلَّقْتُ الْأَبْوَاْبَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>غَلَّقْتُ</ar>
+         </t>
+         <t>
+            <ar>الْأَبْوَاْبَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٠٤٥٠">
+      <text>
+         <ar>تَمَاْرَيْتُ فِي ذٰلِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تَمَاْرَيْتُ</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>ذٰلِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٠٠٣٨">
+      <text>
+         <ar>تَرَاْءَيْت لَهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تَرَاْءَيْت</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٧٠٦٤">
+      <text>
+         <ar>تَعَاْطَيْتُ مِنْهُ أَمْرًا قَبِيْحًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تَعَاْطَيْتُ</ar>
+         </t>
+         <t>
+            <ar>مِنْهُ</ar>
+         </t>
+         <t>
+            <ar>أَمْرًا</ar>
+         </t>
+         <t>
+            <ar>قَبِيْحًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٣٣١٩">
+      <text>
+         <ar>وَمَا بِي مِنْ خَزَرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَمَا</ar>
+         </t>
+         <t>
+            <ar>بِي</ar>
+         </t>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>خَزَرٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٩٢٥٢">
+      <text>
+         <ar>تَذَاْءَبَتْ الرِّيْحُ</ar>
+         <free>The wind varied</free>
+      </text>
+      <igt>
+         <t>
+            <ar>تَذَاْءَبَتْ</ar>
+         </t>
+         <t>
+            <ar>الرِّيْحُ</ar>
+         </t>
+      </igt>
+      <sidecomment>
+        The wind became wolf-like; from <ar>ذِئْب</ar> wolf.
+        Also <ar>ذُعْبان</ar> young wolf.
+      </sidecomment>
+   </dictum>
+</dicta>

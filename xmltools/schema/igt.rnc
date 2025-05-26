@@ -20,7 +20,8 @@ dictum = (
         element igt {
             term+
         },
-        element comment { entext }?
+        element comment { entext }?,
+        element sidecomment { entext }?
     }
 )
 
@@ -94,4 +95,5 @@ entext = (text
          | element abdallah {empty}
          | element amr {empty}
          | element zayd {empty}
+         | ar
          )
