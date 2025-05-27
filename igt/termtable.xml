@@ -316,6 +316,9 @@
   <term><key>اِنْطَلَقْتُ</key> <xlit>ᵢn°ṭᵃlᵃq°-tᵘ</xlit> <gloss>departed-I</gloss></term>
   <term><key>يَنْطَلِقُ</key> <xlit>yᵃn°ṭᵃlᵢq<influ/></xlit> <gloss>he-departs<influ/></gloss></term>
 
+  <term><key>الطَّوِيْلُ</key> <xlit>ـ-ṭ&shadda;ᵃwᵢẙl<influ/></xlit> <gloss>the-tall<ed>one</ed><influ/></gloss></term>
+
+
   <term><key>الطَّيِّبُوْنَ</key> <xlit>ـ-ṭ&shadda;ᵃy&shadda;ᵢb<influ/>ẘnᵃ</xlit> <gloss>the-pleasant[m.pl]</gloss></term>
   <term><key>الطَّيِّبُو</key> <xlit>ـ-ṭ&shadda;ᵃy&shadda;ᵢb<influ/>w</xlit> <gloss>the-pleasant[m.pl]</gloss></term>
 
@@ -365,6 +368,9 @@
   <gloss>its likes<influ/></gloss></term>
 
   <!-- harf ع -->
+  <term><key>عَرَبِيٌّ</key> <xlit>ʕᵃrᵃbᵢy&shadda;<influn/></xlit>
+  <gloss><ed>an</ed>Arab<influn/></gloss></term>
+
   <term><key>عَرَفْتُ</key> <xlit>ʕᵃrᵃf°-tᵘ</xlit> <gloss>recognized-I</gloss></term>
   <term><key>عَلَى</key> <xlit>ʕᵃlᵃʎ</xlit> <gloss>upon</gloss></term>
 
@@ -481,9 +487,17 @@
   <term><key>يُقْتَلُ</key> <xlit>yᵘq°tᵃl<influ/></xlit> <gloss>he_was_killed<influ/></gloss></term>
   <term><key>مَقْتُوْلٌ</key> <xlit>mᵃq°tᵘẘl<influn/></xlit> <gloss>killed<influn/></gloss></term>
 
+  <term><key>قُحٌّ</key> <xlit>qᵘḥ&shadda;<influn/></xlit>
+  <gloss>genuine<influn/></gloss></term>
+
   <term><key>قَاْرَبَ</key> <xlit>qᵃårᵃbᵃ</xlit> <gloss>neared<ed>-he</ed></gloss></term>
 
   <term><key>اسْتَقَرَّ</key> <xlit>_s°tᵃqᵃr&shadda;ᵃ</xlit> <gloss>stabilized<ed>-he</ed></gloss></term>
+
+  <term><key>قَلْبٌ</key> <xlit>qᵃl°b<influn/></xlit>
+  <gloss>heart<influn/></gloss></term>
+  <term><key>قَلْبًا</key> <xlit>qᵃl°b<inflan/>|</xlit>
+  <gloss><ed>in</ed>heart<inflan/></gloss></term>
 
   <!-- harf ك -->
   <term><key>كُدْتُ</key> <xlit>kᵘd°-tᵘ</xlit> <gloss>verged-I</gloss></term>
@@ -563,11 +577,20 @@
   <!-- harf م -->
   <term><key>مَا</key> <xlit>mᵃā</xlit> <gloss>not</gloss></term>
   <term><key>مَاْءَ</key> <xlit>mᵃåɁ<infla/></xlit> <gloss>water<infla/></gloss></term>
+
+  <term><key>مِاْئَةٌ</key> <xlit>mᵢɁᵃt<influn/></xlit>
+  <gloss><ed>a</ed>hundred<ed>lot</ed></gloss></term>
+
   <term><key>مَتَى</key> <xlit>mᵃtᵃʎ</xlit> <gloss>when</gloss></term>
   <term><key>مَتَى مَا</key> <xlit>mᵃtᵃʎ mᵃā</xlit> <gloss>when_that</gloss></term>
 
   <term><key>مِرَاْرًا</key> <xlit>mᵢrᵃår<inflan/>|</xlit>
   <gloss>repetition<inflan/></gloss></term>
+
+  <term><key>مَحْضٌ</key> <xlit>mᵃḥ°ḍ<influn/></xlit>
+  <gloss>pure<influn/></gloss></term>
+  <term><key>مَحْضًا</key> <xlit>mᵃḥ°ḍ<inflan/></xlit>
+  <gloss>pure<ed>ly</ed><inflan/></gloss></term>
 
   <term><key>مَعَكَ</key> <xlit>mᵃɁᵃ-kᵃ</xlit> <gloss>with-you</gloss></term>
   <term><key>مَعَهُ</key> <xlit>mᵃɁᵃ-hᵘ</xlit> <gloss>with-him</gloss></term>
@@ -615,6 +638,9 @@
 
   <term><key>بِالْوَجَعِ</key> <xlit>bᵢ-_l°-wᵃjᵃɁ<infli/></xlit>
   <gloss>with-the-pain</gloss></term>
+
+  <term><key>وَزْنًا</key><xlit>wᵃz°n<inflan/>|</xlit>
+  <gloss><ed>in</ed>weight<inflan/></gloss></term>
 
   <term>
     <key>وَاْقِفٌ</key> <xlit>wᵃåqᵢf<influn/></xlit> <gloss>standing<ed>still</ed><influn/></gloss>
