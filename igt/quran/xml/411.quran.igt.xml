@@ -1,1 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="411">
+   <ayah id="٣٣٨٠٤" surah="٢" verse="١٢٦">
+      <text>
+         <ar>وَإِذْ قَاْلَ إِبْرٰهِيْمُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَإِذْ</ar>
+         </t>
+         <t>
+            <ar>قَاْلَ</ar>
+         </t>
+         <t>
+            <ar>إِبْرٰهِيْمُ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤٦٩٥١" surah="٢٧" verse="٢٥">
+      <text>
+         <ar>أَلَا يَسْجُدُوْا لِلَّهِ الَّذِي يُخْرِجُ الْخَبَ فِي السَّمَوَاْتِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَلَا</ar>
+         </t>
+         <t>
+            <ar>يَسْجُدُوْا</ar>
+         </t>
+         <t>
+            <ar>لِلَّهِ</ar>
+         </t>
+         <t>
+            <ar>الَّذِي</ar>
+         </t>
+         <t>
+            <ar>يُخْرِجُ</ar>
+         </t>
+         <t>
+            <ar>الْخَبَ</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>السَّمَوَاْتِ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٣٤١٠٤" surah="٤٧" verse="١٨">
+      <text>
+         <ar>فَقَدْ جَا أَشْرَاْطُهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَقَدْ</ar>
+         </t>
+         <t>
+            <ar>جَا</ar>
+         </t>
+         <t>
+            <ar>أَشْرَاْطُهَا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٣٢٧٥٨" surah="١٩" verse="٧">
+      <text>
+         <ar>يَا زَكَرِيَّا إِنَّا نُبَشِّرُكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>زَكَرِيَّا</ar>
+         </t>
+         <t>
+            <ar>إِنَّا</ar>
+         </t>
+         <t>
+            <ar>نُبَشِّرُكَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٥٥٦٤٣" surah="١١" verse="٧٢">
+      <text>
+         <ar>يَا وَيْلَتَىٰ ءَأَلِدُ وَأَنَا عَجُوْزٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>وَيْلَتَىٰ</ar>
+         </t>
+         <t>
+            <ar>ءَأَلِدُ</ar>
+         </t>
+         <t>
+            <ar>وَأَنَا</ar>
+         </t>
+         <t>
+            <ar>عَجُوْزٌ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>

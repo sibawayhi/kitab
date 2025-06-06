@@ -1,1 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="411">
+   <dictum id="٥١٠٨٩">
+      <text>
+         <ar>قَدْ قَرَأَ قَبْلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>قَرَأَ</ar>
+         </t>
+         <t>
+            <ar>قَبْلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨١٥٤١">
+      <text>
+         <ar>رَأَيْتُ بَرَاْءً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>بَرَاْءً</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٢٥١٧">
+      <text>
+         <ar>رَأَيْتُ قَضَاْءً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>قَضَاْءً</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٧٢١٤">
+      <text>
+         <ar>أَحْلِبْنِي إِبِلَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَحْلِبْنِي</ar>
+         </t>
+         <t>
+            <ar>إِبِلَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>يُرِيْدُ أَنْ يَجِيَكَ وَيَسُوَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يُرِيْدُ</ar>
+         </t>
+         <t>
+            <ar>أَنْ</ar>
+         </t>
+         <t>
+            <ar>يَجِيَكَ</ar>
+         </t>
+         <t>
+            <ar>وَيَسُوَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>هُوَ يَجِيْكَ وَيَسُوْكُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>يَجِيْكَ</ar>
+         </t>
+         <t>
+            <ar>وَيَسُوْكُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>هُوَ يَرْمِ خْوَاْنَهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>يَرْمِ</ar>
+         </t>
+         <t>
+            <ar>خْوَاْنَهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
