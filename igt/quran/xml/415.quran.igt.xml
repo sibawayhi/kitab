@@ -1,1 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="415">
+   <ayah id="٣٨٧٨٩" surah="٦" verse="١٦٠">
+      <text>
+         <ar>مَنْ جَاْءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَاْلِهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَنْ</ar>
+         </t>
+         <t>
+            <ar>جَاْءَ</ar>
+         </t>
+         <t>
+            <ar>بِالْحَسَنَةِ</ar>
+         </t>
+         <t>
+            <ar>فَلَهُ</ar>
+         </t>
+         <t>
+            <ar>عَشْرُ</ar>
+         </t>
+         <t>
+            <ar>أَمْثَاْلِهَا</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
