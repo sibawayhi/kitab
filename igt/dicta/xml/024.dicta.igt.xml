@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="024">
-   <dictum id="١٣٠٨٩" nbr="1">
+   <dictum id="١٣٠٨٩">
       <text>
          <ar>ضَرَبْتُ زَيْدًا</ar>
          <free>I struck Zayd</free>
       </text>
       <igt>
-        <t>
-          <ar>ضَرَبْتُ</ar>
-        </t>
-        <t>
-          <ar>زَيْدًا</ar>
-        </t>
+         <t>
+            <ar>ضَرَبْتُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
       </igt>
    </dictum>
-   <dictum id="١٦٣٥٣" nbr="2">
+   <dictum id="١٦٣٥٣">
       <text>
          <ar>ضَرَبَ زَيْدٌ عَمْرًا</ar>
-         <free>Zayd struck Amr</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -31,10 +31,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٩٥٥١" nbr="3">
+   <dictum id="٧٩٥٥١">
       <text>
          <ar>زَيْدًا ضَرَبْتُ</ar>
-         <free>Zayd I struck</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -45,10 +45,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٤٢٢٩" nbr="4">
+   <dictum id="٤٤٢٢٩">
       <text>
          <ar>ضَرَبَ زَيْدٌ عَمْرًا</ar>
-         <free>Zayd struck Amr</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -62,11 +62,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٧٧٧٦" nbr="5">
+   <dictum id="٩٧٧٧٦">
       <text>
          <ar>ضَرَبَ عَمْرًا زَيْدٌ</ar>
-         <free>He struck Amr, Zayd</free>
-         <alt>Zayd struck Amr</alt>
+         <free/>
       </text>
       <igt>
          <t>
@@ -80,39 +79,38 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٣٤٦٨" nbr="6">
+   <dictum id="٤٣٤٦٨">
       <text>
          <ar>زَيْدٌ ضَرَبْتُهُ</ar>
-         <free>Zayd, I struck him</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>زَيْدٌ</ar>
          </t>
-           <t>
-             <ar>ضَرَبْتُهُ</ar>
-           </t>
+         <t>
+            <ar>ضَرَبْتُهُ</ar>
+         </t>
       </igt>
    </dictum>
-   <dictum id="٢٩٨٥٩" nbr="7">
+   <dictum id="٢٩٨٥٩">
       <text>
          <ar>عَبْدُ اللهِ مُنْطَلِقٌ</ar>
-         <free>Abdullah is departing</free>
+         <free/>
       </text>
       <igt>
          <t>
-            <ar>عَبْدُ اللّٰهِ</ar>
-            <!-- <ar>عَبْدُ اللهِ</ar> -->
+            <ar>عَبْدُ اللهِ</ar>
          </t>
          <t>
             <ar>مُنْطَلِقٌ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٤٥٨٤" nbr="8">
+   <dictum id="٧٤٥٨٤">
       <text>
          <ar>زَيْدًا ضَرَبْتُهُ</ar>
-         <free>Zayd I struck him</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -123,10 +121,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦١٤٩٢" nbr="9">
+   <dictum id="٦١٤٩٢">
       <text>
          <ar>ضَرَبْتُ زَيْدًا ضَرَبْتُهُ</ar>
-         <free>I struck Zayd, I struck him</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -140,10 +138,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٨٩٧٠" nbr="10">
+   <dictum id="٧٨٩٧٠">
       <text>
          <ar>ضَرَبْتُ زَيْدًا</ar>
-         <free>I struck Zayd</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -154,10 +152,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٠٣٧٠" nbr="11">
+   <dictum id="٠٠٣٧٠">
       <text>
          <ar>زَيْدًا ضَرَبْتُ</ar>
-         <free>Zayd I struck</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -168,10 +166,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٩١٨٢" nbr="12">
+   <dictum id="٤٩١٨٢">
       <text>
          <ar>زَيْدًا أُعْطِيْتُ</ar>
-         <free>Zayd I was given(?)</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -182,10 +180,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٦٨٣٨" nbr="13">
+   <dictum id="٩٦٨٣٨">
       <text>
          <ar>أُعْطِيْتُ زَيْدًا</ar>
-         <free>I was given Zayd</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -196,10 +194,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٧٨٨٥" nbr="14">
+   <dictum id="٣٧٨٨٥">
       <text>
          <ar>زَيْدٌ أُعْطِيْتُهُ</ar>
-         <free>Zayd, I was given him</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -210,10 +208,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٦٧٢٣" nbr="15">
+   <dictum id="٧٦٧٢٣">
       <text>
          <ar>زَيْدٌ مَرَرْتُ بِهِ</ar>
-         <free>Zayd I passed by him</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -224,77 +222,14 @@
          </t>
          <t>
             <ar>بِهِ</ar>
+            <en>by-him</en>
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٥٩٧٢" nbr="16">
+   <dictum id="٩٥٩٧٢">
       <text>
          <ar>زَيْدٌ لَقِيْتُ أَخَاْهُ</ar>
-         <free>Zayd, I met his brother</free>
-      </text>
-      <igt>
-         <t>
-            <ar>زَيْدٌ</ar>
-         </t>
-         <t>
-           <ar>لَقِيْتُ</ar>
-         </t>
-         <t>
-           <ar>أَخَاْهُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٣٤٢٥" nbr="17">
-      <text>
-         <ar>زَيْدًا مَرَرْتُ بِهِ</ar>
-         <free>Zayd, I passed by him</free>
-      </text>
-      <igt>
-         <t>
-            <ar>زَيْدًا</ar>
-         </t>
-         <t>
-            <ar>مَرَرْتُ</ar>
-         </t>
-         <t>
-            <ar>بِهِ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٣٥٢٠" nbr="18">
-      <text>
-         <ar>جَعَلْتُ زَيْدًا عَلَى طَرِيْقِي مَرَرْتُ بِهِ</ar>
-         <free>I considered(?) Zayd, on my way I passed by him</free>
-      </text>
-      <igt>
-        <t>
-          <ar>جَعَلْتُ</ar>
-        </t>
-        <t>
-          <ar>زَيْدًا</ar>
-        </t>
-        <t>
-          <ar>عَلَى</ar>
-        </t>
-        <t>
-          <ar>طَرِيْقِي</ar>
-        </t>
-        <t>
-          <ar>مَرَرْتُ</ar>
-        </t>
-        <t>
-          <ar>بِهِ</ar>
-        </t>
-      </igt>
-      <sidecomment>
-        Note there are two ways to parse this: I made him on my way, I passed him; and
-        I made him, on my way I passed him.
-      </sidecomment>
-   </dictum>
-   <dictum id="٩٣٦٧٤" nbr="19">
-      <text>
-         <ar>زَيْدٌ لَقِيْتُ أَخَاْهُ</ar>
-         <free>Zayd, I met his brother</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -308,10 +243,71 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦٣٧٥٢" nbr="20">
+   <dictum id="١٣٤٢٥">
+      <text>
+         <ar>زَيْدًا مَرَرْتُ بِهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+           <ar>بِهِ</ar>
+           <en>by-him</en>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٣٥٢٠">
+      <text>
+         <ar>جَعَلْتُ زَيْدًا عَلَى طَرِيْقِي مَرَرْتُ بِهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>جَعَلْتُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>عَلَى</ar>
+         </t>
+         <t>
+            <ar>طَرِيْقِي</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٣٦٧٤">
+      <text>
+         <ar>زَيْدٌ لَقِيْتُ أَخَاْهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>لَقِيْتُ</ar>
+         </t>
+         <t>
+            <ar>أَخَاْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٣٧٥٢">
       <text>
          <ar>أَهَنْتَ زَيْدًا بِإِهَاْنَتِكِ أَخَاْهُ</ar>
-         <free>You insulted Zayd by insulting his brother.</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -328,10 +324,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٤٨٥٤" nbr="21">
+   <dictum id="٧٤٨٥٤">
       <text>
          <ar>أَكْرَمْتَهُ بِإِكْرَاْمِكَ أَخَاْهُ</ar>
-         <free>You honored him by your honoring his brother</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -345,10 +341,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩١٨٩٣" nbr="22">
+   <dictum id="٩١٨٩٣">
       <text>
          <ar>إِنَّمَا أَعْطَيْتُ زَيْدًا</ar>
-         <free>In fact I gave Zayd</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -362,20 +358,19 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٧٦٥٦" nbr="23">
+   <dictum id="٥٧٦٥٦">
       <text>
          <ar>لِمَكَاْنِ زَيْدٍ أَعْطَيْتُ فُلَاْنًا</ar>
-         <free>In the place of Zayd I gave somebody</free>
+         <free/>
       </text>
       <igt>
-        <t class="idafah">
          <t>
             <ar>لِمَكَاْنِ</ar>
+            <en>in<ed>the</ed>place<ed>of</ed></en>
          </t>
          <t>
             <ar>زَيْدٍ</ar>
          </t>
-        </t>
          <t>
             <ar>أَعْطَيْتُ</ar>
          </t>
@@ -384,10 +379,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٨٠٢٨" nbr="24">
+   <dictum id="٩٨٠٢٨">
       <text>
          <ar>زَيْدًا لَقِيْتُ أَخَاْهُ</ar>
-         <free>Zayd, I met his brother</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -401,30 +396,30 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٢٤٠٧" nbr="25">
+   <dictum id="٨٢٤٠٧">
       <text>
          <ar>لَاْبَسْتُ زَيْدًا لَقِيْتُ أَخَاْهُ</ar>
-         <free>I consorted <ed>with</ed> Zayd, I met his brother</free>
+         <free/>
       </text>
       <igt>
-        <t>
-          <ar>لَاْبَسْتُ</ar>
-        </t>
-        <t>
-          <ar>زَيْدًا</ar>
-        </t>
-        <t>
-          <ar>لَقِيْتُ</ar>
-        </t>
-        <t>
-          <ar>أَخَاْهُ</ar>
-        </t>
+         <t>
+            <ar>لَاْبَسْتُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>لَقِيْتُ</ar>
+         </t>
+         <t>
+            <ar>أَخَاْهُ</ar>
+         </t>
       </igt>
    </dictum>
-   <dictum id="٦٩٠٤٦" nbr="26">
+   <dictum id="٦٩٠٤٦">
       <text>
          <ar>أَكْرَمْتُ زَيْدًا</ar>
-         <free>I honored Zayd</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -435,10 +430,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٣٩٠٦" nbr="27">
+   <dictum id="٣٣٩٠٦">
       <text>
          <ar>مَرَرْتُ بِزَيْدٍ وَلَقِيْتُ أَخَا عَمْرٍو</ar>
-         <free>I passed by Zayd and I met the brother of Amr</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -450,20 +445,18 @@
          <t>
             <ar>وَلَقِيْتُ</ar>
          </t>
-         <t class="idafah">
-           <t>
-             <ar>أَخَا</ar>
-           </t>
-           <t>
-             <ar>عَمْرٍو</ar>
-           </t>
+         <t>
+            <ar>أَخَا</ar>
+         </t>
+         <t>
+            <ar>عَمْرٍو</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٦٧٣٣" nbr="28">
+   <dictum id="٠٦٧٣٣">
       <text>
          <ar>أَيَّهُمْ تَرَ يَأْتِكَ</ar>
-         <free>Whichever-of-them you see should come to you</free>
+         <free>Whichever-of-them you should see, he would come to you</free>
       </text>
       <igt>
          <t>
@@ -477,10 +470,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٤٣٥٠" nbr="29">
+   <dictum id="٠٤٣٥٠">
       <text>
          <ar>أَيُّهُمْ تَرَهُ يَأْتِكَ</ar>
-         <free>Whichever-of-them: you see him, he should come to you</free>
+         <free>Whichever-of-them, should you see him, he would come to you</free>
       </text>
       <igt>
          <t>
@@ -494,10 +487,11 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٢٦٢٣" nbr="30">
+   <dictum id="٣٢٦٢٣">
       <text>
          <ar>أَيَّهُمْ تَرَ تَرَهُ يَأْتِكَ</ar>
-         <free>Whichever-of-them you see: you see him, he should come to you</free>
+         <free>Whichever-of-them you should see,
+         should you see him, he would come to you</free>
       </text>
       <igt>
          <t>

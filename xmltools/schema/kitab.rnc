@@ -114,7 +114,9 @@ bab =
 حرفة = element حرفة {text}
 
 مثل = element مثل { text } # model, prototype
-قبس = element قبس { (text | حرف | قول | آية)+ } # model, prototype
+قبس = element قبس {  # model, prototype
+          (text | حرف | قول | آية | مثال)+
+      }
 
 اسم = element اسم {
           attribute عدد {

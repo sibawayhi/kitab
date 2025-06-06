@@ -1,1 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="286">
+   <dictum id="٥٤٤٨٨">
+      <text>
+         <ar>قَدْ أُلِقَ الرَّجُلُ فَهُوَ مَأْلُوْقٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>أُلِقَ</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلُ</ar>
+         </t>
+         <t>
+            <ar>فَهُوَ</ar>
+         </t>
+         <t>
+            <ar>مَأْلُوْقٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٥٤٤٥">
+      <text>
+         <ar>هُوَ أَوَّلُ مِنْهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>أَوَّلُ</ar>
+         </t>
+         <t>
+            <ar>مِنْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٣٠٩٢">
+      <text>
+         <ar>مَرَرْتُ بِأَوَّلَ مِنْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِأَوَّلَ</ar>
+         </t>
+         <t>
+            <ar>مِنْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
