@@ -131,7 +131,10 @@ bab =
       }
 
 صفة = element صفة { text }
-فعل = element فعل { text }
+فعل = element فعل {
+          attribute هوية {text},
+          text
+      }
 مصدر = element مصدر { text }
 ثبات = element ثبات { text } # evidence (in مصراع)
 
