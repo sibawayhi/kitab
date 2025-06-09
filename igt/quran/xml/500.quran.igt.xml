@@ -1,1 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="500">
+   <ayah id="٢٧٩١٣" surah="٧٥" verse="٢٦">
+      <text>
+         <ar>كَلَّا إِذَا بَلَغَتِ التَّرَاْقِيَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كَلَّا</ar>
+         </t>
+         <t>
+            <ar>إِذَا</ar>
+         </t>
+         <t>
+            <ar>بَلَغَتِ</ar>
+         </t>
+         <t>
+            <ar>التَّرَاْقِيَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٥٧٤٩٦" surah="٨٩" verse="٤">
+      <text>
+         <ar>وَٱللَّيْلِ إِذَا يَسْرِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَٱللَّيْلِ</ar>
+         </t>
+         <t>
+            <ar>إِذَا</ar>
+         </t>
+         <t>
+            <ar>يَسْرِ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤٣٦٢١" surah="١٨" verse="٦٤">
+      <text>
+         <ar>مَا كُنَّا نَبْغِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>كُنَّا</ar>
+         </t>
+         <t>
+            <ar>نَبْغِ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٦١٧٣٦" surah="٤٠" verse="٣٢">
+      <text>
+         <ar>يَوْمَ ٱلتَّنَاْدِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَوْمَ</ar>
+         </t>
+         <t>
+            <ar>ٱلتَّنَاْدِ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٣٣٦٥٨" surah="١٣" verse="٩">
+      <text>
+         <ar>ٱلْكَبِيْرُ ٱلْمُتَعَاْلِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ٱلْكَبِيْرُ</ar>
+         </t>
+         <t>
+            <ar>ٱلْمُتَعَاْلِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
