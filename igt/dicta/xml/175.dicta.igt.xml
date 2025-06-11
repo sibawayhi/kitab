@@ -88,34 +88,6 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٢٤٩٦">
-      <text>
-         <ar>لَا رَجُلَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>لَا</ar>
-         </t>
-         <t>
-            <ar>رَجُلَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٨٤٩٦٢">
-      <text>
-         <ar>لَا شَيْءَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>لَا</ar>
-         </t>
-         <t>
-            <ar>شَيْءَ</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٧٦٠٧٢">
       <text>
          <ar>لَا رَجُلَ فِي مَكَاْنٍ</ar>

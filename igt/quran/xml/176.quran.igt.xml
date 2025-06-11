@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="176">
-   <ayah id="٧٤٢٠٣" surah="" verse="">
+   <ayah id="٢١٠٥٩" surah="٢" verse="٢٦">
       <text>
-         <ar>مَثَلًا مَا بِعُوْضَةِ</ar>
+         <ar>مَثَلًا مَّا بَعُوْضَةً</ar>
          <free/>
       </text>
       <igt>
@@ -11,10 +11,10 @@
             <ar>مَثَلًا</ar>
          </t>
          <t>
-            <ar>مَا</ar>
+            <ar>مَّا</ar>
          </t>
          <t>
-            <ar>بِعُوْضَةِ</ar>
+            <ar>بَعُوْضَةً</ar>
          </t>
       </igt>
    </ayah>
