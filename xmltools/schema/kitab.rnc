@@ -116,22 +116,33 @@ bab =
 
 مثل = element مثل { text } # model, prototype
 قبس = element قبس {  # model, prototype
-          (text | حرف | قول | آية | مثال | إمالة )+
+          (text | حرف | قول | آية | مثال | إمالة | اسم | صفة )+
       }
 
 اسم = element اسم {
           attribute عدد {
               "١" |             # singular
               "٢" |             # dual
+              "ج" |              # pl
               "ق" |             # pl of قِلّة
               "ك" |             # pl of كثرة
-              "ج"               # pl of جمع
+              "جج"               # pl of pl جمع الجمع
           }?,
           attribute مثال {text}?, # prototype
           text
       }
 
-صفة = element صفة { text }
+صفة = element صفة {
+          attribute عدد {
+              "١" |             # singular
+              "٢" |             # dual
+              "ج" |             # pl
+              "ق" |             # pl of قِلّة
+              "ك" |             # pl of كثرة
+              "جج"               # pl of pl جمع الجمع
+          }?,
+          text
+      }
 فعل = element فعل {
           attribute هوية {text},
           text
@@ -198,7 +209,8 @@ bab =
 
 # formal prototype using ف ع ل
 مثال = element مثال {    # prototype, e.g. <مثال>فَعْلَلَةٍ</مثال>
-          attribute عدد {
+           attribute ج {"*" | "?"}?,  # judgment; "*" = لا يجوز
+           attribute عدد {
               "١" |             # singular
               "٢" |             # dual
               "ق" |             # pl of قِلّة
