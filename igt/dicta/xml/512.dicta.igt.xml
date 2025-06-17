@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="512">
+   <dictum id="٦٠٩٣٠">
+      <text>
+         <ar>إِنَّهَا لَإِسْحَوْفُ الْأحَاْلِيْلِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّهَا</ar>
+         </t>
+         <t>
+            <ar>لَإِسْحَوْفُ</ar>
+         </t>
+         <t>
+            <ar>الْأحَاْلِيْلِ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
