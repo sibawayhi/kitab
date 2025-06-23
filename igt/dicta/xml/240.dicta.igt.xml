@@ -3,7 +3,7 @@
    <dictum id="٣٩٩٦٩">
       <text>
          <ar>سِرْتُ حَتَّى يَدْخُلَهَا زَيْدٌ</ar>
-         <free/>
+         <free>I journeyed until Zayd should enter it</free>
       </text>
       <igt>
          <t>
@@ -23,7 +23,7 @@
    <dictum id="٣٠٩١٢">
       <text>
          <ar>سِرْتُ حَتَّى تَطْلُعَ الشَّمْسُ</ar>
-         <free/>
+         <free>I journeyed until that the sun should rise</free>
       </text>
       <igt>
          <t>
@@ -33,17 +33,19 @@
             <ar>حَتَّى</ar>
          </t>
          <t>
-            <ar>تَطْلُعَ</ar>
+           <ar>تَطْلُعَ</ar>
+           <en>it-[should]-rise<infla/></en>
          </t>
          <t>
-            <ar>الشَّمْسُ</ar>
+           <ar>الشَّمْسُ</ar>
+           <en>the sun<influ/></en>
          </t>
       </igt>
    </dictum>
    <dictum id="٥٠٢٤٩">
       <text>
          <ar>سِرْتُ حَتَّى يَدْخُلُهَا ثَقَلِي</ar>
-         <free/>
+         <free>I journeyed until my stuff enters it</free>
       </text>
       <igt>
          <t>
@@ -54,16 +56,18 @@
          </t>
          <t>
             <ar>يَدْخُلُهَا</ar>
+            <en>it-enters-it</en>
          </t>
          <t>
             <ar>ثَقَلِي</ar>
+            <en>my-stuff</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٧٠٩٩٢">
       <text>
          <ar>سِرْتُ حَتَّى يَدْخُلُهَا بَدَنِي</ar>
-         <free/>
+         <free>I journeyed until my body enters it</free>
       </text>
       <igt>
          <t>
@@ -73,17 +77,19 @@
             <ar>حَتَّى</ar>
          </t>
          <t>
-            <ar>يَدْخُلُهَا</ar>
+           <ar>يَدْخُلُهَا</ar>
+           <en>it-enters-it</en>
          </t>
          <t>
-            <ar>بَدَنِي</ar>
+           <ar>بَدَنِي</ar>
+           <en>my-body</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٩٨٤٣٠">
       <text>
          <ar>سِرْتُ حَتَّى يَدْخُلَهَا زَيْدٌ وَأَدْخُلَهَا</ar>
-         <free/>
+         <free>I journeyed until that I enter it and Zayd enter it</free>
       </text>
       <igt>
          <t>
@@ -105,8 +111,8 @@
    </dictum>
    <dictum id="٩١٥٩٥">
       <text>
-         <ar>سِرْتُ حَتَّى أَدْخُلُهَا وَيَدْخُلُهَا زِيْدٌ</ar>
-         <free/>
+         <ar>سِرْتُ حَتَّى أَدْخُلُهَا وَيَدْخُلُهَا زَيْدٌ</ar>
+         <free>I journeyed until I enter it and Zayd enters it</free>
       </text>
       <igt>
          <t>
@@ -122,14 +128,14 @@
             <ar>وَيَدْخُلُهَا</ar>
          </t>
          <t>
-            <ar>زِيْدٌ</ar>
+            <ar>زَيْدٌ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٣٦٨٤٥">
       <text>
          <ar>سِرْتُ حَتَّى يَدْخُلُهَا زَيْدٌ</ar>
-         <free/>
+         <free>I journeyed until Zayd enters it</free>
       </text>
       <igt>
          <t>
@@ -149,7 +155,7 @@
    <dictum id="٧٨١٨٧">
       <text>
          <ar>سِرْتُ حَتَّى يَدْخُلُهَا ثَقَلِي</ar>
-         <free/>
+         <free>I journeyed until my stuff enters it</free>
       </text>
       <igt>
          <t>
@@ -159,17 +165,20 @@
             <ar>حَتَّى</ar>
          </t>
          <t>
-            <ar>يَدْخُلُهَا</ar>
+           <ar>يَدْخُلُهَا</ar>
+           <en>it-enters-it</en>
          </t>
          <t>
-            <ar>ثَقَلِي</ar>
+           <ar>ثَقَلِي</ar>
+           <en>my-stuff</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٧٢٩٢٢">
       <text>
          <ar>سِرْتُ حَتَّى أَدْخُلُهَا وَحَتَّى يَدْخُلَهَا زَيْدٌ</ar>
-         <free/>
+         <free>I journeyed until I enter it and until
+         Zayd should enter it</free>
       </text>
       <igt>
          <t>
@@ -194,12 +203,12 @@
    </dictum>
    <dictum id="٧٥٢٦٤">
       <text>
-         <ar>سِرْتَ حَتَّى أَدْخُلُهَا وَحَتَّى تَطْلُعَ الشَّمْسُ</ar>
-         <free/>
+         <ar>سِرْتُ حَتَّى أَدْخُلُهَا وَحَتَّى تَطْلُعَ الشَّمْسُ</ar>
+         <free>I journeyed until I enter it and until the sun should rise</free>
       </text>
       <igt>
          <t>
-            <ar>سِرْتَ</ar>
+            <ar>سِرْتُ</ar>
          </t>
          <t>
             <ar>حَتَّى</ar>
@@ -212,9 +221,11 @@
          </t>
          <t>
             <ar>تَطْلُعَ</ar>
+            <en>it-[should]-rise<infla/></en>
          </t>
          <t>
             <ar>الشَّمْسُ</ar>
+            <en>the-sun<influ/></en>
          </t>
       </igt>
    </dictum>
@@ -298,9 +309,154 @@
          </t>
          <t>
             <ar>وَتَطْلُعُ</ar>
+            <en>and-rises<influ/></en>
+         </t>
+         <t>
+           <ar>الشَّمْسُ</ar>
+           <en>the-sun<influ/></en>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٠٢٥١">
+      <text>
+         <ar>سِرْتُ حَتَّى تَطْلُعَ الشَّمْسُ وَحَتَّى أَدْخُلُهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>سِرْتُ</ar>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+         </t>
+         <t>
+            <ar>تَطْلُعَ</ar>
          </t>
          <t>
             <ar>الشَّمْسُ</ar>
+         </t>
+         <t>
+            <ar>وَحَتَّى</ar>
+         </t>
+         <t>
+            <ar>أَدْخُلُهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٩٤٣٨">
+      <text>
+         <ar>سِرْتُ إلَى يَوْمِ الْجُمْعَةِ وَحَتَّى أَدْخُلُهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>سِرْتُ</ar>
+         </t>
+         <t>
+            <ar>إلَى</ar>
+         </t>
+         <t>
+            <ar>يَوْمِ</ar>
+         </t>
+         <t>
+            <ar>الْجُمْعَةِ</ar>
+         </t>
+         <t>
+            <ar>وَحَتَّى</ar>
+         </t>
+         <t>
+            <ar>أَدْخُلُهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٨٦٥٠">
+      <text>
+         <ar>سِرْتَ وَسَاْرَ حَتَّى نَدْخُلُهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>سِرْتَ</ar>
+         </t>
+         <t>
+            <ar>وَسَاْرَ</ar>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+         </t>
+         <t>
+            <ar>نَدْخُلُهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٤٠٣٣">
+      <text>
+         <ar>سِرْنَا حَتَّى نَدْخُلُهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>سِرْنَا</ar>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+         </t>
+         <t>
+            <ar>نَدْخُلُهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧١٣٨٩">
+      <text>
+         <ar>سِرْتُ حَتَّى أَسْمَعَ الْأَذَاْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>سِرْتُ</ar>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+         </t>
+         <t>
+            <ar>أَسْمَعَ</ar>
+         </t>
+         <t>
+            <ar>الْأَذَاْنَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٨٢٥٩">
+      <text>
+         <ar>سِرْتُ حَتَّى أَكِلُّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>سِرْتُ</ar>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+         </t>
+         <t>
+            <ar>أَكِلُّ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٠٤٤٥">
+      <text>
+         <ar>سِرْتُ حَتَّى أُصْبِحَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>سِرْتُ</ar>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+         </t>
+         <t>
+            <ar>أُصْبِحَ</ar>
          </t>
       </igt>
    </dictum>

@@ -171,6 +171,7 @@
 
   <!-- harf ح -->
   <term><key>حَتَّى</key> <xlit>ḥᵃt&shadda;ᵃʎ</xlit> <gloss>until<ed>-that</ed></gloss></term>
+  <term><key>وَحَتَّى</key> <xlit>wᵃ-ḥᵃt&shadda;ᵃʎ</xlit> <gloss>and-until<ed>-that</ed></gloss></term>
   <term><key>حَمَلْتُ</key> <xlit>ḥᵃmᵃl°-tᵘ</xlit> <gloss>carried-I</gloss></term>
   <term><key>حَسِبْتُهُ</key> <xlit>ḥᵃsᵢb°-tᵘ-hᵘ</xlit> <gloss>reckoned-I-him</gloss></term>
 
@@ -222,6 +223,14 @@
   <term><key>دِرْهَمٌ</key> <xlit>dᵢr°hᵃm<influn/></xlit> <gloss><ed>a</ed>dirham<influn/></gloss></term>
   <term><key>دِرْهَمٍ</key> <xlit>dᵢr°hᵃm<inflin/></xlit> <gloss><ed>a</ed>dirham</gloss></term>
 
+  <term><key>دَخَلْتُ</key> <xlit>dᵃxᵃl°-tᵘ</xlit> <gloss>entered-I</gloss></term>
+  <term><key>أَدْخَلُ</key> <xlit>Ɂᵃd°xᵘl<influ/></xlit> <gloss>I-enter<influ/></gloss></term>
+  <term><key>أَدْخُلُهَا</key> <xlit>Ɂᵃd°xᵘl<influ/>-hᵃå</xlit> <gloss>I-enter<influ/>-it</gloss></term>
+  <term><key>أَدْخُلَهَا</key> <xlit>Ɂᵃd°xᵘl<infla/>-hᵃå</xlit> <gloss>I-[should]-enter<infla/>-it</gloss></term>
+  <term><key>وَأَدْخُلَهَا</key> <xlit>wᵃ-Ɂᵃd°xᵘl<infla/>-hᵃå</xlit> <gloss>and-I-[should]-enter<infla/>-it</gloss></term>
+  <term><key>يَدْخُلَهَا</key> <xlit>yᵃd°xᵘl<infla/>-hᵃå</xlit> <gloss>he-[should]-enter<infla/>-it</gloss></term>
+  <term><key>يَدْخُلُهَا</key> <xlit>yᵃd°xᵘl<influ/>-hᵃå</xlit> <gloss>he-enters<influ/>-it</gloss></term>
+  <term><key>وَيَدْخُلُهَا</key> <xlit>wᵃ-yᵃd°xᵘl<influ/>-hᵃå</xlit> <gloss>and-he-enters<influ/>-it</gloss></term>
 
   <!-- harf ذ -->
   <term><key>ذَاْكَ</key> <xlit>ðᵃå-kᵃ</xlit> <gloss>ðat<ed>ô-you</ed></gloss></term>
@@ -278,6 +287,9 @@
   <!-- harf س -->
   <term><key>سَوْفَ</key> <xlit>sᵃw°fᵃ</xlit> <gloss><ed>[fut.]</ed></gloss></term>
   <term><key>سَاْئِلًا</key> <xlit>sᵃåɁᵢl<inflan/></xlit> <gloss>questioning<inflan/></gloss></term>
+
+  <term><key>سِرْتُ</key> <xlit>sᵢr°-tᵘ</xlit> <gloss>journeyed-I</gloss></term>
+
   <term><key>سَيْفٌ</key> <xlit>sᵃẙf<influn/></xlit> <gloss>a_sword<influn/></gloss></term>
   <term><key>فَسَيْفٌ</key> <xlit>fᵃ-sᵃẙf<influn/></xlit> <gloss>then-a_sword<influn/></gloss></term>
   <term><key>سَيْفًا</key> <xlit>sᵃẙf<inflan/>|</xlit> <gloss>a_sword<inflan/></gloss></term>
@@ -364,7 +376,7 @@
   <gloss>likes<influn/></gloss></term>
   <term><key>أَضْعَاْفًا</key><xlit>Ɂᵃḍ°ʕᵃåf<inflan/>|</xlit>
   <gloss>likes<inflan/></gloss></term>
-  <term><key>أَضْعَاْفُهَا</key><xlit>Ɂᵃḍ°ʕᵃåf<influ/>hᵃå</xlit>
+  <term><key>أَضْعَاْفُهَا</key><xlit>Ɂᵃḍ°ʕᵃåf<influ/>-hᵃå</xlit>
   <gloss>its likes<influ/></gloss></term>
 
   <!-- harf ع -->
