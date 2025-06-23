@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="240">
-   <ayah id="٣٥٤٢٩" surah="" verse="">
+   <ayah id="٨٣٠٥٨" surah="٢" verse="٢١٤">
       <text>
-         <ar>وَزَلْزِلُوْا حَتَّى يَقُوْلَ الرَّسُوْلُ</ar>
+         <ar>وَزُلْزِلُوْا حَتَّى يَقُوْلَ الرَّسُوْلُ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>وَزَلْزِلُوْا</ar>
+            <ar>وَزُلْزِلُوْا</ar>
          </t>
          <t>
             <ar>حَتَّى</ar>
@@ -21,9 +21,9 @@
          </t>
       </igt>
    </ayah>
-   <ayah id="٣٦٧٠٠" surah="" verse="">
+   <ayah id="٥٨٢٦٩" surah="٢" verse="٢١٤">
       <text>
-         <ar>وَزَلْزِلُوْا حَتَّى يَقُوْلَ الرَّسُوْلَ</ar>
+         <ar>وَزَلْزِلُوْا حَتَّى يَقُوْلُ الرَّسُوْلُ</ar>
          <free/>
       </text>
       <igt>
@@ -34,10 +34,10 @@
             <ar>حَتَّى</ar>
          </t>
          <t>
-            <ar>يَقُوْلَ</ar>
+            <ar>يَقُوْلُ</ar>
          </t>
          <t>
-            <ar>الرَّسُوْلَ</ar>
+            <ar>الرَّسُوْلُ</ar>
          </t>
       </igt>
    </ayah>
