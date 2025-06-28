@@ -162,7 +162,7 @@
    <dictum id="٣٨٢١٦">
       <text>
          <ar>لَقَدْ سِرْتُ حَتَّى أَدْخُلُهَا مَا أُمْنَعُ</ar>
-         <free/>
+         <free>I have journeyed until I shall enter it if not prevented(?)</free>
       </text>
       <igt>
          <t>
@@ -175,13 +175,15 @@
             <ar>حَتَّى</ar>
          </t>
          <t>
-            <ar>أَدْخُلُهَا</ar>
+           <ar>أَدْخُلُهَا</ar>
+           <en>I-[shall]enter-it</en>
          </t>
          <t>
             <ar>مَا</ar>
          </t>
          <t>
-            <ar>أُمْنَعُ</ar>
+           <ar>أُمْنَعُ</ar>
+           <en>I-am-prevented</en>
          </t>
       </igt>
    </dictum>

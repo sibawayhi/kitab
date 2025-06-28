@@ -1,1 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="266">
+   <dictum id="٨٥١٥٣">
+      <text>
+         <ar>بَلَغَنِي قِصَّتُكَ أَنَّكَ فَاْعِلٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>بَلَغَنِي</ar>
+         </t>
+         <t>
+            <ar>قِصَّتُكَ</ar>
+         </t>
+         <t>
+            <ar>أَنَّكَ</ar>
+         </t>
+         <t>
+            <ar>فَاْعِلٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٣١٥١">
+      <text>
+         <ar>قَدْ بَلَغَنِي الْحَدِيْثُ أَنَّهُمْ مُنْطَلِقُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>بَلَغَنِي</ar>
+         </t>
+         <t>
+            <ar>الْحَدِيْثُ</ar>
+         </t>
+         <t>
+            <ar>أَنَّهُمْ</ar>
+         </t>
+         <t>
+            <ar>مُنْطَلِقُوْنَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

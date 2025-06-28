@@ -1,1 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="183">
+   <dictum id="٦١٥٤٧">
+      <text>
+         <ar>لَا غُلَاْمَ لَك وَلَا الْعَبَّاْسُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمَ</ar>
+         </t>
+         <t>
+            <ar>لَك</ar>
+         </t>
+         <t>
+            <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>الْعَبَّاْسُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨١٨٠١">
+      <text>
+         <ar>لَا غُلَاْمَ لَكَ وَأَخُوْهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمَ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+         <t>
+            <ar>وَأَخُوْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٨٤٢٤">
+      <text>
+         <ar>كُلُّ شَاْةٍ وَسَخَلْتِهَا بِدِرْهَمٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كُلُّ</ar>
+         </t>
+         <t>
+            <ar>شَاْةٍ</ar>
+         </t>
+         <t>
+            <ar>وَسَخَلْتِهَا</ar>
+         </t>
+         <t>
+            <ar>بِدِرْهَمٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٤٨٩٤">
+      <text>
+         <ar>لَا رَجُلَ لَكَ وَأَخَاْهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>رَجُلَ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+         <t>
+            <ar>وَأَخَاْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٦١٣٦">
+      <text>
+         <ar>لَا رَجُلَ لَكَ وَأَخًا لِهَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>رَجُلَ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+         <t>
+            <ar>وَأَخًا</ar>
+         </t>
+         <t>
+            <ar>لِهَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
