@@ -5,24 +5,28 @@
       <verse>
          <hemistiche>
             <text>
-               <ar>جَاْرِىَ لَا تَسْتَنْكِرِى عَذْيْرِى</ar>
+               <ar>جَاْرِيَ لَا تَسْتَنْكِرِي عَذِيْرِي</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>جَاْرِىَ</ar>
+                  <ar>جَاْرِيَ</ar>
                </t>
                <t>
                   <ar>لَا</ar>
                </t>
                <t>
-                  <ar>تَسْتَنْكِرِى</ar>
+                  <ar>تَسْتَنْكِرِي</ar>
                </t>
                <t>
-                  <ar>عَذْيْرِى</ar>
+                  <ar>عَذِيْرِي</ar>
                </t>
             </igt>
          </hemistiche>
       </verse>
+      <comment>
+        The <ar>يا</ar> and <ar>ـة</ar> of <ar>يا جَارِيَةُ</ar>
+        are both excised <ar>مَحْذُوْف</ar>, leaving <ar>جَارِيَ</ar>.
+      </comment>
    </verses>
 </poetry>
