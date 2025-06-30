@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="051">
-   <ayah id="١٧٨٨١" surah="" verse="">
+   <ayah id="١٧٨٨١" surah="٢" verse="١٣٥">
       <text>
          <ar>بَلْ مِلَّةَ إِبْرَاْهِيْمَ حَنِيْفًا</ar>
          <free/>
@@ -18,6 +18,26 @@
          </t>
          <t>
             <ar>حَنِيْفًا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٥٢٢٧١" surah="٢" verse="١٣٥">
+      <text>
+         <ar>كُوْنُوْا هُوْدًا أَوْ نَصَاْرَىٰ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كُوْنُوْا</ar>
+         </t>
+         <t>
+            <ar>هُوْدًا</ar>
+         </t>
+         <t>
+            <ar>أَوْ</ar>
+         </t>
+         <t>
+            <ar>نَصَاْرَىٰ</ar>
          </t>
       </igt>
    </ayah>
