@@ -46,7 +46,8 @@
    <dictum id="١٣٩١٤" nbr="4">
       <text>
          <ar>كَاْنَ عَبْدُ اللهِ مُنْطَلِقًا</ar>
-         <free>Abdallah was departing</free>
+         <free>Abdullah was departing</free>
+         <alt>It was Abdullah departing</alt>
       </text>
       <igt>
          <t>
@@ -94,7 +95,8 @@
    <dictum id="٥٤٥١٢" nbr="7">
       <text>
          <ar>رَأَيْتُ عَبْدَ اللهِ مُنْطَلِقًا</ar>
-         <free>I regarded Abdallah as departing</free>
+         <free>I saw Abdallah departing</free>
+         <alt>I regarded Abdallah as departing</alt>
       </text>
       <igt>
          <t>
@@ -113,7 +115,7 @@
       <text>
          <ar>كَاْنَ عَبْدُ اللهِ مُنْطَلِقًا</ar>
          <free>Abdullah was departing</free>
-         <alt>It was Abdullah<ed>that was</ed>departing</alt>
+         <alt><ed>It</ed> was Abdullah <ed>that was</ed> departing</alt>
       </text>
       <igt>
          <t>
@@ -132,6 +134,7 @@
       <text>
          <ar>مَرَرْتُ بِعَبْدِ اللهِ مُنْطَلِقًا</ar>
          <free>I passed by Abdullah departing</free>
+         <alt>I passed by Abdullah as he was departing</alt>
       </text>
       <igt>
          <t>
