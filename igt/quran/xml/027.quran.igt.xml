@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="027">
-   <ayah id="٨٠٩٧٢" nbr="1" surah="" verse="">
+   <ayah id="٨٠٩٧٢" surah="" verse="">
       <text>
-         <ar>قُلْ كَفَى بِاللّٰهِ شَهِيْدًا بَيْنِي وَبَيْنَكُمْ</ar>
+         <ar>قُلْ كَفَى بِاللهِ شَهِيْدًا بَيْنِي وَبَيْنَكُمْ</ar>
          <free/>
       </text>
       <igt>
@@ -14,7 +14,7 @@
             <ar>كَفَى</ar>
          </t>
          <t>
-            <ar>بِاللّٰهِ</ar>
+            <ar>بِاللهِ</ar>
          </t>
          <t>
             <ar>شَهِيْدًا</ar>
@@ -27,9 +27,10 @@
          </t>
       </igt>
    </ayah>
-   <ayah id="٤٧٤٩٤" nbr="2" surah="" verse="">
+   <ayah id="٤٧٤٩٤" surah="٥٦" verse="٢٢">
       <text>
-         <ar>وَحُوْرًا عِيْنًا</ar>
+         <ar>وَحُوْرًا عِيْنًا<نهاية آية="٢٢"/>
+         </ar>
          <free/>
       </text>
       <igt>
@@ -41,7 +42,7 @@
          </t>
       </igt>
    </ayah>
-   <ayah id="١٨٤٠٣" nbr="3" surah="" verse="">
+   <ayah id="١٨٤٠٣" surah="٤١" verse="١٧">
       <text>
          <ar>وَأَمَّا ثَمُوْدُ فَهَدَيْنَاهُمْ</ar>
          <free/>
