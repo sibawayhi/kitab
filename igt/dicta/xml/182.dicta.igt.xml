@@ -1,1 +1,223 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="182">
+   <dictum id="٨٤٧٧١">
+      <text>
+         <ar>أَغْلَاْمٌ عِنْدَك أَمْ جَاْرِيَةٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَغْلَاْمٌ</ar>
+         </t>
+         <t>
+            <ar>عِنْدَك</ar>
+         </t>
+         <t>
+            <ar>أَمْ</ar>
+         </t>
+         <t>
+            <ar>جَاْرِيَةٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٨٠٣٨">
+      <text>
+         <ar>هَلْ مِنْ غُلَاْمٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَلْ</ar>
+         </t>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٤٥٠٥">
+      <text>
+         <ar>لَا بَصْرَةَ لَكُمُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>بَصْرَةَ</ar>
+         </t>
+         <t>
+            <ar>لَكُمُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٦٩٨٤">
+      <text>
+         <ar>قَضِيَّةٌ وَلا أَبَا حَسَنٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَضِيَّةٌ</ar>
+         </t>
+         <t>
+            <ar>وَلا</ar>
+         </t>
+         <t>
+            <ar>أَبَا</ar>
+         </t>
+         <t>
+            <ar>حَسَنٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٨٠٥٨">
+      <text>
+         <ar>لَا أَمْثَاْلَ عَلِيٍّ لِهَذِهِ الْقَضِيَّةِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>أَمْثَاْلَ</ar>
+         </t>
+         <t>
+            <ar>عَلِيٍّ</ar>
+         </t>
+         <t>
+            <ar>لِهَذِهِ</ar>
+         </t>
+         <t>
+            <ar>الْقَضِيَّةِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٨٥٩٧">
+      <text>
+         <ar>أَذَا عِنْدَكَ أَمْ ذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَذَا</ar>
+         </t>
+         <t>
+            <ar>عِنْدَكَ</ar>
+         </t>
+         <t>
+            <ar>أَمْ</ar>
+         </t>
+         <t>
+            <ar>ذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٥١٣٢">
+      <text>
+         <ar>لَا فِيْهَا أَحَدٌ إِلَّا ضَعِيْفًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>أَحَدٌ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>ضَعِيْفًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧١٤٠٦">
+      <text>
+         <ar>لَا فِيْكَ خَيْرٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>فِيْكَ</ar>
+         </t>
+         <t>
+            <ar>خَيْرٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٢٤١٦">
+      <text>
+         <ar>لَا أَحَدَ أَفْضَلُ مِنْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>أَحَدَ</ar>
+         </t>
+         <t>
+            <ar>أَفْضَلُ</ar>
+         </t>
+         <t>
+            <ar>مِنْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٣٦٦٢">
+      <text>
+         <ar>لَا أَحَدَ فِيْهَا إلَّا زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>أَحَدَ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>إلَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٨٤٨٢">
+      <text>
+         <ar>لَا أَحَدٌ أَفْضَلَ مِنْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>أَحَدٌ</ar>
+         </t>
+         <t>
+            <ar>أَفْضَلَ</ar>
+         </t>
+         <t>
+            <ar>مِنْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

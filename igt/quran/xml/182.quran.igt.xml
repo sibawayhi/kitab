@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="182">
-   <ayah id="٦٢١٣٢" surah="" verse="">
+   <ayah id="٦٢١٣٢" surah="٢" verse="٣٨">
       <text>
          <ar>لا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُوْنَ</ar>
          <free/>
@@ -27,9 +27,11 @@
          </t>
       </igt>
    </ayah>
-   <ayah id="٦٢٩١٧" surah="" verse="">
+   <ayah id="٦٢٩١٧" surah="٣٧" verse="٤٧">
       <text>
-         <ar>لَا فِيْهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنَزِّفُوْنَ</ar>
+         <ar>
+    لَا فِيْهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنْزَفُوْنَ<نهاية آية="٤٧"/>
+         </ar>
          <free/>
       </text>
       <igt>
@@ -52,7 +54,7 @@
             <ar>عَنْهَا</ar>
          </t>
          <t>
-            <ar>يُنَزِّفُوْنَ</ar>
+            <ar>يُنْزَفُوْنَ</ar>
          </t>
       </igt>
    </ayah>
