@@ -1,1 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="180">
+   <dictum id="٣٩٥٤٠">
+      <text>
+         <ar>لَا غُلَاْمَيْنِ ظَرِيْفَيْنِ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمَيْنِ</ar>
+         </t>
+         <t>
+            <ar>ظَرِيْفَيْنِ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٤٣٦٧">
+      <text>
+         <ar>لَا مُسْلِمِيْنَ صَاْلِحِيْنَ لَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>مُسْلِمِيْنَ</ar>
+         </t>
+         <t>
+            <ar>صَاْلِحِيْنَ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
