@@ -1,1 +1,215 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="208">
+   <dictum id="٢٥٧٤٧">
+      <text>
+         <ar>عَلَيْكَ إِيَّاْهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَلَيْكَ</ar>
+         </t>
+         <t>
+            <ar>إِيَّاْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٨٢٦١">
+      <text>
+         <ar>رَأَيْتُ فِيْهَا إِيَّاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>إِيَّاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٩٥١٤">
+      <text>
+         <ar>رَأَيْتُ الْيَوْمَ إِيَّاْهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>الْيَوْمَ</ar>
+         </t>
+         <t>
+            <ar>إِيَّاْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٩٠١٨">
+      <text>
+         <ar>رَأَيْتُكَ فِيْهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُكَ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٠٥٥٩">
+      <text>
+         <ar>رَأَيْتُه الْيَوْمَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُه</ar>
+         </t>
+         <t>
+            <ar>الْيَوْمَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٤٦٣٤" j="؟">
+      <text>
+         <ar>ضَرَبَ زَيْدٌ إِيَّاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ضَرَبَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>إِيَّاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٢٦٣٧" j="؟">
+      <text>
+         <ar>إِنَّ فِيْهَا إِيَّاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>إِيَّاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٠٢٥٤">
+      <text>
+         <ar>إِنَّكَ فِيْهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّكَ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٧٢١٦">
+      <text>
+         <ar>ضَرْبَهُ زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ضَرْبَهُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٢٩٦٠">
+      <text>
+         <ar>إِنَّ فِيْهَا إِيَّاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>فِيْهَا</ar>
+         </t>
+         <t>
+            <ar>إِيَّاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٠٤١٥">
+      <text>
+         <ar>ضَرَبَ زَيْدٌ إِيَّاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ضَرَبَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>إِيَّاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٨٩٢٥">
+      <text>
+         <ar>مَا أَتَاْنِي إِلَّا أَنْتَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَتَاْنِي</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٩٧٠١">
+      <text>
+         <ar>مَا رَأَيْتُ إِلَّا إِيَّاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>إِيَّاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
