@@ -1,1 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="210">
+   <dictum id="١٠٥٠٣" j="*">
+      <text>
+         <ar>مَرَرْتُ بِزَيْدٍ وَأَنْتَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>وَأَنْتَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٥٦١٨" j="*">
+      <text>
+         <ar>مَا مَرَرْتُ بِأَحَدٍ إِلَّا أَنْتَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِأَحَدٍ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٠٦٠٤">
+      <text>
+         <ar>مَرَرْتُ بِزَيْدٍ وَبِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِزَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>وَبِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٢٩٠٢">
+      <text>
+         <ar>مَا مَرَرْتُ بِأَحَدٍ إِلَّا بِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِأَحَدٍ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>بِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
