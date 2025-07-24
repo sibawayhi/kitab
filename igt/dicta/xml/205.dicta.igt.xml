@@ -45,9 +45,9 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="">
+   <dictum id="٢٧٢٧٨">
       <text>
-         <ar>جَاْءَ عَبْدُ اللَّهِ وَأَنْتَ</ar>
+         <ar>جَاْءَ عَبْدُ اللهِ وَأَنْتَ</ar>
          <free/>
       </text>
       <igt>
@@ -58,14 +58,14 @@
             <ar>عَبْدُ</ar>
          </t>
          <t>
-            <ar>اللَّهِ</ar>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>وَأَنْتَ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="">
+   <dictum id="٢٤٣٥٤">
       <text>
          <ar>فِيْهَا أَنْتُمْ</ar>
          <free/>
@@ -79,7 +79,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="">
+   <dictum id="٩٨٧٨٨">
       <text>
          <ar>فِيْهَا هُمْ قِيَاْمًا</ar>
          <free/>
@@ -96,9 +96,9 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="">
+   <dictum id="٧٨٤٠٢">
       <text>
-         <ar>أَمَّا الْخَبِيْثُ فَأَنْتَ وَأَمَّا الْعَاْقِلُ فَهُوَ</ar>
+         <ar>أَمَّا الْخَبِيْثُ فَأَنْتَ</ar>
          <free/>
       </text>
       <igt>
@@ -111,8 +111,16 @@
          <t>
             <ar>فَأَنْتَ</ar>
          </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٥٧٥٠">
+      <text>
+         <ar>أَمَّا الْعَاْقِلُ فَهُوَ</ar>
+         <free/>
+      </text>
+      <igt>
          <t>
-            <ar>وَأَمَّا</ar>
+            <ar>أَمَّا</ar>
          </t>
          <t>
             <ar>الْعَاْقِلُ</ar>
@@ -122,7 +130,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="">
+   <dictum id="٥٢٩٣٠">
       <text>
          <ar>كُنَّا وَأَنْتُمْ ذَاْهِبِيْنِ</ar>
          <free/>
@@ -139,9 +147,9 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="">
+   <dictum id="١٠٢٠٦">
       <text>
-         <ar>أَهُوَ هَوَ</ar>
+         <ar>أَهُوَ هُوَ</ar>
          <free/>
       </text>
       <igt>
@@ -149,7 +157,240 @@
             <ar>أَهُوَ</ar>
          </t>
          <t>
-            <ar>هَوَ</ar>
+            <ar>هُوَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٤٨٨٣">
+      <text>
+         <ar>مَا جَاْءَ إلَّا أَنَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>جَاْءَ</ar>
+         </t>
+         <t>
+            <ar>إلَّا</ar>
+         </t>
+         <t>
+            <ar>أَنَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣١٢٢٢">
+      <text>
+         <ar>هَا أَنَا ذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَا</ar>
+         </t>
+         <t>
+            <ar>أَنَا</ar>
+         </t>
+         <t>
+            <ar>ذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٢١٨٩">
+      <text>
+         <ar>هَا نَحْنُ أُوْلَاْءِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَا</ar>
+         </t>
+         <t>
+            <ar>نَحْنُ</ar>
+         </t>
+         <t>
+            <ar>أُوْلَاْءِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٦٧٩٣">
+      <text>
+         <ar>هَا هُوَ ذَاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَا</ar>
+         </t>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>ذَاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٥٨١٢">
+      <text>
+         <ar>هَا هُمَا ذَاْنَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَا</ar>
+         </t>
+         <t>
+            <ar>هُمَا</ar>
+         </t>
+         <t>
+            <ar>ذَاْنَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢١٥٠٩">
+      <text>
+         <ar>هَا هُمْ أُوْلَئِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَا</ar>
+         </t>
+         <t>
+            <ar>هُمْ</ar>
+         </t>
+         <t>
+            <ar>أُوْلَئِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٣٩١٤">
+      <text>
+         <ar>هَا أَنْتَ ذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَا</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>ذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٩٥١٩">
+      <text>
+         <ar>هَا أَنْتُمَا ذَاْنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَا</ar>
+         </t>
+         <t>
+            <ar>أَنْتُمَا</ar>
+         </t>
+         <t>
+            <ar>ذَاْنِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨١٦٢٤">
+      <text>
+         <ar>هَا أَنْتُمْ أُوْلَاْءِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَا</ar>
+         </t>
+         <t>
+            <ar>أَنْتُمْ</ar>
+         </t>
+         <t>
+            <ar>أُوْلَاْءِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٣٤٣٦">
+      <text>
+         <ar>هَا أَنْتُنَّ أُوْلَاْءِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَا</ar>
+         </t>
+         <t>
+            <ar>أَنْتُنَّ</ar>
+         </t>
+         <t>
+            <ar>أُوْلَاْءِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٣١٩٥">
+      <text>
+         <ar>هَا هُنَّ أُوْلَئِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَا</ar>
+         </t>
+         <t>
+            <ar>هُنَّ</ar>
+         </t>
+         <t>
+            <ar>أُوْلَئِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٥٢٩٠">
+      <text>
+         <ar>إِي هَا اللهِ ذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِي</ar>
+         </t>
+         <t>
+            <ar>هَا</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>ذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٠٦١٣">
+      <text>
+         <ar>هٰذَا أَنْتَ تَقُوْلُ كَذَا وَكَذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>تَقُوْلُ</ar>
+         </t>
+         <t>
+            <ar>كَذَا</ar>
+         </t>
+         <t>
+            <ar>وَكَذَا</ar>
          </t>
       </igt>
    </dictum>

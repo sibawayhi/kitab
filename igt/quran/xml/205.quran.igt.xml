@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="205">
-   <ayah id="٢٠٤٢٧" surah="" verse="">
+   <ayah id="٢٠٤٢٧" surah="٢٧" verse="٤٢">
       <text>
          <ar>كَأَنَّهُ هُوَ وَأُوْتِيْنَا الْعِلْمَ</ar>
          <free/>
@@ -21,9 +21,9 @@
          </t>
       </igt>
    </ayah>
-   <ayah id="٣٠٢٨٣" surah="" verse="">
+   <ayah id="٣٠٢٨٣" surah="٣" verse="٦٦">
       <text>
-         <ar>هَا أَنْتُمْ هَؤْلًاْءُ</ar>
+         <ar>هَا أَنْتُمْ هٰؤُلَاْءِ</ar>
          <free/>
       </text>
       <igt>
@@ -34,24 +34,24 @@
             <ar>أَنْتُمْ</ar>
          </t>
          <t>
-            <ar>هَؤْلًاْءُ</ar>
+            <ar>هٰؤُلَاْءِ</ar>
          </t>
       </igt>
    </ayah>
-   <ayah id="٦٣٥٧٨" surah="" verse="">
+   <ayah id="٦٣٥٧٨" surah="٢" verse="٨٥">
       <text>
-         <ar>ثُمْ أَنْتُمْ هَؤُلَاْءِ تَقْتُلُوْنَ أَنْفُسَكَمُ</ar>
+         <ar>ثُمَّ أَنْتُمْ هٰؤُلَاْءِ تَقْتُلُوْنَ أَنْفُسَكَمُ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>ثُمْ</ar>
+            <ar>ثُمَّ</ar>
          </t>
          <t>
             <ar>أَنْتُمْ</ar>
          </t>
          <t>
-            <ar>هَؤُلَاْءِ</ar>
+            <ar>هٰؤُلَاْءِ</ar>
          </t>
          <t>
             <ar>تَقْتُلُوْنَ</ar>
