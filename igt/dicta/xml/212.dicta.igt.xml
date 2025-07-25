@@ -1,1 +1,175 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="212">
+   <dictum id="٥١٢٠٦">
+      <text>
+         <ar>اقْتُلْ نَفْسَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اقْتُلْ</ar>
+         </t>
+         <t>
+            <ar>نَفْسَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥١٨٨٦">
+      <text>
+         <ar>أَهْلَكْتَ نَفْسَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَهْلَكْتَ</ar>
+         </t>
+         <t>
+            <ar>نَفْسَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٦٤٠٤">
+      <text>
+         <ar>أَنْفَعُ نَفْسِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَنْفَعُ</ar>
+         </t>
+         <t>
+            <ar>نَفْسِي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٨٠٢٦">
+      <text>
+         <ar>ظَلَمَ نَفْسَهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ظَلَمَ</ar>
+         </t>
+         <t>
+            <ar>نَفْسَهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٩٣٤٥">
+      <text>
+         <ar>أَهْلَكَ نَفْسَهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَهْلَكَ</ar>
+         </t>
+         <t>
+            <ar>نَفْسَهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٣٦٠٩">
+      <text>
+         <ar>وَجَدْتُنِي فَعَلْتُ كَذَا وَكَذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَجَدْتُنِي</ar>
+         </t>
+         <t>
+            <ar>فَعَلْتُ</ar>
+         </t>
+         <t>
+            <ar>كَذَا</ar>
+         </t>
+         <t>
+            <ar>وَكَذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٥٥١٧">
+      <text>
+         <ar>رَأَيْتُنِي لَا يَسْتَقِيْمُ لِي هٰذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُنِي</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>يَسْتَقِيْمُ</ar>
+         </t>
+         <t>
+            <ar>لِي</ar>
+         </t>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٦٤٨٤">
+      <text>
+         <ar>يَظُنُّ نَفْسَهُ فَاْعِلَةً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَظُنُّ</ar>
+         </t>
+         <t>
+            <ar>نَفْسَهُ</ar>
+         </t>
+         <t>
+            <ar>فَاْعِلَةً</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٢٠٣٦">
+      <text>
+         <ar>أَظُنُّ نَفْسِي فَاْعِلَةً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَظُنُّ</ar>
+         </t>
+         <t>
+            <ar>نَفْسِي</ar>
+         </t>
+         <t>
+            <ar>فَاْعِلَةً</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٤٠٨٢">
+      <text>
+         <ar>أَهْلَكْتَ نَفْسَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَهْلَكْتَ</ar>
+         </t>
+         <t>
+            <ar>نَفْسَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٨٠٥١">
+      <text>
+         <ar>أَهْلَكْتَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَهْلَكْتَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
