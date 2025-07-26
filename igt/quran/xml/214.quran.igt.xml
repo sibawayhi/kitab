@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="214">
-   <ayah id="٤١٠٤٥" surah="" verse="">
+   <ayah id="٤١٠٤٥" surah="٣٤" verse="٣١">
       <text>
-         <ar>لُوْلَا أَنْتُمْ لَكِنَّا مُؤْمِنِيْنَ</ar>
+         <ar>لَوْلَا أَنْتُمْ لَكُنَّا مُؤْمِنِيْنَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>لُوْلَا</ar>
+            <ar>لَوْلَا</ar>
          </t>
          <t>
             <ar>أَنْتُمْ</ar>
          </t>
          <t>
-            <ar>لَكِنَّا</ar>
+            <ar>لَكُنَّا</ar>
          </t>
          <t>
             <ar>مُؤْمِنِيْنَ</ar>
