@@ -1,1 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="215">
+   <dictum id="٣٣٥٥٩">
+      <text>
+         <ar>لِعَبْدِ اللهِ مَاْلٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لِعَبْدِ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>مَاْلٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٧٢٧٦">
+      <text>
+         <ar>إِنَّ هٰذَا لَعَلِيٌّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>لَعَلِيٌّ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٢٠٩٧">
+      <text>
+         <ar>لَهٰذَا أَفْضَلُ مِنْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَهٰذَا</ar>
+         </t>
+         <t>
+            <ar>أَفْضَلُ</ar>
+         </t>
+         <t>
+            <ar>مِنْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٠٨٧٢">
+      <text>
+         <ar>يَا لَبَكْرٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>لَبَكْرٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٠٣٢٣">
+      <text>
+         <ar>أَعْطَيْتُكُمُوْهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَعْطَيْتُكُمُوْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٣٣٠٥">
+      <text>
+         <ar>أَعْطَيْتُكُمْ ذٰلِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَعْطَيْتُكُمْ</ar>
+         </t>
+         <t>
+            <ar>ذٰلِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٥٣٧٧">
+      <text>
+         <ar>أَعْطَيْتُكُمُ الْيَوْمَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَعْطَيْتُكُمُ</ar>
+         </t>
+         <t>
+            <ar>الْيَوْمَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٥٨٤٣">
+      <text>
+         <ar>أَعْطَيْتُكُمْهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَعْطَيْتُكُمْهُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤١٦٧٠">
+      <text>
+         <ar>أَعْطَيْتُكُمْهَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَعْطَيْتُكُمْهَا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
