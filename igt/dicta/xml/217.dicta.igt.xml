@@ -1,1 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="217">
+   <dictum id="٩٠٩٣٨">
+      <text>
+         <ar>رَأَيْتُهُمْ حَتَّى ذَاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُهُمْ</ar>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+         </t>
+         <t>
+            <ar>ذَاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦١٤٢٣">
+      <text>
+         <ar>دَعْهُ حَتَّى يَوْمِ كَذَا وَكَذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>دَعْهُ</ar>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+         </t>
+         <t>
+            <ar>يَوْمِ</ar>
+         </t>
+         <t>
+            <ar>كَذَا</ar>
+         </t>
+         <t>
+            <ar>وَكَذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٥٢٣٥">
+      <text>
+         <ar>دَعْهُ حَتَّى ذَاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>دَعْهُ</ar>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+         </t>
+         <t>
+            <ar>ذَاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٢٦٣٦">
+      <text>
+         <ar>دَعْهُ إِلَيْهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>دَعْهُ</ar>
+         </t>
+         <t>
+            <ar>إِلَيْهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١١٢٨٣">
+      <text>
+         <ar>مَا أَنْتَ كِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَنْتَ</ar>
+         </t>
+         <t>
+            <ar>كِي</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
