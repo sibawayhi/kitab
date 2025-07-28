@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="221">
-   <ayah id="٥٩٠٠٧" surah="" verse="">
+   <ayah id="٥٩٠٠٧" surah="١١" verse="٧٨">
       <text>
-         <ar>هَٰؤُلَاْءِ بَنَاْتِي هُنَّ أَطْهَرُ لَكُمْ</ar>
+         <ar>
+  هٰؤُلَاْءِ بَنَاْتِي هُنَّ أَطْهَرُ لَكُمْ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>هَٰؤُلَاْءِ</ar>
+            <ar>هٰؤُلَاْءِ</ar>
          </t>
          <t>
             <ar>بَنَاْتِي</ar>
