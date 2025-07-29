@@ -1,1 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="196">
+   <dictum id="٩٩٠٨١">
+      <text>
+         <ar>مَاْلِي إِلَّا زَيْدًا صَدِيْقٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَاْلِي</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>صَدِيْقٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٩٠٧٤">
+      <text>
+         <ar>لِي إِلَّا أَبَاْكَ صَدِيْقٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لِي</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>أَبَاْكَ</ar>
+         </t>
+         <t>
+            <ar>صَدِيْقٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
