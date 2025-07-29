@@ -1,1 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="191">
+   <dictum id="٠٩٢١٢">
+      <text>
+         <ar>لَا تَكُوْنَنَّ مِنْ فُلَاْنٍ فِي شَيْءٍ إِلَّا سَلَاْمًا بِسَلَاْمٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>تَكُوْنَنَّ</ar>
+         </t>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>فُلَاْنٍ</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>شَيْءٍ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>سَلَاْمًا</ar>
+         </t>
+         <t>
+            <ar>بِسَلَاْمٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٩٨٠٢">
+      <text>
+         <ar>مَا زَاْدَ إِلَّا مَا نَقَصَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>زَاْدَ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>نَقَصَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٥٨٤٠">
+      <text>
+         <ar>مَا نَفَعَ إِلَّا مَا ضَرَّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>نَفَعَ</ar>
+         </t>
+         <t>
+            <ar>إِلَّا</ar>
+         </t>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>ضَرَّ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٧٧٠٨">
+      <text>
+         <ar>مَا أَحْسَنَ مَا كَلَّمَ زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَحْسَنَ</ar>
+         </t>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>كَلَّمَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٦٨٩٥">
+      <text>
+         <ar>مَا أَحْسَنَ كَلَاْمَهُ زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَحْسَنَ</ar>
+         </t>
+         <t>
+            <ar>كَلَاْمَهُ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
