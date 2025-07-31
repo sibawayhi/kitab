@@ -1,1 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="155">
+   <ayah id="١٧٧٨٢" surah="٣٩" verse="١٦">
+      <text>
+         <ar>يَا عِبَاْدِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>عِبَاْدِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
