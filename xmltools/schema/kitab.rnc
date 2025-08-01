@@ -117,7 +117,15 @@ bab =
 
 مثل = element مثل { text } # model, prototype
 قبس = element قبس {  # model, prototype
-          (text | حرف | قول | آية | مثال | إمالة | اسم | صفة )+
+          (text
+          | حرف |
+          قول |
+          آية |
+          مثال |
+          إمالة |
+          اسم |
+          نداء |
+          صفة )+
       }
 
 اسم = element اسم {
