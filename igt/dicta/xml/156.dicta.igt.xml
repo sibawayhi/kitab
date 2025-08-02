@@ -1,1 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="156">
+   <dictum id="٩١٩٣٤">
+      <text>
+         <ar>مَرَرْت بِظَهْرِ هُو قَبْلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْت</ar>
+         </t>
+         <t>
+            <ar>بِظَهْرِ</ar>
+         </t>
+         <t>
+            <ar>هُو</ar>
+         </t>
+         <t>
+            <ar>قَبْلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٩٠٣٨">
+      <text>
+         <ar>مَرَرْتُ بِظَهْرِ هِيَ قَبْلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِظَهْرِ</ar>
+         </t>
+         <t>
+            <ar>هِيَ</ar>
+         </t>
+         <t>
+            <ar>قَبْلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٣٦٨٣" j="*">
+      <text>
+         <ar>هٰذَا أَبُو النَّضْرِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>أَبُو</ar>
+         </t>
+         <t>
+            <ar>النَّضْرِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٥١٢٧" j="*">
+      <text>
+         <ar>هَذِهِ ثَلَاْثَةُ الْأَثْوَاْبِكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَذِهِ</ar>
+         </t>
+         <t>
+            <ar>ثَلَاْثَةُ</ar>
+         </t>
+         <t>
+            <ar>الْأَثْوَاْبِكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
