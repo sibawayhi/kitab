@@ -1,1 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="159">
+   <dictum id="٦٣٨٣٢">
+      <text>
+         <ar>ضَاْرَبُكَ قَاْعِدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ضَاْرَبُكَ</ar>
+         </t>
+         <t>
+            <ar>قَاْعِدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
