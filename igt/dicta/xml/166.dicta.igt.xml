@@ -1,1 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="166">
+   <dictum id="٦٠٦٥٩">
+      <text>
+         <ar>هٰذَا زَيْدُ بْنُ عَمْرٍو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدُ</ar>
+         </t>
+         <t>
+            <ar>بْنُ</ar>
+         </t>
+         <t>
+            <ar>عَمْرٍو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٤٢٩١" j="*">
+      <text>
+         <ar>هٰذَا زَيْدُ ابْنُ أَخِيْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>زَيْدُ</ar>
+         </t>
+         <t>
+            <ar>ابْنُ</ar>
+         </t>
+         <t>
+            <ar>أَخِيْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
