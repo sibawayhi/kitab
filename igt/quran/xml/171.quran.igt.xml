@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="171">
-   <ayah id="٠٧٨٩٣" surah="" verse="">
+   <ayah id="٠٧٨٩٣" surah="٥" verse="١">
       <text>
-         <ar>غَيْرَ مَحَلِّي الصَّيْدِ وَأَنْتُمْ حَرَّمَ</ar>
+         <ar>غَيْرَ مُحَلِّي ٱلصَّيْدِ وَأَنْتُمْ حُرُمٌ</ar>
          <free/>
       </text>
       <igt>
@@ -11,16 +11,16 @@
             <ar>غَيْرَ</ar>
          </t>
          <t>
-            <ar>مَحَلِّي</ar>
+            <ar>مُحَلِّي</ar>
          </t>
          <t>
-            <ar>الصَّيْدِ</ar>
+            <ar>ٱلصَّيْدِ</ar>
          </t>
          <t>
             <ar>وَأَنْتُمْ</ar>
          </t>
          <t>
-            <ar>حَرَّمَ</ar>
+            <ar>حُرُمٌ</ar>
          </t>
       </igt>
    </ayah>
