@@ -1,1 +1,172 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="225">
+   <dictum id="٥٧٧٥٥">
+      <text>
+         <ar>رَأَيْتُ رَجُلًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>رَجُلًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٩٠١٤">
+      <text>
+         <ar>رَأَيْتُ رَجُلَيْنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>رَجُلَيْنِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٦٨٥٣">
+      <text>
+         <ar>رَأَيْتُ رِجَاْلًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>رِجَاْلًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٣٥٦٨">
+      <text>
+         <ar>رَأَيْتُ امْرَأَةً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>امْرَأَةً</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٩١٢٥">
+      <text>
+         <ar>أَيَّةً يَا فَتَى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَيَّةً</ar>
+         </t>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>فَتَى</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦١٧٠٣">
+      <text>
+         <ar>رَأَيْتُ امْرَأَتَيْنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>امْرَأَتَيْنِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٦٣١٠">
+      <text>
+         <ar>أَيَّتَيْنِ يَا فَتَى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَيَّتَيْنِ</ar>
+         </t>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>فَتَى</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٥٨٩٩">
+      <text>
+         <ar>رَأَيْتُ نِسْوَةً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>نِسْوَةً</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٧٥٤٦">
+      <text>
+         <ar>أَيَّاْتٍ يَا فَتَى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَيَّاْتٍ</ar>
+         </t>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>فَتَى</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٢٩١٤">
+      <text>
+         <ar>رَأَيْتُ عَبْدَ اللهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>عَبْدَ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٦٤٦٧">
+      <text>
+         <ar>مَرَرْتُ بِعَبْدِ اللهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِعَبْدِ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
