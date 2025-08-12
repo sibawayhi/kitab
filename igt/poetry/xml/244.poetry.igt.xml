@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="244">
-   <verses id="٨٨٢٥٢" poet="">
+   <verses id="٨٨٢٥٢" poet="رُؤْبَةُ">
       <verse>
          <hemistiche>
             <text>
@@ -78,7 +78,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٤١٩٧٨" poet="">
+   <verses id="٤١٩٧٨" poet="ابْنُ أَحْمَرَ">
       <verse>
          <hemistiche>
             <text>
@@ -119,7 +119,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨٢٧٠٤" poet="">
+   <verses id="٨٢٧٠٤" poet="عَبْدُ الرَّحْمَنِ بْنُ أُمِّ الْحَكَمِ">
       <verse>
          <hemistiche>
             <text>
