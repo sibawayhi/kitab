@@ -1,1 +1,132 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="201">
+   <dictum id="٣٦٠٨١">
+      <text>
+         <ar>مَا مِنْهُمْ مَاْتَ حَتَّى رَأَيْتُهُ فِي حَاْلِ كَذَا [ وَكَذَا ]</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مِنْهُمْ</ar>
+         </t>
+         <t>
+            <ar>مَاْتَ</ar>
+         </t>
+         <t>
+            <ar>حَتَّى</ar>
+         </t>
+         <t>
+            <ar>رَأَيْتُهُ</ar>
+         </t>
+         <t>
+            <ar>فِي</ar>
+         </t>
+         <t>
+            <ar>حَاْلِ</ar>
+         </t>
+         <t>
+            <ar>كَذَا</ar>
+         </t>
+         <t>
+            <ar>[</ar>
+         </t>
+         <t>
+            <ar>وَكَذَا</ar>
+         </t>
+         <t>
+            <ar>]</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٤٣٨٠">
+      <text>
+         <ar>مَا مِنْهُمْ وَاْحِدٌ مَاْتَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>مِنْهُمْ</ar>
+         </t>
+         <t>
+            <ar>وَاْحِدٌ</ar>
+         </t>
+         <t>
+            <ar>مَاْتَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٩٨٩٠">
+      <text>
+         <ar>لَوْ أَنَّ زَيْدًا هُنَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَوْ</ar>
+         </t>
+         <t>
+            <ar>أَنَّ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>هُنَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٠٤٧٦">
+      <text>
+         <ar>لَيْسَ أَحَدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>أَحَدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٣٧٧٩">
+      <text>
+         <ar>لَيْسَ هُنَا أَحْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَيْسَ</ar>
+         </t>
+         <t>
+            <ar>هُنَا</ar>
+         </t>
+         <t>
+            <ar>أَحْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩١٠٩٢">
+      <text>
+         <ar>هٰذَا الَّذِي أَمْسِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>الَّذِي</ar>
+         </t>
+         <t>
+            <ar>أَمْسِ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
