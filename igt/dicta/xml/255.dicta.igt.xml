@@ -1,1 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="255">
+   <dictum id="١٤٢٣١">
+      <text>
+         <ar>إِنْ كَاْنَ لَصَاْلِحًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنْ</ar>
+         </t>
+         <t>
+            <ar>كَاْنَ</ar>
+         </t>
+         <t>
+            <ar>لَصَاْلِحًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤١٣٦٦">
+      <text>
+         <ar>إِنَّ زَيْدًا لَيَضْرِبُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+         <t>
+            <ar>لَيَضْرِبُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٣٥٨٨">
+      <text>
+         <ar>قَدْ عَلِمْتُ لَعَبْدُ اللهِ خَيْرٌ مِنْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>عَلِمْتُ</ar>
+         </t>
+         <t>
+            <ar>لَعَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+         <t>
+            <ar>خَيْرٌ</ar>
+         </t>
+         <t>
+            <ar>مِنْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٥٠٢٣">
+      <text>
+         <ar>بَدَا لَهُمْ أَيُّهُمْ أَفْضَلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>بَدَا</ar>
+         </t>
+         <t>
+            <ar>لَهُمْ</ar>
+         </t>
+         <t>
+            <ar>أَيُّهُمْ</ar>
+         </t>
+         <t>
+            <ar>أَفْضَلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٧٢٩٨">
+      <text>
+         <ar>ظَهَرَ لَهُمْ أَهٰذَا أَفْضَلُ أَمْ هٰذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ظَهَرَ</ar>
+         </t>
+         <t>
+            <ar>لَهُمْ</ar>
+         </t>
+         <t>
+            <ar>أَهٰذَا</ar>
+         </t>
+         <t>
+            <ar>أَفْضَلُ</ar>
+         </t>
+         <t>
+            <ar>أَمْ</ar>
+         </t>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
