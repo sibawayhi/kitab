@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="258">
-   <verses id="٣١٧٢١" poet="">
+   <verses id="٣١٧٢١" poet="رُؤْبَةُ">
       <verse>
          <hemistiche>
             <text>
-               <ar>لًا تَشْتُمِ النّاْسَ كَمَا لَا تُشْتَمُ</ar>
+               <ar>لَا تَشْتُمِ النّاْسَ كَمَا لَا تُشْتَمُ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>لًا</ar>
+                  <ar>لَا</ar>
                </t>
                <t>
                   <ar>تَشْتُمِ</ar>
@@ -31,11 +31,11 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٣٦٨٦٠" poet="">
+   <verses id="٣٦٨٦٠" poet="أَبُو النّجْمِ">
       <verse>
          <hemistiche>
             <text>
-               <ar>قُلْتُ لِشَيْبَاْنَ ادْنُ مِنْ لَقَاْئِهْ</ar>
+               <ar>قُلْتُ لِشَيْبَاْنَ ادْنُ مِنْ لِقَاْئِهْ</ar>
                <free/>
             </text>
             <igt>
@@ -52,18 +52,18 @@
                   <ar>مِنْ</ar>
                </t>
                <t>
-                  <ar>لَقَاْئِهْ</ar>
+                  <ar>لِقَاْئِهْ</ar>
                </t>
             </igt>
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>كُمَا تُغَدِّي النَاْسَ مِنْ شِوَاْئِهِ</ar>
+               <ar>كَمَا تُغَدِّي النَاْسَ مِنْ شِوَاْئِهِ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>كُمَا</ar>
+                  <ar>كَمَا</ar>
                </t>
                <t>
                   <ar>تُغَدِّي</ar>

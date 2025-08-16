@@ -1,1 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="258">
+   <dictum id="١٨٨٦١">
+      <text>
+         <ar>انْتَظِرْنِي كَمَا آتِيْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>انْتَظِرْنِي</ar>
+         </t>
+         <t>
+            <ar>كَمَا</ar>
+         </t>
+         <t>
+            <ar>آتِيْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٠٦٥٤">
+      <text>
+         <ar>ارْقُبْنِي كَمَا أَلْحَقُكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ارْقُبْنِي</ar>
+         </t>
+         <t>
+            <ar>كَمَا</ar>
+         </t>
+         <t>
+            <ar>أَلْحَقُكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
