@@ -1,1 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="263">
+   <dictum id="٧٦٧٤٩">
+      <text>
+         <ar>ذٰلِكَ وَأَنَّ لَكَ عِنْدِي مَا أَحْبَبْتَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ذٰلِكَ</ar>
+         </t>
+         <t>
+            <ar>وَأَنَّ</ar>
+         </t>
+         <t>
+            <ar>لَكَ</ar>
+         </t>
+         <t>
+            <ar>عِنْدِي</ar>
+         </t>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>أَحْبَبْتَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
