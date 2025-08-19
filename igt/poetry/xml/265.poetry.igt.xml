@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="265">
-   <verses id="٠٩٧٧٣" poet="">
+   <verses id="٠٩٧٧٣" poet="ابْنُ الْإِطْنَاْبَةِ">
       <verse>
          <hemistiche>
             <text>
@@ -50,7 +50,7 @@
       <verse>
          <hemistiche>
             <text>
-               <ar>أَنَّمَا تَقْتُلُ النِّيَاْمُ وَلَا تَقْتُلُ</ar>
+               <ar>أَنَّمَا تَقْتُلُ النِّيَاْمَ وَلَا تَقْتُلُ</ar>
                <free/>
             </text>
             <igt>
@@ -61,7 +61,7 @@
                   <ar>تَقْتُلُ</ar>
                </t>
                <t>
-                  <ar>النِّيَاْمُ</ar>
+                  <ar>النِّيَاْمَ</ar>
                </t>
                <t>
                   <ar>وَلَا</ar>
@@ -73,12 +73,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>يَقْظَاْنُ ذَا سِلَاْحٍ كَمِيَّا</ar>
+               <ar>يَقْظَاْنَ ذَا سِلَاْحٍ كَمِيَّا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>يَقْظَاْنُ</ar>
+                  <ar>يَقْظَاْنَ</ar>
                </t>
                <t>
                   <ar>ذَا</ar>
@@ -93,11 +93,11 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="١١٥٩٨" poet="">
+   <verses id="١١٥٩٨" poet="كُثَيِّرٌ">
       <verse>
          <hemistiche>
             <text>
-               <ar>أَرَاْنِي وَلَا كُفْرَاْنَ لِلَّهِ إنَّمَا</ar>
+               <ar>أَرَاْنِي وَلَا كُفْرَاْنَ لِلهِ إِنَّمَا</ar>
                <free/>
             </text>
             <igt>
@@ -111,27 +111,24 @@
                   <ar>كُفْرَاْنَ</ar>
                </t>
                <t>
-                  <ar>لِلَّهِ</ar>
+                  <ar>لِلهِ</ar>
                </t>
                <t>
-                  <ar>إنَّمَا</ar>
+                  <ar>إِنَّمَا</ar>
                </t>
             </igt>
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>أٌ وَاخِي مِنْ الْأَقْوَاْمِ كُلَّ بَخِيْلٍ</ar>
+               <ar>أُوَاْخِي مِنَ الْأَقْوَاْمِ كُلَّ بَخِيْلٍ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>أٌ</ar>
+                  <ar>أُوَاْخِي</ar>
                </t>
                <t>
-                  <ar>وَاخِي</ar>
-               </t>
-               <t>
-                  <ar>مِنْ</ar>
+                  <ar>مِنَ</ar>
                </t>
                <t>
                   <ar>الْأَقْوَاْمِ</ar>
