@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="267">
-   <verses id="٣٤٣٧٣" poet="">
+   <verses id="٣٤٣٧٣" poet="ابْنُ مُقْبِلٍ">
       <verse>
          <hemistiche>
             <text>
@@ -53,21 +53,21 @@
       <verse>
          <hemistiche>
             <text>
-               <ar>وَأَنَّي إذَا مَلَّتْ رِكَّاْبِي مُنَاْخَهَا</ar>
+               <ar>وَإِنَّي إِذَا مَلَّتْ رِكَاْبِي مُنَاْخَهَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>وَأَنَّي</ar>
+                  <ar>وَإِنَّي</ar>
                </t>
                <t>
-                  <ar>إذَا</ar>
+                  <ar>إِذَا</ar>
                </t>
                <t>
                   <ar>مَلَّتْ</ar>
                </t>
                <t>
-                  <ar>رِكَّاْبِي</ar>
+                  <ar>رِكَاْبِي</ar>
                </t>
                <t>
                   <ar>مُنَاْخَهَا</ar>
@@ -76,7 +76,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>فَإِنِّي عَلَى حَظِّي مِنَ الْأَمْرِ جَاْمِحُ</ar>
+               <ar>فَإِنِّي عَلَى حَظٍّ مِنَ الْأَمْرِ جَاْمِحُ</ar>
                <free/>
             </text>
             <igt>
@@ -87,7 +87,7 @@
                   <ar>عَلَى</ar>
                </t>
                <t>
-                  <ar>حَظِّي</ar>
+                  <ar>حَظٍّ</ar>
                </t>
                <t>
                   <ar>مِنَ</ar>
