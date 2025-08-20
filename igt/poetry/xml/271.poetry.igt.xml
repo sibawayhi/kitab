@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="271">
-   <verses id="٦٣٠٣٨" poet="">
+   <verses id="٦٣٠٣٨" poet="كُثَيِّرٌ">
       <verse>
          <hemistiche>
             <text>
@@ -25,12 +25,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>إِلَاّْ وَإِنِّي لَحَاْجِزِيِ كَرَمِي</ar>
+               <ar>إِلَّا وَإِنِّي لَحَاْجِزِيِ كَرَمِي</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>إِلَاّْ</ar>
+                  <ar>إِلَّا</ar>
                </t>
                <t>
                   <ar>وَإِنِّي</ar>
