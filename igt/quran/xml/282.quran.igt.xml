@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="282">
-   <ayah id="٥٩٥٨٩" surah="" verse="">
+   <ayah id="٥٩٥٨٩" surah="٧٦" verse="٢٤">
       <text>
-         <ar>وَلَا تُطِعْ مِنْهُ آثِمًا أَوْ كَفُوْرَاًْ</ar>
+         <ar>
+  وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُوْرًا</ar>
          <free/>
       </text>
       <igt>
@@ -14,16 +15,16 @@
             <ar>تُطِعْ</ar>
          </t>
          <t>
-            <ar>مِنْهُ</ar>
+            <ar>مِنْهُمْ</ar>
          </t>
          <t>
-            <ar>آثِمًا</ar>
+            <ar>ءَاثِمًا</ar>
          </t>
          <t>
             <ar>أَوْ</ar>
          </t>
          <t>
-            <ar>كَفُوْرَاًْ</ar>
+            <ar>كَفُوْرًا</ar>
          </t>
       </igt>
    </ayah>
