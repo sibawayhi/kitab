@@ -1,1 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="279">
+   <dictum id="٤٤٥٥٠">
+      <text>
+         <ar>أَعْمَرٌو عِنْدَكَ أَمْ عِنْدَكَ زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَعْمَرٌو</ar>
+         </t>
+         <t>
+            <ar>عِنْدَكَ</ar>
+         </t>
+         <t>
+            <ar>أَمْ</ar>
+         </t>
+         <t>
+            <ar>عِنْدَكَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٧٥٤٠">
+      <text>
+         <ar>أَيُّهُمَا عِنْدَكَ عِنْدَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَيُّهُمَا</ar>
+         </t>
+         <t>
+            <ar>عِنْدَكَ</ar>
+         </t>
+         <t>
+            <ar>عِنْدَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٦٦١٣">
+      <text>
+         <ar>إِنَّهَا لَإِبِلٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّهَا</ar>
+         </t>
+         <t>
+            <ar>لَإِبِلٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٧٢٤٢">
+      <text>
+         <ar>أَعْمَرٌو عِنْدَكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَعْمَرٌو</ar>
+         </t>
+         <t>
+            <ar>عِنْدَكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٩٨٨٢">
+      <text>
+         <ar>إِنَّهَا لَإِبْلٌ أَمْ شَاْءٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّهَا</ar>
+         </t>
+         <t>
+            <ar>لَإِبْلٌ</ar>
+         </t>
+         <t>
+            <ar>أَمْ</ar>
+         </t>
+         <t>
+            <ar>شَاْءٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٧٥٢٧">
+      <text>
+         <ar>آلسَّعَاْدَةُ أَحَبُّ إِلَيْكَ أَمْ الشَّقَاْءُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>آلسَّعَاْدَةُ</ar>
+         </t>
+         <t>
+            <ar>أَحَبُّ</ar>
+         </t>
+         <t>
+            <ar>إِلَيْكَ</ar>
+         </t>
+         <t>
+            <ar>أَمْ</ar>
+         </t>
+         <t>
+            <ar>الشَّقَاْءُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٣٤٠٢">
+      <text>
+         <ar>أَعِنْدَكَ زَيْدٌ أَمْ لَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَعِنْدَكَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+         <t>
+            <ar>أَمْ</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٤٠٩٤">
+      <text>
+         <ar>إِنَّهَا لَإِبِلٌ أَمْ شَاْءٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنَّهَا</ar>
+         </t>
+         <t>
+            <ar>لَإِبِلٌ</ar>
+         </t>
+         <t>
+            <ar>أَمْ</ar>
+         </t>
+         <t>
+            <ar>شَاْءٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
