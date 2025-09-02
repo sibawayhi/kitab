@@ -142,7 +142,9 @@
   <!-- harf ب -->
   <term><key>بِكَ</key> <xlit>bᵢ-kᵃ</xlit> <gloss>by-you</gloss> <parse>prep-pro3sg</parse></term>
 
-  <term><key>بِهِ</key> <xlit>bᵢ-hᵢ</xlit> <gloss>by-him/it</gloss> <parse>prep-pro3sg</parse></term>
+  <term><key>بِهِ</key>
+  <xlit>bi-hi</xlit> <xlitx>bᵢ-hᵢ</xlitx>
+  <gloss>by-him/it</gloss> <parse>prep-pro3sg</parse></term>
   <term><key>بِمَا</key> <xlit>bᵢ-mᵃā</xlit> <gloss>by-what</gloss></term>
   <term><key>بِرَجُلٍ</key> <xlit>bᵢ-rᵃjᵘl<inflin/></xlit> <gloss>by-&LFLOOR;a man&RFLOOR;</gloss></term>
   <term><key>الْبَحْرِ</key> <xlit>_l°-bᵃḥ°r<infli/></xlit> <gloss>the-ocean<infli/></gloss></term>
@@ -158,7 +160,10 @@
   <gloss>complete<influn/></gloss></term>
 
   <!-- harf ج -->
-  <term><key>جَلَسَ</key> <xlit>jᵃlᵃsᵃ</xlit> <gloss>sat<ed>-he</ed></gloss> <parse>v31.perf</parse></term>
+  <term><key>جَلَسَ</key> <xlitx>jᵃlᵃsᵃ</xlitx>
+  <xlit>jalasa</xlit>
+  <gloss>sat<ed>-he</ed></gloss> <parse>v31.perf</parse></term>
+
   <term><key>الْجَبَلَ</key> <xlit>_l°-jᵃbᵃl<infla/></xlit> <gloss>the-mountain<infla/></gloss></term>
 
   <term><key>جُزِيَ</key> <xlit>jᵘzᵢyᵃ</xlit> <gloss>was_rewarded<ed>he</ed></gloss></term>
@@ -237,7 +242,9 @@
   <term><key>ذَاْكَ</key> <xlit>ðᵃå-kᵃ</xlit> <gloss>ðat<ed>ô-you</ed></gloss></term>
   <term><key>ذٰلِكَ</key> <xlit>ðᴬ-lᵢ-kᵃ</xlit> <gloss>ðat</gloss></term>
   <term><key>تَذْكُرُ</key> <xlit>tᵃð°kᵘrᵘ</xlit> <gloss>you-mention</gloss></term>
-  <term><key>ذَهَبَ</key> <xlit>ðᵃhᵃbᵃ</xlit> <gloss>went<ed>-he</ed></gloss></term>
+  <term><key>ذَهَبَ</key> <xlitx>ðᵃhᵃbᵃ</xlitx>
+  <xlit>ðahaba</xlit><gloss>went<ed>-he</ed></gloss></term>
+
   <term><key>ذَهَبْتُ</key> <xlit>ðᵃhᵃb°-tᵘ</xlit> <gloss>went-I</gloss></term>
   <term><key>ذَهَاْبٌ</key> <xlit>ðᵃhᵃåb<influn/></xlit> <gloss>going</gloss></term>
   <term><key>لَذَاْهِبٌ</key> <xlit>lᵃ-ðᵃåhᵢb<influn/></xlit> <gloss>going<influn/></gloss></term>
@@ -274,7 +281,10 @@
   </term>
 
   <!-- harf ز -->
-  <term><key>زَيْدٌ</key> <xlit>zᵃẙd<influn/></xlit> <gloss>Zayd<influn/></gloss></term>
+  <term><key>زَيْدٌ</key>
+  <xlit>zayd<influn/></xlit>
+  <xlitx>zᵃẙd<influn/></xlitx><gloss>Zayd<influn/></gloss></term>
+
   <term><key>زَيْدُ</key> <xlit>zᵃẙd<influ/></xlit> <gloss>Zayd<influn/></gloss></term>
   <term>
     <key>زَيْدًا</key> <xlit>zᵃẙd<inflan/></xlit> <gloss>Zayd<inflan/></gloss>
@@ -358,16 +368,18 @@
   <term>
     <key>الضَّرْبُ</key> <xlit>_-ḍ²ᵃr°b<influ/></xlit> <gloss>the-striking<influ/></gloss>
   </term>
-  <term><key>ضَرَبَ</key> <xlit>ḍᵃrᵃbᵃ</xlit> <gloss>struck</gloss> <parse>v31.perf</parse></term>
+  <term><key>ضَرَبَ</key> <xlit>ḍᵃrᵃbᵃ</xlit> <gloss>struck<ed>-he</ed></gloss> <parse>v31.perf</parse></term>
   <term><key>ضَرَبْتُ</key> <xlit>ḍᵃrᵃb°-tᵘ</xlit> <gloss>struck-I</gloss> <parse>v31.perf</parse></term>
   <term><key>ضَرَبْتُهُ</key> <xlit>ḍᵃrᵃb°-tᵘ-hᵘ</xlit> <gloss>struck-I-him</gloss> <parse>v31.perf</parse></term>
-  <term><key>ضُرِبَ</key> <xlit>ḍᵘrᵢbᵃ</xlit> <gloss>was-struck</gloss> <parse>v31.perf</parse></term>
+  <term><key>ضُرِبَ</key> <xlitx>ḍᵘrᵢbᵃ</xlitx>
+  <xlit>ḍuriba</xlit><gloss>was-struck<ed>-he</ed></gloss> <parse>v31.perf</parse></term>
   <term><key>أَضْرِبَ</key> <xlit>Ɂᵃḍ°rᵢb<infla/></xlit> <gloss>I_strike<infla/></gloss></term>
   <term><key>أَضْرِبْ</key> <xlit>Ɂᵃḍ°rᵢb<inflo/></xlit> <gloss>I_strike<inflo/></gloss></term>
   <term><key>أَضْرِبْهُ</key> <xlit>Ɂᵃḍ°rᵢb<inflo/>-hᵘ</xlit> <gloss>I_strike<inflo/>-him</gloss></term>
   <term><key>يَضْرِبُكَ</key> <xlit>yᵘḍ°rᵢb<influ/>-kᵃ</xlit> <gloss>he_strikes<influ/>-you</gloss></term>
   <term><key>يَضْرِبْكَ</key> <xlit>yᵘḍ°rᵢb<influ/>-kᵃ</xlit> <gloss>he_strike<inflo/>-you</gloss></term>
-  <term><key>يُضْرَبُ</key> <xlit>yᵘḍ°rᵃb<influ/></xlit> <gloss>he_being_struck<influ/></gloss> <parse>v31.perf</parse>
+  <term><key>يُضْرَبُ</key> <xlitx>yᵘḍ°rᵃb<influ/></xlitx>
+  <xlit>yuḍrab<influ/></xlit><gloss>he_being_struck<influ/></gloss> <parse>v31.perf</parse>
   <term><key>تَضْرِبُ</key> <xlit>tᵃḍ°rᵢb<influ/></xlit> <gloss>you_strike<influ/></gloss></term>
   <term><key>تَضْرِبَ</key> <xlit>tᵃḍ°rᵢb<infla/></xlit> <gloss>you_strike<infla/></gloss></term>
   <term><key>تَضْرِبْ</key> <xlit>tᵃḍ°rᵢb<inflo/></xlit> <gloss>you_strike<inflo/></gloss></term>
@@ -420,7 +432,8 @@
   </term>
 
   <term>
-    <key>عَمْرٌو</key> <xlit>ʕᵃm°r<influn/>w</xlit>
+    <key>عَمْرٌو</key> <xlitx>ʕᵃm°r<influn/>w</xlitx>
+    <xlit>ʕamr<influn/></xlit>
     <gloss>ʕAmr<influn/></gloss>
     <parse>v31.perf</parse>
   </term>
@@ -614,7 +627,9 @@
   <term><key>مَهْمَا</key> <xlit>mᵃh°mᵃā</xlit> <gloss>whatsoever</gloss></term>
 
   <term><key>الْمَرْءُ</key> <xlit>_l°-mᵃr°Ɂ<influ/></xlit> <gloss>the_man<influ/></gloss></term>
-  <term><key>مَرَرْتُ</key> <xlit>mᵃrᵃr°-tᵘ</xlit> <gloss>passed-I</gloss></term>
+
+  <term><key>مَرَرْتُ</key> <xlit>marar-tu</xlit>
+  <xlitx>mᵃrᵃr°-tᵘ</xlitx><gloss>passed-I</gloss></term>
 
   <!-- harf ن -->
   <term><key>النَّاْسِ</key> <xlit>_l°-nᵃås<infli/></xlit> <gloss>the_people</gloss></term>
