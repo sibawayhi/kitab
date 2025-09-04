@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="010">
-   <dictum id="٢٣٦٩٧" nbr="1">
+   <dictum id="٢٣٦٩٧">
       <text>
-         <ar>ضَرَبَ عَبْدُ اللّٰهِ زَيْدًا</ar>
+         <ar>ضَرَبَ عَبْدُ اللهِ زَيْدًا</ar>
          <free>Abdullah struck Zayd</free>
       </text>
       <igt>
@@ -10,20 +10,18 @@
             <ar>ضَرَبَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ</ar>
-         </t>
-         <t>
-            <ar>اللّٰهِ</ar>
+            <ar>عَبْدُ اللهِ</ar>
          </t>
          <t>
             <ar>زَيْدًا</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٠٨٩٦" nbr="2">
+
+   <dictum id="٤٠٨٩٦">
       <text>
          <ar>ضَرَبَ زَيْدًا عَبْدُ اللهِ</ar>
-         <free/>
+         <free>Abdullah struck Zayd</free>
       </text>
       <igt>
          <t>
@@ -33,17 +31,14 @@
             <ar>زَيْدًا</ar>
          </t>
          <t>
-            <ar>عَبْدُ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>عَبْدُ اللهِ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="١٤٩٨٣" nbr="3">
+   <dictum id="١٤٩٨٣">
       <text>
          <ar>قَدْ ذَهَبَ</ar>
-         <free>He has gone</free>
+         <free><ed>He</ed> has gone</free>
       </text>
       <igt>
          <t>
@@ -54,7 +49,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩١٩٨٠" nbr="4">
+   <dictum id="٩١٩٨٠">
       <text>
          <ar>قَدْ كَاْنَ مِنْهُ ذَهَاْبٌ</ar>
          <free>There was from him a going</free>
@@ -74,37 +69,32 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٧٩٣٧" nbr="5">
+   <dictum id="٥٧٩٣٧">
       <text>
          <ar>ضَرَبَ عَبْدُ اللهِ</ar>
-         <free/>
+         <free>Abdullah struck</free>
       </text>
       <igt>
          <t>
             <ar>ضَرَبَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>عَبْدُ اللهِ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٥٠٥٧" nbr="6">
+   <dictum id="٩٥٠٥٧">
       <text>
          <ar>ذَهَبَ عَبْدُ اللهِ الذَّهَاْبَ الشَّدِيْدَ</ar>
-         <free/>
+         <free>Abdullah went an intense going</free>
+         <alt>Abdullah went tenaciously(?)</alt>
       </text>
       <igt>
          <t>
             <ar>ذَهَبَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>عَبْدُ اللهِ</ar>
          </t>
          <t>
             <ar>الذَّهَاْبَ</ar>
@@ -114,10 +104,14 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٤٥٨١" nbr="7">
+   <dictum id="٢٤٥٨١">
       <text>
          <ar>قَعَدَ قِعْدَةَ سَوْءٍ</ar>
-         <free/>
+         <free>He sat in the manner of one who does evil</free>
+         <alt>He sat in a bad manner</alt>
+         <alt>He sat menacingly(?)</alt>
+         <alt>He sat with a hostile posture(?)</alt>
+         <alt>He sat in an ill-humored manner(?)</alt>
       </text>
       <igt>
          <t>
@@ -131,10 +125,11 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٤٧٩٠" nbr="8">
+   <dictum id="٠٤٧٩٠">
       <text>
          <ar>قَعَدَ قَعْدَتَيْنِ</ar>
-         <free/>
+         <free><ed>He</ed> sat two sittings</free>
+         <alt><ed>He</ed> sat twice</alt>
       </text>
       <igt>
          <t>
@@ -145,24 +140,24 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="١٩٩٩٩" nbr="9">
+   <dictum id="١٩٩٩٩">
       <text>
-         <ar>قَعَدَ القُرْفُصَاْءَ</ar>
-         <free/>
+         <ar>قَعَدَ الْقُرْفُصَاْءَ</ar>
+         <free><ed>He</ed> sat with arms around legs</free>
       </text>
       <igt>
          <t>
             <ar>قَعَدَ</ar>
          </t>
          <t>
-            <ar>القُرْفُصَاْءَ</ar>
+            <ar>الْقُرْفُصَاْءَ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٧٩٥٧" nbr="10">
+   <dictum id="٨٧٩٥٧">
       <text>
          <ar>اشْتَمَلَ الصَّمَّاْءَ</ar>
-         <free/>
+         <free><ed>He</ed> wrapped himself completely(?)</free>
       </text>
       <igt>
          <t>
@@ -173,24 +168,25 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦٤٨٨٤" nbr="11">
+   <dictum id="٦٤٨٨٤">
       <text>
-         <ar>رَجَعَ القَهْقَرَى</ar>
-         <free/>
+         <ar>رَجَعَ الْقَهْقَرَى</ar>
+         <free><ed>He</ed> returned backwards</free>
+         <alt><ed>He</ed> retreated</alt>
       </text>
       <igt>
          <t>
             <ar>رَجَعَ</ar>
          </t>
          <t>
-            <ar>القَهْقَرَى</ar>
+            <ar>الْقَهْقَرَى</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٧٦١٦" nbr="12">
+   <dictum id="٩٧٦١٦">
       <text>
          <ar>قَعَدَ شَهْرَيْنِ</ar>
-         <free/>
+         <free><ed>He</ed> sat two months</free>
       </text>
       <igt>
          <t>
@@ -201,24 +197,24 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٨٧٠٣" nbr="13">
+   <dictum id="٧٨٧٠٣">
       <text>
-         <ar>سَيَقْعَدُ شَهْرَيْنِ</ar>
-         <free/>
+         <ar>سَيَقْعُدُ شَهْرَيْنِ</ar>
+         <free><ed>He</ed> will sit two months</free>
       </text>
       <igt>
          <t>
-            <ar>سَيَقْعَدُ</ar>
+            <ar>سَيَقْعُدُ</ar>
          </t>
          <t>
             <ar>شَهْرَيْنِ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٢٨١٤" nbr="14">
+   <dictum id="٨٢٨١٤">
       <text>
          <ar>ذَهَبْتُ أَمْسِ</ar>
-         <free/>
+         <free>I went yesterday</free>
       </text>
       <igt>
          <t>
@@ -229,10 +225,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٩٢٣٢" nbr="15">
+   <dictum id="٠٩٢٣٢">
       <text>
          <ar>سَأَذْهَبُ غَدًا</ar>
-         <free/>
+         <free>I will go tomorrow</free>
       </text>
       <igt>
          <t>
@@ -243,7 +239,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨١٦٤٤" nbr="16">
+   <dictum id="٨١٦٤٤">
       <text>
          <ar>ذَهَبْتُ الْمَذْهَبَ الْبَعِيْدَ</ar>
          <free/>
@@ -260,7 +256,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨١٣١٤" nbr="17">
+   <dictum id="٨١٣١٤">
       <text>
          <ar>جَلَسْتُ مَجْلِسًا حَسَنًا</ar>
          <free/>
@@ -277,7 +273,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٤٣٣٢" nbr="18">
+   <dictum id="٨٤٣٣٢">
       <text>
          <ar>قَعَدْتُ مَقْعَدًا كَرِيْمًا</ar>
          <free/>
@@ -294,7 +290,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٢٢٣٠" nbr="19">
+   <dictum id="٤٢٢٣٠">
       <text>
          <ar>قَعَدْتُ الْمَكَاْنَ الَّذِي رَأَيْتَ</ar>
          <free/>
@@ -314,7 +310,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٢٤٨٨" nbr="20">
+   <dictum id="٤٢٤٨٨">
       <text>
          <ar>ذَهَبْتُ وَجْهًا مِنَ الْوُجُوْهِ</ar>
          <free/>
@@ -334,7 +330,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٦٣٤٥٥" nbr="21">
+   <dictum id="٦٣٤٥٥">
       <text>
          <ar>ذَهَبْتُ الشَّاْمَ</ar>
          <free/>
@@ -348,7 +344,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٨١٩٩" nbr="22">
+   <dictum id="٩٨١٩٩">
       <text>
          <ar>دَخَلْتُ الْبَيْتَ</ar>
          <free/>
@@ -362,7 +358,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٩٨٠٦" nbr="23">
+   <dictum id="٤٩٨٠٦">
       <text>
          <ar>ذَهَبْتُ فَرْسَخَيْنِ</ar>
          <free/>
@@ -376,7 +372,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="١٤٤١٤" nbr="24">
+   <dictum id="١٤٤١٤">
       <text>
          <ar>سِرْتُ الْمِيْلَيْنِ</ar>
          <free/>
@@ -390,7 +386,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٩٨٦٨" nbr="25">
+   <dictum id="٥٩٨٦٨">
       <text>
          <ar>ذَهَبْتُ شَهْرَيْنِ</ar>
          <free/>
@@ -404,7 +400,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="١٦٣٢٣" nbr="26">
+   <dictum id="١٦٣٢٣">
       <text>
          <ar>سِرْتُ الْيَوْمَيْنِ</ar>
          <free/>

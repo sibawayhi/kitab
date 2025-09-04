@@ -3,7 +3,8 @@
    <dictum id="٦٣٧٩٢">
       <text>
          <ar>هٰذَا ضَارِبٌ زَيْدًا غَدًا</ar>
-         <free/>
+         <free>This <ed>one</ed> will strike Zayd tomorrow</free>
+         <alt>This <ed>one</ed> will be striking Zayd tomorrow</alt>
       </text>
       <igt>
          <t>
@@ -23,7 +24,7 @@
    <dictum id="٧٦٧٤٨">
       <text>
          <ar>هٰذَا يَضْرِبُ زَيْدًا غَدًا</ar>
-         <free/>
+         <free>This <ed>one</ed> will strike Zayd tomorrow</free>
       </text>
       <igt>
          <t>
@@ -40,33 +41,33 @@
          </t>
       </igt>
    </dictum>
+
    <dictum id="٦٣١٣٣">
       <text>
-         <ar>هٰذَا ضَارِبٌ عَبْدَ اللّٰهِ السَّاعَةَ</ar>
-         <free/>
+         <ar>هٰذَا ضَاْرِبٌ عَبْدَ اللّٰهِ السَّاْعَةَ</ar>
+         <free>This <ed>one</ed> is striking Abdallah now</free>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>ضَارِبٌ</ar>
+            <ar>ضَاْرِبٌ</ar>
          </t>
          <t>
-            <ar>عَبْدَ</ar>
+            <ar>عَبْدَ اللهِ</ar>
          </t>
          <t>
-            <ar>اللّٰهِ</ar>
-         </t>
-         <t>
-            <ar>السَّاعَةَ</ar>
+            <ar>السَّاْعَةَ</ar>
          </t>
       </igt>
    </dictum>
+
    <dictum id="٣٠٠٣٦">
       <text>
-         <ar>هٰذَا يَضْرِبُ زَيْدًا السَّاعَةَ</ar>
-         <free/>
+         <ar>هٰذَا يَضْرِبُ زَيْدًا السَّاْعَةَ</ar>
+         <free>This <ed>one</ed> strikes Zayd now</free>
+         <alt>This <ed>one</ed> is striking Zayd now</alt>
       </text>
       <igt>
          <t>
@@ -79,76 +80,78 @@
             <ar>زَيْدًا</ar>
          </t>
          <t>
-            <ar>السَّاعَةَ</ar>
+            <ar>السَّاْعَةَ</ar>
          </t>
       </igt>
    </dictum>
+
    <dictum id="٧٩٧١٦">
       <text>
-         <ar>كَانَ زَيْدٌ ضَارِبًا أَبَاكَ</ar>
-         <free/>
+         <ar>كَاْنَ زَيْدٌ ضَاْرِبًا أَبَاْكَ</ar>
+         <free>Zayd was striking your father</free>
       </text>
       <igt>
          <t>
-            <ar>كَانَ</ar>
+            <ar>كَاْنَ</ar>
          </t>
          <t>
             <ar>زَيْدٌ</ar>
          </t>
          <t>
-            <ar>ضَارِبًا</ar>
+            <ar>ضَاْرِبًا</ar>
          </t>
          <t>
-            <ar>أَبَاكَ</ar>
+            <ar>أَبَاْكَ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٧٠٦٠٤">
       <text>
-         <ar>كَانَ مُوَافِقًا زَيْدًا</ar>
-         <free/>
+         <ar>كَاْنَ مُوَاْفِقًا زَيْدًا</ar>
+         <free><ed>He</ed> was agreeing <ed>with</ed> Zayd</free>
       </text>
       <igt>
          <t>
-            <ar>كَانَ</ar>
+            <ar>كَاْنَ</ar>
          </t>
          <t>
-            <ar>مُوَافِقًا</ar>
+            <ar>مُوَاْفِقًا</ar>
          </t>
          <t>
             <ar>زَيْدًا</ar>
          </t>
       </igt>
    </dictum>
+
    <dictum id="١٨٥٢٨">
       <text>
-         <ar>كَانَ يَضْرِبُ أَبَاكَ</ar>
-         <free/>
+         <ar>كَاْنَ يَضْرِبُ أَبَاْكَ</ar>
+         <free><ed>He</ed> was striking your father</free>
       </text>
       <igt>
          <t>
-            <ar>كَانَ</ar>
+            <ar>كَاْنَ</ar>
          </t>
          <t>
             <ar>يَضْرِبُ</ar>
          </t>
          <t>
-            <ar>أَبَاكَ</ar>
+            <ar>أَبَاْكَ</ar>
          </t>
       </igt>
    </dictum>
+
    <dictum id="٣٧٠٢٦">
       <text>
-         <ar>
-            <ed>كَاْنَ</ed> يُوَافِقُ زَيْدًا</ar>
-         <free/>
+         <ar><ed>كَاْنَ</ed> يُوَاْفِقُ زَيْدًا</ar>
+         <free><ed>He</ed> was agreeing <ed>with</ed> Zayd</free>
       </text>
       <igt>
          <t ed="1">
             <ar>كَاْنَ</ar>
          </t>
          <t>
-            <ar>يُوَافِقُ</ar>
+            <ar>يُوَاْفِقُ</ar>
          </t>
          <t>
             <ar>زَيْدًا</ar>
@@ -157,15 +160,16 @@
    </dictum>
    <dictum id="٢٩٤٥١">
       <text>
-         <ar>هُوَ كَائِنُ أَخِيْكَ</ar>
-         <free/>
+         <ar>هُوَ كَاْئِنُ أَخِيْكَ</ar>
+         <free>He was being <ed>of</ed> your brother</free>
+         <alt>He was your brother</alt>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
          <t>
-            <ar>كَائِنُ</ar>
+            <ar>كَاْئِنُ</ar>
          </t>
          <t>
             <ar>أَخِيْكَ</ar>
@@ -174,25 +178,26 @@
    </dictum>
    <dictum id="٦٣٩٤٥">
       <text>
-         <ar>هُوَ كَائِنٌ أَخَاكَ</ar>
-         <free/>
+         <ar>هُوَ كَاْئِنٌ أَخَاْكَ</ar>
+         <free>He was being your brother</free>
+         <alt>He was your brother</alt>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
          <t>
-            <ar>كَائِنٌ</ar>
+            <ar>كَاْئِنٌ</ar>
          </t>
          <t>
-            <ar>أَخَاكَ</ar>
+            <ar>أَخَاْكَ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٤٣٤٦٤">
       <text>
          <ar>رَمَى الْقَوْمُ</ar>
-         <free/>
+         <free>The people went forth</free>
       </text>
       <igt>
          <t>
@@ -205,15 +210,17 @@
    </dictum>
    <dictum id="٤٢١٢٠">
       <text>
-         <ar>هٰذَا ضَارِبُ زَيْدٍ وَعَمْرٍو</ar>
-         <free/>
+         <ar>هٰذَا ضَاْرِبُ زَيْدٍ وَعَمْرٍو</ar>
+         <free>This <ed>one</ed> is the striker of Zayd and Amr</free>
+         <alt>This <ed>one</ed> is striking Zayd and Amr</alt>
+         <alt>This <ed>one</ed> will be striking Zayd and Amr</alt>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>ضَارِبُ</ar>
+            <ar>ضَاْرِبُ</ar>
          </t>
          <t>
             <ar>زَيْدٍ</ar>
@@ -225,15 +232,17 @@
    </dictum>
    <dictum id="١١١٢٥">
       <text>
-         <ar>هٰذَا ضَارِبُ زَيْدٍ وَعَمْرًا</ar>
-         <free/>
+         <ar>هٰذَا ضَاْرِبُ زَيْدٍ وَعَمْرًا</ar>
+         <free>This <ed>one</ed> is the striker of Zayd and Amr</free>
+         <alt>This <ed>one</ed> is striking Zayd and Amr</alt>
+         <alt>This <ed>one</ed> will be striking Zayd and Amr</alt>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>ضَارِبُ</ar>
+            <ar>ضَاْرِبُ</ar>
          </t>
          <t>
             <ar>زَيْدٍ</ar>
@@ -246,15 +255,16 @@
    <dictum id="٩١٣٩٥">
       <text>
          <ar>
-            <ed>هٰذَا ضَارِبُ زَيْدٍ</ed> وَيَضْرِبُ عَمْرًا</ar>
-         <free/>
+            <ed>هٰذَا ضَاْرِبُ زَيْدٍ</ed> وَيَضْرِبُ عَمْرًا</ar>
+            <free><ed>...</ed> and [he] strikes Amr</free>
+            <alt><ed>...</ed> and [he] is/will-be striking Amr</alt>
       </text>
       <igt>
          <t ed="1">
             <ar>هٰذَا</ar>
          </t>
          <t ed="1">
-            <ar>ضَارِبُ</ar>
+            <ar>ضَاْرِبُ</ar>
          </t>
          <t ed="1">
             <ar>زَيْدٍ</ar>
@@ -270,21 +280,21 @@
    <dictum id="٦٨٤٦٥">
       <text>
          <ar>
-            <ed>هٰذَا ضَارِبُ زَيْدٍ</ed> وَضَارِبٌ عَمْرًا</ar>
-         <free/>
+            <ed>هٰذَا ضَاْرِبُ زَيْدٍ</ed> وَضَاْرِبٌ عَمْرًا</ar>
+            <free><ed>...</ed> and [he] is/will-be striking Amr</free>
       </text>
       <igt>
          <t ed="1">
             <ar>هٰذَا</ar>
          </t>
          <t ed="1">
-            <ar>ضَارِبُ</ar>
+            <ar>ضَاْرِبُ</ar>
          </t>
          <t ed="1">
             <ar>زَيْدٍ</ar>
          </t>
          <t>
-            <ar>وَضَارِبٌ</ar>
+            <ar>وَضَاْرِبٌ</ar>
          </t>
          <t>
             <ar>عَمْرًا</ar>
@@ -339,7 +349,7 @@
    </dictum>
    <dictum id="٤٣٥١٧">
       <text>
-         <ar>هٰذَا ضَارِبُ عَبْدِ اللّٰهِ وَأَخِيْهِ</ar>
+         <ar>هٰذَا ضَاْرِبُ عَبْدِ اللّٰهِ وَأَخِيْهِ</ar>
          <free/>
       </text>
       <igt>
@@ -347,7 +357,7 @@
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>ضَارِبُ</ar>
+            <ar>ضَاْرِبُ</ar>
          </t>
          <t>
             <ar>عَبْدِ</ar>
@@ -362,7 +372,7 @@
    </dictum>
    <dictum id="١٣٧٧٩">
       <text>
-         <ar>هٰذَا ضَارِبُ زْيَدٍ فِيْهَا وَأَخِيْهِ</ar>
+         <ar>هٰذَا ضَاْرِبُ زْيَدٍ فِيْهَا وَأَخِيْهِ</ar>
          <free/>
       </text>
       <igt>
@@ -370,7 +380,7 @@
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>ضَارِبُ</ar>
+            <ar>ضَاْرِبُ</ar>
          </t>
          <t>
             <ar>زْيَدٍ</ar>
@@ -411,7 +421,7 @@
    </dictum>
    <dictum id="٦٠٦٩٨">
       <text>
-         <ar>هٰذَا ضَارِبُ عَبْدِ اللّٰهِ ضَرْبًا شَدِيْدًا وَعَمْرُوٍ</ar>
+         <ar>هٰذَا ضَاْرِبُ عَبْدِ اللّٰهِ ضَرْبًا شَدِيْدًا وَعَمْرُوٍ</ar>
          <free/>
       </text>
       <igt>
@@ -419,7 +429,7 @@
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>ضَارِبُ</ar>
+            <ar>ضَاْرِبُ</ar>
          </t>
          <t>
             <ar>عَبْدِ</ar>
@@ -440,7 +450,7 @@
    </dictum>
    <dictum id="٤٦٢٨٦">
       <text>
-         <ar>هٰذَا ضَارِبُ عَبْدِ اللّٰهِ وَزَيْدًا</ar>
+         <ar>هٰذَا ضَاْرِبُ عَبْدِ اللّٰهِ وَزَيْدًا</ar>
          <free/>
       </text>
       <igt>
@@ -448,7 +458,7 @@
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>ضَارِبُ</ar>
+            <ar>ضَاْرِبُ</ar>
          </t>
          <t>
             <ar>عَبْدِ</ar>
@@ -463,7 +473,7 @@
    </dictum>
    <dictum id="٢٦٢٨٠">
       <text>
-         <ar>هٰذَا ضَارِبُ زَيْدٍ</ar>
+         <ar>هٰذَا ضَاْرِبُ زَيْدٍ</ar>
          <free/>
       </text>
       <igt>
@@ -471,7 +481,7 @@
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>ضَارِبُ</ar>
+            <ar>ضَاْرِبُ</ar>
          </t>
          <t>
             <ar>زَيْدٍ</ar>
