@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="020">
-   <dictum id="٤٣٠٠٩" nbr="1">
+   <dictum id="٤٣٠٠٩">
       <text>
          <ar>لَيْسَ زَيْدٌ بِجَبَاْنٍ وَلَا بَخِيْلًا</ar>
          <free/>
@@ -23,7 +23,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٧٨٠١" nbr="2">
+   <dictum id="٥٧٨٠١">
       <text>
          <ar>مَا زَيْدٌ بِأَخِيْكَ وَلَا صَاْحِبَكَ</ar>
          <free/>
@@ -46,7 +46,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٣٤٨٠" nbr="3">
+   <dictum id="٢٣٤٨٠">
       <text>
          <ar>هٰذَا جُحْرُ ضَبٍّ خَرِبٍ</ar>
          <free/>
@@ -66,7 +66,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٤٦٣٨" nbr="4">
+   <dictum id="٥٤٦٣٨">
       <text>
          <ar>حَسْبُكَ هٰذَا</ar>
          <free/>
@@ -80,21 +80,21 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٤٨٢٨" nbr="5">
+   <dictum id="٤٤٨٢٨">
       <text>
-         <ar>بِحَسْبِكِ هٰذَا</ar>
+         <ar>بِحَسْبِكَ هٰذَا</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>بِحَسْبِكِ</ar>
+            <ar>بِحَسْبِكَ</ar>
          </t>
          <t>
             <ar>هٰذَا</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٩١٩٤١" nbr="6">
+   <dictum id="٩١٩٤١">
       <text>
          <ar>مَا زَيْدٌ عَلَى قَوْمِنَا وَلَا عِنْدَنَا</ar>
          <free/>
@@ -120,7 +120,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٦٥٥١" nbr="7">
+   <dictum id="٤٦٥٥١">
       <text>
          <ar>أَخَذْتَنَا بِالْجَوْدِ وَفَوْقَهُ</ar>
          <free/>
@@ -137,7 +137,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢١٥٤٩" nbr="8">
+   <dictum id="٢١٥٤٩">
       <text>
          <ar>مَا زَيْدٌ كَعَمْرٍو وَلَا شَبِيْهًا بِهِ</ar>
          <free/>
@@ -163,7 +163,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٩٢٢٦" nbr="9">
+   <dictum id="٥٩٢٢٦">
       <text>
          <ar>مَا عَمْرٌو كَخَاْلِدٍ وَلَا مُفْلِحًا</ar>
          <free/>
@@ -186,7 +186,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٦٨٣٩" nbr="10">
+   <dictum id="٩٦٨٣٩">
       <text>
          <ar>مَا هُوَ مِثْلَ فُلَاْنٍ وَلَا مُفْلِحًا</ar>
          <free/>
@@ -212,7 +212,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥١٨٢١" nbr="11">
+   <dictum id="٥١٨٢١">
       <text>
          <ar>وَلَا بِمَنْزِلَةِ مَنْ يُشْبِهُهُ</ar>
          <free/>
@@ -232,7 +232,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٦٢٩٩" nbr="12">
+   <dictum id="٥٦٢٩٩">
       <text>
          <ar>مَا أَنْتَ كَزَيْدٍ وَلَا شَبِيْهٍ بِهِ</ar>
          <free/>
@@ -258,7 +258,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٦٠١٥" nbr="13">
+   <dictum id="٩٦٠١٥">
       <text>
          <ar>مَا أَنْتَ بِزَيْدٍ وَلَا قَرِيْبًا مِنْهُ</ar>
          <free/>
