@@ -296,9 +296,13 @@
   <term><key>سَأَذْهَبُ</key> <xlitx>sᵃ-&HAMZ;ᵃð°hᵃb<influ/></xlitx>
   <xlit>sa-&HAMZ;aðhab<influ/></xlit>
   <gloss>I-will-go</gloss></term>
+
   <term><key>سَيَذْهَبُ</key> <xlitx>sᵃ-yᵃð°hᵃb<influ/></xlitx>
   <xlit>sa-yaðhab<influ/></xlit>
   <gloss>he-will-go</gloss></term>
+  <term><key>يَذْهَبُ</key> <xlitx>yᵃð°hᵃb<influ/></xlitx>
+  <xlit>yaðhab<influ/></xlit>
+  <gloss>he-goes</gloss></term>
 
   <term><key>ذَهَبْتُ</key> <xlitx>ðᵃhᵃb°-tᵘ</xlitx>
   <xlit>ðahab-tu</xlit><gloss>went-I</gloss></term>
@@ -341,7 +345,8 @@
   <term><key>لَرَاْغِبٌ</key> <xlit>lᵃ-rᵃågᵢb<influn/></xlit> <gloss>desirous<influn/></gloss></term>
 
   <term>
-    <key>رَأَيْتُ</key> <xlit>rᵃɁᵃẙ-tᵘ</xlit> <gloss>saw-I</gloss>
+    <key>رَأَيْتُ</key> <xlitx>rᵃɁᵃẙ-tᵘ</xlitx>
+    <xlit>raɁaẙ-tu</xlit><gloss>saw-I</gloss>
   </term>
   <term>
     <key>تَرَهُ</key> <xlit>tᵃrᵃ-hᵘ</xlit> <gloss>see-you-him</gloss>
@@ -451,11 +456,17 @@
     <key>لَمُنْطَلِقٌ</key> <xlit>lᵃ-mᵘn°ṭᵃlᵢq<influn/></xlit> <gloss>departing<influn/></gloss> <parse>ap.m.1</parse>
   </term>
   <term>
-    <key>مُنْطَلِقٌ</key> <xlit>mᵘn°ṭᵃlᵢq<influn/></xlit> <gloss>departing<influn/></gloss> <parse>ap.m.1</parse>
+    <key>مُنْطَلِقٌ</key> <xlitx>mᵘn°ṭᵃlᵢq<influn/></xlitx>
+    <xlit>munṭaliq<influn/></xlit>
+    <gloss>departing<influn/></gloss> <parse>ap.m.1</parse>
   </term>
   <term>
-    <key>مُنْطَلِقًا</key> <xlit>mᵘn°ṭᵃlᵢq<inflan/></xlit> <gloss>departing<inflan/></gloss> <parse>ap.m.1</parse>
+    <key>مُنْطَلِقًا</key> <xlitx>mᵘn°ṭᵃlᵢq<inflan/></xlitx>
+    <xlit>munṭaliq<inflan/></xlit>
+    <gloss>departing<inflan/></gloss> <parse>ap.m.1</parse>
   </term>
+  <term><key>انْطَلَقَ</key> <xlitx>_n°ṭᵃlᵃqᵃ</xlitx>
+  <xlit>_nṭalaqa</xlit> <gloss>departed<ed>-he</ed></gloss></term>
   <term><key>انْطَلَقْتُ</key> <xlit>_n°ṭᵃlᵃq°-tᵘ</xlit> <gloss>departed-I</gloss></term>
   <term><key>اِنْطَلَقْتُ</key> <xlit>ᵢn°ṭᵃlᵃq°-tᵘ</xlit> <gloss>departed-I</gloss></term>
   <term><key>يَنْطَلِقُ</key> <xlit>yᵃn°ṭᵃlᵢq<influ/></xlit> <gloss>he-departs<influ/></gloss></term>
@@ -549,6 +560,11 @@
   <term><key>عَبْدَ اللهِ</key> <xlitx>&LCEIL;ʕᵃb°d<infla/> ـll²āh<infli/>&RCEIL;</xlitx>
   <xlit>ʕabd<infla/> ـll²āh<infli/></xlit>
     <gloss>&LFLOOR;ʕAbd<infla/> llah<infli/>&RFLOOR;</gloss> <parse>v31.perf</parse>
+  </term>
+  <term><key>بِعَبْدِ اللهِ</key>
+  <xlitx>&LCEIL;bᵢ-ʕᵃb°d<infli/> ـll²āh<infli/>&RCEIL;</xlitx>
+  <xlit>bi-ʕabd<infli/> ـll²āh<infli/></xlit>
+    <gloss>ʕAbd<infli/> llah<infli/></gloss> <parse>v31.perf</parse>
   </term>
 
   <term><key>عَبْدٍ</key> <xlit>ʕᵃb°d<inflin/></xlit>
@@ -789,7 +805,8 @@
     <key>لَاْبَسْتُ</key> <xlit>lᵃåbᵃs°-tᵘ</xlit> <gloss>consorted-I</gloss>
   </term>
   <term>
-    <key>لَيْتَ</key> <xlit>lᵃẙtᵃ</xlit> <gloss>would that</gloss>
+    <key>لَيْتَ</key> <xlitx>lᵃẙtᵃ</xlitx>
+    <xlit>layta</xlit> <gloss>would that</gloss>
   </term>
   <term>
     <key>لَيْسَ</key> <xlitx>lᵃẙsᵃ</xlitx>
