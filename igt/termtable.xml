@@ -10,6 +10,7 @@
 <!ENTITY theta "θ">
 <!ENTITY eth "ð">               <!-- U+00F0 -->
 <!ENTITY DH "ð">
+<!ENTITY X  "ẋ">
 <!ENTITY H  "ḥ">
 <!ENTITY sh "š">
 <!ENTITY S  "ṣ">
@@ -17,9 +18,11 @@
 <!ENTITY T  "ṭ">
 <!ENTITY Z  "ẓ">
 <!ENTITY AYN "ʕ">
-<!ENTITY HAMZ "Ɂ">
+<!ENTITY HAMZ "ˀ">
+<!-- <!ENTITY HAMZ "Ɂ"> -->
 <!ENTITY A "å">
 <!ENTITY I "ẙ">
+<!ENTITY maqsur "ă">
 <!ENTITY U "ẘ">
 <!ENTITY damm "ᵘ">
 <!ENTITY dammatan "&#x064C;">

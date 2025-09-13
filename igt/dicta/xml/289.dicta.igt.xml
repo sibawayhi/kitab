@@ -1,1 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="289">
+   <dictum id="٣٨١٦٢">
+      <text>
+         <ar>هٰذَا رَجُلٌ أَفْعَلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>رَجُلٌ</ar>
+         </t>
+         <t>
+            <ar>أَفْعَلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٣٤٩٨">
+      <text>
+         <ar>أَفْعَلَ زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَفْعَلَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٤٩٣٤">
+      <text>
+         <ar>هٰذَا رَجُلٌ أَفْعَلَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>رَجُلٌ</ar>
+         </t>
+         <t>
+            <ar>أَفْعَلَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٨٤٣٠">
+      <text>
+         <ar>أَفْعَلَ زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَفْعَلَ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٤٣٣٠">
+      <text>
+         <ar>هٰذَا رَجُلٌ فَعْلَاْنُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>رَجُلٌ</ar>
+         </t>
+         <t>
+            <ar>فَعْلَاْنُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٧٤٢٠">
+      <text>
+         <ar>هٰذَا رَجُلٌ فَعَنْلًى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>رَجُلٌ</ar>
+         </t>
+         <t>
+            <ar>فَعَنْلًى</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٧٨٠٤">
+      <text>
+         <ar>هٰذَا رَجُلٌ حَبَنْطًى يَا هٰذَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>رَجُلٌ</ar>
+         </t>
+         <t>
+            <ar>حَبَنْطًى</ar>
+         </t>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦١٥١٨">
+      <text>
+         <ar>هٰذَا رَجُلٌ أَفْعَلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>رَجُلٌ</ar>
+         </t>
+         <t>
+            <ar>أَفْعَلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
