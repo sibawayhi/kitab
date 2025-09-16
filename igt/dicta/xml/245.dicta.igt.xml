@@ -121,8 +121,7 @@
       </text>
       <igt>
          <t>
-           <ar>مَنْ</ar>
-           <en>who?</en>
+            <ar>مَنْ</ar>
          </t>
          <t>
             <ar>يَضْرِبُكَ</ar>
@@ -149,11 +148,14 @@
    <dictum id="٣٦٨٢٠">
       <text>
          <ar>مَتَى مَا تَأْتِنِي آتِكَ</ar>
-         <free>Whensoeveer you come to me, I come to you</free>
+         <free/>
       </text>
       <igt>
          <t>
-            <ar>مَتَى مَا</ar>
+            <ar>مَتَى</ar>
+         </t>
+         <t>
+            <ar>مَا</ar>
          </t>
          <t>
             <ar>تَأْتِنِي</ar>
@@ -240,7 +242,7 @@
    <dictum id="٧٣٣١٥">
       <text>
          <ar>آتِيْكَ إِذَا احْمَرَّ الْبُسْرُ</ar>
-         <free>I come to you when the unripe dates shall have ripened</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -260,7 +262,7 @@
    <dictum id="٤٤٦٨٠">
       <text>
          <ar>آتِيْكَ إِنِ احْمَرَّ الْبُسْرُ</ar>
-         <free>I come to you if the unripe dates ripened</free>
+         <free/>
       </text>
       <igt>
          <t>
