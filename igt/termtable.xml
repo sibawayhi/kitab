@@ -213,8 +213,10 @@
   <term><key>جَيِّدُ</key> <xlit>jᵃy&shadda;ᵢd<influ/></xlit> <gloss>excellent</gloss></term>
 
   <!-- harf ح -->
-  <term><key>حَتَّى</key> <xlit>ḥᵃt&shadda;ᵃʎ</xlit> <gloss>until<ed>-that</ed></gloss></term>
-  <term><key>وَحَتَّى</key> <xlit>wᵃ-ḥᵃt&shadda;ᵃʎ</xlit> <gloss>and-until<ed>-that</ed></gloss></term>
+  <term><key>حَتَّى</key> <xlitx>ḥᵃt&shadda;ᵃʎ</xlitx>
+  <xlit>ḥattă</xlit><gloss>until<ed>-that</ed></gloss></term>
+  <term><key>وَحَتَّى</key> <xlitx>wᵃ-ḥᵃt&shadda;ᵃʎ</xlitx>
+  <xlit>wa-ḥattă</xlit><gloss>and-until<ed>-that</ed></gloss></term>
   <term><key>حَمَلْتُ</key> <xlit>ḥᵃmᵃl°-tᵘ</xlit> <gloss>carried-I</gloss></term>
 
   <term><key>حَسْبُكَ</key> <xlitx>ḥᵃs°b<influ/>-kᵃ</xlitx>
@@ -280,8 +282,10 @@
   <term><key>أَدْخُلُهَا</key> <xlit>Ɂᵃd°xᵘl<influ/>-hᵃå</xlit> <gloss>I-enter<influ/>-it</gloss></term>
   <term><key>أَدْخُلَهَا</key> <xlit>Ɂᵃd°xᵘl<infla/>-hᵃå</xlit> <gloss>I-[should]-enter<infla/>-it</gloss></term>
   <term><key>وَأَدْخُلَهَا</key> <xlit>wᵃ-Ɂᵃd°xᵘl<infla/>-hᵃå</xlit> <gloss>and-I-[should]-enter<infla/>-it</gloss></term>
-  <term><key>يَدْخُلَهَا</key> <xlit>yᵃd°xᵘl<infla/>-hᵃå</xlit> <gloss>he-[should]-enter<infla/>-it</gloss></term>
-  <term><key>يَدْخُلُهَا</key> <xlit>yᵃd°xᵘl<influ/>-hᵃå</xlit> <gloss>he-enters<influ/>-it</gloss></term>
+  <term><key>يَدْخُلَهَا</key> <xlitx>yᵃd°xᵘl<infla/>-hᵃå</xlitx>
+  <xlit>yadẋul<infla/>-hā</xlit><gloss>he-[should]-enter<infla/>-it</gloss></term>
+  <term><key>يَدْخُلُهَا</key> <xlitx>yᵃd°xᵘl<influ/>-hᵃå</xlitx>
+  <xlit>yadẋul<influ/>-hā</xlit><gloss>he-enters<influ/>-it</gloss></term>
   <term><key>وَيَدْخُلُهَا</key> <xlit>wᵃ-yᵃd°xᵘl<influ/>-hᵃå</xlit> <gloss>and-he-enters<influ/>-it</gloss></term>
 
   <!-- harf ذ -->
@@ -390,7 +394,8 @@
   <xlit>sawfa</xlit><gloss><ed>[fut.]</ed></gloss></term>
   <term><key>سَاْئِلًا</key> <xlit>sᵃåɁᵢl<inflan/></xlit> <gloss>questioning<inflan/></gloss></term>
 
-  <term><key>سِرْتُ</key> <xlit>sᵢr°-tᵘ</xlit> <gloss>journeyed-I</gloss></term>
+  <term><key>سِرْتُ</key> <xlitx>sᵢr°-tᵘ</xlitx>
+  <xlit>sir-tu</xlit><gloss>journeyed-I</gloss></term>
 
   <term><key>سَيْفٌ</key> <xlit>sᵃẙf<influn/></xlit> <gloss>a_sword<influn/></gloss></term>
   <term><key>فَسَيْفٌ</key> <xlit>fᵃ-sᵃẙf<influn/></xlit> <gloss>then-a_sword<influn/></gloss></term>
@@ -422,6 +427,10 @@
   <term><key>الشَّدِيْدَ</key> <xlitx>_l-š&shadda;ᵃdᵢẙd<infla/>|</xlitx>
   <xlit>_š&shadda;adīd<infla/></xlit>
   <gloss>intense<inflan/></gloss></term>
+
+  <term><key>الشَّمْسُ</key> <xlitx>_l-š&shadda;ᵃm°s<influ/></xlitx>
+  <xlit>_š&shadda;ams<influ/></xlit>
+  <gloss>the sun<inflan/></gloss></term>
 
   <term><key>اشْتَمَلَ</key> <xlitx>_š°tᵃmᵃlᵃ</xlitx>
   <xlit>_štamala</xlit>
