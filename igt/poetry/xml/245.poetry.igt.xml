@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="245">
-   <verses id="٨٥٠٥٧" poet="">
+   <verses id="٨٥٠٥٧" poet="الْعَبَّاْسُ بْنُ مِرْدَاْس">
       <verse>
          <hemistiche>
             <text>
@@ -57,11 +57,11 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٠٠١٨٢" poet="">
+   <verses id="٠٠١٨٢" poet="عَبْدُ اللهِ بْنُ هَمَّاْمِ السَّلُوْلِيُّ">
       <verse>
          <hemistiche>
             <text>
-               <ar>إِذْ مَا تَرَيْنِي الْيَوْمَ مُزْجًى ظَعِيْتَنِي</ar>
+               <ar>إِذْ مَا تَرَيْنِي الْيَوْمَ مُزْجًى ظَعِيْنَتِي</ar>
                <free/>
             </text>
             <igt>
@@ -81,7 +81,7 @@
                   <ar>مُزْجًى</ar>
                </t>
                <t>
-                  <ar>ظَعِيْتَنِي</ar>
+                  <ar>ظَعِيْنَتِي</ar>
                </t>
             </igt>
          </hemistiche>
@@ -112,12 +112,12 @@
       <verse>
          <hemistiche>
             <text>
-               <ar>فَإِنَّي مِنْ قَوْمٍ سِوَاْكَمْ وَإِنَّمَا</ar>
+               <ar>فَإِنِّي مِنْ قَوْمٍ سِوَاْكَمْ وَإِنَّمَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>فَإِنَّي</ar>
+                  <ar>فَإِنِّي</ar>
                </t>
                <t>
                   <ar>مِنْ</ar>
@@ -155,7 +155,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨٠٧٢٨" poet="">
+   <verses id="٨٠٧٢٨" poet="لَبِيْدٌ">
       <verse>
          <hemistiche>
             <text>
@@ -205,11 +205,11 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٤٥٢٨٨" poet="">
+   <verses id="٤٥٢٨٨" poet="ابْنُ هَمَّاْمٍ السَّلُوْلِيُّ">
       <verse>
          <hemistiche>
             <text>
-               <ar>أَيْنَ تَضْرِبْ بِنَا الْعَدَاْةُ تَجِدْنَا</ar>
+               <ar>أَيْنَ تَضْرِبْ بِنَا الْعُدَاْةُ تَجِدْنَا</ar>
                <free/>
             </text>
             <igt>
@@ -223,7 +223,7 @@
                   <ar>بِنَا</ar>
                </t>
                <t>
-                  <ar>الْعَدَاْةُ</ar>
+                  <ar>الْعُدَاْةُ</ar>
                </t>
                <t>
                   <ar>تَجِدْنَا</ar>
