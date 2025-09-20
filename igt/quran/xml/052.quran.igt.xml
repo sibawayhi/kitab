@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="052">
-   <ayah id="٢٣٠٨٦" surah="" verse="">
+   <ayah id="٢٣٠٨٦" surah="٢" verse="٢٨٠">
       <text>
-         <ar>وَإِنْ كَاْنَ ذُو عُسْرَةٍ فَنَظْرَةٌ إِلَى مَيْسَرَةٍ</ar>
+         <ar>وَإِنْ كَاْنَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَى مَيْسَرَةٍ</ar>
          <free/>
       </text>
       <igt>
@@ -20,7 +20,7 @@
             <ar>عُسْرَةٍ</ar>
          </t>
          <t>
-            <ar>فَنَظْرَةٌ</ar>
+            <ar>فَنَظِرَةٌ</ar>
          </t>
          <t>
             <ar>إِلَى</ar>
