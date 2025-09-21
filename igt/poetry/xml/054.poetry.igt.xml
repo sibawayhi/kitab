@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="054">
-   <verses id="٩٥٦٠١" poet="">
+   <verses id="٩٥٦٠١" poet="عَمْرٌو بْنُ مَعْدِيْكَرِبَ">
       <verse>
          <hemistiche>
             <text>
@@ -48,7 +48,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨٩٧٩٢" poet="">
+   <verses id="٨٩٧٩٢" poet="الْكُمَيْتُ">
       <verse>
          <hemistiche>
             <text>
@@ -98,11 +98,11 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="١٥٢٣٩" poet="">
+   <verses id="١٥٢٣٩" poet="ذُو الْإِصْبَعِ الْعَدْوَاْنِيُّ">
       <verse>
          <hemistiche>
             <text>
-               <ar>عَذِيْرَ الَحَىِّ مِنْ عَدْوَا</ar>
+               <ar>عَذِيْرَ الْحَيِّ مِنْ عَدْوَا</ar>
                <free/>
             </text>
             <igt>
@@ -110,7 +110,7 @@
                   <ar>عَذِيْرَ</ar>
                </t>
                <t>
-                  <ar>الَحَىِّ</ar>
+                  <ar>الْحَيِّ</ar>
                </t>
                <t>
                   <ar>مِنْ</ar>
