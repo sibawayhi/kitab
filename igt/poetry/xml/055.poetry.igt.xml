@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="055">
-   <verses id="١٥٣٤٩" poet="">
+   <verses id="١٥٣٤٩" poet="جَرِيْرٌ">
       <verse>
          <hemistiche>
             <text>
-               <ar>إِيَّاْكَ أَنْتَ وَعَبَدَ الْمَسِيْحِ</ar>
+               <ar>إِيَّاْكَ أَنْتَ وَعَبْدَ الْمَسِيْحِ</ar>
                <free/>
             </text>
             <igt>
@@ -16,7 +16,7 @@
                   <ar>أَنْتَ</ar>
                </t>
                <t>
-                  <ar>وَعَبَدَ</ar>
+                  <ar>وَعَبْدَ</ar>
                </t>
                <t>
                   <ar>الْمَسِيْحِ</ar>
