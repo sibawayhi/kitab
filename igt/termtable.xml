@@ -902,7 +902,7 @@
   <term><key>تَكُوْنُ</key> <xlitx>tᵃkᵘẘn<influ/></xlitx>
   <xlit>takūn<influ/></xlit><gloss>you-are<influ/></gloss></term>
   <term><key>تَكُنْ</key> <xlitx>tᵃkᵘn<inflo/></xlitx>
-  <xlit>takun<inflo/></xlit><gloss>you-be<inflo/></gloss></term>
+  <xlit>takun</xlit><gloss>you-be<inflo/></gloss></term>
   <term><key>أَكُوْنُ</key> <xlitx>Ɂᵃkᵘẘn<influ/></xlitx>
   <xlit>Ɂakūn<influ/></xlit><gloss>I-am<influ/></gloss></term>
   <term><key>أَكُنْ</key> <xlitx>Ɂᵃkᵘn<inflo/></xlitx>
@@ -1084,6 +1084,12 @@
 
   <term>
     <key>وَاْقِفٌ</key> <xlit>wᵃåqᵢf<influn/></xlit> <gloss>standing<ed>still</ed><influn/></gloss>
+  </term>
+
+  <term>
+    <key>وَقَعَ</key> <xlitx>wᵃqᵃʕᵃ</xlitx>
+    <xlit>waqaʕa</xlit>
+    <gloss>occured<ed>-it</ed><influn/></gloss>
   </term>
 
   <!-- harf ي -->
