@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="034">
-   <verses id="٠١٤٥٦" poet="">
+   <verses id="٠١٤٥٦" poet="هُدْبَةُ بْنُ الْخَشْرَمِ الْعُذْرِيُّ">
       <verse>
          <hemistiche>
             <text>
@@ -54,7 +54,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨٥١٨١" poet="">
+   <verses id="٨٥١٨١" poet="زُهَيْرُ">
       <verse>
          <hemistiche>
             <text>
@@ -110,7 +110,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨٥٧٨٢" poet="">
+   <verses id="٨٥٧٨٢" poet="جَرِيْرٌ">
       <verse>
          <hemistiche>
             <text>
@@ -160,11 +160,11 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٢٤٦٧٨" poet="">
+   <verses id="٢٤٦٧٨" poet="مُزَاْحِمٌ الْعُقَيْلِىُّ">
       <verse>
          <hemistiche>
             <text>
-               <ar>وَقَالُوْا تَعَرَّفْهَا الْمَنِازِلَ مِنْ مِنًى</ar>
+               <ar>وَقَالُوْا تَعَرَّفْهَا الْمَنِاْزِلَ مِنْ مِنًى</ar>
                <free/>
             </text>
             <igt>
@@ -175,7 +175,7 @@
                   <ar>تَعَرَّفْهَا</ar>
                </t>
                <t>
-                  <ar>الْمَنِازِلَ</ar>
+                  <ar>الْمَنِاْزِلَ</ar>
                </t>
                <t>
                   <ar>مِنْ</ar>
@@ -187,7 +187,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>وَمَا كُلُّ مَنْ وَافَىْ مِنًى أَنَا عَاْرِفُ</ar>
+               <ar>وَمَا كُلُّ مَنْ وَاْفَى مِنًى أَنَا عَاْرِفُ</ar>
                <free/>
             </text>
             <igt>
@@ -201,7 +201,7 @@
                   <ar>مَنْ</ar>
                </t>
                <t>
-                  <ar>وَافَىْ</ar>
+                  <ar>وَاْفَى</ar>
                </t>
                <t>
                   <ar>مِنًى</ar>
@@ -216,22 +216,69 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨٥٧٠٨" poet="">
+   <verses id="٨٥٧٠٨" poet="حُمَيْدٌ الْأَرْقَطُ">
       <verse>
          <hemistiche>
             <text>
-               <ar>هِى الشَّفَاْءُ لدَاْئِىْ لَوْ ظَفِرْتُ بِهَا</ar>
+               <ar>فَأَصْبَحُوْا وَالنَّوَى عَاْلِي مُعَرَّسِهِمْ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>هِى</ar>
+                  <ar>فَأَصْبَحُوْا</ar>
                </t>
                <t>
-                  <ar>الشَّفَاْءُ</ar>
+                  <ar>وَالنَّوَى</ar>
                </t>
                <t>
-                  <ar>لدَاْئِىْ</ar>
+                  <ar>عَاْلِي</ar>
+               </t>
+               <t>
+                  <ar>مُعَرَّسِهِمْ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+         <hemistiche>
+            <text>
+               <ar>وَلَيْسَ كُلُّ النَّوَى يُلْقِي الْمَسَاْكِيْنُ</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>وَلَيْسَ</ar>
+               </t>
+               <t>
+                  <ar>كُلُّ</ar>
+               </t>
+               <t>
+                  <ar>النَّوَى</ar>
+               </t>
+               <t>
+                  <ar>يُلْقِي</ar>
+               </t>
+               <t>
+                  <ar>الْمَسَاْكِيْنُ</ar>
+               </t>
+            </igt>
+         </hemistiche>
+      </verse>
+   </verses>
+   <verses id="٨٥٧٠٨" poet="هِشَاْمٌ أَخُو ذِي الرُّمَّةِ">
+      <verse>
+         <hemistiche>
+            <text>
+               <ar>هِيَ الشِّفَاْءُ لِدَاْئِي لَوْ ظَفِرْتُ بِهَا</ar>
+               <free/>
+            </text>
+            <igt>
+               <t>
+                  <ar>هِيَ</ar>
+               </t>
+               <t>
+                  <ar>الشِّفَاْءُ</ar>
+               </t>
+               <t>
+                  <ar>لِدَاْئِي</ar>
                </t>
                <t>
                   <ar>لَوْ</ar>
@@ -246,7 +293,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>وَلَيْسَ مِنْهَا شِفَاْءً الْدَّاْءِ مَبْذُولُ</ar>
+               <ar>وَلَيْسَ مِنْهَا شِفَاْءُ الدَّاْءِ مَبْذُوْلُ</ar>
                <free/>
             </text>
             <igt>
@@ -257,23 +304,23 @@
                   <ar>مِنْهَا</ar>
                </t>
                <t>
-                  <ar>شِفَاْءً</ar>
+                  <ar>شِفَاْءُ</ar>
                </t>
                <t>
-                  <ar>الْدَّاْءِ</ar>
+                  <ar>الدَّاْءِ</ar>
                </t>
                <t>
-                  <ar>مَبْذُولُ</ar>
+                  <ar>مَبْذُوْلُ</ar>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="١٤٥٢٦" poet="">
+   <verses id="١٤٥٢٦" poet="الْمَرَّاْرُ الْأَسَدِيُّ">
       <verse>
          <hemistiche>
             <text>
-               <ar>فَلَوْ أَنَّهَا إِيَّاكَ عَضَّتْكَ مِثْلُهَا</ar>
+               <ar>فَلَوْ أَنَّهَا إِيَّاْكَ عَضَّتْكَ مِثْلُهَا</ar>
                <free/>
             </text>
             <igt>
@@ -284,7 +331,7 @@
                   <ar>أَنَّهَا</ar>
                </t>
                <t>
-                  <ar>إِيَّاكَ</ar>
+                  <ar>إِيَّاْكَ</ar>
                </t>
                <t>
                   <ar>عَضَّتْكَ</ar>
