@@ -208,8 +208,10 @@
   <xlit>baxīl<inflan/></xlit>
   <gloss>stingy</gloss> <parse>v31.perf</parse></term>
 
-  <term><key>الْبَحْرِ</key> <xlit>_l°-bᵃḥ°r<infli/></xlit> <gloss>the-ocean<infli/></gloss></term>
-  <term><key>الْبُسْرُ</key> <xlit>_l°-bᵘs°r<influ/></xlit> <gloss>the-unripe-dates<influ/></gloss></term>
+  <term><key>الْبَحْرِ</key> <xlitx>_l°-bᵃḥ°r<infli/></xlitx>
+  <xlit>_l-baḥr<infli/></xlit><gloss>the-ocean<infli/></gloss></term>
+  <term><key>الْبُسْرُ</key> <xlitx>_l°-bᵘs°r<influ/></xlitx>
+  <xlit>_l-busr<influ/></xlit><gloss>the-unripe-dates<influ/></gloss></term>
   <term>
     <key>بَلَغَنِي</key> <xlit>bᵃlᵃgᵃ-nᵢ</xlit> <gloss>reached-<ed>it</ed>-me</gloss>
   </term>
@@ -225,7 +227,9 @@
   <xlit>jalasa</xlit>
   <gloss>sat<ed>-he</ed></gloss> <parse>v31.perf</parse></term>
 
-  <term><key>الْجَبَلَ</key> <xlit>_l°-jᵃbᵃl<infla/></xlit> <gloss>the-mountain<infla/></gloss></term>
+  <term><key>الْجَبَلَ</key> <xlitx>_l°-jᵃbᵃl<infla/></xlitx>
+  <xlit>_l-jabal<infla/></xlit>
+  <gloss>the-mountain<infla/></gloss></term>
 
   <term><key>بِجَبَاْنٍ</key> <xlitx>bᵢ-jᵃbᵃån<inflin/></xlitx>
   <xlit>bi-jabān<inflin/></xlit>
@@ -254,7 +258,8 @@
   <xlit>ḥattă</xlit><gloss>until<ed>-that</ed></gloss></term>
   <term><key>وَحَتَّى</key> <xlitx>wᵃ-ḥᵃt&shadda;ᵃʎ</xlitx>
   <xlit>wa-ḥattă</xlit><gloss>and-until<ed>-that</ed></gloss></term>
-  <term><key>حَمَلْتُ</key> <xlit>ḥᵃmᵃl°-tᵘ</xlit> <gloss>carried-I</gloss></term>
+  <term><key>حَمَلْتُ</key> <xlitx>ḥᵃmᵃl°-tᵘ</xlitx>
+  <xlit>ḥamal-tu</xlit><gloss>carried-I</gloss></term>
 
   <term><key>حَسْبُكَ</key> <xlitx>ḥᵃs°b<influ/>-kᵃ</xlitx>
   <xlit>ḥasb<influ/>-ka</xlit>
@@ -474,8 +479,10 @@
   <gloss>now<inflan/></gloss></term>
 
   <!-- harf ش -->
-  <term><key>شَرِبْتُ</key> <xlit>šᵃrᵢb°-tᵘ</xlit> <gloss>drank-I</gloss></term>
-  <term><key>أَشْرَبُ</key> <xlit>Ɂᵃš°rᵃbᵘ</xlit> <gloss>I-drink</gloss></term>
+  <term><key>شَرِبْتُ</key> <xlitx>šᵃrᵢb°-tᵘ</xlitx>
+  <xlit>šarib-tu</xlit><gloss>drank-I</gloss></term>
+  <term><key>أَشْرَبُ</key> <xlitx>Ɂᵃš°rᵃb<influ/></xlitx>
+  <xlit>Ɂašrab<influ/></xlit><gloss>I-drink</gloss></term>
   <term><key>شَرٌّ</key> <xlitx>šᵃr²<influn/></xlitx>
   <xlit>šarr<influn/></xlit><gloss>evil<influn/></gloss></term>
   <term><key>فَشَرٌّ</key> <xlitx>fᵃ-šᵃr²<influn/></xlitx>
@@ -909,7 +916,9 @@
   <xlit>Ɂakun</xlit><gloss>I-be<inflo/></gloss></term>
 
   <term>
-    <key>كَيْ</key> <xlit>kᵃẙ</xlit> <gloss>&LFLOOR;<ed>in order</ed> that&RFLOOR;</gloss>
+    <key>كَيْ</key> <xlitx>kᵃẙ</xlitx>
+    <xlit>kay</xlit>
+    <gloss>&LFLOOR;<ed>in order</ed> that&RFLOOR;</gloss>
   </term>
 
   <term>
@@ -978,7 +987,8 @@
   <!-- harf م -->
   <term><key>مَا</key> <xlitx>mᵃā</xlitx>
   <xlit>mā</xlit><gloss>not</gloss></term>
-  <term><key>مَاْءَ</key> <xlit>mᵃåɁ<infla/></xlit> <gloss>water<infla/></gloss></term>
+  <term><key>مَاْءَ</key> <xlitx>mᵃåɁ<infla/></xlitx>
+  <xlit>māɁ<infla/></xlit><gloss>water<infla/></gloss></term>
 
   <term><key>مِاْئَةٌ</key> <xlit>mᵢɁᵃt<influn/></xlit>
   <gloss><ed>a</ed>hundred<ed>lot</ed></gloss></term>

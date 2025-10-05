@@ -17,7 +17,7 @@
    <dictum id="٩١١٦١">
       <text>
          <ar>سَآتِيْكَ غَدًا</ar>
-         <free/>
+         <free>I will come to you tomorrow</free>
       </text>
       <igt>
          <t>
@@ -28,10 +28,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٧٠٤٨">
+   <dictum id="٧٧٠٤٨" j="*">
       <text>
          <ar>أَتَيْتُكَ غَدًا</ar>
-         <free/>
+         <free>I came to you tomorrow</free>
       </text>
       <igt>
          <t>
@@ -42,10 +42,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٤٨٢٢">
+   <dictum id="٣٤٨٢٢" j="*">
       <text>
          <ar>سَآتِيْكَ أَمْسِ</ar>
-         <free/>
+         <free>I will come to you yesterday</free>
       </text>
       <igt>
          <t>
@@ -59,7 +59,7 @@
    <dictum id="٤٤٢٨١">
       <text>
          <ar>حَمَلْتُ الْجَبَلَ</ar>
-         <free/>
+         <free>I carried the mountain</free>
       </text>
       <igt>
          <t>
@@ -73,7 +73,7 @@
    <dictum id="٥٤٨٥٣">
       <text>
          <ar>شَرِبْتُ مَاْءَ الْبَحْرِ</ar>
-         <free/>
+         <free>I drank the water(s) of the sea</free>
       </text>
       <igt>
          <t>
@@ -87,10 +87,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٤٦٠٥">
+   <dictum id="٣٤٦٠٥" j="*">
       <text>
          <ar>قَدْ زَيْدًا رَأَيْتُ</ar>
-         <free/>
+         <free>Have Zayd I seen</free>
       </text>
       <igt>
          <t>
@@ -104,10 +104,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٥٦٥٠">
+   <dictum id="٩٥٦٥٠" j="*">
       <text>
          <ar>كَيْ زَيْدٌ يَأْتِيَكَ</ar>
-         <free/>
+         <free>Zayd that come to you</free>
       </text>
       <igt>
          <t>
@@ -121,10 +121,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٨٤٠١">
+   <dictum id="٤٨٤٠١" j="*">
       <text>
          <ar>سَوْفَ أَشْرَبُ مَاْءَ الْبَحْرِ أَمْسِ</ar>
-         <free/>
+         <free>I shall drink the water of the sea yesterday</free>
       </text>
       <igt>
          <t>
