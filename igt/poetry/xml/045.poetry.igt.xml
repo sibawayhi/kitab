@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="045">
-   <verses id="٨٢٨٥٢" poet="">
+   <verses id="٨٢٨٥٢" poet="الرَّاْعِي">
       <verse>
          <hemistiche>
             <text>
@@ -51,11 +51,11 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨٧٩١٠" poet="">
+   <verses id="٨٧٩١٠" poet="جَرِيْرٌ">
       <verse>
          <hemistiche>
             <text>
-               <ar>أَلَمْ تَعْلَمْ مُسَرَّحَى الْقَوَافِي</ar>
+               <ar>أَلَمْ تَعْلَمْ مُسَرَّحَي الْقَوَاْفِي</ar>
                <free/>
             </text>
             <igt>
@@ -66,16 +66,16 @@
                   <ar>تَعْلَمْ</ar>
                </t>
                <t>
-                  <ar>مُسَرَّحَى</ar>
+                  <ar>مُسَرَّحَي</ar>
                </t>
                <t>
-                  <ar>الْقَوَافِي</ar>
+                  <ar>الْقَوَاْفِي</ar>
                </t>
             </igt>
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>فَلَا عِيًّا بِهِنَّ وَلَا اجْتِلَابَا</ar>
+               <ar>فَلَا عِيًّا بِهِنَّ وَلَا اجْتِلَاْبَا</ar>
                <free/>
             </text>
             <igt>
@@ -92,25 +92,25 @@
                   <ar>وَلَا</ar>
                </t>
                <t>
-                  <ar>اجْتِلَابَا</ar>
+                  <ar>اجْتِلَاْبَا</ar>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٠٤٧٢٤" poet="">
+   <verses id="٠٤٧٢٤" poet="ابْنُ أَحْمَرَ">
       <verse>
          <hemistiche>
             <text>
-               <ar>تَداْركْنَ حيًّا مِنْ نُمَيْرِ بنِ عامرٍ</ar>
+               <ar>تَداْرَكْنَ حَيًّا مِنْ نُمَيْرِ بْنِ عَاْمِرٍ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>تَداْركْنَ</ar>
+                  <ar>تَداْرَكْنَ</ar>
                </t>
                <t>
-                  <ar>حيًّا</ar>
+                  <ar>حَيًّا</ar>
                </t>
                <t>
                   <ar>مِنْ</ar>
@@ -119,24 +119,24 @@
                   <ar>نُمَيْرِ</ar>
                </t>
                <t>
-                  <ar>بنِ</ar>
+                  <ar>بْنِ</ar>
                </t>
                <t>
-                  <ar>عامرٍ</ar>
+                  <ar>عَاْمِرٍ</ar>
                </t>
             </igt>
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>أُساْرَى تُسامُ الذُّلَّ قَتْلًا وَمَحْرَبَا</ar>
+               <ar>أُسَاْرَى تُسَاْمُ الذُّلَّ قَتْلًا وَمَحْرَبَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>أُساْرَى</ar>
+                  <ar>أُسَاْرَى</ar>
                </t>
                <t>
-                  <ar>تُسامُ</ar>
+                  <ar>تُسَاْمُ</ar>
                </t>
                <t>
                   <ar>الذُّلَّ</ar>
@@ -151,11 +151,11 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٢٦٦٣٩" poet="">
+   <verses id="٢٦٦٣٩" poet="حُمَيْدُ بْنُ ثَوْرٍ">
       <verse>
          <hemistiche>
             <text>
-               <ar>وَمَا هِيَ إِلَّا فِي إزاْرٍ وَعِلْقَةٍ</ar>
+               <ar>وَمَا هِيَ إِلَّا فِي إِزَاْرٍ وَعِلْقَةٍ</ar>
                <free/>
             </text>
             <igt>
@@ -172,7 +172,7 @@
                   <ar>فِي</ar>
                </t>
                <t>
-                  <ar>إزاْرٍ</ar>
+                  <ar>إِزَاْرٍ</ar>
                </t>
                <t>
                   <ar>وَعِلْقَةٍ</ar>
@@ -181,24 +181,24 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>مُغاْرَ ابنِ هَمّامٍ عَلَى حََىّ خَثْعَمًا</ar>
+               <ar>مُغَاْرَ ابْنِ هَمَّاْمٍ عَلَى حَيِّ خَثْعَمًا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>مُغاْرَ</ar>
+                  <ar>مُغَاْرَ</ar>
                </t>
                <t>
-                  <ar>ابنِ</ar>
+                  <ar>ابْنِ</ar>
                </t>
                <t>
-                  <ar>هَمّامٍ</ar>
+                  <ar>هَمَّاْمٍ</ar>
                </t>
                <t>
                   <ar>عَلَى</ar>
                </t>
                <t>
-                  <ar>حََىّ</ar>
+                  <ar>حَيِّ</ar>
                </t>
                <t>
                   <ar>خَثْعَمًا</ar>
