@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="048">
-   <verses id="٦٩٥١٥" poet="">
+   <verses id="٦٩٥١٥" poet="اْلْهُذَلِيُّ">
       <verse>
          <hemistiche>
             <text>
-               <ar>رُوَيْدَ عَلِيَّا جُدَّ مَا ثَدَىْ أُمِهُمْ</ar>
+               <ar>رُوَيْدَ عَلِيَّا جُدَّ مَا ثَدْيُ أُمَّهِمْ</ar>
                <free/>
             </text>
             <igt>
@@ -22,16 +22,16 @@
                   <ar>مَا</ar>
                </t>
                <t>
-                  <ar>ثَدَىْ</ar>
+                  <ar>ثَدْيُ</ar>
                </t>
                <t>
-                  <ar>أُمِهُمْ</ar>
+                  <ar>أُمَّهِمْ</ar>
                </t>
             </igt>
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>إِلَيْنَا وَلَكِنْ بُغْضُهُمْ مُتَمَايِنُ</ar>
+               <ar>إِلَيْنَا وَلَكِنْ بُغْضُهُمْ مُتَمَاْيِنُ</ar>
                <free/>
             </text>
             <igt>
@@ -45,7 +45,7 @@
                   <ar>بُغْضُهُمْ</ar>
                </t>
                <t>
-                  <ar>مُتَمَايِنُ</ar>
+                  <ar>مُتَمَاْيِنُ</ar>
                </t>
             </igt>
          </hemistiche>

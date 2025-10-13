@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="048">
-   <ayah id="٧٧٠٢٩" surah="" verse="">
+   <ayah id="٧٧٠٢٩" surah="٤٧" verse="٤">
       <text>
-         <ar>فَضَرْبَ الْرِّقَابِ</ar>
+         <ar>فَضَرْبَ ٱلرِّقَاْبِ</ar>
          <free/>
       </text>
       <igt>
@@ -11,18 +11,18 @@
             <ar>فَضَرْبَ</ar>
          </t>
          <t>
-            <ar>الْرِّقَابِ</ar>
+            <ar>ٱلرِّقَاْبِ</ar>
          </t>
       </igt>
    </ayah>
-   <ayah id="٥٤٥١٣" surah="" verse="">
+   <ayah id="٥٤٥١٣" surah="٥" verse="٢٤">
       <text>
-         <ar>فَاذْهَبْ أَنْتَ وَرَبُّكَ فَقَاتِلًا</ar>
+         <ar>فَٱذْهَبْ أَنْتَ وَرَبُّكَ فَقَاْتِلآ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>فَاذْهَبْ</ar>
+            <ar>فَٱذْهَبْ</ar>
          </t>
          <t>
             <ar>أَنْتَ</ar>
@@ -31,18 +31,18 @@
             <ar>وَرَبُّكَ</ar>
          </t>
          <t>
-            <ar>فَقَاتِلًا</ar>
+            <ar>فَقَاْتِلآ</ar>
          </t>
       </igt>
    </ayah>
-   <ayah id="٢٨٢٧٢" surah="" verse="">
+   <ayah id="٢٨٢٧٢" surah="٢" verse="٣٥">
       <text>
-         <ar>اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ</ar>
+         <ar>ٱسْكُنْ أَنْتَ وَزَوْجُكَ ٱلْجَنَّةَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>اسْكُنْ</ar>
+            <ar>ٱسْكُنْ</ar>
          </t>
          <t>
             <ar>أَنْتَ</ar>
@@ -51,7 +51,7 @@
             <ar>وَزَوْجُكَ</ar>
          </t>
          <t>
-            <ar>الْجَنَّةَ</ar>
+            <ar>ٱلْجَنَّةَ</ar>
          </t>
       </igt>
    </ayah>
