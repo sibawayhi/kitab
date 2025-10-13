@@ -23,29 +23,6 @@
                </t>
             </igt>
          </hemistiche>
-         <hemistiche>
-            <text>
-               <ar>[أَمَّا تَرَى الْموتَ لدى أوراكهاْ]</ar>
-               <free/>
-            </text>
-            <igt>
-               <t>
-                  <ar>[أَمَّا</ar>
-               </t>
-               <t>
-                  <ar>تَرَى</ar>
-               </t>
-               <t>
-                  <ar>الْموتَ</ar>
-               </t>
-               <t>
-                  <ar>لدى</ar>
-               </t>
-               <t>
-                  <ar>أوراكهاْ]</ar>
-               </t>
-            </igt>
-         </hemistiche>
       </verse>
    </verses>
    <verses id="٠٦٢٩٨" poet="">
@@ -67,29 +44,6 @@
                </t>
                <t>
                   <ar>مَنَاْعِهَا</ar>
-               </t>
-            </igt>
-         </hemistiche>
-         <hemistiche>
-            <text>
-               <ar>[أَلَا ترَى الْموت لدى أرباهاْ]</ar>
-               <free/>
-            </text>
-            <igt>
-               <t>
-                  <ar>[أَلَا</ar>
-               </t>
-               <t>
-                  <ar>ترَى</ar>
-               </t>
-               <t>
-                  <ar>الْموت</ar>
-               </t>
-               <t>
-                  <ar>لدى</ar>
-               </t>
-               <t>
-                  <ar>أرباهاْ]</ar>
                </t>
             </igt>
          </hemistiche>

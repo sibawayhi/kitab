@@ -100,7 +100,7 @@
    </dictum>
    <dictum id="٦٤٢٢٦">
       <text>
-         <ar>ائْتُوْا الْثَّرِيْدَ</ar>
+         <ar>ائْتُوْا الثَّرِيْدَ</ar>
          <free/>
       </text>
       <igt>
@@ -108,7 +108,7 @@
             <ar>ائْتُوْا</ar>
          </t>
          <t>
-            <ar>الْثَّرِيْدَ</ar>
+            <ar>الثَّرِيْدَ</ar>
          </t>
       </igt>
    </dictum>
@@ -123,78 +123,6 @@
          </t>
          <t>
             <ar>الصَّلَاةَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٤٥٣٥">
-      <text>
-         <ar>اتْرُكْهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>اتْرُكْهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢١٦٠٧">
-      <text>
-         <ar>امْنَعْهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>امْنَعْهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٨١٩٠">
-      <text>
-         <ar>مَهْ مَهْ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مَهْ</ar>
-         </t>
-         <t>
-            <ar>مَهْ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٤٠٩٦">
-      <text>
-         <ar>صَهْ صَهْ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>صَهْ</ar>
-         </t>
-         <t>
-            <ar>صَهْ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٥٧٥١">
-      <text>
-         <ar>آهٍ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>آهٍ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٥٣٥٧">
-      <text>
-         <ar>إِيْهٍ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>إِيْهٍ</ar>
          </t>
       </igt>
    </dictum>
