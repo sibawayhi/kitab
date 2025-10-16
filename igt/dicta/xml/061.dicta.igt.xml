@@ -2,15 +2,23 @@
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="061">
    <dictum id="٩٧٢٦٣">
       <text>
-         <ar>سَقْيًا وَرَعْيًا</ar>
+         <ar>سَقْيًا</ar>
          <free/>
       </text>
       <igt>
          <t>
             <ar>سَقْيًا</ar>
          </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٣٢٥٠">
+      <text>
+         <ar>رَعْيًا</ar>
+         <free/>
+      </text>
+      <igt>
          <t>
-            <ar>وَرَعْيًا</ar>
+            <ar>رَعْيًا</ar>
          </t>
       </igt>
    </dictum>
@@ -27,26 +35,34 @@
    </dictum>
    <dictum id="٧٣٧٨٤">
       <text>
-         <ar>دَفَرًا</ar>
+         <ar>دَفْرًا</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>دَفَرًا</ar>
+            <ar>دَفْرًا</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٨٦٧٩٠">
       <text>
-         <ar>جَدْعًا وَعَقْرًا</ar>
+         <ar>جَدْعًا</ar>
          <free/>
       </text>
       <igt>
          <t>
             <ar>جَدْعًا</ar>
          </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>عَقْرًا</ar>
+         <free/>
+      </text>
+      <igt>
          <t>
-            <ar>وَعَقْرًا</ar>
+            <ar>عَقْرًا</ar>
          </t>
       </igt>
    </dictum>
@@ -63,68 +79,89 @@
    </dictum>
    <dictum id="٩٦٣٥٣">
       <text>
-         <ar>أُفَّةً وَتُفَّةً</ar>
+         <ar>أُفَّةً</ar>
          <free/>
       </text>
       <igt>
          <t>
             <ar>أُفَّةً</ar>
          </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>تُفَّةً</ar>
+         <free/>
+      </text>
+      <igt>
          <t>
-            <ar>وَتُفَّةً</ar>
+            <ar>تُفَّةً</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٧٧١٥٣">
       <text>
-         <ar>بُعْدًا وَسُحْقًا</ar>
+         <ar>بُعْدًا</ar>
          <free/>
       </text>
       <igt>
          <t>
             <ar>بُعْدًا</ar>
          </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>سُحْقًا</ar>
+         <free/>
+      </text>
+      <igt>
          <t>
-            <ar>وَسُحْقًا</ar>
+            <ar>سُحْقًا</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٠٨٢٥٢">
       <text>
-         <ar>تَعْسًا وَتَبًّا</ar>
+         <ar>تَعْسًا</ar>
          <free/>
       </text>
       <igt>
          <t>
             <ar>تَعْسًا</ar>
          </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>تَبًّا</ar>
+         <free/>
+      </text>
+      <igt>
          <t>
-            <ar>وَتَبًّا</ar>
+            <ar>تَبًّا</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٤١٥٠١">
       <text>
-         <ar>جُوْعًا وَجُوْسًا</ar>
+         <ar>جُوْعًا</ar>
          <free/>
       </text>
       <igt>
          <t>
             <ar>جُوْعًا</ar>
          </t>
-         <t>
-            <ar>وَجُوْسًا</ar>
-         </t>
       </igt>
    </dictum>
-   <dictum id="٤٤٤١٠">
+   <dictum id="١٥٠٤٩">
       <text>
-         <ar>جَهْدًا</ar>
+         <ar>جُوْسًا</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>جَهْدًا</ar>
+            <ar>جُوْسًا</ar>
          </t>
       </igt>
    </dictum>
@@ -147,12 +184,12 @@
    </dictum>
    <dictum id="٩٧٦٨٧">
       <text>
-         <ar>وَرَعَاْكَ اللهُ رَعْيًا</ar>
+         <ar>رَعَاْكَ اللهُ رَعْيًا</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>وَرَعَاْكَ</ar>
+            <ar>رَعَاْكَ</ar>
          </t>
          <t>
             <ar>اللهُ</ar>
@@ -164,12 +201,12 @@
    </dictum>
    <dictum id="٥٥٣٧٨">
       <text>
-         <ar>وَخَيَّبَكَ اللهُ خَيْبَةً</ar>
+         <ar>خَيَّبَكَ اللهُ خَيْبَةً</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>وَخَيَّبَكَ</ar>
+            <ar>خَيَّبَكَ</ar>
          </t>
          <t>
             <ar>اللهُ</ar>
@@ -223,7 +260,7 @@
    </dictum>
    <dictum id="٧٠٥٠٧">
       <text>
-         <ar>بَهَرَكَ الَّلَهُ</ar>
+         <ar>بَهَرَكَ اللهُ</ar>
          <free/>
       </text>
       <igt>
@@ -231,13 +268,13 @@
             <ar>بَهَرَكَ</ar>
          </t>
          <t>
-            <ar>الَّلَهُ</ar>
+            <ar>اللهُ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٣٨٦٤٤">
       <text>
-         <ar>إِنَّمَا عُذْرُكَ أَيَّاْيَ مِنْ مَوْلًى هٰذَا أَمْرُهُ</ar>
+         <ar>إِنَّمَا عُذْرُكَ إِيَّاْيَ مِنْ مَوْلًى هٰذَا أَمْرُهُ</ar>
          <free/>
       </text>
       <igt>
@@ -248,7 +285,7 @@
             <ar>عُذْرُكَ</ar>
          </t>
          <t>
-            <ar>أَيَّاْيَ</ar>
+            <ar>إِيَّاْيَ</ar>
          </t>
          <t>
             <ar>مِنْ</ar>
