@@ -50,9 +50,10 @@
          </t>
          <t>
             <ar>وَأَطْعَمَكَ</ar>
+            <xlit>wa-ˀaṭʕama-ka</xlit>
          </t>
          <t>
-            <ar>اللهُ</ar>
+           <ar>اللهُ</ar>
          </t>
          <t>
             <ar>تُرْبًا</ar>
@@ -64,43 +65,52 @@
    </dictum>
    <dictum id="١٦٦٤٨">
       <text>
-         <ar>تَرِبَتْ يَدَاْك وَجُنْدِلْتَ</ar>
-         <free/>
+        <ar>تَرِبَتْ يَدَاْكَ وَجُنْدِلَتْ</ar>
+        <free>dusty <ed>became</ed> your hands, and stony</free>
+         <alt>[Lane:] May your arms/hands cleave to the dust/earth, and the stones, by reason of poverty!</alt>
       </text>
       <igt>
          <t>
             <ar>تَرِبَتْ</ar>
+            <xlit>taribat</xlit>
          </t>
          <t>
-            <ar>يَدَاْك</ar>
+           <ar>يَدَاْكَ</ar>
+           <xlit>yadā-ka</xlit>
          </t>
          <t>
-            <ar>وَجُنْدِلْتَ</ar>
+           <ar>وَجُنْدِلَتْ</ar>
+           <xlit>wa-jundilat</xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="٥٦١١٦">
       <text>
          <ar>تُرْبًا لِفِيْكَ</ar>
-         <free/>
+         <free>Dust in your mouth!</free>
       </text>
       <igt>
          <t>
             <ar>تُرْبًا</ar>
          </t>
          <t>
-            <ar>لِفِيْكَ</ar>
+           <ar>لِفِيْكَ</ar>
+           <en>for-mouth<ed>-of</ed>-you</en>
+            <xlit>li-fī-ka</xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="٩٨٨٤٥">
       <text>
          <ar>دَهَاْكَ اللهُ</ar>
-         <free/>
+         <free>God afflicted you</free>
+         <alt>May God afflict you!</alt>
       </text>
       <igt>
          <t>
-            <ar>دَهَاْكَ</ar>
+           <ar>دَهَاْكَ</ar>
+           <en>afflicted<ed>-it</ed>-you</en>
+            <xlit>dahā-ka</xlit>
          </t>
          <t>
             <ar>اللهُ</ar>
