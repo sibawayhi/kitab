@@ -1,1 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="481">
+   <ayah id="١٨٤٧٧" surah="٧٦" verse="١٧">
+      <text>
+         <ar>قَوَاْرِيْرَاْ مِنْ فِضَّةٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَوَاْرِيْرَاْ</ar>
+         </t>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>فِضَّةٍ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
