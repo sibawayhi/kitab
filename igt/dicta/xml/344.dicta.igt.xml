@@ -1,1 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="344">
+   <dictum id="٥٢٥٣٣">
+      <text>
+         <ar>قَفَوْتُ الرَّجُلَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَفَوْتُ</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٤٨٦٥">
+      <text>
+         <ar>لَقَضُوَ الرَّجُلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَقَضُوَ</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٥٥٢٨">
+      <text>
+         <ar>عَلَى زَيْدٍ دِرْهَمٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَلَى</ar>
+         </t>
+         <t>
+            <ar>زَيْدٍ</ar>
+         </t>
+         <t>
+            <ar>دِرْهَمٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
