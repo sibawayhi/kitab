@@ -73,6 +73,7 @@ bab =
       | اسم
       | صفة
       | فعل
+      | يفعل
       | فاعل
       | مصدر
       | ندبة
@@ -163,6 +164,12 @@ bab =
           attribute هوية {text}?,
           text
       }
+
+يفعل = element يفعل {
+          attribute هوية {text}?,
+          text
+      }
+
 فاعل = element فاعل {
           # attribute هوية {text},
           text

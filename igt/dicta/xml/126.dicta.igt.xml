@@ -57,20 +57,6 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٤٠٤٤٠">
-      <text>
-         <ar>يَا اللهُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>يَا</ar>
-         </t>
-         <t>
-            <ar>اللهُ</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٩٨٩١٨">
       <text>
          <ar>مَرَرْتُ بِكُلِّهِمْ وَبِبَعْضِهِمْ</ar>
@@ -85,34 +71,6 @@
          </t>
          <t>
             <ar>وَبِبَعْضِهِمْ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥٨٥٤٦">
-      <text>
-         <ar>لَاْهِ أَبُوْكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>لَاْهِ</ar>
-         </t>
-         <t>
-            <ar>أَبُوْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٩٤٨٨">
-      <text>
-         <ar>لِلهِ أَبُوْكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>لِلهِ</ar>
-         </t>
-         <t>
-            <ar>أَبُوْكَ</ar>
          </t>
       </igt>
    </dictum>
@@ -155,7 +113,7 @@
    </dictum>
    <dictum id="١٦١٨٢">
       <text>
-         <ar>مَا فِيْهِم أَحَدُ [ يَفْضُلُكَ ]</ar>
+         <ar>مَا فِيْهِم أَحَدٌ يَفْضُلُكَ</ar>
          <free/>
       </text>
       <igt>
@@ -166,16 +124,10 @@
             <ar>فِيْهِم</ar>
          </t>
          <t>
-            <ar>أَحَدُ</ar>
-         </t>
-         <t>
-            <ar>[</ar>
+            <ar>أَحَدٌ</ar>
          </t>
          <t>
             <ar>يَفْضُلُكَ</ar>
-         </t>
-         <t>
-            <ar>]</ar>
          </t>
       </igt>
    </dictum>

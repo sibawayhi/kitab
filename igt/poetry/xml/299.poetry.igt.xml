@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="299">
-   <verses id="٨٧٩٥٥" poet="">
+   <verses id="٨٧٩٥٥" poet="امْرُؤُ الْقَيْسِ">
       <verse>
          <hemistiche>
             <text>
-               <ar>تَنُوَّرَتُهَا مِنْ أَذْرِعَاْتٍ وَأَهُلَهَا</ar>
+               <ar>تَنَوَّرْتُهَا مِنْ أَذْرِعَاْتٍ وَأَهْلُهَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>تَنُوَّرَتُهَا</ar>
+                  <ar>تَنَوَّرْتُهَا</ar>
                </t>
                <t>
                   <ar>مِنْ</ar>
@@ -19,18 +19,18 @@
                   <ar>أَذْرِعَاْتٍ</ar>
                </t>
                <t>
-                  <ar>وَأَهُلَهَا</ar>
+                  <ar>وَأَهْلُهَا</ar>
                </t>
             </igt>
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>بَيَثْرِبَ أَدْنَى دَاْرِهَا نَظَرٌ عَاْلِ</ar>
+               <ar>بِيَثْرِبَ أَدْنَى دَاْرِهَا نَظَرٌ عَاْلِ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>بَيَثْرِبَ</ar>
+                  <ar>بِيَثْرِبَ</ar>
                </t>
                <t>
                   <ar>أَدْنَى</ar>
