@@ -1,1 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="560">
+   <ayah id="٧٩٨١٨" surah="٨٤" verse="٣">
+      <text>
+         <ar>وَإِذَا ٱلْأَرْضُ مُدَّتْ <نهاية آية="٣"/>
+         </ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَإِذَا</ar>
+         </t>
+         <t>
+            <ar>ٱلْأَرْضُ</ar>
+         </t>
+         <t>
+            <ar>مُدَّتْ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٤٦١٠٧" surah="٨٤" verse="٢">
+      <text>
+         <ar>وَحُقَّتْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَحُقَّتْ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
