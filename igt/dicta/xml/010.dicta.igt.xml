@@ -3,25 +3,27 @@
    <dictum id="٢٣٦٩٧">
       <text>
          <ar>ضَرَبَ عَبْدُ اللهِ زَيْدًا</ar>
-         <free>Abdullah struck Zayd</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>ضَرَبَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>زَيْدًا</ar>
          </t>
       </igt>
    </dictum>
-
    <dictum id="٤٠٨٩٦">
       <text>
          <ar>ضَرَبَ زَيْدًا عَبْدُ اللهِ</ar>
-         <free>Abdullah struck Zayd</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -31,14 +33,17 @@
             <ar>زَيْدًا</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="١٤٩٨٣">
       <text>
          <ar>قَدْ ذَهَبَ</ar>
-         <free><ed>He</ed> has gone</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -52,7 +57,7 @@
    <dictum id="٩١٩٨٠">
       <text>
          <ar>قَدْ كَاْنَ مِنْهُ ذَهَاْبٌ</ar>
-         <free>There was from him a going</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -72,29 +77,34 @@
    <dictum id="٥٧٩٣٧">
       <text>
          <ar>ضَرَبَ عَبْدُ اللهِ</ar>
-         <free>Abdullah struck</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>ضَرَبَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٩٥٠٥٧">
       <text>
          <ar>ذَهَبَ عَبْدُ اللهِ الذَّهَاْبَ الشَّدِيْدَ</ar>
-         <free>Abdullah went an intense going</free>
-         <alt>Abdullah went tenaciously(?)</alt>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>ذَهَبَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>الذَّهَاْبَ</ar>
@@ -107,11 +117,7 @@
    <dictum id="٢٤٥٨١">
       <text>
          <ar>قَعَدَ قِعْدَةَ سَوْءٍ</ar>
-         <free>He sat in the manner of one who does evil</free>
-         <alt>He sat in a bad manner</alt>
-         <alt>He sat menacingly(?)</alt>
-         <alt>He sat with a hostile posture(?)</alt>
-         <alt>He sat in an ill-humored manner(?)</alt>
+         <free/>
       </text>
       <igt>
          <t>
@@ -128,8 +134,7 @@
    <dictum id="٠٤٧٩٠">
       <text>
          <ar>قَعَدَ قَعْدَتَيْنِ</ar>
-         <free><ed>He</ed> sat two sittings</free>
-         <alt><ed>He</ed> sat twice</alt>
+         <free/>
       </text>
       <igt>
          <t>
@@ -143,7 +148,7 @@
    <dictum id="١٩٩٩٩">
       <text>
          <ar>قَعَدَ الْقُرْفُصَاْءَ</ar>
-         <free><ed>He</ed> sat with arms around legs</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -157,7 +162,7 @@
    <dictum id="٨٧٩٥٧">
       <text>
          <ar>اشْتَمَلَ الصَّمَّاْءَ</ar>
-         <free><ed>He</ed> wrapped himself completely(?)</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -171,8 +176,7 @@
    <dictum id="٦٤٨٨٤">
       <text>
          <ar>رَجَعَ الْقَهْقَرَى</ar>
-         <free><ed>He</ed> returned backwards</free>
-         <alt><ed>He</ed> retreated</alt>
+         <free/>
       </text>
       <igt>
          <t>
@@ -186,7 +190,7 @@
    <dictum id="٩٧٦١٦">
       <text>
          <ar>قَعَدَ شَهْرَيْنِ</ar>
-         <free><ed>He</ed> sat two months</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -200,7 +204,7 @@
    <dictum id="٧٨٧٠٣">
       <text>
          <ar>سَيَقْعُدُ شَهْرَيْنِ</ar>
-         <free><ed>He</ed> will sit two months</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -214,7 +218,7 @@
    <dictum id="٨٢٨١٤">
       <text>
          <ar>ذَهَبْتُ أَمْسِ</ar>
-         <free>I went yesterday</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -228,7 +232,7 @@
    <dictum id="٠٩٢٣٢">
       <text>
          <ar>سَأَذْهَبُ غَدًا</ar>
-         <free>I will go tomorrow</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -347,7 +351,7 @@
    <dictum id="٩٨١٩٩">
       <text>
          <ar>دَخَلْتُ الْبَيْتَ</ar>
-         <free/>
+         <free>I entered the house</free>
       </text>
       <igt>
          <t>
