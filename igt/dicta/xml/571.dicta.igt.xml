@@ -1,1 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="571">
+   <dictum id="٥٢٠٨٥">
+      <text>
+         <ar>اسْتَخَذَ فُلَاْنٌ أَرْضًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اسْتَخَذَ</ar>
+         </t>
+         <t>
+            <ar>فُلَاْنٌ</ar>
+         </t>
+         <t>
+            <ar>أَرْضًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٧٧٧٤">
+      <text>
+         <ar>اتَّخَذَ أَرْضًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اتَّخَذَ</ar>
+         </t>
+         <t>
+            <ar>أَرْضًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٦٠٧٣">
+      <text>
+         <ar>عَلْمَاْءِ بَنُو فُلَاْنٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَلْمَاْءِ</ar>
+         </t>
+         <t>
+            <ar>بَنُو</ar>
+         </t>
+         <t>
+            <ar>فُلَاْنٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٠٢٨٢">
+      <text>
+         <ar>عَلَى الْمَاْءِ بَنُو فُلَاْنٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَلَى</ar>
+         </t>
+         <t>
+            <ar>الْمَاْءِ</ar>
+         </t>
+         <t>
+            <ar>بَنُو</ar>
+         </t>
+         <t>
+            <ar>فُلَاْنٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
