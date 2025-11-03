@@ -1,1 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="502">
+   <ayah id="٢٠٥٧٤" surah="١٧" verse="١٠٦">
+      <text>
+         <ar>وَنَزَّلْنَـٰهُ تَنْزِيْلًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَنَزَّلْنَـٰهُ</ar>
+         </t>
+         <t>
+            <ar>تَنْزِيْلًا</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٨١٥٧٣" surah="٧" verse="١٧٦">
+      <text>
+         <ar>إِنْ تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَثْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنْ</ar>
+         </t>
+         <t>
+            <ar>تَحْمِلْ</ar>
+         </t>
+         <t>
+            <ar>عَلَيْهِ</ar>
+         </t>
+         <t>
+            <ar>يَلْهَثْ</ar>
+         </t>
+         <t>
+            <ar>أَوْ</ar>
+         </t>
+         <t>
+            <ar>تَتْرُكْهُ</ar>
+         </t>
+         <t>
+            <ar>يَلْهَثْ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٨٠٧٤٠" surah="١٢" verse="٢٠">
+      <text>
+         <ar>وَشَرَوْهُ بِثَمَنِۭ بَخْسٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَشَرَوْهُ</ar>
+         </t>
+         <t>
+            <ar>بِثَمَنِۭ</ar>
+         </t>
+         <t>
+            <ar>بَخْسٍ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٣٠٦١٣" surah="٦٩" verse="٣٠">
+      <text>
+         <ar>خُذُوهُ فَغُلُّوهُ <نهاية آية="٣٠"/>
+         </ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>خُذُوهُ</ar>
+         </t>
+         <t>
+            <ar>فَغُلُّوهُ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٢٣٨٦٥" surah="٧" verse="١٠١">
+      <text>
+         <ar>رُسُلُهُم بِٱلْبَيِّنَــٰتِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رُسُلُهُم</ar>
+         </t>
+         <t>
+           <ar>بِٱلْبَيِّنَــٰتِ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
