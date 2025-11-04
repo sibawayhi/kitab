@@ -63,8 +63,13 @@
 <terms xmlns="http://www.sibawayhi.org/schema/2024/06/terms">
 
   <term><key>اللهُ</key>
-  <xlitx>Allah<influ/></xlitx>
-  <xlit>Allāh<influ/></xlit>
+  <xlitx>allah<influ/></xlitx>
+  <xlit>allāh<influ/></xlit>
+    <gloss>Allah</gloss>
+  </term>
+  <term><key>اللهِ</key>
+  <xlitx>allah<infli/></xlitx>
+  <xlit>allāh<infli/></xlit>
     <gloss>Allah</gloss>
   </term>
 
@@ -262,6 +267,9 @@
     <key>بَلَغَنِي</key> <xlit>bᵃlᵃgᵃ-nᵢ</xlit> <gloss>reached-<ed>it</ed>-me</gloss>
   </term>
 
+  <term><key>الْبَيْتَ</key> <xlitx>_l°-bᵃy°t<infla/></xlitx>
+  <xlit>_l-bayt<infla/></xlit><gloss>the house</gloss></term>
+
   <term><key>بَيْنَ</key> <xlit>bᵃy°nᵃ</xlit> <gloss>between</gloss></term>
 
   <!-- harf ت -->
@@ -402,7 +410,8 @@
   <xlit>dirham<inflin/></xlit>
   <gloss><ed>a</ed>dirham</gloss></term>
 
-  <term><key>دَخَلْتُ</key> <xlit>dᵃxᵃl°-tᵘ</xlit> <gloss>entered-I</gloss></term>
+  <term><key>دَخَلْتُ</key> <xlitx>dᵃxᵃl°-tᵘ</xlitx>
+  <xlit>daxal-tu</xlit><gloss>entered-I</gloss></term>
   <term><key>أَدْخَلُ</key> <xlit>Ɂᵃd°xᵘl<influ/></xlit> <gloss>I-enter<influ/></gloss></term>
   <term><key>أَدْخُلُهَا</key> <xlit>Ɂᵃd°xᵘl<influ/>-hᵃå</xlit> <gloss>I-enter<influ/>-it</gloss></term>
   <term><key>أَدْخُلَهَا</key> <xlit>Ɂᵃd°xᵘl<infla/>-hᵃå</xlit> <gloss>I-[should]-enter<infla/>-it</gloss></term>
@@ -800,6 +809,16 @@
   <xlit>bi-ʕabd<infli/> ـll²āh<infli/></xlit>
     <gloss>ʕAbd<infli/> llah<infli/></gloss> <parse>v31.perf</parse>
   </term>
+
+  <term><key>عَبْدُ</key> <xlitx>ʕᵃb°d<influ/></xlitx>
+  <xlit>ʕabd<influ/></xlit>
+  <gloss><ed>a</ed>slave</gloss></term>
+  <term><key>عَبْدَ</key> <xlitx>ʕᵃb°d<infla/></xlitx>
+  <xlit>ʕabd<infla/></xlit>
+  <gloss><ed>a</ed>slave</gloss></term>
+  <term><key>عَبْدِ</key> <xlitx>ʕᵃb°d<infli/></xlitx>
+  <xlit>ʕabd<infli/></xlit>
+  <gloss><ed>a</ed>slave</gloss></term>
 
   <term><key>عَبْدٍ</key> <xlit>ʕᵃb°d<inflin/></xlit>
   <gloss><ed>a</ed>slave</gloss></term>
