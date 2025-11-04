@@ -1,1 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="503">
+   <dictum id="٧٣٨٥٧">
+      <text>
+         <ar>مَرَرْتُ بِهِي قَبْلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهِي</ar>
+         </t>
+         <t>
+            <ar>قَبْلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٠٧٧٣">
+      <text>
+         <ar>لَدَيِهِي مَاْلٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَدَيِهِي</ar>
+         </t>
+         <t>
+            <ar>مَاْلٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٣٩٥٣">
+      <text>
+         <ar>مَرَرْتُ بِدَاْرِهِي قَبْلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِدَاْرِهِي</ar>
+         </t>
+         <t>
+            <ar>قَبْلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٨٧٤٩">
+      <text>
+         <ar>مَرَرْتُ بِهُو قَبْلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَرَرْتُ</ar>
+         </t>
+         <t>
+            <ar>بِهُو</ar>
+         </t>
+         <t>
+            <ar>قَبْلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٨١٠٨">
+      <text>
+         <ar>لَدَيْهُو مَاْلٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَدَيْهُو</ar>
+         </t>
+         <t>
+            <ar>مَاْلٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٥٣٨٦">
+      <text>
+         <ar>رَأَيْتُ قَاْضِيَهُ قَبْلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>قَاْضِيَهُ</ar>
+         </t>
+         <t>
+            <ar>قَبْلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٦٤٩٦">
+      <text>
+         <ar>هٰذِهِي سَبِيْلِي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذِهِي</ar>
+         </t>
+         <t>
+            <ar>سَبِيْلِي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٥٥٤٧">
+      <text>
+         <ar>هٰذِه أَمَّةُ اللهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذِه</ar>
+         </t>
+         <t>
+            <ar>أَمَّةُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

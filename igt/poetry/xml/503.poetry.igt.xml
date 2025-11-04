@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="503">
-   <verses id="١٢٩١٢" poet="">
+   <verses id="١٢٩١٢" poet="الْحُطَيْئَةُ">
       <verse>
          <hemistiche>
             <text>
-               <ar>وإنْ قَاْلَ مَوْلَاْهُمْ عَلَى جُلِّ حَاْدِثٍ</ar>
+               <ar>وَإِنْ قَاْلَ مَوْلَاْهُمْ عَلَى جُلِّ حَاْدِثٍ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>وإنْ</ar>
+                  <ar>وَإِنْ</ar>
                </t>
                <t>
                   <ar>قَاْلَ</ar>
@@ -31,18 +31,18 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>مِنَّ الدّهْرِ رُدُّوْا فَضْلَ أَحْلَاْمِكِمْ رَدُّوَا</ar>
+               <ar>مِنَ الدَّهْرِ رُدُّوا فَضْلَ أَحْلَاْمِكِمْ رَدُّوا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>مِنَّ</ar>
+                  <ar>مِنَ</ar>
                </t>
                <t>
-                  <ar>الدّهْرِ</ar>
+                  <ar>الدَّهْرِ</ar>
                </t>
                <t>
-                  <ar>رُدُّوْا</ar>
+                  <ar>رُدُّوا</ar>
                </t>
                <t>
                   <ar>فَضْلَ</ar>
@@ -51,7 +51,7 @@
                   <ar>أَحْلَاْمِكِمْ</ar>
                </t>
                <t>
-                  <ar>رَدُّوَا</ar>
+                  <ar>رَدُّوا</ar>
                </t>
             </igt>
          </hemistiche>

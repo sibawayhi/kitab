@@ -1,1 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="503">
+   <ayah id="٦٦٥٠١" surah="٢٨" verse="٨١">
+      <text>
+         <ar>فَخَسَفْنَا بِهُو وَبِدَاْرِهُو ٱلْأَرْضَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَخَسَفْنَا</ar>
+         </t>
+         <t>
+            <ar>بِهُو</ar>
+         </t>
+         <t>
+            <ar>وَبِدَاْرِهُو</ar>
+         </t>
+         <t>
+            <ar>ٱلْأَرْضَ</ar>
+         </t>
+      </igt>
+   </ayah>
+   
+   <ayah id="٩٦٢٢٧" surah="٢٨" verse="٢٣">
+      <text>
+         <ar>حَتّى يُصْدِرَ ٱلرِّعَاْءُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>حَتّى</ar>
+         </t>
+         <t>
+            <ar>يُصْدِرَ</ar>
+         </t>
+         <t>
+            <ar>ٱلرِّعَاْءُ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
