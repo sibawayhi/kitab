@@ -1,36 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="065">
-   <dictum id="٥٢١٨٢">
-      <text>
-         <ar>حَمْدًا وَشُكْرًا لَا كُفْرًا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>حَمْدًا</ar>
-         </t>
-         <t>
-            <ar>وَشُكْرًا</ar>
-         </t>
-         <t>
-            <ar>لَا</ar>
-         </t>
-         <t>
-            <ar>كُفْرًا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٧٥٥٢١">
-      <text>
-         <ar>عَجَبًا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>عَجَبًا</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٢٢٥١٧">
       <text>
          <ar>أَفْعَلُ ذٰلِكَ</ar>
@@ -42,67 +11,6 @@
          </t>
          <t>
             <ar>ذٰلِكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٥٧٣٦">
-      <text>
-         <ar>كَرَاْمَةً</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَرَاْمَةً</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٢٦٣٠">
-      <text>
-         <ar>مَسَرَّةً</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مَسَرَّةً</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٤٧٧٣">
-      <text>
-         <ar>نُعْمَةَ عَيْنٍ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>نُعْمَةَ</ar>
-         </t>
-         <t>
-            <ar>عَيْنٍ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٢٧٩٩">
-      <text>
-         <ar>حُبًّا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>حُبًّا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٨٦٧٥">
-      <text>
-         <ar>نَعَاْمَ عَيْنٍ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>نَعَاْمَ</ar>
-         </t>
-         <t>
-            <ar>عَيْنٍ</ar>
          </t>
       </igt>
    </dictum>
@@ -387,37 +295,6 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٢٠٣٨">
-      <text>
-         <ar>أَمْرُنَا حَنَاْنٌ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>أَمْرُنَا</ar>
-         </t>
-         <t>
-            <ar>حَنَاْنٌ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٠٣٧٢">
-      <text>
-         <ar>مَا يُصِيْبُنَا حَنَاْنٌ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-            <ar>يُصِيْبُنَا</ar>
-         </t>
-         <t>
-            <ar>حَنَاْنٌ</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٤٥٢٨٢">
       <text>
          <ar>لِمَ تَعِظُوْنَ قَوْمًا</ar>
@@ -437,7 +314,7 @@
    </dictum>
    <dictum id="٧٧٣٠٤">
       <text>
-         <ar>مَوْعِظَتُنَا مَعْذِرَةٌ إلَى رَبِّكُمْ</ar>
+         <ar>مَوْعِظَتُنَا مَعْذِرَةٌ إِلَى رَبِّكُمْ</ar>
          <free/>
       </text>
       <igt>
@@ -448,7 +325,7 @@
             <ar>مَعْذِرَةٌ</ar>
          </t>
          <t>
-            <ar>إلَى</ar>
+            <ar>إِلَى</ar>
          </t>
          <t>
             <ar>رَبِّكُمْ</ar>
@@ -457,7 +334,7 @@
    </dictum>
    <dictum id="١٥٧٢٧">
       <text>
-         <ar>مَعْذِرَةً أِلَى اللهِ وَإِلَيْكَ مِنْ كَذَا وَكَذَا</ar>
+         <ar>مَعْذِرَةً إِلَى اللهِ وَإِلَيْكَ مِنْ كَذَا وَكَذَا</ar>
          <free/>
       </text>
       <igt>
@@ -465,7 +342,7 @@
             <ar>مَعْذِرَةً</ar>
          </t>
          <t>
-            <ar>أِلَى</ar>
+            <ar>إِلَى</ar>
          </t>
          <t>
             <ar>اللهِ</ar>
@@ -481,6 +358,23 @@
          </t>
          <t>
             <ar>وَكَذَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="">
+      <text>
+         <ar>الْأَمْرُ صَبْرٌ جَمِيْلٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>الْأَمْرُ</ar>
+         </t>
+         <t>
+            <ar>صَبْرٌ</ar>
+         </t>
+         <t>
+            <ar>جَمِيْلٌ</ar>
          </t>
       </igt>
    </dictum>

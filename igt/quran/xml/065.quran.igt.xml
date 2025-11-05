@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="065">
-   <ayah id="٧٤٨٧٨" surah="" verse="">
+   <ayah id="٧٤٨٧٨" surah="٧" verse="١٦٤">
       <text>
-         <ar>قَاْلُوْا مَعْذِرَةٍ أِلَى رَبِّكُمْ</ar>
+         <ar>قَاْلُوْا مَعْذِرَةً إِلَى رَبِّكُمْ</ar>
          <free/>
       </text>
       <igt>
@@ -11,33 +11,33 @@
             <ar>قَاْلُوْا</ar>
          </t>
          <t>
-            <ar>مَعْذِرَةٍ</ar>
+            <ar>مَعْذِرَةً</ar>
          </t>
          <t>
-            <ar>أِلَى</ar>
+            <ar>إِلَى</ar>
          </t>
          <t>
             <ar>رَبِّكُمْ</ar>
          </t>
       </igt>
    </ayah>
-   <ayah id="٥٩٩٣٥" surah="" verse="">
+   <ayah id="٥٩٩٣٥" surah="١٢" verse="١٨">
       <text>
-         <ar>فصبر جميْل وَاللّٰه المستعَاْن</ar>
+         <ar>فَصَبْرٌ جَمِيْلٌ وَٱللّٰهُ ٱلْمُسْتَعَاْنُ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>فصبر</ar>
+            <ar>فَصَبْرٌ</ar>
          </t>
          <t>
-            <ar>جميْل</ar>
+            <ar>جَمِيْلٌ</ar>
          </t>
          <t>
-            <ar>وَاللّٰه</ar>
+            <ar>وَٱللّٰهُ</ar>
          </t>
          <t>
-            <ar>المستعَاْن</ar>
+            <ar>ٱلْمُسْتَعَاْنُ</ar>
          </t>
       </igt>
    </ayah>
