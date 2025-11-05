@@ -58,64 +58,6 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٢٣٠٧">
-      <text>
-         <ar>عَدَدْتُكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>عَدَدْتُكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٨٢٧٧٦">
-      <text>
-         <ar>كِلْتُكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كِلْتُكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٧٥٢٥٦">
-      <text>
-         <ar>وَزَنْتُكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>وَزَنْتُكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٨٥٦٣">
-      <text>
-         <ar>وَهَبْتُكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>وَهَبْتُكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٤٤٦٤">
-      <text>
-         <ar>وَهَبْتُ لَكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>وَهَبْتُ</ar>
-         </t>
-         <t>
-            <ar>لَكَ</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٤٢٣٧٣">
       <text>
          <ar>وَيْلَكَ وَعَوْلَكَ</ar>
@@ -127,17 +69,6 @@
          </t>
          <t>
             <ar>وَعَوْلَكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥٩٤٩٠">
-      <text>
-         <ar>عَوْلَكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>عَوْلَكَ</ar>
          </t>
       </igt>
    </dictum>
