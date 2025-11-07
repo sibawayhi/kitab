@@ -2,12 +2,12 @@
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="067">
    <dictum id="٠٣٢٧٥">
       <text>
-         <ar>اْلْحَمْدُ لِلّٰهِ</ar>
+         <ar>الْحَمْدُ لِلّٰهِ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>اْلْحَمْدُ</ar>
+            <ar>الْحَمْدُ</ar>
          </t>
          <t>
             <ar>لِلّٰهِ</ar>
@@ -16,12 +16,12 @@
    </dictum>
    <dictum id="١٧٣٠٧">
       <text>
-         <ar>اْلعَجَبُ لَكَ</ar>
+         <ar>الْعَجَبُ لَكَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>اْلعَجَبُ</ar>
+            <ar>الْعَجَبُ</ar>
          </t>
          <t>
             <ar>لَكَ</ar>
@@ -30,12 +30,12 @@
    </dictum>
    <dictum id="٨٩٩٥٠">
       <text>
-         <ar>اْلوَيْلُ لَكَ</ar>
+         <ar>الْوَيْلُ لَكَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>اْلوَيْلُ</ar>
+            <ar>الْوَيْلُ</ar>
          </t>
          <t>
             <ar>لَكَ</ar>
@@ -44,12 +44,12 @@
    </dictum>
    <dictum id="٩٤٦٨٥">
       <text>
-         <ar>اْلتُّرَاْبُ لَكَ</ar>
+         <ar>التُّرَاْبُ لَكَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>اْلتُّرَاْبُ</ar>
+            <ar>التُّرَاْبُ</ar>
          </t>
          <t>
             <ar>لَكَ</ar>
@@ -58,12 +58,12 @@
    </dictum>
    <dictum id="٤٩١٣٩">
       <text>
-         <ar>اْلخَيْبَةُ لَكَ</ar>
+         <ar>الْخَيْبَةُ لَكَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>اْلخَيْبَةُ</ar>
+            <ar>الْخَيْبَةُ</ar>
          </t>
          <t>
             <ar>لَكَ</ar>
@@ -116,48 +116,6 @@
          </t>
          <t>
             <ar>كَذَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٣٥٣٣">
-      <text>
-         <ar>اْلسَّقْيُ لَكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>اْلسَّقْيُ</ar>
-         </t>
-         <t>
-            <ar>لَكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٤٢٤٥">
-      <text>
-         <ar>اْلرَّعْيُ لَكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>اْلرَّعْيُ</ar>
-         </t>
-         <t>
-            <ar>لَكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤١٥٥٤">
-      <text>
-         <ar>اْلْحَمْدُ لِلّٰهِ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>اْلْحَمْدُ</ar>
-         </t>
-         <t>
-            <ar>لِلّٰهِ</ar>
          </t>
       </igt>
    </dictum>
@@ -263,12 +221,12 @@
    </dictum>
    <dictum id="٣٨٦٠٩">
       <text>
-         <ar>اْلْحَمْدَ لِلّٰهِ</ar>
+         <ar>الْحَمْدَ لِلّٰهِ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>اْلْحَمْدَ</ar>
+            <ar>الْحَمْدَ</ar>
          </t>
          <t>
             <ar>لِلّٰهِ</ar>
@@ -277,12 +235,12 @@
    </dictum>
    <dictum id="٢٠٨٤٦">
       <text>
-         <ar>اْلتُّرَاْبَ لَكَ</ar>
+         <ar>التُّرَاْبَ لَكَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>اْلتُّرَاْبَ</ar>
+            <ar>التُّرَاْبَ</ar>
          </t>
          <t>
             <ar>لَكَ</ar>
@@ -291,12 +249,12 @@
    </dictum>
    <dictum id="٣٧٣٤٨">
       <text>
-         <ar>اْلعَجَبَ لَكَ</ar>
+         <ar>الْعَجَبَ لَكَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>اْلعَجَبَ</ar>
+            <ar>الْعَجَبَ</ar>
          </t>
          <t>
             <ar>لَكَ</ar>
