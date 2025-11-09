@@ -19,18 +19,38 @@
    </dictum>
    <dictum id="٣٢٠٦٠">
       <text>
-         <ar>تبًّا لَكَ وَوَيْحًا</ar>
+         <ar>تَبًّا لَكَ وَوَيْحًا</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>تبًّا</ar>
+            <ar>تَبًّا</ar>
          </t>
          <t>
             <ar>لَكَ</ar>
          </t>
          <t>
             <ar>وَوَيْحًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٣٦٨٦">
+      <text>
+         <ar>تَبًّا لَهُ وَوَيْحٌ لَهُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تَبًّا</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+         <t>
+            <ar>وَوَيْحٌ</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
          </t>
       </igt>
    </dictum>
