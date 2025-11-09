@@ -280,6 +280,20 @@
   <xlit>turb<inflan/></xlit>
   <gloss>dust<inflan/></gloss></term>
 
+  <term><key>تَبٌّ</key> <xlitx>tᵃb&shadda;<influn/></xlitx>
+  <xlit>tabb<influn/></xlit>
+  <gloss>perdition</gloss></term>
+  <term><key>وَتَبٌّ</key> <xlitx>wᵃ-tᵃb&shadda;<influn/></xlitx>
+  <xlit>wa-tabb<influn/></xlit>
+  <gloss>and perdition</gloss></term>
+
+  <term><key>تَبًّا</key> <xlitx>tᵃb&shadda;<inflan/></xlitx>
+  <xlit>tabb<inflan/></xlit>
+  <gloss>perdition</gloss></term>
+  <term><key>وَتَبًّا</key> <xlitx>wᵃ-tᵃb&shadda;<inflan/></xlitx>
+  <xlit>wa-tabb<inflan/></xlit>
+  <gloss>and perdition</gloss></term>
+
   <!-- harf ج -->
   <term><key>جَلَسَ</key> <xlitx>jᵃlᵃsᵃ</xlitx>
   <xlit>jalasa</xlit>
@@ -1243,6 +1257,21 @@
     <xlit>waqaʕa</xlit>
     <gloss>occured<ed>-it</ed><influn/></gloss>
   </term>
+
+  <term> <key>وَيْحٌ</key> <xlitx>wᵃy°ḥ<influn/></xlitx>
+  <xlit>wayḥ<influn/></xlit>
+  <gloss>mercy<influn/></gloss></term>
+  <term> <key>وَوَيْحٌ</key> <xlitx>wᵃ-wᵃy°ḥ<influn/></xlitx>
+  <xlit>wa-wayḥ<influn/></xlit>
+  <gloss>and mercy<influn/></gloss></term>
+
+  <term> <key>وَيْحًا</key> <xlitx>wᵃy°ḥ<inflan/></xlitx>
+  <xlit>wayḥ<inflan/></xlit>
+  <gloss>mercy<influn/></gloss></term>
+  <term> <key>وَوَيْحًا</key> <xlitx>wᵃ-wᵃy°ḥ<inflan/></xlitx>
+  <xlit>wa-wayḥ<inflan/></xlit>
+  <gloss>and mercy<influn/></gloss></term>
+
 
   <term> <key>وَيْلٌ</key> <xlitx>wᵃy°l<influn/></xlitx>
   <xlit>wayl<influn/></xlit>

@@ -112,6 +112,8 @@ bab =
 #term
 حرف = element حرف {		# term
       attribute صنف {text}?,
+      attribute ج { "*" | "?"}?,
+      attribute قول { text }?, # xref to qawl dup
       (text
       # | بديل
       )+
