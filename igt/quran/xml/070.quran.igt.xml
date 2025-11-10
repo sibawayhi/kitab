@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="070">
-   <ayah id="٥٧٧٥١" surah="" verse="">
+   <ayah id="٥٧٧٥١" surah="٤٧" verse="٤٠">
       <text>
-         <ar>فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فَدَاْءً</ar>
+         <ar>فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاْءً</ar>
          <free/>
       </text>
       <igt>
@@ -20,7 +20,7 @@
             <ar>وَإِمَّا</ar>
          </t>
          <t>
-            <ar>فَدَاْءً</ar>
+            <ar>فِدَاْءً</ar>
          </t>
       </igt>
    </ayah>
