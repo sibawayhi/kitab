@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="077">
-   <verses id="٩٤٢٢٨" poet="">
+   <verses id="٩٤٢٢٨" poet="رُؤْبَةُ">
       <verse>
          <hemistiche>
             <text>
-               <ar>فِيْهَا ازْدِهاْفٌ أَيَّمَا ازدِهاْفِ</ar>
+               <ar>فِيْهَا ازْدِهَاْفٌ أَيَّمَا ازْدِهَاْفٍ</ar>
                <free/>
             </text>
             <igt>
@@ -13,13 +13,13 @@
                   <ar>فِيْهَا</ar>
                </t>
                <t>
-                  <ar>ازْدِهاْفٌ</ar>
+                  <ar>ازْدِهَاْفٌ</ar>
                </t>
                <t>
                   <ar>أَيَّمَا</ar>
                </t>
                <t>
-                  <ar>ازدِهاْفِ</ar>
+                  <ar>ازْدِهَاْفٍ</ar>
                </t>
             </igt>
          </hemistiche>
