@@ -2,7 +2,7 @@
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="076">
    <dictum id="٥٦٠٤٩">
       <text>
-         <ar>لَهُ عِلْمٌ عِلْمُ الْفُقَهاْءِ</ar>
+         <ar>لَهُ عِلْمٌ عِلْمُ الْفُقَهَاْءِ</ar>
          <free/>
       </text>
       <igt>
@@ -16,7 +16,7 @@
             <ar>عِلْمُ</ar>
          </t>
          <t>
-            <ar>الْفُقَهاْءِ</ar>
+            <ar>الْفُقَهَاْءِ</ar>
          </t>
       </igt>
    </dictum>
@@ -80,20 +80,6 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٩٧٤٢">
-      <text>
-         <ar>لَهُ عاْلِمٌ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>لَهُ</ar>
-         </t>
-         <t>
-            <ar>عاْلِمٌ</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٨٣١٠١">
       <text>
          <ar>لَهُ شَرَفٌ</ar>
@@ -110,12 +96,12 @@
    </dictum>
    <dictum id="٥٤٣٩٨">
       <text>
-         <ar>له دِيْنٌ</ar>
+         <ar>لَهُ دِيْنٌ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>له</ar>
+            <ar>لَهُ</ar>
          </t>
          <t>
             <ar>دِيْنٌ</ar>
@@ -124,7 +110,7 @@
    </dictum>
    <dictum id="٣٣٦٤٩">
       <text>
-         <ar>لَهُ فَهَمٌ</ar>
+         <ar>لَهُ فَهْمٌ</ar>
          <free/>
       </text>
       <igt>
@@ -132,7 +118,7 @@
             <ar>لَهُ</ar>
          </t>
          <t>
-            <ar>فَهَمٌ</ar>
+            <ar>فَهْمٌ</ar>
          </t>
       </igt>
    </dictum>
@@ -175,7 +161,7 @@
    </dictum>
    <dictum id="٢٨٢٠٤">
       <text>
-         <ar>يَتَفَهَّمُ وَلَيْسَ لَهُ فَهَمٌ</ar>
+         <ar>يَتَفَهَّمُ وَلَيْسَ لَهُ فَهْمٌ</ar>
          <free/>
       </text>
       <igt>
@@ -189,7 +175,7 @@
             <ar>لَهُ</ar>
          </t>
          <t>
-            <ar>فَهَمٌ</ar>
+            <ar>فَهْمٌ</ar>
          </t>
       </igt>
    </dictum>
