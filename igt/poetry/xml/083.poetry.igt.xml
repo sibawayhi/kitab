@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="083">
-   <verses id="٦١١٤٣" poet="لبيَدُ بن رَبيْعَةَ">
+   <verses id="٦١١٤٣" poet="لَبِيْدُ بْنُ رَبِيْعَةَ">
       <verse>
          <hemistiche>
             <text>
@@ -25,7 +25,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>وَلَمْ يُشْفِقْ عَلَى نَغَصِ الدَّخَاْلِ</ar>
+               <ar>وَلَمْ يُشْفِقْ عَلَى نَغَصِ الدِّخَاْلِ</ar>
                <free/>
             </text>
             <igt>
@@ -42,7 +42,7 @@
                   <ar>نَغَصِ</ar>
                </t>
                <t>
-                  <ar>الدَّخَاْلِ</ar>
+                  <ar>الدِّخَاْلِ</ar>
                </t>
             </igt>
          </hemistiche>
