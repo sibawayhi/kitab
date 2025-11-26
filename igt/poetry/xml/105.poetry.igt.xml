@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="105">
-   <verses id="٥١٨٣٩" poet="">
+   <verses id="٥١٨٣٩" poet="مَاْلِكُ بْنُ خُوَيْلِدٍ الْخُنَاْعِيُّ">
       <verse>
          <hemistiche>
             <text>
-               <ar>يْاْمَىَّ إِنْ تَفْقِدِي قَوْمًا وَلَدْتِهِمِ</ar>
+               <ar>يَا مَيَّ إِنْ تَفْقِدِي قَوْمًا وَلَدْتِهِمِ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>يْاْمَىَّ</ar>
+                  <ar>يَا</ar>
+               </t>
+               <t>
+                  <ar>مَيَّ</ar>
                </t>
                <t>
                   <ar>إِنْ</ar>
@@ -76,12 +79,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>ببَطْنِ عَرْعَرَ آبِي الضَّيْمِ عَبّاْسُ</ar>
+               <ar>بِبَطْنِ عَرْعَرَ آبِي الضَّيْمِ عَبَّاْسُ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>ببَطْنِ</ar>
+                  <ar>بِبَطْنِ</ar>
                </t>
                <t>
                   <ar>عَرْعَرَ</ar>
@@ -93,13 +96,13 @@
                   <ar>الضَّيْمِ</ar>
                </t>
                <t>
-                  <ar>عَبّاْسُ</ar>
+                  <ar>عَبَّاْسُ</ar>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨٩٢٨١" poet="">
+   <verses id="٨٩٢٨١" poet="مُهَلْهِلٌ">
       <verse>
          <hemistiche>
             <text>
@@ -146,7 +149,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٣٤٤٦٩" poet="">
+   <verses id="٣٤٤٦٩" poet="الْفَرَزْدَقُ">
       <verse>
          <hemistiche>
             <text>
@@ -173,7 +176,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>وَعَبْطَ الْمَهاْرِي كُوْمُهَا وَشَبوْبُهَا</ar>
+               <ar>وَعَبْطَ الْمَهَاْرِي كُوْمُهَا وَشُبُوْبُهَا</ar>
                <free/>
             </text>
             <igt>
@@ -181,13 +184,13 @@
                   <ar>وَعَبْطَ</ar>
                </t>
                <t>
-                  <ar>الْمَهاْرِي</ar>
+                  <ar>الْمَهَاْرِي</ar>
                </t>
                <t>
                   <ar>كُوْمُهَا</ar>
                </t>
                <t>
-                  <ar>وَشَبوْبُهَا</ar>
+                  <ar>وَشُبُوْبُهَا</ar>
                </t>
             </igt>
          </hemistiche>
@@ -217,7 +220,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>سَقْبَاْنِ مَمْشُوْقَاْنِ مَكْنُوْزًا الْعَضَلْ</ar>
+               <ar>سَقْبَاْنِ مَمْشُوْقَاْنِ مَكْنُوْزَا الْعَضَلْ</ar>
                <free/>
             </text>
             <igt>
@@ -228,7 +231,7 @@
                   <ar>مَمْشُوْقَاْنِ</ar>
                </t>
                <t>
-                  <ar>مَكْنُوْزًا</ar>
+                  <ar>مَكْنُوْزَا</ar>
                </t>
                <t>
                   <ar>الْعَضَلْ</ar>

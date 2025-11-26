@@ -1,32 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="105">
-   <ayah id="٥٥٢٥٩" surah="" verse="">
+   <ayah id="٥٥٢٥٩" surah="٤٢" verse="٥٢">
       <text>
-         <ar>وَإِنْكَ لَتَهْدِي أِلَى صَرَاْطٍ مُسْتَقِيْمٍ صِرَاْطِ اللهِ</ar>
+         <ar>
+    وَإِنَّكَ لَتَهْدِي إِلَى صِرَاْطٍ مُسْتَقِيْمٍ </ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>وَإِنْكَ</ar>
+            <ar>وَإِنَّكَ</ar>
          </t>
          <t>
             <ar>لَتَهْدِي</ar>
          </t>
          <t>
-            <ar>أِلَى</ar>
+            <ar>إِلَى</ar>
          </t>
          <t>
-            <ar>صَرَاْطٍ</ar>
+            <ar>صِرَاْطٍ</ar>
          </t>
          <t>
             <ar>مُسْتَقِيْمٍ</ar>
-         </t>
-         <t>
-            <ar>صِرَاْطِ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
          </t>
       </igt>
    </ayah>
