@@ -3,7 +3,7 @@
    <dictum id="٧٥٦٩٨">
       <text>
          <ar>هٰذَا عَرَبِيٌّ مَحْضًا</ar>
-         <free>This [is an] Arab, [in] purity</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -20,7 +20,7 @@
    <dictum id="٤٢٢٧١">
       <text>
          <ar>هٰذَا عَرَبِيٌّ قَلْبًا</ar>
-         <free>This [is an] Arab [in] heart</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -37,7 +37,7 @@
    <dictum id="٥٨١٦٢">
       <text>
          <ar>هٰذَا عَرَبِيٌّ مَحْضٌ</ar>
-         <free>This [is a] pure Arab</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -54,7 +54,7 @@
    <dictum id="٦٩١٦٤">
       <text>
          <ar>هٰذَا عَرَبِيٌّ قَلْبٌ</ar>
-         <free>This [is a] heart-Arab</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -71,7 +71,7 @@
    <dictum id="٦٩٢٩٣">
       <text>
          <ar>هٰذَا عَرَبِيٌّ قُحٌّ</ar>
-         <free>This [is a] genuine Arab</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -105,24 +105,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="١٢٠٦٢">
-      <text>
-         <ar>نَقْدَ النَّاْسِ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>نَقْدَ</ar>
-         </t>
-         <t>
-            <ar>النَّاْسِ</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٥٣٨٤٦">
       <text>
          <ar>هٰذِهِ مِاْئَةٌ ضَرْبَ الأَمِيْرِ</ar>
-         <free>This is a hundred-lot of the Emir's striking</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -138,12 +124,11 @@
             <ar>الأَمِيْرِ</ar>
          </t>
       </igt>
-      <sidecomment>i.e. a hundred coins</sidecomment>
    </dictum>
    <dictum id="٥٠٩٨٦">
       <text>
          <ar>هٰذَا ثَوْبٌ نَسْجَ الْيَمَنِ</ar>
-         <free>This is a garment of Yemen weaving</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -162,8 +147,8 @@
    </dictum>
    <dictum id="٠٦٣٣٧">
       <text>
-         <ar>هٰذِهِ مِاْئَةٌ ضَرْبُ الأَمِيْرِ</ar>
-         <free>This is a hundred-lot struck by the Emir</free>
+         <ar>هٰذِهِ مِاْئَةٌ  ضَرْبُ الأَمِيْرِ</ar>
+         <free/>
       </text>
       <igt>
          <t>
@@ -177,29 +162,6 @@
          </t>
          <t>
             <ar>الأَمِيْرِ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥١٣٥١">
-      <text>
-         <ar>ابْنُ عَمِّي دِنْيٌ وَعَرَبِيٌّ جِدٌّ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>ابْنُ</ar>
-         </t>
-         <t>
-            <ar>عَمِّي</ar>
-         </t>
-         <t>
-            <ar>دِنْيٌ</ar>
-         </t>
-         <t>
-            <ar>وَعَرَبِيٌّ</ar>
-         </t>
-         <t>
-            <ar>جِدٌّ</ar>
          </t>
       </igt>
    </dictum>
@@ -220,7 +182,7 @@
    <dictum id="٥٩٨٠١">
       <text>
          <ar>هٰذَا زَيْدٌ الطَّوِيْلُ</ar>
-         <free>This is Zady the tall.</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -237,7 +199,7 @@
    <dictum id="٣٦٨٧٧">
       <text>
          <ar>هٰذَا زَيْدٌ ذَاْهِبًا</ar>
-         <free>This is Zayd, going</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -254,8 +216,7 @@
    <dictum id="١٠٥٣٣">
       <text>
          <ar>هٰذَا دِرْهَمٌ وَزْنًا</ar>
-         <free>This is a dirham in weight</free>
-         <alt>This has the weight of a dirham.</alt>
+         <free/>
       </text>
       <igt>
          <t>
