@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="106">
-   <verses id="٧٩٣٦٤" poet="">
+   <verses id="٧٩٣٦٤" poet="ابْنُ مَيَّاْدَةَ الْمُرِّي">
       <verse>
          <hemistiche>
             <text>
-               <ar>وَاْرْتَشْنَ حِيْنَ أَرَدْنَ أَنْ يَرْمِيْنَنَا</ar>
+               <ar>وَارْتَشْنَ حِيْنَ أَرَدْنَ أَنْ يَرْمِيْنَنَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>وَاْرْتَشْنَ</ar>
+                  <ar>وَارْتَشْنَ</ar>
                </t>
                <t>
                   <ar>حِيْنَ</ar>
@@ -28,12 +28,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>نَبْلِا بِلَا رِيْشٍ وَلَا بِقِدَاْحِ</ar>
+               <ar>نَبْلًا بِلَا رِيْشٍ وَلَا بِقِدَاْحِ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>نَبْلِا</ar>
+                  <ar>نَبْلًا</ar>
                </t>
                <t>
                   <ar>بِلَا</ar>
@@ -76,7 +76,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>مَرْضَى مُخَاْلِطِهَا الْسَّقَاْمُ صِحَاْحِ</ar>
+               <ar>مَرْضَى مُخَاْلِطِهَا السَّقَاْمُ صِحَاْحِ</ar>
                <free/>
             </text>
             <igt>
@@ -87,7 +87,7 @@
                   <ar>مُخَاْلِطِهَا</ar>
                </t>
                <t>
-                  <ar>الْسَّقَاْمُ</ar>
+                  <ar>السَّقَاْمُ</ar>
                </t>
                <t>
                   <ar>صِحَاْحِ</ar>
@@ -96,7 +96,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨٩٦٠١" poet="">
+   <verses id="٨٩٦٠١" poet="الْأَخْطَلُ">
       <verse>
          <hemistiche>
             <text>
