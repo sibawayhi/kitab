@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="110">
-   <verses id="٥٠٣٤٩" poet="">
+   <verses id="٥٠٣٤٩" poet="الْأَعْشَى">
       <verse>
          <hemistiche>
             <text>
@@ -51,11 +51,11 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٢٦٣٦٩" poet="">
+   <verses id="٢٦٣٦٩" poet="سُحَيْمُ بْنُ وَثِيْلٍ">
       <verse>
          <hemistiche>
             <text>
-               <ar>مَرَرْتُ عَلَى وَادِي السِّبَاْعِ وَلَا أَرَى</ar>
+               <ar>مَرَرْتُ عَلَى وَاْدِي السِّبَاْعِ وَلَا أَرَى</ar>
                <free/>
             </text>
             <igt>
@@ -66,7 +66,7 @@
                   <ar>عَلَى</ar>
                </t>
                <t>
-                  <ar>وَادِي</ar>
+                  <ar>وَاْدِي</ar>
                </t>
                <t>
                   <ar>السِّبَاْعِ</ar>
@@ -81,7 +81,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>كَوَاْدِي السِّبَاْعِ حِيْنَ يُظْلِمُ وَادِيًا</ar>
+               <ar>كَوَاْدِي السِّبَاْعِ حِيْنَ يُظْلِمُ وَاْدِيًا</ar>
                <free/>
             </text>
             <igt>
@@ -98,7 +98,7 @@
                   <ar>يُظْلِمُ</ar>
                </t>
                <t>
-                  <ar>وَادِيًا</ar>
+                  <ar>وَاْدِيًا</ar>
                </t>
             </igt>
          </hemistiche>
