@@ -202,10 +202,11 @@ bab =
 قول = # dictum
    element قول {		# qawl qwl cite quote
       attribute هوية {text}?,   # id
+      attribute قول { text }?,  # xref to qawl dup
       attribute رقم {text}?,    # serial
       attribute وتد {text}?,	# وتد tent peg, i.e. anchor id
       attribute صنف {text}?,
-      attribute ج {"*" | "?"}?,  # judgment; "*" = لا يجوز
+      attribute ج {"*" | "؟"}?,  # judgment; "*" = لا يجوز
       attribute مثال {
           "٠"  # marks as redundant, do not include in igt section
           | "١"  # marks dictum as exemplary for the bab for indexing
