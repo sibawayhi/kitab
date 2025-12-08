@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="114">
-   <ayah id="١٠٨٣٠" surah="" verse="">
+   <ayah id="١٠٨٣٠" surah="٧٤" verse="٤٩">
       <text>
-         <ar>فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِيْنَ</ar>
+         <ar>فَمَا لَهُمْ عَنِ ٱلتَّذْكِرَةِ مُعْرِضِيْنَ <نهاية آية="٤٩"/>
+         </ar>
          <free/>
       </text>
       <igt>
@@ -17,7 +18,7 @@
             <ar>عَنِ</ar>
          </t>
          <t>
-            <ar>التَّذْكِرَةِ</ar>
+            <ar>ٱلتَّذْكِرَةِ</ar>
          </t>
          <t>
             <ar>مُعْرِضِيْنَ</ar>
