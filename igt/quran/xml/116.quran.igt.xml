@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="116">
-   <ayah id="١١٠٤٩" surah="" verse="">
+   <ayah id="١١٠٤٩" surah="١١١" verse="٤">
       <text>
-         <ar>وَٱمْرَأَتُهُ حَمَّاْلَةَ الْحَطَبِ</ar>
+         <ar>وَٱمْرَأَتُهُ حَمَّاْلَةَ ٱلْحَطَبِ</ar>
          <free/>
       </text>
       <igt>
@@ -14,7 +14,7 @@
             <ar>حَمَّاْلَةَ</ar>
          </t>
          <t>
-            <ar>الْحَطَبِ</ar>
+            <ar>ٱلْحَطَبِ</ar>
          </t>
       </igt>
    </ayah>
