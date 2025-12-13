@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="117">
-   <verses id="٥٤٨٢٤" poet="">
+   <verses id="٥٤٨٢٤" poet="ابْنُ دَاْرَةَ">
       <verse>
          <hemistiche>
             <text>
-               <ar>أَنَا ابن داْرَةَ مَعْرُوْفِا بِهَا نَسَبِي</ar>
+               <ar>أَنَا ابْنُ دَاْرَةَ مَعْرُوْفًا بِهَا نَسَبِي</ar>
                <free/>
             </text>
             <igt>
@@ -13,13 +13,13 @@
                   <ar>أَنَا</ar>
                </t>
                <t>
-                  <ar>ابن</ar>
+                  <ar>ابْنُ</ar>
                </t>
                <t>
-                  <ar>داْرَةَ</ar>
+                  <ar>دَاْرَةَ</ar>
                </t>
                <t>
-                  <ar>مَعْرُوْفِا</ar>
+                  <ar>مَعْرُوْفًا</ar>
                </t>
                <t>
                   <ar>بِهَا</ar>
@@ -31,24 +31,27 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>وهلْ بداْرَةَ باْللَنّاْسِ مِنْ عاْرِ</ar>
+               <ar>وَهَلْ بِدَاْرَةَ يا لِلنَّاْسِ مِنْ عَاْرِ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>وهلْ</ar>
+                  <ar>وَهَلْ</ar>
                </t>
                <t>
-                  <ar>بداْرَةَ</ar>
+                  <ar>بِدَاْرَةَ</ar>
                </t>
                <t>
-                  <ar>باْللَنّاْسِ</ar>
+                  <ar>يا</ar>
+               </t>
+               <t>
+                  <ar>لِلنَّاْسِ</ar>
                </t>
                <t>
                   <ar>مِنْ</ar>
                </t>
                <t>
-                  <ar>عاْرِ</ar>
+                  <ar>عَاْرِ</ar>
                </t>
             </igt>
          </hemistiche>
