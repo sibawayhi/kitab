@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="121">
-   <verses id="٢٤١٣٨" poet="">
+   <verses id="٢٤١٣٨" poet="النَّاْبِغَةُ">
       <verse>
          <hemistiche>
             <text>
@@ -51,7 +51,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨١٩٠٩" poet="">
+   <verses id="٨١٩٠٩" poet="الْهُذَلِيُّ">
       <verse>
          <hemistiche>
             <text>
@@ -81,7 +81,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>قِرْفَ الْحَتِيَّ وَعِنْدِي الْبُرُّ مَكْنُوْزُ</ar>
+               <ar>قِرْفَ الْحَتِيِّ وَعِنْدِي الْبُرُّ مَكْنُوْزُ</ar>
                <free/>
             </text>
             <igt>
@@ -89,7 +89,7 @@
                   <ar>قِرْفَ</ar>
                </t>
                <t>
-                  <ar>الْحَتِيَّ</ar>
+                  <ar>الْحَتِيِّ</ar>
                </t>
                <t>
                   <ar>وَعِنْدِي</ar>
@@ -104,7 +104,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٤٢٥٢٩" poet="">
+   <verses id="٤٢٥٢٩" poet="ابْنُ مُقْبِلٍ">
       <verse>
          <hemistiche>
             <text>
@@ -184,12 +184,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>فَاْلْخَيْرُ فِيْكَمْ ثَاْبِتًا مَبْذُوْلًا</ar>
+               <ar>فَالْخَيْرُ فِيْكَمْ ثَاْبِتًا مَبْذُوْلَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>فَاْلْخَيْرُ</ar>
+                  <ar>فَالْخَيْرُ</ar>
                </t>
                <t>
                   <ar>فِيْكَمْ</ar>
@@ -198,7 +198,7 @@
                   <ar>ثَاْبِتًا</ar>
                </t>
                <t>
-                  <ar>مَبْذُوْلًا</ar>
+                  <ar>مَبْذُوْلَا</ar>
                </t>
             </igt>
          </hemistiche>

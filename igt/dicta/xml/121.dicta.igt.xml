@@ -10,14 +10,16 @@
             <ar>فِيْهَا</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>قَاْئِمًا</ar>
          </t>
       </igt>
    </dictum>
-
    <dictum id="٨٧١٩٤">
       <text>
          <ar>عَبْدُ اللهِ فِيْهَا قَاْئِمًا</ar>
@@ -25,7 +27,10 @@
       </text>
       <igt>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>فِيْهَا</ar>
@@ -35,43 +40,51 @@
          </t>
       </igt>
    </dictum>
-
    <dictum id="٧٨٩٠٥">
       <text>
          <ar>فِيْهَا عَبْدُ اللهِ</ar>
-         <free>In it [is] Abdullah</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>فِيْهَا</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٢٩٨١٢">
       <text>
          <ar>هٰذَا عَبْدُ اللهِ</ar>
-         <free>This [is] Abdullah</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٤٧٨١٤">
       <text>
          <ar>عَبْدُ اللهِ فِيْهَا</ar>
-         <free>Abdullah [is] in it</free>
+         <free/>
       </text>
       <igt>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>فِيْهَا</ar>
@@ -81,11 +94,14 @@
    <dictum id="٥١٦٣٥">
       <text>
          <ar>عَبْدُ اللهِ أَخُوْكَ</ar>
-         <free>Abdullah [is] your brother</free>
+         <free/>
       </text>
       <igt>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>أَخُوْكَ</ar>
@@ -95,7 +111,7 @@
    <dictum id="٧١٤١٨">
       <text>
          <ar>إِنَّ فِيْهَا زَيْدًا</ar>
-         <free>Indeed in it [is] Zayd</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -112,7 +128,7 @@
    <dictum id="١٧٤٩٧">
       <text>
          <ar>إِنَّ زَيْدًا فِيْهَا</ar>
-         <free>Indeed Zayd [is] in it</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -129,11 +145,14 @@
    <dictum id="٧٥٦١٥">
       <text>
          <ar>عَبْدُ اللهِ لَقِيْتُهُ</ar>
-         <free>Abdullah, I met him</free>
+         <free/>
       </text>
       <igt>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>لَقِيْتُهُ</ar>
@@ -143,11 +162,14 @@
    <dictum id="٢٢٧٣٥">
       <text>
          <ar>عَبْدُ اللهِ مُنْطَلِقٌ</ar>
-         <free>Abdullah [is] departing</free>
+         <free/>
       </text>
       <igt>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>مُنْطَلِقٌ</ar>
@@ -164,7 +186,10 @@
             <ar>اسْتَقَرَّ</ar>
          </t>
          <t>
-           <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
       </igt>
    </dictum>
@@ -178,7 +203,10 @@
             <ar>فِيْهَا</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>قَاْئِمٌ</ar>
@@ -188,31 +216,31 @@
    <dictum id="٦٤٨٢٢">
       <text>
          <ar>الْبُرُّ مَكْنُوْزٌ عِنْدَي</ar>
-         <free>The wheat [is] stored with me</free>
+         <free/>
       </text>
       <igt>
          <t>
-           <ar>الْبُرُّ</ar>
-           <en>the wheat<influ/></en>
+            <ar>الْبُرُّ</ar>
          </t>
          <t>
-           <ar>مَكْنُوْزٌ</ar>
-           <en>stored<influn/></en>
+            <ar>مَكْنُوْزٌ</ar>
          </t>
          <t>
-           <ar>عِنْدَي</ar>
-           <en>with-me</en>
+            <ar>عِنْدَي</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٣٢٨٦٧">
       <text>
          <ar>عَبْدُ اللهِ قَاْئِمٌ فِيْهَا</ar>
-         <free>Abdullah [is] standing in it</free>
+         <free/>
       </text>
       <igt>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>قَاْئِمٌ</ar>
@@ -225,7 +253,7 @@
    <dictum id="٨١٨٠٣">
       <text>
          <ar>هٰذَا زَيْدٌ قَاْئِمًا</ar>
-         <free>This is Zayd, standing</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -242,29 +270,34 @@
    <dictum id="٥٢٠٤٠">
       <text>
          <ar>فِيْهَا عَبْدُ اللهِ</ar>
-         <free>In it [is] Abdullah</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>فِيْهَا</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٦٧٠٠٥">
       <text>
          <ar>بِكَ عَبْدُ اللهِ مَأْخُوْذٌ</ar>
-         <free>Abdullah [is] taken by you</free>
-         <alt>Abdullah is smitten by you</alt>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>بِكَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
          <t>
             <ar>مَأْخُوْذٌ</ar>
@@ -274,35 +307,41 @@
    <dictum id="٦٧٨٦٦">
       <text>
          <ar>كَاْنَ عَبْدُ اللهِ</ar>
-         <free>Abdalla was</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>كَاْنَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٠٧٠٦٠">
       <text>
          <ar>ضَرَبَ عَبْدُ اللهِ</ar>
-         <free>Abdullah struck</free>
+         <free/>
       </text>
       <igt>
          <t>
             <ar>ضَرَبَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ اللهِ</ar>
+            <ar>عَبْدُ</ar>
+         </t>
+         <t>
+            <ar>اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٦٥٧٧٥">
       <text>
          <ar>فِيْهَا زَيْدٌ قَاْئِمٌ</ar>
-         <free>In it Zayd [is] standing</free>
+         <free/>
       </text>
       <igt>
          <t>
@@ -699,34 +738,6 @@
          </t>
          <t>
             <ar>صِدْقُهُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٤٨١٩">
-      <text>
-         <ar>ذَاْكَ مَعْرُوْفٌ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-         <t>
-            <ar>مَعْرُوْفٌ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٧١٧٩٠">
-      <text>
-         <ar>ذَاْكَ مَعْلُوْمٌ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-         <t>
-            <ar>مَعْلُوْمٌ</ar>
          </t>
       </igt>
    </dictum>
