@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="124">
-   <verses id="٢٣٥٨١" poet="">
+   <verses id="٢٣٥٨١" poet="الْأَنْصَاْرِيُّ">
       <verse>
          <hemistiche>
             <text>
@@ -51,11 +51,11 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٥١٦١٣" poet="">
+   <verses id="٥١٦١٣" poet="الْفَرَزْدَقُ">
       <verse>
          <hemistiche>
             <text>
-               <ar>إِنَّي وَإِيَّاْكَ إذْ حَلَّتْ بِأَرْحُلِنَا</ar>
+               <ar>إِنَّي وَإِيَّاْكَ إِذْ بِأَرْحُلِنَا</ar>
                <free/>
             </text>
             <igt>
@@ -66,10 +66,7 @@
                   <ar>وَإِيَّاْكَ</ar>
                </t>
                <t>
-                  <ar>إذْ</ar>
-               </t>
-               <t>
-                  <ar>حَلَّتْ</ar>
+                  <ar>إِذْ</ar>
                </t>
                <t>
                   <ar>بِأَرْحُلِنَا</ar>
@@ -101,7 +98,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٢١٧٨١" poet="">
+   <verses id="٢١٧٨١" poet="عَمْرٌو بْنُ قَمِيْئَةَ">
       <verse>
          <hemistiche>
             <text>
@@ -128,18 +125,18 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>رُحْنَ عَلَى بغْضاْئِهِ وَاغْتَدَيْنَ</ar>
+               <ar>رُحْنَا عَلَى بَغْضَاْئِهِ وَاغْتَدَيْنَ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>رُحْنَ</ar>
+                  <ar>رُحْنَا</ar>
                </t>
                <t>
                   <ar>عَلَى</ar>
                </t>
                <t>
-                  <ar>بغْضاْئِهِ</ar>
+                  <ar>بَغْضَاْئِهِ</ar>
                </t>
                <t>
                   <ar>وَاغْتَدَيْنَ</ar>
@@ -148,7 +145,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٢٧٢٤٨" poet="">
+   <verses id="٢٧٢٤٨" poet="أُمَيَّةُ بْنُ أَبِي الصَّلت">
       <verse>
          <hemistiche>
             <text>
@@ -228,15 +225,15 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>وَمُؤْتَمَنِ بِاْلْغَيْبِ غَيْرِ أَمِيْنِ</ar>
+               <ar>وَمُؤْتَمَنٍ بِالْغَيْبِ غَيْرِ أَمِيْنِ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>وَمُؤْتَمَنِ</ar>
+                  <ar>وَمُؤْتَمَنٍ</ar>
                </t>
                <t>
-                  <ar>بِاْلْغَيْبِ</ar>
+                  <ar>بِالْغَيْبِ</ar>
                </t>
                <t>
                   <ar>غَيْرِ</ar>
@@ -281,7 +278,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>وَمَنْ هُوَ عِنْدَي فِي الظِّبَاْءِ السَّوَاْنِحِ</ar>
+               <ar>وَمَنْ هُوَ عِنْدِي فِي الظِّبَاْءِ السَّوَاْنِحِ</ar>
                <free/>
             </text>
             <igt>
@@ -292,7 +289,7 @@
                   <ar>هُوَ</ar>
                </t>
                <t>
-                  <ar>عِنْدَي</ar>
+                  <ar>عِنْدِي</ar>
                </t>
                <t>
                   <ar>فِي</ar>
