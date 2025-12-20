@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="125">
-   <verses id="١٦٩٠٩" poet="">
+   <verses id="١٦٩٠٩" poet="الشَّمَّاْخُ">
       <verse>
          <hemistiche>
             <text>
-               <ar>وكُلُّ خَلِيْلٍ غَيْرُ هاْضِمِ نَفْسِهِ</ar>
+               <ar>وَكُلُّ خَلِيْلٍ غَيْرُ هَاْضِمِ نَفْسِهِ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>وكُلُّ</ar>
+                  <ar>وَكُلُّ</ar>
                </t>
                <t>
                   <ar>خَلِيْلٍ</ar>
@@ -19,7 +19,7 @@
                   <ar>غَيْرُ</ar>
                </t>
                <t>
-                  <ar>هاْضِمِ</ar>
+                  <ar>هَاْضِمِ</ar>
                </t>
                <t>
                   <ar>نَفْسِهِ</ar>
@@ -55,12 +55,12 @@
       <verse>
          <hemistiche>
             <text>
-               <ar>كَأَنّا يَوْمَ قُرَّى إِنْـ</ar>
+               <ar>كَأَنَّا يَوْمَ قُرَّى</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>كَأَنّا</ar>
+                  <ar>كَأَنَّا</ar>
                </t>
                <t>
                   <ar>يَوْمَ</ar>
@@ -68,19 +68,16 @@
                <t>
                   <ar>قُرَّى</ar>
                </t>
-               <t>
-                  <ar>إِنْـ</ar>
-               </t>
             </igt>
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>نَمَا نَقْتُلُ إِيَّاْنَا</ar>
+               <ar>إِنَّمَا نَقْتُلُ إِيَّاْنَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>نَمَا</ar>
+                  <ar>إِنَّمَا</ar>
                </t>
                <t>
                   <ar>نَقْتُلُ</ar>
@@ -111,7 +108,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>فَتًى أَبْيَضَ حُسَّاْنَا</ar>
+               <ar>فَتًى أَبْيَضَ حُسَّاْنَ</ar>
                <free/>
             </text>
             <igt>
@@ -122,13 +119,13 @@
                   <ar>أَبْيَضَ</ar>
                </t>
                <t>
-                  <ar>حُسَّاْنَا</ar>
+                  <ar>حُسَّاْنَ</ar>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٩٥٣٢٤" poet="">
+   <verses id="٩٥٣٢٤" poet="ابْنُ أَحْمَرَ">
       <verse>
          <hemistiche>
             <text>
