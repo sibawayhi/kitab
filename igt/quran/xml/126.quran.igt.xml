@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="126">
-   <ayah id="٤٩٤٩٥" surah="" verse="">
+   <ayah id="٤٩٤٩٥" surah="٢٧" verse="٨٧">
       <text>
          <ar>وَكُلٌّ أَتَوْهُ دَاْخِرِيْنَ</ar>
          <free/>
@@ -18,9 +18,9 @@
          </t>
       </igt>
    </ayah>
-   <ayah id="٤٢٢٩٧" surah="" verse="">
+   <ayah id="٤٢٢٩٧" surah="٣٦" verse="٣٢">
       <text>
-         <ar>وَإِنْ كُلٌّلَمَّا جَمِيْعٌ لَدَيْنا مُحْضَرُوْنَ</ar>
+         <ar>وَإِنْ كُلٌّ لَمَّا جَمِيْعٌ لَّدَيْنَا مُحْضَرُوْنَ</ar>
          <free/>
       </text>
       <igt>
@@ -28,13 +28,16 @@
             <ar>وَإِنْ</ar>
          </t>
          <t>
-            <ar>كُلٌّلَمَّا</ar>
+            <ar>كُلٌّ</ar>
+         </t>
+         <t>
+            <ar>لَمَّا</ar>
          </t>
          <t>
             <ar>جَمِيْعٌ</ar>
          </t>
          <t>
-            <ar>لَدَيْنا</ar>
+            <ar>لَّدَيْنَا</ar>
          </t>
          <t>
             <ar>مُحْضَرُوْنَ</ar>
