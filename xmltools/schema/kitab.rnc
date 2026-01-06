@@ -113,6 +113,7 @@ bab =
 حرف = element حرف {		# term
       attribute صنف {text}?,
       attribute ج { "*" | "?"}?,
+      attribute مثال { text }?, # فعل form
       attribute قول { text }?, # xref to qawl dup
       (text
       # | بديل
