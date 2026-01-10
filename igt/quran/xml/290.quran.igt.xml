@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="290">
-   <ayah id="٧٤٥٣٠" surah="" verse="">
+   <ayah id="٧٤٥٣٠" surah="٣٥" verse="١">
       <text>
-         <ar>أُوْلِي أَجْنَحَةَ</ar>
+         <ar>أُوْلِىٓ أَجْنِحَةٍ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>أُوْلِي</ar>
+            <ar>أُوْلِىٓ</ar>
          </t>
          <t>
-            <ar>أَجْنَحَةَ</ar>
+            <ar>أَجْنِحَةٍ</ar>
          </t>
       </igt>
    </ayah>

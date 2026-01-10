@@ -1,1 +1,156 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="290">
+   <dictum id="٦٩٨٨٨">
+      <text>
+         <ar>أَنَا ابْنُ الّذِي يُقَاْلُ لَهُ جَلَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَنَا</ar>
+         </t>
+         <t>
+            <ar>ابْنُ</ar>
+         </t>
+         <t>
+            <ar>الّذِي</ar>
+         </t>
+         <t>
+            <ar>يُقَاْلُ</ar>
+         </t>
+         <t>
+            <ar>لَهُ</ar>
+         </t>
+         <t>
+            <ar>جَلَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٥٨٠٩">
+      <text>
+         <ar>هٰذَا مُسَلِمُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>مُسَلِمُوْنَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٥٤٥٧">
+      <text>
+         <ar>هٰذَا ضَرَبُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>ضَرَبُوْنَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٠٤٧٤">
+      <text>
+         <ar>رَأَيْتُ ضَرَبِيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>ضَرَبِيْنَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٨٥٠٨">
+      <text>
+         <ar>هٰذَا مُسْلِمِيْنٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>مُسْلِمِيْنٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٤٧٩٩">
+      <text>
+         <ar>قُلْتَ هٰذَا ضَرْبِيْن قَدْ جَاْءَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قُلْتَ</ar>
+         </t>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>ضَرْبِيْن</ar>
+         </t>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>جَاْءَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٢١٠٦">
+      <text>
+         <ar>هٰذَا مُسْلِمِيْنٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>مُسْلِمِيْنٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٥٩٧٠">
+      <text>
+         <ar>هٰذَا ضَرَبَةٌ قَدْ جَاْءَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>ضَرَبَةٌ</ar>
+         </t>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>جَاْءَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٢٢٠٥">
+      <text>
+         <ar>هَذِهِ ضَرَبَهْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَذِهِ</ar>
+         </t>
+         <t>
+            <ar>ضَرَبَهْ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
