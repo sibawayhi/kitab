@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="291">
-   <verses id="٣٦٥٦٩" poet="">
+   <verses id="٣٦٥٦٩" poet="الْعَجَّاْجُ">
       <verse>
          <hemistiche>
             <text>
-               <ar>يَسْتَنُّ فِي عَلْقَى وَفِي مُكُوْرِ</ar>
+               <ar>يَسْتَنُّ فِي عَلْقَى وَفِي مكُوْرِ</ar>
                <free/>
             </text>
             <igt>
@@ -22,7 +22,7 @@
                   <ar>وَفِي</ar>
                </t>
                <t>
-                  <ar>مُكُوْرِ</ar>
+                  <ar>مكُوْرِ</ar>
                </t>
             </igt>
          </hemistiche>

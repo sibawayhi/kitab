@@ -1,1 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="291">
+   <dictum id="٤٧١٢٢">
+      <text>
+         <ar>هَذِهِ ذِفْرًى أَسِيْلَةٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَذِهِ</ar>
+         </t>
+         <t>
+            <ar>ذِفْرًى</ar>
+         </t>
+         <t>
+            <ar>أَسِيْلَةٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٤٣٨٨">
+      <text>
+         <ar>هَذِهِ ذِفْرَى أَسِيْلَةٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَذِهِ</ar>
+         </t>
+         <t>
+            <ar>ذِفْرَى</ar>
+         </t>
+         <t>
+            <ar>أَسِيْلَةٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
