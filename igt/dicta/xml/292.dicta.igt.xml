@@ -1,1 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="292">
+   <dictum id="٢٨٩٦٧">
+      <text>
+         <ar>هٰذَا قُوَبَاْءٌ كَمَا تَرَى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>قُوَبَاْءٌ</ar>
+         </t>
+         <t>
+            <ar>كَمَا</ar>
+         </t>
+         <t>
+            <ar>تَرَى</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
