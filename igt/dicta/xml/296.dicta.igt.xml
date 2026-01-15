@@ -1,1 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="296">
+   <dictum id="٣٧٠٦٢">
+      <text>
+         <ar>هَنَةُ يَا فَتَى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَنَةُ</ar>
+         </t>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>فَتَى</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٦٧٠٩">
+      <text>
+         <ar>[هٰذَا] ضَرَبَهْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>[هٰذَا]</ar>
+         </t>
+         <t>
+            <ar>ضَرَبَهْ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
