@@ -1,1 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="297">
+   <dictum id="٥٣١٨١">
+      <text>
+         <ar>هٰذَا رَجُلٌ حُطَمٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>رَجُلٌ</ar>
+         </t>
+         <t>
+            <ar>حُطَمٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
