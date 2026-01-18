@@ -1,1 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="300">
+   <dictum id="٥٥٦٤٨">
+      <text>
+         <ar>يَاْسِمِيْنٌ كَمَا تَرَى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَاْسِمِيْنٌ</ar>
+         </t>
+         <t>
+            <ar>كَمَا</ar>
+         </t>
+         <t>
+            <ar>تَرَى</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
