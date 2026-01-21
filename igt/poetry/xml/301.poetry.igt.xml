@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="301">
-   <verses id="٤٧٣٥٧" poet="">
+   <verses id="٤٧٣٥٧" poet="الْأَعْشَى">
       <verse>
          <hemistiche>
             <text>
-               <ar>لَهَا زَجَلٌ كَحَفِيْفِ الْحَصَاْدِ</ar>
+               <ar>لَهَا زَجَلٌ كَحَفِيْفِ الْحَصَاْ</ar>
                <free/>
             </text>
             <igt>
@@ -19,21 +19,24 @@
                   <ar>كَحَفِيْفِ</ar>
                </t>
                <t>
-                  <ar>الْحَصَاْدِ</ar>
+                  <ar>الْحَصَاْ</ar>
                </t>
             </igt>
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>صَاْدَفَ بِاْللَّيْلِ رِيْحًا دَبُوْرَا</ar>
+               <ar>دِ صَاْدِفَ بِاللَّيْلِ رِيْحًا دَبُوْرَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>صَاْدَفَ</ar>
+                  <ar>دِ</ar>
                </t>
                <t>
-                  <ar>بِاْللَّيْلِ</ar>
+                  <ar>صَاْدِفَ</ar>
+               </t>
+               <t>
+                  <ar>بِاللَّيْلِ</ar>
                </t>
                <t>
                   <ar>رِيْحًا</ar>
