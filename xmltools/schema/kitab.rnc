@@ -116,7 +116,8 @@ bab =
       attribute مثال { text }?, # فعل form
       attribute قول { text }?, # xref to qawl dup
       (text
-      # | بديل
+      | مثال
+    # | بديل
       )+
    }
 # single particle

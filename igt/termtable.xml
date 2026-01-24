@@ -54,6 +54,8 @@
 <!ENTITY inflo "°">
 <!ENTITY sukun "°">
 <!ENTITY shadda "²">
+
+<!ENTITY INFLU "u">
 ]>
 
 <!-- <parse>
@@ -1040,7 +1042,8 @@
 
   <term><key>فَعَلْتُ</key> <xlitx>fᵃʕᵃl°-tᵘ</xlitx>
   <xlit>faʕal-tu</xlit><gloss>did-I</gloss></term>
-  <term><key>أَفْعَلُ</key> <xlit>Ɂᵃf°ʕᵃl<influ/></xlit> <gloss>I-do<influ/></gloss></term>
+  <term><key>أَفْعَلُ</key> <xlitx>Ɂᵃf°ʕᵃl<influ/></xlitx>
+  <xlit>Ɂafʕal<influ/></xlit><gloss>I-do<influ/></gloss></term>
   <term><key>أَفْعَلَ</key> <xlit>Ɂᵃf°ʕᵃl<infla/></xlit> <gloss>I-<ed>should-</ed>do<infla/></gloss></term>
   <term><key>يَفْعَلُ</key> <xlit>yᵃf°ʕᵃl<influ/></xlit> <gloss>he-does<influ/></gloss></term>
   <term><key>يَفْعَلَ</key> <xlit>yᵃf°ʕᵃl<infla/></xlit> <gloss>he-do<infla/></gloss></term>
