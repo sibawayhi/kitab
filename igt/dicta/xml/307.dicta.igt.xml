@@ -19,7 +19,7 @@
    </dictum>
    <dictum id="٣٣٩٧٨">
       <text>
-         <ar>عَلِمْتُ انْطِلَاْقِكْ</ar>
+         <ar>عَلِمْتُ انْطِلَاْقَكَ</ar>
          <free/>
       </text>
       <igt>
@@ -27,7 +27,7 @@
             <ar>عَلِمْتُ</ar>
          </t>
          <t>
-            <ar>انْطِلَاْقِكْ</ar>
+            <ar>انْطِلَاْقَكَ</ar>
          </t>
       </igt>
    </dictum>
@@ -90,45 +90,6 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٧١٧٦">
-      <text>
-         <ar>وَاْحِدُ اثْنَاْنِ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>وَاْحِدُ</ar>
-         </t>
-         <t>
-            <ar>اثْنَاْنِ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٨٦٣٠٨">
-      <text>
-         <ar>ثَلَاْثَةَ ٱرْبَعَةِ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>ثَلَاْثَةَ</ar>
-         </t>
-         <t>
-            <ar>ٱرْبَعَةِ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٩٦٤٥">
-      <text>
-         <ar>اضْرِبْ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>اضْرِبْ</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٤٧٥٩٢">
       <text>
          <ar>اضْرِبْ زَيْدًا</ar>
@@ -140,34 +101,6 @@
          </t>
          <t>
             <ar>زَيْدًا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٠٨٠٢٧">
-      <text>
-         <ar>لَاْمْ أَلْفْ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>لَاْمْ</ar>
-         </t>
-         <t>
-            <ar>أَلْفْ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٣٩٠٢">
-      <text>
-         <ar>قَاْفْ لَاْمْ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>قَاْفْ</ar>
-         </t>
-         <t>
-            <ar>لَاْمْ</ar>
          </t>
       </igt>
    </dictum>
