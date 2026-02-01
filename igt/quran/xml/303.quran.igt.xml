@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="303">
-   <ayah id="٤٦٧٩٤" surah="" verse="">
+   <ayah id="٤٦٧٩٤" surah="٢" verse="٦١">
       <text>
-         <ar>اهْبِطُوْا مِصْرَ</ar>
+         <ar>ٱهْبِطُوْا مِصْرًا</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>اهْبِطُوْا</ar>
+            <ar>ٱهْبِطُوْا</ar>
          </t>
          <t>
-            <ar>مِصْرَ</ar>
+            <ar>مِصْرًا</ar>
          </t>
       </igt>
    </ayah>
