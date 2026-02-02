@@ -1,31 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="306">
-   <ayah id="١٨٩٦٥" surah="" verse="">
+   <ayah id="٤٣٨٣٦" surah="٥٤" verse="١">
       <text>
-         <ar>يَاْسَيْنِ وَالْقُرْآنُ</ar>
+         <ar>ٱقْتَرَبَتِ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>يَاْسَيْنِ</ar>
-         </t>
-         <t>
-            <ar>وَالْقُرْآنُ</ar>
+            <ar>ٱقْتَرَبَتِ</ar>
          </t>
       </igt>
    </ayah>
-   <ayah id="٩٢٩٥٠" surah="" verse="">
+   <ayah id="١٨٩٦٥" surah="٣٦" verse="١">
       <text>
-         <ar>قَاْفَ وَالْقُرْآنِ</ar>
+         <ar>يٓس <نهاية آية="١"/>  وَٱلْقُرْآنِ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>قَاْفَ</ar>
+            <ar>يٓس</ar>
          </t>
          <t>
-            <ar>وَالْقُرْآنِ</ar>
+            <ar>وَٱلْقُرْآنِ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٩٢٩٥٠" surah="٥٠" verse="١">
+      <text>
+         <ar>قٓ ۚ وَٱلْقُرْآنِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قٓ</ar>
+         </t>
+         <t>
+            <ar>ۚ</ar>
+         </t>
+         <t>
+            <ar>وَٱلْقُرْآنِ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٣١٢٣٨" surah="٣٨" verse="١">
+      <text>
+         <ar>صٓ ۚ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>صٓ</ar>
+         </t>
+         <t>
+            <ar>ۚ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٣٤٠٩٧" surah="٢٦" verse="١">
+      <text>
+         <ar>طسٓمٓ <نهاية آية="١"/>
+         </ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>طسٓمٓ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٩٤٨٦٥" surah="١٩" verse="١">
+      <text>
+         <ar>كٓهيعٓصٓ <نهاية آية="١"/>
+         </ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>كٓهيعٓصٓ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٠١١٤٩" surah="١٣" verse="١">
+      <text>
+         <ar>الٓمٓـرۚ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>الٓمٓـرۚ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٨٥٠٢١" surah="٦٨" verse="١">
+      <text>
+         <ar>نٓ ۚ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>نٓ</ar>
+         </t>
+         <t>
+            <ar>ۚ</ar>
          </t>
       </igt>
    </ayah>

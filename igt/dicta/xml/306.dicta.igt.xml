@@ -1,1 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="306">
+   <dictum id="٨٣٤١٨">
+      <text>
+         <ar>هٰذِهِ هُوْدٌ كَمَا تَرَى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذِهِ</ar>
+         </t>
+         <t>
+            <ar>هُوْدٌ</ar>
+         </t>
+         <t>
+            <ar>كَمَا</ar>
+         </t>
+         <t>
+            <ar>تَرَى</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٢١٤٦">
+      <text>
+         <ar>هٰذِهِ سُوْرَةُ هُوْدٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذِهِ</ar>
+         </t>
+         <t>
+            <ar>سُوْرَةُ</ar>
+         </t>
+         <t>
+            <ar>هُوْدٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١١٠٢٥">
+      <text>
+         <ar>هٰذِهِ تَمِيْمٌ كَمَا تَرَى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذِهِ</ar>
+         </t>
+         <t>
+            <ar>تَمِيْمٌ</ar>
+         </t>
+         <t>
+            <ar>كَمَا</ar>
+         </t>
+         <t>
+            <ar>تَرَى</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٦٦٣٦">
+      <text>
+         <ar>هٰذِهِ نُوْحٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذِهِ</ar>
+         </t>
+         <t>
+            <ar>نُوْحٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٤٤٤٩">
+      <text>
+         <ar>هٰذِهِ سَوْرَةُ نُوْحٍ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذِهِ</ar>
+         </t>
+         <t>
+            <ar>سَوْرَةُ</ar>
+         </t>
+         <t>
+            <ar>نُوْحٍ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٧٣٥٥">
+      <text>
+         <ar>هٰذِهِ الرَّحْمٰنُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذِهِ</ar>
+         </t>
+         <t>
+            <ar>الرَّحْمٰنُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٤٨٣٥">
+      <text>
+         <ar>أَذْكُرُ يَاْسَيْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَذْكُرُ</ar>
+         </t>
+         <t>
+            <ar>يَاْسَيْنَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>

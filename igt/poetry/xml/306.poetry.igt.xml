@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="306">
-   <verses id="٨٧٧٢٦" poet="">
+   <verses id="٨٧٧٢٦" poet="الْكُمَيْتُ">
       <verse>
          <hemistiche>
             <text>
@@ -31,7 +31,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>تَأَوَّلَهَا مِنّا تَقِيٌّ وَمُعْرِبُ</ar>
+               <ar>تَأَوَّلَهَا مِنَّا تَقِيٌّ وَمُعْرِبُ</ar>
                <free/>
             </text>
             <igt>
@@ -39,7 +39,7 @@
                   <ar>تَأَوَّلَهَا</ar>
                </t>
                <t>
-                  <ar>مِنّا</ar>
+                  <ar>مِنَّا</ar>
                </t>
                <t>
                   <ar>تَقِيٌّ</ar>
@@ -51,22 +51,22 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٨٧٩١٢" poet="">
+   <verses id="٨٧٩١٢" poet="الْحِمَّاْنِي">
       <verse>
          <hemistiche>
             <text>
-               <ar>أُوْ كُتُبًا بُيِّنَّ مِنْ حَاْمِيْمَا</ar>
+               <ar>أَوْ كُتُبًا بُيِّنَ مِنْ حَاْمِيْمَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>أُوْ</ar>
+                  <ar>أَوْ</ar>
                </t>
                <t>
                   <ar>كُتُبًا</ar>
                </t>
                <t>
-                  <ar>بُيِّنَّ</ar>
+                  <ar>بُيِّنَ</ar>
                </t>
                <t>
                   <ar>مِنْ</ar>
