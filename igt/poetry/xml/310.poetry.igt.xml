@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="310">
-   <verses id="٣٦٧٧٩" poet="">
+   <verses id="٣٦٧٧٩" poet="الْكُمَيْتُ">
       <verse>
          <hemistiche>
             <text>
@@ -25,12 +25,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>ولَكِنّي أُرِيْدُ بِهِ الذّوَيْنَا</ar>
+               <ar>وَلٰكِنّي أُرِيْدُ بِهِ الذَّوِيْنَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>ولَكِنّي</ar>
+                  <ar>وَلٰكِنّي</ar>
                </t>
                <t>
                   <ar>أُرِيْدُ</ar>
@@ -39,7 +39,7 @@
                   <ar>بِهِ</ar>
                </t>
                <t>
-                  <ar>الذّوَيْنَا</ar>
+                  <ar>الذَّوِيْنَا</ar>
                </t>
             </igt>
          </hemistiche>
@@ -49,12 +49,12 @@
       <verse>
          <hemistiche>
             <text>
-               <ar>لْقَدْ رَأَيْتُ عَجَبًا مُذْ أَمْسَا</ar>
+               <ar>لَقَدْ رَأَيْتُ عَجَبًا مُذْ أَمْسَا</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>لْقَدْ</ar>
+                  <ar>لَقَدْ</ar>
                </t>
                <t>
                   <ar>رَأَيْتُ</ar>

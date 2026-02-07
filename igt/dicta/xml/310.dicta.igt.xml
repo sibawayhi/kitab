@@ -1,1 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="310">
+   <dictum id="٠٨٣٦٤">
+      <text>
+         <ar>هٰذَا ذَوُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>ذَوُوْنَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٧٢١١">
+      <text>
+         <ar>هٰذَا أُلُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>أُلُوْنَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٦٨٠٧">
+      <text>
+         <ar>ذَهَبَ أَمْسُ بِمَا فِيْهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ذَهَبَ</ar>
+         </t>
+         <t>
+            <ar>أَمْسُ</ar>
+         </t>
+         <t>
+            <ar>بِمَا</ar>
+         </t>
+         <t>
+            <ar>فِيْهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٣٠٦٤">
+      <text>
+         <ar>مَا رَأَيْتُهُ مُذْ أَمْسُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مَا</ar>
+         </t>
+         <t>
+            <ar>رَأَيْتُهُ</ar>
+         </t>
+         <t>
+            <ar>مُذْ</ar>
+         </t>
+         <t>
+            <ar>أَمْسُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٧٦٥٠">
+      <text>
+         <ar>هٰذَا ذِهٌ قَدْ جَاْءَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>ذِهٌ</ar>
+         </t>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>جَاْءَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
