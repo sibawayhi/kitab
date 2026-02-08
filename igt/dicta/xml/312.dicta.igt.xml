@@ -1,1 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="312">
+   <dictum id="٩٧٦٨٢">
+      <text>
+         <ar>هٰذَا يَوْمُ اثْنَيْنِ مُبَاْرَكًا فِيْهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>يَوْمُ</ar>
+         </t>
+         <t>
+            <ar>اثْنَيْنِ</ar>
+         </t>
+         <t>
+            <ar>مُبَاْرَكًا</ar>
+         </t>
+         <t>
+            <ar>فِيْهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٧٠٤٢">
+      <text>
+         <ar>آتِيْكَ يَوْمَ اثْنَيْنِ مُبَاْرَكًا فِيْهِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>آتِيْكَ</ar>
+         </t>
+         <t>
+            <ar>يَوْمَ</ar>
+         </t>
+         <t>
+            <ar>اثْنَيْنِ</ar>
+         </t>
+         <t>
+            <ar>مُبَاْرَكًا</ar>
+         </t>
+         <t>
+            <ar>فِيْهِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١١١٣٣">
+      <text>
+         <ar>آتِيْكَ غَدًا صَبَاْحًا وَمِسَاْءً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>آتِيْكَ</ar>
+         </t>
+         <t>
+            <ar>غَدًا</ar>
+         </t>
+         <t>
+            <ar>صَبَاْحًا</ar>
+         </t>
+         <t>
+            <ar>وَمِسَاْءً</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٩٤٠٥">
+      <text>
+         <ar>آتِيْكَ الْيَوْمَ غُدْوَةً وَبُكْرَةً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>آتِيْكَ</ar>
+         </t>
+         <t>
+            <ar>الْيَوْمَ</ar>
+         </t>
+         <t>
+            <ar>غُدْوَةً</ar>
+         </t>
+         <t>
+            <ar>وَبُكْرَةً</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٨٣٢١">
+      <text>
+         <ar>آتِيْكَ بُكْرَةً</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>آتِيْكَ</ar>
+         </t>
+         <t>
+            <ar>بُكْرَةً</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
