@@ -3,28 +3,36 @@
    <dictum id="٣٢١٤١">
       <text>
          <ar>عِ حَدِيْثًا</ar>
-         <free/>
+         <free>Heed talk!</free>
       </text>
       <igt>
          <t>
-            <ar>عِ</ar>
+           <ar>عِ</ar>
+           <xlit>ʕi</xlit>
+           <en>heed</en>
          </t>
          <t>
-            <ar>حَدِيْثًا</ar>
+           <ar>حَدِيْثًا</ar>
+           <xlit>ḥadīθan</xlit>
+           <en>talk</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٠٥٢٩٣">
       <text>
          <ar>شِ ثَوْبًا</ar>
-         <free/>
+         <free>Adorn a garment!</free>
       </text>
       <igt>
          <t>
+           <xlit>ši</xlit>
+           <en>adorn</en>
             <ar>شِ</ar>
          </t>
          <t>
-            <ar>ثَوْبًا</ar>
+           <xlit>θawban</xlit>
+           <en>garment</en>
+           <ar>ثَوْبًا</ar>
          </t>
       </igt>
    </dictum>
