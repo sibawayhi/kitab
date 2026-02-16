@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="498">
-   <verses id="٧٢٣٧٩" poet="">
+   <verses id="٧٢٣٧٩" poet="زِيَاْدٌ الأَعْجَمُ">
       <verse>
          <hemistiche>
             <text>
@@ -48,7 +48,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٠٢٨٥٢" poet="">
+   <verses id="٠٢٨٥٢" poet="أَبُو النَّجْمِ">
       <verse>
          <hemistiche>
             <text>

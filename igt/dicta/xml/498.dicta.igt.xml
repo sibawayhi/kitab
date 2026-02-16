@@ -1,1 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="498">
+   <dictum id="٧٨٤٧٧">
+      <text>
+         <ar>هٰذَا وَثْءٌ كَمَا تَرَى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>وَثْءٌ</ar>
+         </t>
+         <t>
+            <ar>كَمَا</ar>
+         </t>
+         <t>
+            <ar>تَرَى</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٧٥٠١">
+      <text>
+         <ar>قَدْ ضَرَبَتْهُ فُلَاْنَةُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَدْ</ar>
+         </t>
+         <t>
+            <ar>ضَرَبَتْهُ</ar>
+         </t>
+         <t>
+            <ar>فُلَاْنَةُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٥٩٧١">
+      <text>
+         <ar>عَنْهُ أَخَذْتُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَنْهُ</ar>
+         </t>
+         <t>
+            <ar>أَخَذْتُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٢٨٨٩">
+      <text>
+         <ar>عَنْهَا أَخَذَتْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>عَنْهَا</ar>
+         </t>
+         <t>
+            <ar>أَخَذَتْ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
