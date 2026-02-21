@@ -1,1 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="495">
+   <dictum id="٧١٩١٢">
+      <text>
+         <ar>أَيْقِظْ عُمَيْرًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَيْقِظْ</ar>
+         </t>
+         <t>
+            <ar>عُمَيْرًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٢١٢٥">
+      <text>
+         <ar>أَخْرِجْ حَاْتِمًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَخْرِجْ</ar>
+         </t>
+         <t>
+            <ar>حَاْتِمًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٤٤٣٠">
+      <text>
+         <ar>أَحْرِزْ مَاْلًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَحْرِزْ</ar>
+         </t>
+         <t>
+            <ar>مَاْلًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٦٠٨٢">
+      <text>
+         <ar>أَفْرِشْ خَاْلِدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَفْرِشْ</ar>
+         </t>
+         <t>
+            <ar>خَاْلِدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٧٤٦٥">
+      <text>
+         <ar>حَرِّكِ عَاْمِرًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>حَرِّكِ</ar>
+         </t>
+         <t>
+            <ar>عَاْمِرًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٦٠٠٣">
+      <text>
+         <ar>أَذْهِبْ زَيْدًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَذْهِبْ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٦٢٤٧">
+      <text>
+         <ar>خُذْهُمَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>خُذْهُمَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٠٥٣٣">
+      <text>
+         <ar>احْرُسْهُمَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>احْرُسْهُمَا</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
