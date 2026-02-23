@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <poetry xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="501">
-   <verses id="٣٠٣١٩" poet="">
+   <verses id="٣٠٣١٩" poet="النَّاْبِغَةُ">
       <verse>
          <hemistiche>
             <text>
@@ -28,7 +28,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>فَإِنِّي لَسْتُ مِنْكَ وَلَسْتَ مِنّ</ar>
+               <ar>فَإِنِّي لَسْتُ مِنْكَ وَلَسْتَ مِنْ</ar>
                <free/>
             </text>
             <igt>
@@ -45,22 +45,22 @@
                   <ar>وَلَسْتَ</ar>
                </t>
                <t>
-                  <ar>مِنّ</ar>
+                  <ar>مِنْ</ar>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٢٩٧٢٦" poet="">
+   <verses id="٢٩٧٢٦" poet="النَّاْبِغَةُ">
       <verse>
          <hemistiche>
             <text>
-               <ar>وهُمْ وَرَدُوْا الْجِفَاْرَ عَلَى تَمِيْمٍ</ar>
+               <ar>وَهُمْ وَرَدُوْا الْجِفَاْرَ عَلَى تَمِيْمٍ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>وهُمْ</ar>
+                  <ar>وَهُمْ</ar>
                </t>
                <t>
                   <ar>وَرَدُوْا</ar>
@@ -78,12 +78,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>وهُمْ أَصْحَاْبُ يَوْمِ عُكّاْظَ إنّ</ar>
+               <ar>وَهُمْ أَصْحَاْبُ يَوْمِ عُكَاْظَ إِنْ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>وهُمْ</ar>
+                  <ar>وَهُمْ</ar>
                </t>
                <t>
                   <ar>أَصْحَاْبُ</ar>
@@ -92,20 +92,20 @@
                   <ar>يَوْمِ</ar>
                </t>
                <t>
-                  <ar>عُكّاْظَ</ar>
+                  <ar>عُكَاْظَ</ar>
                </t>
                <t>
-                  <ar>إنّ</ar>
+                  <ar>إِنْ</ar>
                </t>
             </igt>
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٣٩٢٧٠" poet="">
+   <verses id="٣٩٢٧٠" poet="الأَعْشَى">
       <verse>
          <hemistiche>
             <text>
-               <ar>فَهَلْ يَمْنَعُنِّنِي ارْتِيَاْدِي الْبِلَاْدَ</ar>
+               <ar>فَهَلْ يَمْنَعَنِّي ارْتِيَاْدِي الْبِلَا</ar>
                <free/>
             </text>
             <igt>
@@ -113,24 +113,27 @@
                   <ar>فَهَلْ</ar>
                </t>
                <t>
-                  <ar>يَمْنَعُنِّنِي</ar>
+                  <ar>يَمْنَعَنِّي</ar>
                </t>
                <t>
                   <ar>ارْتِيَاْدِي</ar>
                </t>
                <t>
-                  <ar>الْبِلَاْدَ</ar>
+                  <ar>الْبِلَا</ar>
                </t>
             </igt>
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>مِنْ حَذَرِ الْمَوْتِ أَنْ يَأْتِيَنْ</ar>
+               <ar>دَ مَنْ حَذَرِ الْمَوْتِ أَنْ يَأْتِيَنْ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>مِنْ</ar>
+                  <ar>دَ</ar>
+               </t>
+               <t>
+                  <ar>مَنْ</ar>
                </t>
                <t>
                   <ar>حَذَرِ</ar>
@@ -147,17 +150,15 @@
             </igt>
          </hemistiche>
       </verse>
-   </verses>
-   <verses id="٦٧٨٧٦" poet="">
       <verse>
          <hemistiche>
             <text>
-               <ar>ومِنْ شَاْنِئٍ كَاْسِفٍ وَجْهُهُ</ar>
+               <ar>وَمِنْ شَاْنِئٍ كَاْسِفٍ وَجْهُهُ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>ومِنْ</ar>
+                  <ar>وَمِنْ</ar>
                </t>
                <t>
                   <ar>شَاْنِئٍ</ar>
@@ -172,12 +173,12 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>إِذًا مَا انْتَسَبْتُ لَهُ أَنْكَرَنْ</ar>
+               <ar>إِذَا مَا انْتَسَبْتُ لَهُ أَنْكَرَنْ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>إِذًا</ar>
+                  <ar>إِذَا</ar>
                </t>
                <t>
                   <ar>مَا</ar>
@@ -195,7 +196,7 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٩٧٦٩٣" poet="">
+   <verses id="٩٧٦٩٣" poet="زَيْدُ الْخَيْلِ">
       <verse>
          <hemistiche>
             <text>
@@ -245,22 +246,22 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="٢٨٢٣٤" poet="">
+   <verses id="٢٨٢٣٤" poet="طُفَيْلٌ الْغَنَموِيُّ">
       <verse>
          <hemistiche>
             <text>
-               <ar>إُنَّ الْغَوِيَّ إذَا نُهَا لَمْ يُعْتِبِ</ar>
+               <ar>إِنَّ الْغَوِيَّ إِذَا نُهَا لَمْ يُعْتِبِ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>إُنَّ</ar>
+                  <ar>إِنَّ</ar>
                </t>
                <t>
                   <ar>الْغَوِيَّ</ar>
                </t>
                <t>
-                  <ar>إذَا</ar>
+                  <ar>إِذَا</ar>
                </t>
                <t>
                   <ar>نُهَا</ar>
@@ -275,16 +276,16 @@
          </hemistiche>
       </verse>
    </verses>
-   <verses id="١٣٨٠٣" poet="">
+   <verses id="١٣٨٠٣" poet="لَبِيْدٌ">
       <verse>
          <hemistiche>
             <text>
-               <ar>وَقَبِيْلَ مِنْ لُكَيْزٍ شَاْهِدٌ</ar>
+               <ar>وَقَبِيْلٌ مِنْ لُكَيْزٍ شَاْهِدٌ</ar>
                <free/>
             </text>
             <igt>
                <t>
-                  <ar>وَقَبِيْلَ</ar>
+                  <ar>وَقَبِيْلٌ</ar>
                </t>
                <t>
                   <ar>مِنْ</ar>
@@ -299,7 +300,7 @@
          </hemistiche>
          <hemistiche>
             <text>
-               <ar>رَهْطُ مَرْجُوْمٍ وَرَهْطُ ابْنِ الْمُعَلٌ</ar>
+               <ar>رَهْطُ مَرْجُوْمٍ وَرَهْطُ ابْنِ الْمُعَلّ</ar>
                <free/>
             </text>
             <igt>
@@ -316,7 +317,7 @@
                   <ar>ابْنِ</ar>
                </t>
                <t>
-                  <ar>الْمُعَلٌ</ar>
+                  <ar>الْمُعَلّ</ar>
                </t>
             </igt>
          </hemistiche>

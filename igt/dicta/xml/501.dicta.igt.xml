@@ -1,1 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="501">
+   <dictum id="٧٧٩٥٢">
+      <text>
+         <ar>هٰذَاْنِ غُلَاْمَاْيَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَاْنِ</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمَاْيَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٦٦٩٠٩">
+      <text>
+         <ar>رَأَيْتُ غُلَاْمَيَّ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمَيَّ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٥٤٦٦">
+      <text>
+         <ar>هٰذَا الْقَاْضَي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>الْقَاْضَي</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١١٢٦٤">
+      <text>
+         <ar>يَا غُلَاْمِ أَقْبِلْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمِ</ar>
+         </t>
+         <t>
+            <ar>أَقْبِلْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٨١٢٤">
+      <text>
+         <ar>هٰذَا غُلَاْمِيَ فَاعْلَمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>غُلَاْمِيَ</ar>
+         </t>
+         <t>
+            <ar>فَاعْلَمْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٧٦١١">
+      <text>
+         <ar>إِنِّيَ ذَاْهِبٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنِّيَ</ar>
+         </t>
+         <t>
+            <ar>ذَاْهِبٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
