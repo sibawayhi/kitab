@@ -1,1 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="499">
+   <dictum id="٢٩٩٥٠">
+      <text>
+         <ar>هَذِهِ أَفْعَىْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَذِهِ</ar>
+         </t>
+         <t>
+            <ar>أَفْعَىْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٠٤٠٤">
+      <text>
+         <ar>هَذِهِ حُبْلَىْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَذِهِ</ar>
+         </t>
+         <t>
+            <ar>حُبْلَىْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٨٥٧٣">
+      <text>
+         <ar>هٰذَا مُثَنَّىْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>مُثَنَّىْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٠٣٩٧">
+      <text>
+         <ar>هٰذَا تَمَيْمِجٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>تَمَيْمِجٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٨٢١١">
+      <text>
+         <ar>هٰذَا عَلِجٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هٰذَا</ar>
+         </t>
+         <t>
+            <ar>عَلِجٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
