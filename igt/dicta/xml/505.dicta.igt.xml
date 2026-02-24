@@ -1,1 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="505">
+   <dictum id="٧٠٣١٦">
+      <text>
+         <ar>قَطَعْتُ رُؤُوْسَهُمَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>قَطَعْتُ</ar>
+         </t>
+         <t>
+            <ar>رُؤُوْسَهُمَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٠٨٧٩">
+      <text>
+         <ar>ذَهَبْتُمَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ذَهَبْتُمَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٢١٢٨">
+      <text>
+         <ar>أَعْطَيْتُكُمَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَعْطَيْتُكُمَا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٥٠٠٦">
+      <text>
+         <ar>أَعْطَيْتُكُمُو خَيْرًا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَعْطَيْتُكُمُو</ar>
+         </t>
+         <t>
+            <ar>خَيْرًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٢١٤٩">
+      <text>
+         <ar>ذَهَبْتُمُو أَجْمَعُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>ذَهَبْتُمُو</ar>
+         </t>
+         <t>
+            <ar>أَجْمَعُوْنَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
