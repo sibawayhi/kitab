@@ -1,1 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="506">
+   <ayah id="" surah="٢" verse="٥٤">
+      <text>
+         <ar>إِلَى بَاْرِئِكُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِلَى</ar>
+         </t>
+         <t>
+            <ar>بَاْرِئِكُمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
