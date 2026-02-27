@@ -1,1 +1,172 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="488">
+   <dictum id="١٩٧٢٨">
+      <text>
+         <ar>رَمَى الرَّجُلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَمَى</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٦٣٣١">
+      <text>
+         <ar>هَذِهِ حُبْلَى الرَّجُلِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَذِهِ</ar>
+         </t>
+         <t>
+            <ar>حُبْلَى</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧١٦٢٧">
+      <text>
+         <ar>هَذِهِ حُبْلَى الرَّجُلِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هَذِهِ</ar>
+         </t>
+         <t>
+            <ar>حُبْلَى</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٣٢٢٦">
+      <text>
+         <ar>مِنْ حُبْلَى الرَّجُلِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>حُبْلَى</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٤٨٧٠">
+      <text>
+         <ar>رَأَيْتُ حُبْلَى الرَّجُلِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَأَيْتُ</ar>
+         </t>
+         <t>
+            <ar>حُبْلَى</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلِ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٧٩٥٩">
+      <text>
+         <ar>هُوَ يَرْمِي الرَّجُلَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُوَ</ar>
+         </t>
+         <t>
+            <ar>يَرْمِي</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٣١٠٥">
+      <text>
+         <ar>يَغْزُو الْقَوْمَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَغْزُو</ar>
+         </t>
+         <t>
+            <ar>الْقَوْمَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٩٣٨٤٨">
+      <text>
+         <ar>يَدْعُو النَّاْسَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>يَدْعُو</ar>
+         </t>
+         <t>
+            <ar>النَّاْسَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٢٣٥٤">
+      <text>
+         <ar>اخْشَوُا الْقَوْمَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اخْشَوُا</ar>
+         </t>
+         <t>
+            <ar>الْقَوْمَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٩٤٣٨">
+      <text>
+         <ar>رَمَوُا الرَّجُلَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَمَوُا</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٢٦٦٠">
+      <text>
+         <ar>اخْشَيِ الرَّجُلَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>اخْشَيِ</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
