@@ -1,1 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="487">
+   <ayah id="٦٨٩٠٢" surah="٢" verse="٢٣٧">
+      <text>
+         <ar>وَلَا تَنْسَوُاْ ٱلْفَضْلَ بَيْنَكُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>تَنْسَوُاْ</ar>
+         </t>
+         <t>
+            <ar>ٱلْفَضْلَ</ar>
+         </t>
+         <t>
+            <ar>بَيْنَكُمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٥٥٢٩٠" surah="٢" verse="٢٣٧">
+      <text>
+         <ar>وَلَا تَنْسَوِاْ ٱلْفَضْلَ بَيْنَكُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>وَلَا</ar>
+         </t>
+         <t>
+            <ar>تَنْسَوِاْ</ar>
+         </t>
+         <t>
+            <ar>ٱلْفَضْلَ</ar>
+         </t>
+         <t>
+            <ar>بَيْنَكُمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٣٦١٨١" surah="٩" verse="٤٢">
+      <text>
+         <ar>لَوِ ٱسْتَطَعْنَا</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَوِ</ar>
+         </t>
+         <t>
+            <ar>ٱسْتَطَعْنَا</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
