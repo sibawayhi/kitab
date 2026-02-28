@@ -1,1 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="485">
+   <dictum id="٥٥٥٨٠">
+      <text>
+         <ar>أَنَا أُنْبُؤُكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَنَا</ar>
+         </t>
+         <t>
+            <ar>أُنْبُؤُكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
