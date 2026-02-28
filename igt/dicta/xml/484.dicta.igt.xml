@@ -1,56 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="484">
-   <dictum id="٥٢٧٥٧">
+   <dictum id="٩٨٠٩١">
       <text>
-         <ar>مُذُ الْيَوْمُ يَا فَتَى</ar>
+         <ar>يَا زَيْدُ اضْرِبْ عَمْرًا</ar>
          <free/>
       </text>
       <igt>
-         <t>
-            <ar>مُذُ</ar>
-         </t>
-         <t>
-            <ar>الْيَوْمُ</ar>
-         </t>
          <t>
             <ar>يَا</ar>
          </t>
          <t>
-            <ar>فَتَى</ar>
+            <ar>زَيْدُ</ar>
+         </t>
+         <t>
+            <ar>اضْرِبْ</ar>
+         </t>
+         <t>
+            <ar>عَمْرًا</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٩٣٨٩">
+   <dictum id="٤٤٩٢٥">
       <text>
-         <ar>إِنَّهُ قَدِي</ar>
+         <ar>يَا زَيْدُ اقْتُلْ وَاسْتَخْرِجْ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>إِنَّهُ</ar>
+            <ar>يَا</ar>
          </t>
          <t>
-            <ar>قَدِي</ar>
+            <ar>زَيْدُ</ar>
+         </t>
+         <t>
+            <ar>اقْتُلْ</ar>
+         </t>
+         <t>
+            <ar>وَاسْتَخْرِجْ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٩٦١٧">
+   <dictum id="٧٢٥٧٠">
       <text>
-         <ar>قَدْ كَاْنَ كَذَا وَكَذَا</ar>
+         <ar>إِنَّ ذٰلِكَ احْرَنْجَمَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>قَدْ</ar>
+            <ar>إِنَّ</ar>
          </t>
          <t>
-            <ar>كَاْنَ</ar>
+            <ar>ذٰلِكَ</ar>
          </t>
          <t>
-            <ar>كَذَا</ar>
+            <ar>احْرَنْجَمَ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="١٠٥٠٤">
+      <text>
+         <ar>هُوَ مُنْحَدُرٌ مِنَ الْجَبَلِ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُوَ</ar>
          </t>
          <t>
-            <ar>وَكَذَا</ar>
+            <ar>مُنْحَدُرٌ</ar>
+         </t>
+         <t>
+            <ar>مِنَ</ar>
+         </t>
+         <t>
+            <ar>الْجَبَلِ</ar>
          </t>
       </igt>
    </dictum>
