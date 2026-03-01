@@ -1,1 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="489">
+   <dictum id="٦٨٧٨٢">
+      <text>
+         <ar>لَمْ يَخَفِ الرَّجُلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَمْ</ar>
+         </t>
+         <t>
+            <ar>يَخَفِ</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٩٥٨٢">
+      <text>
+         <ar>لَمْ يَبِعِ الرَّجُلُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَمْ</ar>
+         </t>
+         <t>
+            <ar>يَبِعِ</ar>
+         </t>
+         <t>
+            <ar>الرَّجُلُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٥٥٩٨">
+      <text>
+         <ar>لَمْ يَقُلُ الْقَوْمُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَمْ</ar>
+         </t>
+         <t>
+            <ar>يَقُلُ</ar>
+         </t>
+         <t>
+            <ar>الْقَوْمُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٧٨١٤٤">
+      <text>
+         <ar>رَمَتِ الْمَرْأَةُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رَمَتِ</ar>
+         </t>
+         <t>
+            <ar>الْمَرْأَةُ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٢٧٣٤٢">
+      <text>
+         <ar>لَمْ يَخَفْ زَيْدٌ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَمْ</ar>
+         </t>
+         <t>
+            <ar>يَخَفْ</ar>
+         </t>
+         <t>
+            <ar>زَيْدٌ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٣٥٥٥">
+      <text>
+         <ar>لَمْ يَبِعْ عَمْرٌو</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَمْ</ar>
+         </t>
+         <t>
+            <ar>يَبِعْ</ar>
+         </t>
+         <t>
+            <ar>عَمْرٌو</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٧٠٥٨">
+      <text>
+         <ar>لَمْ تَخَفَ أَبَاْكَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَمْ</ar>
+         </t>
+         <t>
+            <ar>تَخَفَ</ar>
+         </t>
+         <t>
+            <ar>أَبَاْكَ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
