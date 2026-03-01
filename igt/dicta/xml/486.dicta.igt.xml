@@ -2,12 +2,12 @@
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="486">
    <dictum id="٢٨٦١٨">
       <text>
-         <ar>اضْرِبْ ابْنَكَ</ar>
+         <ar>اضْرِبِ ابْنَكَ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>اضْرِبْ</ar>
+            <ar>اضْرِبِ</ar>
          </t>
          <t>
             <ar>ابْنَكَ</ar>
@@ -39,6 +39,26 @@
          </t>
          <t>
             <ar>اذْهَبْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٢٨١٠">
+      <text>
+         <ar>إِنِ اللهُ عَاْفَاْنِي فَعَلْتُ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنِ</ar>
+         </t>
+         <t>
+            <ar>اللهُ</ar>
+         </t>
+         <t>
+            <ar>عَاْفَاْنِي</ar>
+         </t>
+         <t>
+            <ar>فَعَلْتُ</ar>
          </t>
       </igt>
    </dictum>
