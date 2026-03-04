@@ -1,1 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="491">
+   <dictum id="٠٦٠٧٦">
+      <text>
+         <ar>هُمَا ضَاْرِبَاْنِهْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُمَا</ar>
+         </t>
+         <t>
+            <ar>ضَاْرِبَاْنِهْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤٨٤١٠">
+      <text>
+         <ar>هُمْ مُسْلِمُوْنَهْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُمْ</ar>
+         </t>
+         <t>
+            <ar>مُسْلِمُوْنَهْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٠٣٣٢٢">
+      <text>
+         <ar>هُمْ قَاْئِلُوْنَهْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>هُمْ</ar>
+         </t>
+         <t>
+            <ar>قَاْئِلُوْنَهْ</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
