@@ -1,1 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="490">
+   <dictum id="٦٦٣٩٨">
+      <text>
+         <ar>لَا تَقِهْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>تَقِهْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٥٣٠٥٨">
+      <text>
+         <ar>إِنْ تَعِ أَعِهْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنْ</ar>
+         </t>
+         <t>
+            <ar>تَعِ</ar>
+         </t>
+         <t>
+            <ar>أَعِهْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٨٨٥٠٤" j="*">
+      <text>
+         <ar>إِنْ تَعِ أَعْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>إِنْ</ar>
+         </t>
+         <t>
+            <ar>تَعِ</ar>
+         </t>
+         <t>
+            <ar>أَعْ</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٤١٤٣٢">
+      <text>
+         <ar>رُدِّ يَا فَتَى</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>رُدِّ</ar>
+         </t>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>فَتَى</ar>
+         </t>
+      </igt>
+   </dictum>
+</dicta>
