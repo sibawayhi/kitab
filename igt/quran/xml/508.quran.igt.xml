@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!---->
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="508">
-   <ayah id="٥٢٧٩٤" surah="" verse="">
+   <ayah id="٥٢٧٩٤" surah="٤" verse="١٥٥">
       <text>
-         <ar>فَبِمَا نَقْضِهِمْ مِّيْثَاقَهُمْ</ar>
+         <ar>فَبِمَا نَقْضِهِمْ مِّيْثَاْقَهُمْ</ar>
          <free/>
       </text>
       <igt>
@@ -14,18 +14,18 @@
             <ar>نَقْضِهِمْ</ar>
          </t>
          <t>
-            <ar>مِّيْثَاقَهُمْ</ar>
+            <ar>مِّيْثَاْقَهُمْ</ar>
          </t>
       </igt>
    </ayah>
-   <ayah id="٦٥٩٤٧" surah="" verse="">
+   <ayah id="٦٥٩٤٧" surah="٥٧" verse="٢٩">
       <text>
-         <ar>لِئَلَّا يَعْلَمَ أَهْلُ الْكِتَاْبِ</ar>
+         <ar>لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَاْبِ</ar>
          <free/>
       </text>
       <igt>
          <t>
-            <ar>لِئَلَّا</ar>
+            <ar>لِّئَلَّا</ar>
          </t>
          <t>
             <ar>يَعْلَمَ</ar>
@@ -34,7 +34,7 @@
             <ar>أَهْلُ</ar>
          </t>
          <t>
-            <ar>الْكِتَاْبِ</ar>
+            <ar>ٱلْكِتَاْبِ</ar>
          </t>
       </igt>
    </ayah>
