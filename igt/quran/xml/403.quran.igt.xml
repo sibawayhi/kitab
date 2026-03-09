@@ -1,1 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="403">
+   <ayah id="٥٥٦٣٨" surah="٦" verse="٨٠">
+      <text>
+         <ar>أَتُحَــٰۤـجُّوٓنِّي</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>أَتُحَــٰۤـجُّوٓنِّي</ar>
+         </t>
+      </igt>
+   </ayah>
+   <ayah id="٦٨٤٩٥" surah="١٥" verse="٥٤">
+      <text>
+         <ar>فَبِمَ تُبَشِّرُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>فَبِمَ</ar>
+         </t>
+         <t>
+            <ar>تُبَشِّرُوْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
