@@ -1,1 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="405">
+   <ayah id="٨٩٤٣٨" surah="١٠" verse="٨٩">
+      <text>
+         <ar>لَا تَتَّبِعَآنِّ سَبِيْلَ ٱلَّذِيْنَ لَا يَعْلَمُوْنَ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>تَتَّبِعَآنِّ</ar>
+         </t>
+         <t>
+            <ar>سَبِيْلَ</ar>
+         </t>
+         <t>
+            <ar>ٱلَّذِيْنَ</ar>
+         </t>
+         <t>
+            <ar>لَا</ar>
+         </t>
+         <t>
+            <ar>يَعْلَمُوْنَ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
