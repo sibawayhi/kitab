@@ -3,7 +3,8 @@
    <dictum id="٩٨٧٨٩">
       <text>
          <ar>هٰذَا حَسَنُ الْوَجْهِ</ar>
-         <free>This [one, he] is beautiful of face</free>
+         <free>This[masc] is beautiful of face</free>
+         <alt>This [one], [he] is beautiful of face</alt>
       </text>
       <igt>
          <t>
@@ -22,7 +23,8 @@
    <dictum id="١٥٠٩٧">
       <text>
          <ar>هٰذِهِ حَسَنَةُ الْوَجْهِ</ar>
-         <free>This [one, she] is beautiful of face</free>
+         <free>This[fem] is beautiful of face</free>
+         <alt>This [one], [she] is beautiful of face</alt>
       </text>
       <igt>
          <t>
@@ -41,7 +43,9 @@
    <dictum id="٢٧١٩١">
       <text>
          <ar>هٰذَا ضَاْرِبُ الرَّجُلِ</ar>
-         <free>This [m. is the] striker of the man</free>
+         <free>This[m] is the striker of the man</free>
+         <alt>This[m] is striking the man</alt>
+         <alt>This[m] [one is the] striker [of] the man</alt>
       </text>
       <igt>
          <t>
@@ -59,8 +63,10 @@
    </dictum>
    <dictum id="٧٤٠٣١">
       <text>
-         <ar>هٰذِهِ ضَاْرِبَةُ الرَّجُلِ</ar>
-         <free>This [f. is the] striker of the man</free>
+        <ar>هٰذِهِ ضَاْرِبَةُ الرَّجُلِ</ar>
+        <free>This[f.] is the striker of the man</free>
+         <alt>This[f.] is striking the man</alt>
+         <alt>This[f.] [one is the] striker [of] the man</alt>
       </text>
       <igt>
          <t>
@@ -80,6 +86,7 @@
       <text>
          <ar>هُوَ أَحْمَرُ بَيْنَ الْعَيْنَيْنِ</ar>
          <free>He is red between the eyes</free>
+         <alt>He is red <ed>of what is</ed> between the eyes</alt>
       </text>
       <igt>
          <t>
@@ -94,6 +101,7 @@
          </t>
          <t>
            <ar>الْعَيْنَيْنِ</ar>
+           <xlit>_l-ʕaynayni</xlit>
            <en>the [2]eyes</en>
          </t>
       </igt>
@@ -101,7 +109,9 @@
    <dictum id="٢٠٥٨٨">
       <text>
          <ar>هُوَ جَيِّدُ وَجْهِ الدَّاْرِ</ar>
-         <free>He is the most excellent chief of the tribe(???)</free>
+         <free>He is the most excellent chief of the tribe(?)</free>
+         <alt>It is the most excellent face(?) of the district/town?</alt>
+         <alt>It is the best time of the year(?)</alt>
       </text>
       <igt>
          <t>
@@ -128,7 +138,8 @@
    <dictum id="٧٧٨٨٨">
       <text>
          <ar>هُوَ حَدِيْثُ عَهْدٍ بِالْوَجَعِ</ar>
-         <free>He is recently in pain(?)</free>
+         <free>He is recent of pain</free>
+         <alt>He is recent of time with pain</alt>
       </text>
       <igt>
          <t>
@@ -170,11 +181,12 @@
       <text>
          <ar>الضَّاْرِبُ زَيْدًا</ar>
          <free>the one striking Zayd</free>
-         <alt>the striker of Zayd</alt>
+         <!-- <alt>the striker of Zayd</alt> -->
       </text>
       <igt>
          <t>
-            <ar>الضَّاْرِبُ</ar>
+           <ar>الضَّاْرِبُ</ar>
+           <!-- <xlit>aḍ-ḍāribu</xlit> -->
          </t>
          <t>
             <ar>زَيْدًا</ar>
@@ -184,7 +196,8 @@
    <dictum id="٣٦٤٠٥">
       <text>
          <ar>هُوَ الْحَسَنُ الْوَجْهَ</ar>
-         <free>He is the beautiful [in] the face</free>
+         <free>He is the beautiful [one] [in] the face</free>
+         <alt>He is the beautiful [one] face-wise</alt>
       </text>
       <igt>
          <t>
@@ -224,7 +237,7 @@
    </dictum>
    <dictum id="١١٣١٨">
       <text>
-         <ar>هُوَ الضَّارِبُ الرَّجُلِ</ar>
+         <ar>هُوَ الضَّاْرِبُ الرَّجُلِ</ar>
          <free>He [is] the striker of the man</free>
       </text>
       <igt>
@@ -233,7 +246,7 @@
          </t>
          <t class="idafah">
            <t>
-             <ar>الضَّارِبُ</ar>
+             <ar>الضَّاْرِبُ</ar>
            </t>
            <t>
              <ar>الرَّجُلِ</ar>
@@ -244,7 +257,7 @@
    <dictum id="٤١٥٦١">
       <text>
          <ar>هُمُ الطَّيِّبُوْنَ الْأَخْبَاْرَ</ar>
-         <free>They are pleasant of tidings</free>
+         <free>They are the pleasant [in] tidings[.acc]</free>
       </text>
       <igt>
          <t>
@@ -267,7 +280,7 @@
    <dictum id="٦٦٥٢٤">
       <text>
          <ar>هُمَا الْحَسَنَاْنِ الْوُجُوْهَ</ar>
-         <free>They[2] are beautiful[2] of face[pl].</free>
+         <free>They[2] are the beautiful[2] [in] face[pl.acc].</free>
       </text>
       <igt>
          <t>
@@ -285,7 +298,7 @@
    <dictum id="٠٦٤٠٢">
       <text>
          <ar>هٰؤُلَاءِ الضَّاْرِبُو زَيْدٍ</ar>
-         <free>Those [are] the strikers of Zayd</free>
+         <free>These [are] the strikers of Zayd[.gen]</free>
       </text>
       <igt>
          <t>
@@ -310,7 +323,7 @@
    <dictum id="٩٢٨٨٥">
       <text>
          <ar>هُمُ الطَّيِّبُو أَخْبَاْرٍ</ar>
-         <free>They are the pleasant of tidings</free>
+         <free>They are the pleasant of tidings[.gen]</free>
       </text>
       <igt>
          <t>
@@ -377,7 +390,8 @@
    <dictum id="٤٣٨٨٥">
       <text>
          <ar>هُوَ خَيْرٌ عَمَلًا</ar>
-         <free>He is better [than you] in work</free>
+         <free>He is better[.nom] in work[.acc]</free>
+         <alt>He is better [than you] in work</alt>
       </text>
       <igt>
          <t>
@@ -398,7 +412,9 @@
    <dictum id="٢١٨٩٠">
       <text>
          <ar>ضَرَبَ زَيْدًا عَمْرٌو</ar>
-         <free>Amr struck Zayd</free>
+         <free>He struck Zayd, <ed>did</ed> Amr</free>
+         <alt>Struck-he, Zayd[.acc], Amr[.nom]</alt>
+         <alt>Amr struck Zayd</alt>
       </text>
       <igt>
          <t>
@@ -437,7 +453,9 @@
    <dictum id="٦٥٢٤٦">
       <text>
          <ar>هٰذَا أَوَّلُ رَجُلٍ</ar>
-         <free>This is the first man</free>
+         <free>This is more prior of a man</free>
+         <alt>This is more preceding of a man</alt>
+         <alt>This is a pre-eminent man</alt>
       </text>
       <igt>
          <t>
@@ -461,7 +479,7 @@
       <text>
          <ar>
             <ed>هٰذَا</ed> أَوَّلُ الرِّجَاْلِ</ar>
-         <free>This [is] the first of the men</free>
+         <free>[This is] the pre-eminent <ed>of</ed> the men</free>
       </text>
       <igt>
          <t> <!-- ed="1"> -->
@@ -481,6 +499,8 @@
       <text>
          <ar>مَرَرْتُ بِرَجُلٍ حَسَنِ الْوَجْهِ أَبُوْهُ</ar>
          <free>I passed by a man whose father was beautiful of face</free>
+         <alt>I passed by a man beautiful of the face of his father</alt>
+         <alt>I passed by a man whose father's face was beautiful</alt>
       </text>
       <igt>
          <t>
@@ -506,6 +526,7 @@
       <text>
          <ar>مَرَرْتُ بِرَجُلٍ حَسَنٍ أَبُوْهُ</ar>
          <free>I passed by a man whose father was beautiful</free>
+         <alt>I passed by a man beautiful of his father</alt>
       </text>
       <igt>
          <t>
@@ -526,6 +547,7 @@
       <text>
          <ar>مَرَرْتُ بِرَجُلٍ ضَاْرِبٍ أَبُوْهُ</ar>
          <free>I passed by a man whose father was striking</free>
+         <alt>I passed by a man striking his father [was]</alt>
       </text>
       <igt>
          <t>
@@ -573,7 +595,7 @@
    <dictum id="٢٤٤٥٠">
       <text>
         <ar><ed>هُوَ</ed> أَفْرَهُ عَبْدٍ فِي النَّاْسِ</ar>
-        <free>He is the most skillful slave of the people</free>
+        <free>He is the most skillful slave in/among the people</free>
       </text>
       <igt>
          <t ed="1">
@@ -582,6 +604,7 @@
          <t class="idafah">
            <t>
              <ar>أَفْرَهُ</ar>
+             <xlit>Ɂafrah<influ/></xlit>
              <en>most-skillful</en>
            </t>
            <t>
@@ -602,11 +625,13 @@
    <dictum id="٩٤٥٦٥">
       <text>
          <ar>امْتَلَأْتُ مَاْءً</ar>
-         <free/>
+         <free>I became full of water</free>
       </text>
       <igt>
-         <t>
-            <ar>امْتَلَأْتُ</ar>
+        <t>
+          <xlit>_imtalaɁ-tu</xlit>
+          <ar>امْتَلَأْتُ</ar>
+          <en>became-I full</en>
          </t>
          <t>
             <ar>مَاْءً</ar>
@@ -616,35 +641,41 @@
    <dictum id="١٥٩٩٥">
       <text>
          <ar>تَفَقَّأْتُ شَحْمًا</ar>
-         <free/>
+         <free>I almost burst of fat</free>
       </text>
       <igt>
-         <t>
-            <ar>تَفَقَّأْتُ</ar>
+        <t>
+          <xlit>tafaqqaɁ-tu</xlit>
+          <ar>تَفَقَّأْتُ</ar>
+          <en>[almost] burst-I</en>
          </t>
          <t>
-            <ar>شَحْمًا</ar>
+           <xlit>šaḥm<inflan/></xlit>
+           <ar>شَحْمًا</ar>
+           <en>fat[.acc]</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٩١٦٥٣" j="*">
       <text>
          <ar>مَاْءً امْتَلَأْتُ</ar>
-         <free/>
+         <free><ed>Of</ed> water I became full</free>
       </text>
       <igt>
          <t>
             <ar>مَاْءً</ar>
          </t>
          <t>
-            <ar>امْتَلَأْتُ</ar>
+          <xlit>_imtalaɁ-tu</xlit>
+          <ar>امْتَلَأْتُ</ar>
+          <en>became-I full</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٤٨٦٣٧">
       <text>
          <ar>كَسَرْتُهُ فَانْكَسَرَ</ar>
-         <free/>
+         <free>I broke it so it broke</free>
       </text>
       <igt>
          <t>
@@ -658,7 +689,7 @@
    <dictum id="٩٥٤٢٩">
       <text>
          <ar>دَفَعْتُهُ فَانْدَفَعَ</ar>
-         <free/>
+         <free>I pushed it so it [was] pushed</free>
       </text>
       <igt>
          <t>
@@ -672,21 +703,25 @@
    <dictum id="٣٧٩٦٧">
       <text>
          <ar>مَلَأَنِي فَامْتَلَأْتُ</ar>
-         <free/>
+         <free>It filled me so I became full</free>
       </text>
       <igt>
-         <t>
-            <ar>مَلَأَنِي</ar>
+        <t>
+          <xlit>malaɁ-nī</xlit>
+          <ar>مَلَأَنِي</ar>
+          <en>filled<ed>-it</ed> me</en>
          </t>
          <t>
-            <ar>فَامْتَلَأْتُ</ar>
+           <xlit>fa-_mtalaɁ-tu</xlit>
+           <ar>فَامْتَلَأْتُ</ar>
+          <en>so became-I full</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٧٣٥٧٧">
       <text>
          <ar>دَحْرَجْتُهُ فَتَدَحْرَجَ</ar>
-         <free/>
+         <free>I rolled it so it rolled</free>
       </text>
       <igt>
          <t>
@@ -700,11 +735,13 @@
    <dictum id="٣٩٦٣٧">
       <text>
          <ar>امْتَلَأْتُ مِنَ الْمَاْءِ</ar>
-         <free/>
+         <free>I became full of water</free>
       </text>
       <igt>
          <t>
-            <ar>امْتَلَأْتُ</ar>
+           <xlit>_imtalaɁ-tu</xlit>
+           <ar>امْتَلَأْتُ</ar>
+           <en>became-I full</en>
          </t>
          <t>
             <ar>مِنَ</ar>
@@ -717,31 +754,37 @@
    <dictum id="٠٥٩٥٨">
       <text>
          <ar>تَفَقَّأْتُ مِنَ الشَّحْمِ</ar>
-         <free/>
+         <free>I almost burst from the fat</free>
       </text>
       <igt>
          <t>
-            <ar>تَفَقَّأْتُ</ar>
+           <xlit>tafaqqaɁ-tu</xlit>
+           <ar>تَفَقَّأْتُ</ar>
+           <en>[almost] burst-I</en>
          </t>
          <t>
             <ar>مِنَ</ar>
          </t>
          <t>
+            <xlit>_š-šaḥm<infli/></xlit>
             <ar>الشَّحْمِ</ar>
+            <en>the fat<infli/></en>
          </t>
       </igt>
    </dictum>
    <dictum id="٠٩٤٢٨">
       <text>
          <ar>هُوَ أَشْجَعُ النَّاْسِ رَجُلًا</ar>
-         <free/>
+         <free>He is the most courageous of the people, as a man</free>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
          <t>
-            <ar>أَشْجَعُ</ar>
+           <xlit>Ɂašjaʕ<influ/></xlit>
+           <ar>أَشْجَعُ</ar>
+           <en>most courageous</en>
          </t>
          <t>
             <ar>النَّاْسِ</ar>
@@ -754,7 +797,7 @@
    <dictum id="٨١٤١٦">
       <text>
          <ar>هُمَا خَيْرُ النَّاْسِ اثْنَيْنِ</ar>
-         <free/>
+         <free>They[2] are the best of the people, as two</free>
       </text>
       <igt>
          <t>
@@ -767,14 +810,16 @@
             <ar>النَّاْسِ</ar>
          </t>
          <t>
-            <ar>اثْنَيْنِ</ar>
+           <xlit>_θnayni</xlit>
+           <ar>اثْنَيْنِ</ar>
+           <en>two</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٠١٧٧٦">
       <text>
          <ar>هُوَ أَحْسَنُ مِنْهُ وَجْهًا</ar>
-         <free/>
+         <free>He is more beautiful than him in face</free>
       </text>
       <igt>
          <t>
@@ -794,7 +839,9 @@
    <dictum id="٠٤٨١٣">
       <text>
          <ar>هُوَ خَيْرُ رَجُلٍ فِي النَّاْسِ</ar>
-         <free/>
+         <free>He is the best man of the people</free>
+         <alt>He <ed>is</ed> best <ed>of a</ed> man
+         in the people</alt>
       </text>
       <igt>
          <t>
@@ -817,7 +864,9 @@
    <dictum id="٠٨٢٤٣">
       <text>
          <ar>هُمَا خَيْرُ اثْنَيْنِ في النَّاْسِ</ar>
-         <free/>
+         <free>He is the best of two of the people</free>
+         <alt>He <ed>is the</ed> best <ed>of</ed> two
+         of the people</alt>
       </text>
       <igt>
          <t>
@@ -827,10 +876,12 @@
             <ar>خَيْرُ</ar>
          </t>
          <t>
-            <ar>اثْنَيْنِ</ar>
+           <xlit>_θnayni</xlit>
+           <ar>اثْنَيْنِ</ar>
+           <en>two</en>
          </t>
          <t>
-            <ar>في</ar>
+            <ar>فِي</ar>
          </t>
          <t>
             <ar>النَّاْسِ</ar>
@@ -840,7 +891,9 @@
    <dictum id="١٦٢٤٧">
       <text>
          <ar>هُوَ أَكْثَرُ النَّاْسِ مَاْلًا</ar>
-         <free/>
+         <free>He is the wealthiest of the people</free>
+         <alt>He <ed>is the</ed> most copious of
+         the people, in wealth</alt>
       </text>
       <igt>
          <t>
@@ -853,18 +906,23 @@
             <ar>النَّاْسِ</ar>
          </t>
          <t>
-            <ar>مَاْلًا</ar>
+           <xlit>māl<inflan/></xlit>
+           <ar>مَاْلًا</ar>
+           <en>wealth</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٧٤٨٤٣">
       <text>
          <ar>مِائَةُ دِرْهَمٍ</ar>
-         <free/>
+         <free>a hundred dirhams</free>
+         <alt>a hundred <ed>of a</ed> dirham</alt>
       </text>
       <igt>
          <t>
+           <xlit>miɁat<influ/></xlit>
             <ar>مِائَةُ</ar>
+            <en>one hundred</en>
          </t>
          <t>
             <ar>دِرْهَمٍ</ar>
@@ -874,11 +932,14 @@
    <dictum id="٢٠٢٨٥">
       <text>
          <ar>مِائَةُ الدِّرْهَمِ</ar>
-         <free/>
+         <free>one hundred dirhams</free>
+         <alt><ed>the</ed> hundred <ed>of the</ed> dirham</alt>
       </text>
       <igt>
          <t>
+           <xlit>miɁat<influ/></xlit>
             <ar>مِائَةُ</ar>
+            <en>one hundred</en>
          </t>
          <t>
             <ar>الدِّرْهَمِ</ar>
@@ -888,11 +949,14 @@
    <dictum id="٢٦٦٨٥">
       <text>
          <ar>مِائَتَا دِرْهَمٍ</ar>
-         <free/>
+         <free>two hundred dirhams</free>
+         <alt>two hundred <ed>of a</ed> dirham</alt>
       </text>
       <igt>
          <t>
-            <ar>مِائَتَا</ar>
+           <xlit>miɁatā</xlit>
+           <ar>مِائَتَا</ar>
+           <en>two hundred</en>
          </t>
          <t>
             <ar>دِرْهَمٍ</ar>
@@ -902,13 +966,17 @@
    <dictum id="٥٣٦٢٦">
       <text>
          <ar>مِائَتَا الدِّيْنَاْرِ</ar>
-         <free/>
+         <free>two hundred dīnārs</free>
+         <alt>two hundred <ed>of</ed>the dīnār</alt>
       </text>
       <igt>
          <t>
-            <ar>مِائَتَا</ar>
+           <xlit>miɁatā</xlit>
+           <ar>مِائَتَا</ar>
+           <en>two hundred</en>
          </t>
          <t>
+           <xlit>ـd-dīnār<infli/></xlit>
             <ar>الدِّيْنَاْرِ</ar>
          </t>
       </igt>
@@ -916,11 +984,14 @@
    <dictum id="٧٢٤٤٢">
       <text>
          <ar>أَلْفُ دِرْهَمٍ</ar>
-         <free/>
+         <free>a thousand dirhams</free>
+         <alt>a thousand <ed>of a</ed> dirham</alt>
       </text>
       <igt>
          <t>
-            <ar>أَلْفُ</ar>
+           <xlit>Ɂalf<influ/></xlit>
+           <ar>أَلْفُ</ar>
+           <en>a thousand</en>
          </t>
          <t>
             <ar>دِرْهَمٍ</ar>
@@ -930,11 +1001,14 @@
    <dictum id="٢٥١٨٨">
       <text>
          <ar>أَلْفَا دِرْهَمٍ</ar>
-         <free/>
+         <free>two thousand dirhams</free>
+         <alt>two thousand <ed>of a</ed> dirham</alt>
       </text>
       <igt>
          <t>
-            <ar>أَلْفَا</ar>
+           <xlit>Ɂalfā</xlit>
+           <ar>أَلْفَا</ar>
+           <en>two thousand</en>
          </t>
          <t>
             <ar>دِرْهَمٍ</ar>
@@ -944,42 +1018,48 @@
    <dictum id="٧٩٠٦٩">
       <text>
          <ar>مِنْ لَدُنْ غُدْوَةً</ar>
-         <free/>
+         <free>in the early morning</free>
       </text>
       <igt>
          <t>
             <ar>مِنْ</ar>
          </t>
          <t>
-            <ar>لَدُنْ</ar>
+           <xlit>ladun</xlit>
+           <ar>لَدُنْ</ar>
+           <en>at</en>
+         </t>
+         <t>
+           <ar>غُدْوَةً</ar>
+         </t>
+      </igt>
+   </dictum>
+   <dictum id="٣٧٨١٦">
+      <text>
+         <ar>لَدًا غُدْوَةً</ar>
+         <free>in the early morning</free>
+      </text>
+      <igt>
+        <t>
+          <xlit>lad<inflan/></xlit>
+          <ar>لَدًا</ar>
+          <en>at</en>
          </t>
          <t>
             <ar>غُدْوَةً</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٧٨١٦">
-      <text>
-         <ar>لَدًا غَدْوَةً</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>لَدًا</ar>
-         </t>
-         <t>
-            <ar>غَدْوَةً</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٤٥٨٠٧">
       <text>
          <ar>اضْرِبَنْ زَيْدًا</ar>
-         <free/>
+         <free>Strike-you[emphatic] Zayd!</free>
       </text>
       <igt>
          <t>
-            <ar>اضْرِبَنْ</ar>
+           <xlit>_iḍriban</xlit>
+           <ar>اضْرِبَنْ</ar>
+           <en>strike</en>
          </t>
          <t>
             <ar>زَيْدًا</ar>
@@ -989,34 +1069,67 @@
    <dictum id="٦٤٨٤٩">
       <text>
          <ar>مَا شَعَرْتُ بِهِ شِعْرَةً</ar>
-         <free/>
+         <free>I did not understand a whit of it</free>
       </text>
       <igt>
          <t>
             <ar>مَا</ar>
          </t>
          <t>
-            <ar>شَعَرْتُ</ar>
+           <xlit>šaʕar-tu</xlit>
+           <ar>شَعَرْتُ</ar>
+           <en>understood-I</en>
          </t>
          <t>
             <ar>بِهِ</ar>
          </t>
          <t>
-            <ar>شِعْرَةً</ar>
+           <xlit>šiʕrat<inflan/></xlit>
+           <ar>شِعْرَةً</ar>
+           <en><ed>a</ed> whit (of knowledge)</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٦٠٩٠١">
       <text>
          <ar>لَيْتَ شِعْرِي</ar>
-         <free/>
+         <free>Would that I knew</free>
       </text>
       <igt>
          <t>
             <ar>لَيْتَ</ar>
          </t>
          <t>
-            <ar>شِعْرِي</ar>
+           <xlit>šiʕrī</xlit>
+           <ar>شِعْرِي</ar>
+           <en>my knowing</en>
+         </t>
+      </igt>
+      <sidecomment>
+        Here <ar>شِعْرِي</ar> is <ar>شِعْرَتِي</ar>
+        (my <ar>شِعْرَة</ar>)
+        with the <ar>ت</ar> excised.
+      </sidecomment>
+   </dictum>
+   <dictum id="٤٧٨٥١">
+      <text>
+        <ar>قَرِرْنَا بِهِ عَيْنًا</ar>
+        <free>We became cool in eye thereby</free>
+        <alt>We became happy/at ease thereby</alt>
+      </text>
+      <igt>
+        <t>
+          <xlit>qarir-nā</xlit>
+          <ar>قَرِرْنَا</ar>
+          <en>we cooled</en>
+         </t>
+         <t>
+            <ar>بِهِ</ar>
+         </t>
+         <t>
+           <xlit>ʕayn<inflan/></xlit>
+           <ar>عَيْنًا</ar>
+           <en><ed>in</ed>eye</en>
          </t>
       </igt>
    </dictum>

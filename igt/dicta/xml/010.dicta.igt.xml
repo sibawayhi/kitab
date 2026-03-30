@@ -3,17 +3,14 @@
    <dictum id="٢٣٦٩٧">
       <text>
          <ar>ضَرَبَ عَبْدُ اللهِ زَيْدًا</ar>
-         <free/>
+         <free>Abdullah struck Zayd</free>
       </text>
       <igt>
          <t>
             <ar>ضَرَبَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>عَبْدُ اللهِ</ar>
          </t>
          <t>
             <ar>زَيْدًا</ar>
@@ -23,7 +20,7 @@
    <dictum id="٤٠٨٩٦">
       <text>
          <ar>ضَرَبَ زَيْدًا عَبْدُ اللهِ</ar>
-         <free/>
+         <free>He struck Zayd, did Abdullah</free>
       </text>
       <igt>
          <t>
@@ -33,17 +30,14 @@
             <ar>زَيْدًا</ar>
          </t>
          <t>
-            <ar>عَبْدُ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>عَبْدُ اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="١٤٩٨٣">
       <text>
          <ar>قَدْ ذَهَبَ</ar>
-         <free/>
+         <free>He has gone</free>
       </text>
       <igt>
          <t>
@@ -57,7 +51,7 @@
    <dictum id="٩١٩٨٠">
       <text>
          <ar>قَدْ كَاْنَ مِنْهُ ذَهَاْبٌ</ar>
-         <free/>
+         <free>There has been from him a going</free>
       </text>
       <igt>
          <t>
@@ -77,34 +71,28 @@
    <dictum id="٥٧٩٣٧">
       <text>
          <ar>ضَرَبَ عَبْدُ اللهِ</ar>
-         <free/>
+         <free>Abdullah struck</free>
       </text>
       <igt>
          <t>
             <ar>ضَرَبَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>عَبْدُ اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٩٥٠٥٧">
       <text>
          <ar>ذَهَبَ عَبْدُ اللهِ الذَّهَاْبَ الشَّدِيْدَ</ar>
-         <free/>
+         <free>Abdullah went an intense going</free>
       </text>
       <igt>
          <t>
             <ar>ذَهَبَ</ar>
          </t>
          <t>
-            <ar>عَبْدُ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>عَبْدُ اللهِ</ar>
          </t>
          <t>
             <ar>الذَّهَاْبَ</ar>
@@ -117,7 +105,7 @@
    <dictum id="٢٤٥٨١">
       <text>
          <ar>قَعَدَ قِعْدَةَ سَوْءٍ</ar>
-         <free/>
+         <free>He sat in a bad manner</free>
       </text>
       <igt>
          <t>
@@ -134,7 +122,7 @@
    <dictum id="٠٤٧٩٠">
       <text>
          <ar>قَعَدَ قَعْدَتَيْنِ</ar>
-         <free/>
+         <free>He sat two sittings</free>
       </text>
       <igt>
          <t>
@@ -148,7 +136,7 @@
    <dictum id="١٩٩٩٩">
       <text>
          <ar>قَعَدَ الْقُرْفُصَاْءَ</ar>
-         <free/>
+         <free>He sat squatting</free>
       </text>
       <igt>
          <t>
@@ -162,7 +150,7 @@
    <dictum id="٨٧٩٥٧">
       <text>
          <ar>اشْتَمَلَ الصَّمَّاْءَ</ar>
-         <free/>
+         <free>He wrapped himself with the garment...(see Lane's gloss.)</free>
       </text>
       <igt>
          <t>
@@ -176,7 +164,7 @@
    <dictum id="٦٤٨٨٤">
       <text>
          <ar>رَجَعَ الْقَهْقَرَى</ar>
-         <free/>
+         <free>He returned backwards</free>
       </text>
       <igt>
          <t>
@@ -190,7 +178,7 @@
    <dictum id="٩٧٦١٦">
       <text>
          <ar>قَعَدَ شَهْرَيْنِ</ar>
-         <free/>
+         <free>He sat two months</free>
       </text>
       <igt>
          <t>
@@ -204,7 +192,7 @@
    <dictum id="٧٨٧٠٣">
       <text>
          <ar>سَيَقْعُدُ شَهْرَيْنِ</ar>
-         <free/>
+         <free>He will sit two months</free>
       </text>
       <igt>
          <t>
@@ -218,7 +206,7 @@
    <dictum id="٨٢٨١٤">
       <text>
          <ar>ذَهَبْتُ أَمْسِ</ar>
-         <free/>
+         <free>I went yesterday</free>
       </text>
       <igt>
          <t>
@@ -232,7 +220,7 @@
    <dictum id="٠٩٢٣٢">
       <text>
          <ar>سَأَذْهَبُ غَدًا</ar>
-         <free/>
+         <free>I will go tomorrow</free>
       </text>
       <igt>
          <t>
@@ -246,7 +234,7 @@
    <dictum id="٨١٦٤٤">
       <text>
          <ar>ذَهَبْتُ الْمَذْهَبَ الْبَعِيْدَ</ar>
-         <free/>
+         <free>I went the distant going</free>
       </text>
       <igt>
          <t>
@@ -263,7 +251,7 @@
    <dictum id="٨١٣١٤">
       <text>
          <ar>جَلَسْتُ مَجْلِسًا حَسَنًا</ar>
-         <free/>
+         <free>He sat a good sitting</free>
       </text>
       <igt>
          <t>
@@ -280,7 +268,7 @@
    <dictum id="٨٤٣٣٢">
       <text>
          <ar>قَعَدْتُ مَقْعَدًا كَرِيْمًا</ar>
-         <free/>
+         <free>He sat a generous sitting</free>
       </text>
       <igt>
          <t>
@@ -297,7 +285,7 @@
    <dictum id="٤٢٢٣٠">
       <text>
          <ar>قَعَدْتُ الْمَكَاْنَ الَّذِي رَأَيْتَ</ar>
-         <free/>
+         <free>He sat [in] the place that you saw</free>
       </text>
       <igt>
          <t>
@@ -317,7 +305,8 @@
    <dictum id="٤٢٤٨٨">
       <text>
          <ar>ذَهَبْتُ وَجْهًا مِنَ الْوُجُوْهِ</ar>
-         <free/>
+         <free>I went in one of the directions</free>
+         <alt>I went in some direction</alt>
       </text>
       <igt>
          <t>
@@ -337,7 +326,7 @@
    <dictum id="٦٣٤٥٥">
       <text>
          <ar>ذَهَبْتُ الشَّاْمَ</ar>
-         <free/>
+         <free>I went north</free>
       </text>
       <igt>
          <t>
@@ -365,7 +354,7 @@
    <dictum id="٤٩٨٠٦">
       <text>
          <ar>ذَهَبْتُ فَرْسَخَيْنِ</ar>
-         <free/>
+         <free>I went two parsangs</free>
       </text>
       <igt>
          <t>
@@ -379,7 +368,7 @@
    <dictum id="١٤٤١٤">
       <text>
          <ar>سِرْتُ الْمِيْلَيْنِ</ar>
-         <free/>
+         <free>I journeyed two miles</free>
       </text>
       <igt>
          <t>
@@ -393,7 +382,7 @@
    <dictum id="٥٩٨٦٨">
       <text>
          <ar>ذَهَبْتُ شَهْرَيْنِ</ar>
-         <free/>
+         <free>I went two months</free>
       </text>
       <igt>
          <t>
@@ -407,7 +396,7 @@
    <dictum id="١٦٣٢٣">
       <text>
          <ar>سِرْتُ الْيَوْمَيْنِ</ar>
-         <free/>
+         <free>I journeyed the two days</free>
       </text>
       <igt>
          <t>

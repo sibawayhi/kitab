@@ -3,8 +3,8 @@
 <quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="041">
    <ayah id="٨٤١٥٠" nbr="1" surah="١٨" verse="١٠٣">
       <text>
-         <ar>قُلْ هَلْ نُنَبِّئُكُمْ بِالْأَخْسَرِيْنَ أَعْمَاْلًا</ar>
-         <free/>
+         <ar>قُلْ هَلْ نُنَبِّئُكُمْ بِٱلْأَخْسَرِيْنَ أَعْمَاْلًا</ar>
+         <free src="Pickthall">Say: Shall We inform you who will be the greatest losers by their works?</free>
       </text>
       <igt>
          <t>
@@ -17,7 +17,7 @@
             <ar>نُنَبِّئُكُمْ</ar>
          </t>
          <t>
-            <ar>بِالْأَخْسَرِيْنَ</ar>
+            <ar>بِٱلْأَخْسَرِيْنَ</ar>
          </t>
          <t>
             <ar>أَعْمَاْلًا</ar>

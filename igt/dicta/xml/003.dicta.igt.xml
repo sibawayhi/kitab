@@ -65,6 +65,7 @@
       <text>
          <ar>لَيْتَ زَيْدًا مُنْطَلِقٌ</ar>
          <free>Would that Zady were departing!</free>
+         <alt>Would that Zady were [the one] departing!</alt>
       </text>
       <igt>
          <t>
@@ -96,7 +97,7 @@
       <text>
          <ar>رَأَيْتُ عَبْدَ اللهِ مُنْطَلِقًا</ar>
          <free>I saw Abdallah departing</free>
-         <alt>I regarded Abdallah as departing</alt>
+         <alt>I regarded Abdallah [as] departing</alt>
       </text>
       <igt>
          <t>
@@ -134,7 +135,7 @@
       <text>
          <ar>مَرَرْتُ بِعَبْدِ اللهِ مُنْطَلِقًا</ar>
          <free>I passed by Abdullah departing</free>
-         <alt>I passed by Abdullah as he was departing</alt>
+         <alt>I passed by Abdullah [as he was] departing</alt>
       </text>
       <igt>
          <t>

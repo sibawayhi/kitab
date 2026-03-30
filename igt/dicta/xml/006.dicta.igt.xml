@@ -91,6 +91,8 @@
       <text>
          <ar>قَدْ زَيْدًا رَأَيْتُ</ar>
          <free>Have Zayd I seen</free>
+         <alt>for: <ar>قَدْ رَأَيْتُ زَيْدًا</ar>
+         "I have seen Zayd"</alt>
       </text>
       <igt>
          <t>
@@ -103,11 +105,14 @@
             <ar>رَأَيْتُ</ar>
          </t>
       </igt>
+      <comment>for: I have seen Zayd</comment>
    </dictum>
    <dictum id="٩٥٦٥٠" j="*">
       <text>
          <ar>كَيْ زَيْدٌ يَأْتِيَكَ</ar>
          <free>Zayd that come to you</free>
+         <alt>for: <ar>كَيْ يَأْتِيَكَ زَيْدٌ</ar>
+         "that Zayd come to you"</alt>
       </text>
       <igt>
          <t>
