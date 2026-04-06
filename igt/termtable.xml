@@ -45,6 +45,8 @@
 <!ENTITY dammatan "&#x064C;">
 <!ENTITY influn "ᵘⁿ">
 <!ENTITY influ "ᵘ">
+<!ENTITY inflw "ū">
+
 <!ENTITY dagger "ᴬ">            <!-- U+1D2C -->
 <!ENTITY fath "ᵃ">
 <!ENTITY inflan "ᵃⁿ">
@@ -601,6 +603,11 @@
   <xlit>rajul<inflan/></xlit><gloss><ed>a</ed>man</gloss></term>
   <term><key>رَجُلٍ</key> <xlitx>rᵃjᵘl<inflin/></xlitx>
   <xlit>rajul<inflin/></xlit><gloss><ed>a</ed>man</gloss></term>
+
+  <term><key>وَالرَّجُلَ</key> <xlitx>wᵃـl-r&shadda;ᵃjᵘl<infla/></xlitx>
+  <xlit>wa-ـr-rajul<infla/></xlit><gloss>and-the-man</gloss></term>
+  <term><key>الرَّجُلَ</key> <xlitx>ـl-r&shadda;ᵃjᵘl<infla/></xlitx>
+  <xlit>ـr-rajul<infla/></xlit><gloss>the-man</gloss></term>
   <term><key>الرَّجُلِ</key> <xlitx>ـl-r&shadda;ᵃjᵘl<infli/></xlitx>
   <xlit>ـr-rajul<infli/></xlit><gloss>the-man</gloss></term>
 
@@ -914,12 +921,23 @@
     <key>ضَاْرِبٍ</key> <xlitx>ḍᵃårᵢb<inflin/></xlitx>
     <xlit>ḍārib<inflin/></xlit><gloss>striking<inflin/></gloss> <parse>v31.perf</parse>
   </term>
-  <term>
-    <key>الضَّاْرِبَ</key> <xlit>_-ḍ²ᵃårᵢb<infla/></xlit> <gloss>the-<ed>one</ed>-striking</gloss></term>
 
-    <term><key>الضَّاْرِبُو</key> <xlitx>_-ḍ²ᵃårᵢb<influ/>w</xlitx>
+  <term>
+  <key>الضَّاْرِبَ</key> <xlit>_-ḍ²ᵃårᵢb<infla/></xlit> <gloss>the-<ed>one</ed>-striking</gloss></term>
+
+  <term>
+    <key>الضَّاْرِبَاْنِ</key> <xlitx>_-ḍ²ᵃårᵢbᵃåni</xlitx>
+    <xlit>_ḍ-ḍārib<inflA/>ni</xlit>
+  <gloss>the-<ed>one</ed>-striking</gloss></term>
+
+  <term><key>الضَّاْرِبُوْنَ</key> <xlitx>_-ḍ²ᵃårᵢb<influ/>wna</xlitx>
+    <xlit>_ḍ-ḍārib<inflw/>na</xlit>
+    <gloss>the-<ed>ones</ed>-striking</gloss>
+  </term>
+  <term><key>الضَّاْرِبُو</key> <xlitx>_-ḍ²ᵃårᵢb<influ/>w</xlitx>
     <xlit>_ḍ-ḍārib<influ/>ẘ</xlit>
-    <gloss>the-<ed>ones</ed>-striking</gloss></term>
+    <gloss>the-<ed>ones</ed>-striking</gloss>
+  </term>
 
   <term>
     <key>الضَّرْبُ</key> <xlit>_-ḍ²ᵃr°b<influ/></xlit> <gloss>the-striking<influ/></gloss>
@@ -1488,6 +1506,9 @@
 
   <term><key>هٰذَا</key> <xlitx>hᴬðᵃā</xlitx>
   <xlit>hāðă</xlit><gloss>this</gloss></term>
+  <term><key>هٰذَاْنِ</key> <xlitx>hᴬðᵃāni</xlitx>
+  <xlit>hāðāni</xlit><gloss>this</gloss></term>
+
   <term><key>بِهٰذِهِ</key> <xlitx>bᵢ-hᴬðᵢhᵢ</xlitx>
   <xlit>bi-hāðihi</xlit><gloss>by this[f]</gloss></term>
   <term><key>هٰذِهِ</key> <xlitx>hᴬðᵢhᵢ</xlitx>
@@ -1509,6 +1530,8 @@
 
   <term><key>وَجْهُ</key> <xlitx>wᵃjh<influ/></xlitx>
   <xlit>wajh<influ/></xlit><gloss>face</gloss></term>
+  <term><key>وَجْهٍ</key> <xlitx>wᵃjh<inflin/></xlitx>
+  <xlit>wajh<inflin/></xlit><gloss>face</gloss></term>
   <term><key>وَجْهِ</key> <xlitx>wᵃjh<infli/></xlitx>
   <xlit>wajh<infli/></xlit><gloss>face</gloss></term>
   <term><key>وَجْهًا</key> <xlitx>wᵃjh<inflan/>&A;</xlitx>
