@@ -935,40 +935,40 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٧٤٨٤٣">
-      <text>
-         <ar>مِائَةُ دِرْهَمٍ</ar>
-         <free>a hundred dirhams</free>
-         <alt>a hundred <ed>of a</ed> dirham</alt>
-      </text>
-      <igt>
-         <t>
-           <xlit>miɁat<influ/></xlit>
-            <ar>مِائَةُ</ar>
-            <en>one hundred</en>
-         </t>
-         <t>
-            <ar>دِرْهَمٍ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٠٢٨٥">
-      <text>
-         <ar>مِائَةُ الدِّرْهَمِ</ar>
-         <free>one hundred dirhams</free>
-         <alt><ed>the</ed> hundred <ed>of the</ed> dirham</alt>
-      </text>
-      <igt>
-         <t>
-           <xlit>miɁat<influ/></xlit>
-            <ar>مِائَةُ</ar>
-            <en>one hundred</en>
-         </t>
-         <t>
-            <ar>الدِّرْهَمِ</ar>
-         </t>
-      </igt>
-   </dictum>
+   <!-- <dictum id="٧٤٨٤٣"> -->
+   <!--    <text> -->
+   <!--       <ar>مِائَةُ دِرْهَمٍ</ar> -->
+   <!--       <free>a hundred dirhams</free> -->
+   <!--       <alt>a hundred <ed>of a</ed> dirham</alt> -->
+   <!--    </text> -->
+   <!--    <igt> -->
+   <!--       <t> -->
+   <!--         <xlit>miɁat<influ/></xlit> -->
+   <!--          <ar>مِائَةُ</ar> -->
+   <!--          <en>one hundred</en> -->
+   <!--       </t> -->
+   <!--       <t> -->
+   <!--          <ar>دِرْهَمٍ</ar> -->
+   <!--       </t> -->
+   <!--    </igt> -->
+   <!-- </dictum> -->
+   <!-- <dictum id="٢٠٢٨٥"> -->
+   <!--    <text> -->
+   <!--       <ar>مِائَةُ الدِّرْهَمِ</ar> -->
+   <!--       <free>one hundred dirhams</free> -->
+   <!--       <alt><ed>the</ed> hundred <ed>of the</ed> dirham</alt> -->
+   <!--    </text> -->
+   <!--    <igt> -->
+   <!--       <t> -->
+   <!--         <xlit>miɁat<influ/></xlit> -->
+   <!--          <ar>مِائَةُ</ar> -->
+   <!--          <en>one hundred</en> -->
+   <!--       </t> -->
+   <!--       <t> -->
+   <!--          <ar>الدِّرْهَمِ</ar> -->
+   <!--       </t> -->
+   <!--    </igt> -->
+   <!-- </dictum> -->
    <dictum id="٢٦٦٨٥">
       <text>
          <ar>مِائَتَا دِرْهَمٍ</ar>

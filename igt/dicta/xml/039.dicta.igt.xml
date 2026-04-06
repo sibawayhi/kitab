@@ -2,15 +2,16 @@
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="039">
    <dictum id="١٧٩٥٩">
       <text>
-         <ar>هٰذَا الضَّارِبُ زَيْدًا</ar>
-         <free/>
+         <ar>هٰذَا الضَّاْرِبُ زَيْدًا</ar>
+         <free>This <ed>is</ed> the <ed>one who</ed>
+         struck[nom] Zayd[acc]</free>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>الضَّارِبُ</ar>
+            <ar>الضَّاْرِبُ</ar>
          </t>
          <t>
             <ar>زَيْدًا</ar>
@@ -20,7 +21,8 @@
    <dictum id="٤٨٨٥٢">
       <text>
          <ar>هٰذَا الَّذِي ضَرَبَ زَيْدًا</ar>
-         <free/>
+         <free>This <ed>is</ed> the one,
+          <ed>who he</ed> struck Zayd[acc]</free>
       </text>
       <igt>
          <t>
@@ -39,15 +41,15 @@
    </dictum>
    <dictum id="١٣١٩٤">
       <text>
-         <ar>هٰذَا الضَّارِبُ الرَّجُلَ</ar>
-         <free/>
+         <ar>هٰذَا الضَّاْرِبُ الرَّجُلَ</ar>
+         <free>This <ed>is</ed> the <ed>one who</ed> struck[nom] the man[acc]</free>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>الضَّارِبُ</ar>
+            <ar>الضَّاْرِبُ</ar>
          </t>
          <t>
             <ar>الرَّجُلَ</ar>
@@ -56,15 +58,16 @@
    </dictum>
    <dictum id="٧٧١٤١">
       <text>
-         <ar>هٰذَا الضَّارِبُ الرَّجُلِ</ar>
-         <free/>
+         <ar>هٰذَا الضَّاْرِبُ الرَّجُلِ</ar>
+         <free>This <ed>is</ed> the <ed>one who</ed> struck[nom] the man[gen]</free>
+         <alt>This is the striker[perf] <ed>of</ed> the man</alt>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>الضَّارِبُ</ar>
+            <ar>الضَّاْرِبُ</ar>
          </t>
          <t>
             <ar>الرَّجُلِ</ar>
@@ -73,15 +76,16 @@
    </dictum>
    <dictum id="٢٦٧٥٧">
       <text>
-         <ar>هُوَ الضَّارِبُ زَيْدًا وَالرَّجُلَ</ar>
-         <free/>
+         <ar>هُوَ الضَّاْرِبُ زَيْدًا وَالرَّجُلَ</ar>
+         <free>He <ed>is the one who</ed> struck
+         Zayd[acc] and the man[acc]</free>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
          <t>
-            <ar>الضَّارِبُ</ar>
+            <ar>الضَّاْرِبُ</ar>
          </t>
          <t>
             <ar>زَيْدًا</ar>
@@ -91,27 +95,29 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٥٢٥١٤">
+   <dictum id="٥٢٥١٤" j="*">
       <text>
-         <ar>هُوَ الضَّارِبُ عَمْرٍو</ar>
-         <free/>
+         <ar>هُوَ الضَّاْرِبُ عَمْرٍو</ar>
+         <free>He <ed>is</ed> the <ed>one who</ed>
+         struck Amr[gen]</free>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
          <t>
-            <ar>الضَّارِبُ</ar>
+            <ar>الضَّاْرِبُ</ar>
          </t>
          <t>
             <ar>عَمْرٍو</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٧١٢٤٢">
+   <dictum id="٧١٢٤٢" j="*">
       <text>
          <ar>هُوَ الْحَسَنُ وَجْهٍ</ar>
-         <free/>
+         <free>He <ed>is</ed> the <ed>one who is</ed>
+         beautiful <ed>of some</ed> face[gen.indef]</free>
       </text>
       <igt>
          <t>
@@ -128,7 +134,8 @@
    <dictum id="٦٧٣٤٠">
       <text>
          <ar>هٰذَا الضَّاْرِبُ الرَّجُلِ</ar>
-         <free/>
+         <free>This <ed>is</ed> the <ed>one who</ed>
+         struck the man[gen.def]</free>
       </text>
       <igt>
          <t>
@@ -144,31 +151,30 @@
    </dictum>
    <dictum id="٨٨٩٥٥">
       <text>
-         <ar>هُوَ الضَّارِبُ الرَّجُلِ وَعَبْدِ اللّٰهِ</ar>
-         <free/>
+         <ar>هُوَ الضَّاْرِبُ الرَّجُلِ وَعَبْدِ اللهِ</ar>
+         <free>He <ed>is</ed> the <ed>one who</ed>
+         struck the man[gen] and Abdillha[gen]</free>
       </text>
       <igt>
          <t>
             <ar>هُوَ</ar>
          </t>
          <t>
-            <ar>الضَّارِبُ</ar>
+            <ar>الضَّاْرِبُ</ar>
          </t>
          <t>
             <ar>الرَّجُلِ</ar>
          </t>
          <t>
-            <ar>وَعَبْدِ</ar>
-         </t>
-         <t>
-            <ar>اللّٰهِ</ar>
+            <ar>وَعَبْدِ اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="١٥٧٨٩">
       <text>
          <ar>هٰذَاْنِ الضَّاْرِبَاْنِ زَيْدًا</ar>
-         <free/>
+         <free>These[2] <ed>are</ed> the <ed>ones[2.nom] who</ed>
+         struck Zayd[acc]</free>
       </text>
       <igt>
          <t>
@@ -185,7 +191,8 @@
    <dictum id="٠٢٦٧٩">
       <text>
          <ar>هٰؤُلَاءِ الضَّاْرِبُوْنَ الرَّجُلَ</ar>
-         <free/>
+         <free>These <ed>are</ed> the <ed>ones[pl.nom] who</ed>
+         struck the man[acc]</free>
       </text>
       <igt>
          <t>
@@ -202,7 +209,8 @@
    <dictum id="١٤٥٧١">
       <text>
          <ar>هُمَا الضَاْرِبَا زَيْدٍ</ar>
-         <free/>
+         <free>They[2] <ed>are</ed> the <ed>ones who</ed>
+         struck[2.nom] Zayd[gen]</free>
       </text>
       <igt>
          <t>
@@ -210,6 +218,8 @@
          </t>
          <t>
             <ar>الضَاْرِبَا</ar>
+            <xlit>_ḍ-ḍāribā</xlit>
+            <en>the ones who struck[2]</en>
          </t>
          <t>
             <ar>زَيْدٍ</ar>
@@ -220,7 +230,8 @@
       <text>
          <ar>
             <ed>هُمُ</ed> الضَاْرْبُو عَمْرٍو</ar>
-         <free/>
+            <free><ed>They are</ed> the <ed>ones who</ed>
+            struck[pl.nom] Amr[gen]</free>
       </text>
       <igt>
          <t ed="1">
@@ -228,6 +239,8 @@
          </t>
          <t>
             <ar>الضَاْرْبُو</ar>
+            <xlit>_ḍ-ḍāribū</xlit>
+            <en>the ones who struck</en>
          </t>
          <t>
             <ar>عَمْرٍو</ar>
@@ -237,7 +250,8 @@
    <dictum id="٠٤٤٢١">
       <text>
          <ar>هُمُ الضَّاْرِبُوْكَ</ar>
-         <free/>
+         <free>They <ed>are the ones who</ed>
+         struck[nom] you[gen/acc]</free>
       </text>
       <igt>
          <t>
@@ -245,65 +259,74 @@
          </t>
          <t>
             <ar>الضَّاْرِبُوْكَ</ar>
+            <xlit>_ḍ-ḍārib<inflw/>-ka</xlit>
+            <en>the ones who struck you</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٥٤٢٢١">
       <text>
-         <ar>هُمَا الضَّارِبَاْكَ</ar>
-         <free/>
+         <ar>هُمَا الضَّاْرِبَاْكَ</ar>
+         <free>They[2] <ed>are the ones[2] who</ed>
+         struck[2.nom] you[gen/acc]</free>
       </text>
       <igt>
          <t>
             <ar>هُمَا</ar>
          </t>
          <t>
-            <ar>الضَّارِبَاْكَ</ar>
+            <ar>الضَّاْرِبَاْكَ</ar>
+            <xlit>_ḍ-ḍārib<inflA/>-ka</xlit>
+            <en>the ones[2] who struck[2] you</en>
          </t>
       </igt>
    </dictum>
-   <dictum id="٩٠٦٠١">
-      <text>
-         <ar>الْحَاْفِظُو عَوْرَةَ الْعَشِيرَةِ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>الْحَاْفِظُو</ar>
-         </t>
-         <t>
-            <ar>عَوْرَةَ</ar>
-         </t>
-         <t>
-            <ar>الْعَشِيرَةِ</ar>
-         </t>
-      </igt>
-   </dictum>
+   <!-- <dictum id="٩٠٦٠١"> -->
+   <!--    <text> -->
+   <!--       <ar>الْحَاْفِظُو عَوْرَةَ الْعَشِيرَةِ</ar> -->
+   <!--       <free/> -->
+   <!--    </text> -->
+   <!--    <igt> -->
+   <!--       <t> -->
+   <!--          <ar>الْحَاْفِظُو</ar> -->
+   <!--       </t> -->
+   <!--       <t> -->
+   <!--          <ar>عَوْرَةَ</ar> -->
+   <!--       </t> -->
+   <!--       <t> -->
+   <!--          <ar>الْعَشِيرَةِ</ar> -->
+   <!--       </t> -->
+   <!--    </igt> -->
+   <!-- </dictum> -->
    <dictum id="٠٤٣٢٥">
       <text>
-         <ar>هُمْ ضَاْرِبُوْكَ</ar>
-         <free/>
+         <ar>هُمُ ضَاْرِبُوْكَ</ar>
+         <free>They <ed>are</ed> strikers[nom] of you</free>
       </text>
       <igt>
          <t>
-            <ar>هُمْ</ar>
+            <ar>هُمُ</ar>
          </t>
          <t>
             <ar>ضَاْرِبُوْكَ</ar>
+            <xlit>ḍārib<inflw/>-ka</xlit>
+            <en>strikers of you</en>
          </t>
       </igt>
    </dictum>
-   <dictum id="٣٠٢٥٧">
+   <dictum id="٣٠٢٥٧" j="*">
       <text>
-         <ar>هُمْ ضَارِبُو زَيْدًا</ar>
-         <free/>
+         <ar>هُمُ ضَاْرِبُو زَيْدًا</ar>
+         <free>They[2] striking[nom] Zayd[acc]</free>
       </text>
       <igt>
          <t>
-            <ar>هُمْ</ar>
+            <ar>هُمُ</ar>
          </t>
          <t>
-            <ar>ضَارِبُو</ar>
+            <ar>ضَاْرِبُو</ar>
+            <xlit>ḍārib<inflw/></xlit>
+            <en>striking</en>
          </t>
          <t>
             <ar>زَيْدًا</ar>
