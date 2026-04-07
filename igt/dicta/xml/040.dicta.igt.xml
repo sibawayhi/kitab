@@ -3,7 +3,10 @@
    <dictum id="٥٦١١٠">
       <text>
          <ar>عَجِبْتُ مِنْ ضَرْبٍ زَيْدًا</ar>
-         <free/>
+         <free>I was surprised by a striking of Zayd</free>
+         <alt>I was surprised by (someone's) striking Zayd</alt>
+         <alt>I was surprised from (a) striking[gen]
+         Zayd[acc]</alt>
       </text>
       <igt>
          <t>
@@ -23,7 +26,9 @@
    <dictum id="٩٧٤٤٢">
       <text>
          <ar>عَجِبْتُ مِنْ ضَرْبٍ زَيْدًا بَكْرٌ</ar>
-         <free/>
+         <free>I was surprised by Bakr's striking Zayd</free>
+         <alt>I was surprised from (a) striking[gen]
+         (of) Zayd[acc] (by) Bakr[nom]</alt>
       </text>
       <igt>
          <t>
@@ -40,13 +45,17 @@
          </t>
          <t>
             <ar>بَكْرٌ</ar>
+            <xlit>Bakr<influn/></xlit>
+            <en>Bakr</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٣١٥٢٠">
       <text>
          <ar>مِنْ ضَرْبٍ زَيْدٌ عَمْرًا</ar>
-         <free/>
+         <free>by Zayd's striking Amr</free>
+         <alt>from (a) striking[gen] (by) Zayd[nom]
+         (of) Amr[acc]</alt>
       </text>
       <igt>
          <t>
@@ -66,7 +75,10 @@
    <dictum id="٦٢٨٦٤">
       <text>
          <ar>عَجِبْتُ مِنْ أَنَّهُ يَضْرِبُ زَيْدٌ عَمْرًا</ar>
-         <free/>
+         <free>I was surprised that Zayd is striking Amr</free>
+         <alt>I was surprised by that
+         it <ed>is the case that</ed>
+         Zayd[nom] is striking Amr[acc]</alt>
       </text>
       <igt>
          <t>
@@ -119,7 +131,9 @@
    <dictum id="١٥٩٨٥">
       <text>
          <ar>هٰذَا ضَاْرِبٌ</ar>
-         <free/>
+         <free>This one is striking</free>
+         <alt>This one will strike</alt>
+         <alt>This one <ed>is a</ed> striker</alt>
       </text>
       <igt>
          <t>
@@ -133,7 +147,8 @@
    <dictum id="٢٨٦٣٣">
       <text>
          <ar>عَجِبْتُ مِنْ ضَرْبٍ</ar>
-         <free/>
+         <free>I was surprised by a striking</free>
+         <alt>I was surprised from a striking[gen]</alt>
       </text>
       <igt>
          <t>
@@ -149,15 +164,16 @@
    </dictum>
    <dictum id="٠١٣٥٨">
       <text>
-         <ar>هٰذَا ضَاْربٌ زَيْدًا</ar>
-         <free/>
+         <ar>هٰذَا ضَاْرِبٌ زَيْدًا</ar>
+         <free>This one strikes Zayd</free>
+         <alt>This one <ed>is</ed> striking[nom] Zayd[acc]</alt>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>ضَاْربٌ</ar>
+            <ar>ضَاْرِبٌ</ar>
          </t>
          <t>
             <ar>زَيْدًا</ar>
@@ -166,49 +182,8 @@
    </dictum>
    <dictum id="٠١٠٦٥">
       <text>
-         <ar>عَجَبِتُ مِنْ ضَرْبِهِ زَيْدًا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>عَجَبِتُ</ar>
-         </t>
-         <t>
-            <ar>مِنْ</ar>
-         </t>
-         <t>
-            <ar>ضَرْبِهِ</ar>
-         </t>
-         <t>
-            <ar>زَيْدًا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٩٩٥٢">
-      <text>
-         <ar>
-            <ed>عَجَبِتُ</ed> مِنْ ضَرْبِهِ زَيْدٌ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t ed="1">
-            <ar>عَجَبِتُ</ar>
-         </t>
-         <t>
-            <ar>مِنْ</ar>
-         </t>
-         <t>
-            <ar>ضَرْبِهِ</ar>
-         </t>
-         <t>
-            <ar>زَيْدٌ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٨٥٤٦">
-      <text>
-         <ar>عَجِبْتُ مِنْ كِسْوَةٍ زَيْدٍ أَبُوْهُ</ar>
-         <free/>
+         <ar>عَجِبْتُ مِنْ ضَرْبِهِ زَيْدًا</ar>
+         <free>I was surprized by his striking Zayd</free>
       </text>
       <igt>
          <t>
@@ -218,7 +193,52 @@
             <ar>مِنْ</ar>
          </t>
          <t>
-            <ar>كِسْوَةٍ</ar>
+            <ar>ضَرْبِهِ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
+   <!-- <dictum id="٩٩٩٥٢"> -->
+   <!--    <text> -->
+   <!--       <ar> -->
+   <!--          <ed>عَجَبِتُ</ed> مِنْ ضَرْبِهِ زَيْدٌ</ar> -->
+   <!--       <free/> -->
+   <!--    </text> -->
+   <!--    <igt> -->
+   <!--       <t ed="1"> -->
+   <!--          <ar>عَجَبِتُ</ar> -->
+   <!--       </t> -->
+   <!--       <t> -->
+   <!--          <ar>مِنْ</ar> -->
+   <!--       </t> -->
+   <!--       <t> -->
+   <!--          <ar>ضَرْبِهِ</ar> -->
+   <!--       </t> -->
+   <!--       <t> -->
+   <!--          <ar>زَيْدٌ</ar> -->
+   <!--       </t> -->
+   <!--    </igt> -->
+   <!-- </dictum> -->
+
+   <dictum id="٢٨٥٤٦">
+      <text>
+         <ar>عَجِبْتُ مِنْ كِسْوَةِ زَيْدٍ أَبُوْهُ</ar>
+         <free>I was surprized by his father's
+         [style of] clothing Zayd</free>
+      </text>
+      <igt>
+         <t>
+            <ar>عَجِبْتُ</ar>
+         </t>
+         <t>
+            <ar>مِنْ</ar>
+         </t>
+         <t>
+            <ar>كِسْوَةِ</ar>
+            <xlit>kiswat<infli/></xlit>
+            <en>(style of) clothing</en>
          </t>
          <t>
             <ar>زَيْدٍ</ar>
@@ -231,7 +251,8 @@
    <dictum id="٣٩٧٢٦">
       <text>
          <ar>عَجِبْتُ مِنْ كِسْوَةِ زَيْدٍ أَبَاْهُ</ar>
-         <free/>
+         <free>I was surprized by Zayd's
+         [style of] clothing his father</free>
       </text>
       <igt>
          <t>
@@ -242,6 +263,8 @@
          </t>
          <t>
             <ar>كِسْوَةِ</ar>
+            <xlit>kiswat<infli/></xlit>
+            <en>(style of) clothing</en>
          </t>
          <t>
             <ar>زَيْدٍ</ar>
@@ -400,7 +423,7 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٢١٣٦">
+   <dictum id="٨٢١٣٦" j="*">
       <text>
          <ar>عَجِبْتُ لَهُ مِنَ الضَّرْبِ الرِّجْلِ</ar>
          <free/>
