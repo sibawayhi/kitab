@@ -86,11 +86,12 @@
   </term>
   <term>
     <key>أَبُوْهُ</key> <xlitx>&LCEIL;Ɂᵃb<influ/>ẘ-hᵘ&RCEIL;</xlitx>
-    <xlit>Ɂab<influ/>ẘ-hu</xlit>
+    <xlit>Ɂab<inflw/>-hu</xlit>
     <gloss>&LFLOOR;<ed>the</ed>father<influ/>-<ed>of</ed>him&RFLOOR;</gloss>
   </term>
   <term>
-    <key>أَبَاْهُ</key> <xlit>&LCEIL;Ɂᵃb<infla/>å-hᵘ&RCEIL;</xlit>
+    <key>أَبَاْهُ</key> <xlitx>&LCEIL;Ɂᵃb<infla/>å-hᵘ&RCEIL;</xlitx>
+    <xlit>Ɂab<inflA/>-hu</xlit>
     <gloss>&LFLOOR;<ed>the</ed>father<infla/>-<ed>of</ed>him&RFLOOR;</gloss></term>
   <term>
     <key>وَأَبَاْهُ</key> <xlitx>wᵃ-Ɂᵃb<infla/>å-hᵘ</xlitx>
@@ -221,8 +222,12 @@
   <xlit>ˀinna</xlit><gloss>indeed</gloss></term>
   <term><key>إِنَّكَ</key> <xlitx>Ɂᵢn²ᵃ-kᵃ</xlitx>
   <xlit>ˀinna-ka</xlit><gloss>indeed-you</gloss></term>
+
   <term><key>إِنَّهُ</key> <xlitx>Ɂᵢn²ᵃ-hᵘ</xlitx>
   <xlit>ˀinna-hu</xlit><gloss>indeed-he</gloss></term>
+  <term><key>أَنَّهُ</key> <xlitx>Ɂᵃn²ᵃ-hᵘ</xlitx>
+  <xlit>ˀanna-hu</xlit><gloss>that-he</gloss></term>
+
   <term><key>إِنَّمَا</key> <xlitx>Ɂᵢn&shadda;ᵃmᵃā</xlitx>
   <xlit>ˀinnamā</xlit><gloss>&LFLOOR;in fact&RFLOOR;</gloss></term>
 
@@ -942,14 +947,23 @@
   <term>
     <key>الضَّرْبُ</key> <xlit>_-ḍ²ᵃr°b<influ/></xlit> <gloss>the-striking<influ/></gloss>
   </term>
-  <term>
-    <key>ضَرْبٌ</key> <xlitx>ḍᵃr°b<influn/></xlitx>
+
+  <term><key>ضَرْبِهِ</key> <xlitx>ḍᵃr°b<infli/>-hᵢ</xlitx>
+    <xlit>ḍarb<infli/>-hi</xlit>
+    <gloss>his-striking<influ/></gloss>
+  </term>
+  <term><key>ضَرْبٌ</key> <xlitx>ḍᵃr°b<influn/></xlitx>
     <xlit>ḍarb<influn/></xlit>
     <gloss><ed>a</ed> striking<influ/></gloss>
   </term>
+
   <term>
     <key>ضَرْبًا</key> <xlitx>ḍᵃr°b<inflan/></xlitx>
     <xlit>ḍarb<inflan/></xlit>
+    <gloss><ed>a</ed> striking<influ/></gloss>
+  </term>
+  <term><key>ضَرْبٍ</key> <xlitx>ḍᵃr°b<inflin/></xlitx>
+    <xlit>ḍarb<inflin/></xlit>
     <gloss><ed>a</ed> striking<influ/></gloss>
   </term>
   <term><key>ضَرَبَ</key> <xlitx>ḍᵃrᵃbᵃ</xlitx>
@@ -989,6 +1003,10 @@
   <!-- harf ع -->
   <term><key>عَرَبِيٌّ</key> <xlit>ʕᵃrᵃbᵢy&shadda;<influn/></xlit>
   <gloss><ed>an</ed>Arab<influn/></gloss></term>
+
+  <term><key>عَجِبْتُ</key> <xlitx>ʕᵃjᵢb°-tᵘ</xlitx>
+  <xlit>ʕajib-tu</xlit> <gloss>was-astonished-I</gloss>
+  </term>
 
   <term><key>عَرَفْتُ</key> <xlit>ʕᵃrᵃf°-tᵘ</xlit> <gloss>recognized-I</gloss></term>
   <term><key>عَلَى</key> <xlitx>ʕᵃlᵃʎ</xlitx>
