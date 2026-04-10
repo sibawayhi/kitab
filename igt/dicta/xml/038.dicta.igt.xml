@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="038">
+   <dictum id="٤٠٨٧٢">
+      <text>
+         <ar>يَا سَاْرِقَ اللَّيْلَةِ أَهْلَ الدَّاْرِ</ar>
+         <free>O <ed>you</ed>-robbing[acc] <ed>of</ed> the night[gen]
+         <ed>the</ed> folk[acc]
+         <ed>of</ed> the house[gen]</free>
+      </text>
+      <igt>
+         <t>
+            <ar>يَا</ar>
+         </t>
+         <t>
+            <ar>سَاْرِقَ</ar>
+            <xlit>sāriq<infla/></xlit>
+            <en>robber</en>
+         </t>
+         <t>
+            <ar>اللَّيْلَةِ</ar>
+         </t>
+         <t>
+            <ar>أَهْلَ</ar>
+         </t>
+         <t>
+            <ar>الدَّاْرِ</ar>
+         </t>
+      </igt>
+   </dictum>
    <dictum id="٥٨٠٢٢">
       <text>
-         <ar>سَرَقْتُ اللَّيْلَةَ أَهْلَ الدَّارِ</ar>
-         <free/>
+         <ar>سَرَقْتُ اللَّيْلَةَ أَهْلَ الدَّاْرِ</ar>
+         <free>I robbed the night[acc] the folk[acc]
+         of the house[gen]</free>
+         <alt>I robbed tonight[acc] the folk[acc]
+         of the house[gen]</alt>
       </text>
       <igt>
          <t>
             <ar>سَرَقْتُ</ar>
+            <xlit>saraq-tu</xlit>
+            <en>I roobed</en>
          </t>
          <t>
             <ar>اللَّيْلَةَ</ar>
@@ -16,14 +48,15 @@
             <ar>أَهْلَ</ar>
          </t>
          <t>
-            <ar>الدَّارِ</ar>
+            <ar>الدَّاْرِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٤٦٧٦٧">
       <text>
          <ar>صِيْدَ عَلَيْهِ يَوْمَاْنِ</ar>
-         <free/>
+         <free>Two days[nom] were-hunted upon-it</free>
+         <alt><ed>It</ed> was-hunted upon it for two days</alt>
       </text>
       <igt>
          <t>
@@ -33,34 +66,55 @@
             <ar>عَلَيْهِ</ar>
          </t>
          <t>
-            <ar>يَوْمَاْنِ</ar>
+           <ar>يَوْمَاْنِ</ar>
+           <xlit>yawmāni</xlit>
+           <en>two-days</en>
          </t>
       </igt>
+      <sidecomment>
+        “Upon-it”: on a road, or possibly on a mount?
+        Days are not literally hunted, so this is figurative
+        language.
+      </sidecomment>
    </dictum>
    <dictum id="٠٩٣٣٨">
       <text>
          <ar>وُلِدَ لَهُ سِتُّوْنَ عَاْمًا</ar>
-         <free/>
+         <free>Sixty[nom] were born to him in years[acc]</free>
+         <alt>He is sixty years old</alt>
       </text>
       <igt>
          <t>
             <ar>وُلِدَ</ar>
+            <xlit>wulida</xlit>
+            <en>was-born</en>
          </t>
          <t>
             <ar>لَهُ</ar>
          </t>
          <t>
-            <ar>سِتُّوْنَ</ar>
+           <ar>سِتُّوْنَ</ar>
+           <xlit>sitt<inflw/>na</xlit>
+           <en>sixty</en>
          </t>
          <t>
             <ar>عَاْمًا</ar>
          </t>
       </igt>
+      <sidecomment>
+        A metaphor, since years are not literally born.
+        Here <ar>عَاْمًا</ar> is responsive to the question
+        “sixty of what kind?” just as <ar>دِرْهَمًا</ar>
+        in <ar>عِشْرُوْنَ دِرْهَمًا</ar> “twenty dirhams”
+        answers “twenty of what kind?”
+      </sidecomment>
    </dictum>
    <dictum id="٧٧٢٥٨">
       <text>
          <ar>هٰذَا مُعْطِي زَيْدٍ دِرْهَمًا</ar>
-         <free/>
+         <free>This one gave Zayd a dirham</free>
+         <alt>This <ed>is a</ed> giver <ed>of</ed> Zayd[gen]
+         <ed>a</ed> dirham[acc]</alt>
       </text>
       <igt>
          <t>
@@ -80,7 +134,7 @@
    <dictum id="٤٧٩٦٢">
       <text>
          <ar>صِيْدَ عَلَيْهِ فِي الْيَوْمَيْنِ</ar>
-         <free/>
+         <free><ed>It</ed> was-hunted upon-it in two-days</free>
       </text>
       <igt>
          <t>
@@ -94,13 +148,15 @@
          </t>
          <t>
             <ar>الْيَوْمَيْنِ</ar>
+           <xlit>_l-yawmayni</xlit>
+           <en>two-days</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٤١٥١٩">
       <text>
          <ar>هٰذَا مُخْرِجُ الْيَوْمِ الدِّرْهَمَ</ar>
-         <free/>
+         <free>This <ed>one</ed> produces today the dirham</free>
       </text>
       <igt>
          <t>
@@ -108,6 +164,8 @@
          </t>
          <t>
             <ar>مُخْرِجُ</ar>
+            <xlit>muxrij<influ/></xlit>
+            <en>producer</en>
          </t>
          <t>
             <ar>الْيَوْمِ</ar>
@@ -119,9 +177,9 @@
    </dictum>
    <dictum id="١٦٤٨٢">
       <text>
-         <ar>
-            <ed>هٰذَا</ed> صَائِدُ الْيَوْمِ الْوَحْشَ</ar>
-         <free/>
+         <ar>صَائِدُ الْيَوْمِ الْوَحْشَ</ar>
+         <free>hunting the beast today</free>
+         <alt>hunter <ed>of</ed> the day[gen] the beast[acc]</alt>
       </text>
       <igt>
          <t ed="1">
@@ -129,19 +187,26 @@
          </t>
          <t>
             <ar>صَائِدُ</ar>
+            <xlit>ṣāɁid<influ/></xlit>
+            <en>hunter</en>
          </t>
          <t>
             <ar>الْيَوْمِ</ar>
          </t>
          <t>
-            <ar>الْوَحْشَ</ar>
+           <ar>الْوَحْشَ</ar>
+           <xlit>_l-waḥš<infla/></xlit>
+           <en>the beast</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٤٩٢٤١">
       <text>
          <ar>يَا سَاْرِقًا اللَّيْلَةَ أَهْلَ الدَّاْرِ</ar>
-         <free/>
+         <free>O <ed>you</ed>-robbing[acc.indef]
+         the night[acc]
+         <ed>the</ed> folk[acc]
+         <ed>of</ed> the house[gen]</free>
       </text>
       <igt>
          <t>
@@ -163,17 +228,20 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٢٢٨٦٣">
+   <dictum id="٢٢٨٦٣" j="*">
       <text>
-         <ar>يَا سَارِقَ اللَّيْلَةَ أَهْلِ الدَّارِ</ar>
-         <free/>
+         <ar>يَا سَاْرِقَ اللَّيْلَةَ أَهْلِ الدَّاْرِ</ar>
+         <free>O <ed>you</ed>-robbing[acc]
+         the night[acc]
+         <ed>of the</ed> folk[gen]
+         <ed>of</ed> the house[gen]</free>
       </text>
       <igt>
          <t>
             <ar>يَا</ar>
          </t>
          <t>
-            <ar>سَارِقَ</ar>
+            <ar>سَاْرِقَ</ar>
             <xlit>sāriq<infla/></xlit>
             <en>robber</en>
          </t>
@@ -184,14 +252,17 @@
             <ar>أَهْلِ</ar>
          </t>
          <t>
-            <ar>الدَّارِ</ar>
+            <ar>الدَّاْرِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٨٤٦٢٥">
       <text>
          <ar>يَا سَاْرِقَ اللَّيْلَةَ أَهْلِ الدَّارِ</ar>
-         <free/>
+         <free>O <ed>you</ed>-robbing[acc]
+         the night[acc]
+         <ed>of the</ed> folk[gen]
+         <ed>of</ed> the house[gen]</free>
       </text>
       <igt>
          <t>
@@ -215,31 +286,41 @@
    </dictum>
    <dictum id="١٠٩٢٢">
       <text>
-         <ar>ثَمَاْنِيَ حِجَجٍ حَجَجْتُهُنَّ بَيْتَ اللّٰهِ</ar>
-         <free/>
+         <ar>ثَمَاْنِيَ حِجَجٍ حَجَجْتُهُنَّ بَيْتَ اللهِ</ar>
+         <free>Eight pilgrimages, I pilgrimaged them
+         <ed>to the</ed> house[acc] of God</free>
       </text>
       <igt>
          <t>
-            <ar>ثَمَاْنِيَ</ar>
+           <ar>ثَمَاْنِيَ</ar>
+           <xlit>θamāniya</xlit>
+           <en>eight</en>
          </t>
          <t>
-            <ar>حِجَجٍ</ar>
+           <ar>حِجَجٍ</ar>
+           <xlit>ḥijaj<inflin/></xlit>
+           <en>Hajj (pilgrimage)</en>
          </t>
          <t>
-            <ar>حَجَجْتُهُنَّ</ar>
+           <ar>حَجَجْتُهُنَّ</ar>
+           <xlit>ḥajaj-tu-hunna</xlit>
+           <en>I pilgrimaged them</en>
          </t>
          <t>
             <ar>بَيْتَ</ar>
+            <xlit>bayt<infla/></xlit>
+            <en>house</en>
          </t>
          <t>
-            <ar>اللّٰهِ</ar>
+            <ar>اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٨٣٤٣٤">
       <text>
          <ar>مَرَرْتُ بِخَيْرِ وَأَفَضَلِ مَنْ ثَمَّ</ar>
-         <free/>
+         <free>I passed by <ed>someone</ed> more-excellent[gen]
+         and more-virtuous[gen] than whomever is there</free>
       </text>
       <igt>
          <t>
@@ -250,6 +331,7 @@
          </t>
          <t>
             <ar>وَأَفَضَلِ</ar>
+            <xlit>Ɂafḍal<infli/></xlit>
          </t>
          <t>
             <ar>مَنْ</ar>
@@ -262,75 +344,100 @@
    <dictum id="١٥٩٠٨">
       <text>
          <ar>أُدْخِلَ فُوْهُ الْحَجَرَ</ar>
-         <free/>
+         <free>was-entered, his mouth[nom], the stone[acc]</free>
       </text>
       <igt>
-         <t>
-            <ar>أُدْخِلَ</ar>
-         </t>
-         <t>
-            <ar>فُوْهُ</ar>
-         </t>
-         <t>
-            <ar>الْحَجَرَ</ar>
-         </t>
+        <t>
+          <ar>أُدْخِلَ</ar>
+          <xlit>Ɂudxila</xlit>
+          <en>was-entered</en>
+        </t>
+        <t>
+          <ar>فُوْهُ</ar>
+          <xlit>f<inflw/>-hu</xlit>
+          <en>his/its mouth[nom]</en>
+        </t>
+        <t>
+          <ar>الْحَجَرَ</ar>
+          <xlit>_l-ḥajar<infla/></xlit>
+          <en>the stone</en>
+        </t>
       </igt>
    </dictum>
    <dictum id="١٣٩٢٢">
-      <text>
-         <ar>أُدْخِلَ فَاْهُ الْحَجَرُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>أُدْخِلَ</ar>
-         </t>
-         <t>
-            <ar>فَاْهُ</ar>
-         </t>
-         <t>
-            <ar>الْحَجَرُ</ar>
-         </t>
-      </igt>
+     <text>
+       <ar>أُدْخِلَ فَاْهُ الْحَجَرُ</ar>
+       <free>was-entered, <ed>in</ed> his mouth[acc], the stone[nom]</free>
+     </text>
+     <igt>
+       <t>
+         <ar>أُدْخِلَ</ar>
+         <xlit>Ɂudxila</xlit>
+         <en>was-entered</en>
+       </t>
+       <t>
+         <ar>فَاْهُ</ar>
+         <xlit>f<inflA/>-hu</xlit>
+         <en>his/its mouth[acc]</en>
+       </t>
+       <t>
+         <ar>الْحَجَرُ</ar>
+         <xlit>_l-ḥajar<influ/></xlit>
+         <en>the stone</en>
+       </t>
+     </igt>
    </dictum>
    <dictum id="٠٧٥٩٨">
       <text>
-         <ar>أَدْخَلْتُ في رَأْسِي الْقَلَنْسُوَةَ</ar>
-         <free/>
+         <ar>أَدْخَلْتُ فِي رَأْسِي الْقَلَنْسُوَةَ</ar>
+         <free>I put the cap in my head</free>
+         <alt>I made the cap enter in my head</alt>
       </text>
       <igt>
          <t>
             <ar>أَدْخَلْتُ</ar>
+            <xlit>Ɂadxal-tu</xlit>
+            <en>I made-to-enter</en>
          </t>
          <t>
-            <ar>في</ar>
+            <ar>فِي</ar>
          </t>
          <t>
-            <ar>رَأْسِي</ar>
+           <ar>رَأْسِي</ar>
+           <xlit>raɁsī</xlit>
+           <en>my-head</en>
          </t>
          <t>
-            <ar>الْقَلَنْسُوَةَ</ar>
+           <ar>الْقَلَنْسُوَةَ</ar>
+           <xlit>_l-qalansuwat<infla/></xlit>
+           <en>cap</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٢٩٧٢١">
-      <text>
-         <ar>أَدْخَلْتُ في الْقَلَنْسُوَةِ رَأْسِي</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>أَدْخَلْتُ</ar>
-         </t>
-         <t>
-            <ar>في</ar>
-         </t>
-         <t>
-            <ar>الْقَلَنْسُوَةِ</ar>
-         </t>
-         <t>
-            <ar>رَأْسِي</ar>
-         </t>
+     <text>
+       <ar>أَدْخَلْتُ فِي الْقَلَنْسُوَةِ رَأْسِي</ar>
+       <free>I put in the cap my head</free>
+     </text>
+     <igt>
+       <t>
+         <ar>أَدْخَلْتُ</ar>
+         <xlit>Ɂadxal-tu</xlit>
+         <en>I made-to-enter</en>
+       </t>
+       <t>
+         <ar>فِي</ar>
+       </t>
+       <t>
+         <ar>الْقَلَنْسُوَةِ</ar>
+         <xlit>_l-qalansuwat<infla/></xlit>
+         <en>cap</en>
+       </t>
+       <t>
+         <ar>رَأْسِي</ar>
+         <xlit>raɁsī</xlit>
+         <en>my-head</en>
+       </t>
       </igt>
    </dictum>
 </dicta>
