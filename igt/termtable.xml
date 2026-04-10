@@ -270,6 +270,13 @@
   <term><key>أَوَّلُ</key> <xlitx>Ɂᵃw&shadda;ᵃl<influ/></xlitx>
   <xlit>Ɂawwal<influ/></xlit><gloss>first</gloss></term>
 
+  <term><key>أَهْلَ</key> <xlitx>Ɂᵃh°l<infla/></xlitx>
+  <xlit>Ɂahl<infla/></xlit>
+  <gloss>folk</gloss></term>
+  <term><key>أَهْلِ</key> <xlitx>Ɂᵃh°l<infli/></xlitx>
+  <xlit>Ɂahl<infli/></xlit>
+  <gloss>folk</gloss></term>
+
   <!-- harf ب -->
   <term><key>بِكَ</key> <xlit>bᵢ-kᵃ</xlit> <gloss>by-you</gloss> <parse>prep-pro3sg</parse></term>
 
@@ -332,6 +339,11 @@
   <term><key>وَتَبًّا</key> <xlitx>wᵃ-tᵃb&shadda;<inflan/></xlitx>
   <xlit>wa-tabb<inflan/></xlit>
   <gloss>and perdition</gloss></term>
+
+  <!-- harf ث -->
+  <term><key>ثَمَّ</key> <xlitx>θᵃm;&shadda;ᵃ</xlitx>
+  <xlit>θamma</xlit>
+  <gloss>there</gloss></term>
 
   <!-- harf ج -->
   <term><key>جَلَسَ</key> <xlitx>jᵃlᵃsᵃ</xlitx>
@@ -494,15 +506,21 @@
 
   <term><key>خَيْرٌ مِنْكَ</key> <xlit>xᵃẙr<influn/> mᵢn-kᵃ</xlit> <gloss>better<influn/> than-you</gloss></term>
   <term><key>خَيْرٌ</key> <xlitx>xᵃẙr<influn/></xlitx>
-  <xlit>xayr<influn/></xlit><gloss>good<influn/></gloss></term>
+  <xlit>xayr<influn/></xlit><gloss>excellent<influn/></gloss></term>
   <term><key>خَيْرُ</key> <xlitx>xᵃẙr<influ/></xlitx>
-  <xlit>xayr<influ/></xlit><gloss>good<influn/></gloss></term>
+  <xlit>xayr<influ/></xlit><gloss>excellent<influn/></gloss></term>
   <term><key>فَخَيْرٌ</key> <xlitx>fᵃ-xᵃẙr<influn/></xlitx>
   <xlit>fa-xayr<influn/></xlit><gloss>better<influn/></gloss></term>
   <term><key>خَيْرًا</key> <xlitx>xᵃẙr<inflan/></xlitx>
-  <xlit>xayr<inflan/></xlit><gloss>good<inflan/></gloss></term>
+  <xlit>xayr<inflan/></xlit><gloss>excellent<inflan/></gloss></term>
   <term><key>فَخَيْرًا</key> <xlitx>fᵃ-xᵃẙr<inflan/></xlitx>
-  <xlit>fa-xayr<inflan/></xlit><gloss>then-good<inflan/></gloss></term>
+  <xlit>fa-xayr<inflan/></xlit><gloss>then-excellent<inflan/></gloss></term>
+  <term><key>بِخَيْرِ</key> <xlitx>bᵢ-xᵃẙr<infli/></xlitx>
+  <xlit>bi-xayr<infli/></xlit>
+  <gloss>with-excellence<influn/></gloss></term>
+  <term><key>خَيْرِ</key> <xlitx>xᵃẙr<infli/></xlitx>
+  <xlit>xayr<infli/></xlit>
+  <gloss>excellent<influn/></gloss></term>
 
   <!-- harf د -->
   <term><key>الدَّاْرِ</key> <xlitx>ـd&shadda;ᵃår<infli/></xlitx>
@@ -516,7 +534,11 @@
   <gloss><ed>a</ed>dirham<influn/></gloss></term>
   <term><key>الدِّرْهَمِ</key> <xlitx>ـd&shadda;ᵢr°hᵃm<infli/></xlitx>
   <xlit>_d-dirham<infli/></xlit>
-  <gloss><ed>a</ed>dirham</gloss></term>
+  <gloss><ed>the</ed>dirham</gloss>
+  </term>
+  <term><key>الدِّرْهَمَ</key> <xlitx>ـd&shadda;ᵢr°hᵃm<infla/></xlitx>
+  <xlit>_d-dirham<infla/></xlit>
+  <gloss><ed>the</ed>dirham</gloss></term>
   <term><key>دِرْهَمٍ</key> <xlitx>dᵢr°hᵃm<inflin/></xlitx>
   <xlit>dirham<inflin/></xlit>
   <gloss><ed>a</ed>dirham</gloss></term>
@@ -832,6 +854,12 @@
     <gloss>voice</gloss>
   </term>
 
+  <term>
+    <key>صِيْدَ</key> <xlitx>ṣᵢẙd<infla/></xlitx>
+    <xlit>ṣīd<infla/></xlit>
+    <gloss>was-hunted</gloss>
+  </term>
+
   <!-- harf ط -->
   <term>
     <key>طَرِيْقِي</key> <xlit>&T;ᵃrīqᵢ-y</xlit>
@@ -928,7 +956,15 @@
   </term>
 
   <term>
-  <key>الضَّاْرِبَ</key> <xlit>_-ḍ²ᵃårᵢb<infla/></xlit> <gloss>the-<ed>one</ed>-striking</gloss></term>
+    <key>الضَّاْرِبَ</key> <xlitx>_-ḍ²ᵃårᵢb<infla/></xlitx>
+    <xlit>_ḍ-ḍārib<infla/></xlit>
+    <gloss>the-<ed>one</ed>-striking</gloss>
+  </term>
+  <term>
+    <key>الضَّاْرِبِ</key> <xlitx>_-ḍ²ᵃårᵢb<infli/></xlitx>
+    <xlit>_ḍ-ḍārib<infli/></xlit>
+    <gloss>the-<ed>one</ed>-striking</gloss>
+  </term>
 
   <term>
     <key>الضَّاْرِبَاْنِ</key> <xlitx>_-ḍ²ᵃårᵢbᵃåni</xlitx>
@@ -947,6 +983,11 @@
   <term>
     <key>الضَّرْبُ</key> <xlit>_-ḍ²ᵃr°b<influ/></xlit> <gloss>the-striking<influ/></gloss>
   </term>
+  <term>
+    <key>الضَّرْبِ</key> <xlitx>_-ḍ²ᵃr°b<infli/></xlitx>
+    <xlit>_ḍ-ḍarb<infli/></xlit>
+    <gloss>the-striking<influ/></gloss>
+  </term>
 
   <term><key>ضَرْبِهِ</key> <xlitx>ḍᵃr°b<infli/>-hᵢ</xlitx>
     <xlit>ḍarb<infli/>-hi</xlit>
@@ -954,6 +995,10 @@
   </term>
   <term><key>ضَرْبٌ</key> <xlitx>ḍᵃr°b<influn/></xlitx>
     <xlit>ḍarb<influn/></xlit>
+    <gloss><ed>a</ed> striking<influ/></gloss>
+  </term>
+  <term><key>ضَرْبُ</key> <xlitx>ḍᵃr°b<influ/></xlitx>
+    <xlit>ḍarb<influ/></xlit>
     <gloss><ed>a</ed> striking<influ/></gloss>
   </term>
 
@@ -965,6 +1010,10 @@
   <term><key>ضَرْبٍ</key> <xlitx>ḍᵃr°b<inflin/></xlitx>
     <xlit>ḍarb<inflin/></xlit>
     <gloss><ed>a</ed> striking<influ/></gloss>
+  </term>
+  <term><key>ضَرْبِ</key> <xlitx>ḍᵃr°b<infli/></xlitx>
+    <xlit>ḍarb<infli/></xlit>
+    <gloss>striking<influ/></gloss>
   </term>
   <term><key>ضَرَبَ</key> <xlitx>ḍᵃrᵃbᵃ</xlitx>
   <xlit>ḍaraba</xlit>
@@ -1143,6 +1192,9 @@
 
   <term><key>عَهْدٍ</key> <xlitx>ʕᵃh°d<inflin/></xlitx>
   <xlit>ʕahd<inflin/></xlit><gloss><ed>an</ed>era</gloss></term>
+
+  <term><key>عَاْمًا</key> <xlitx>ʕᵃåm<inflan/></xlitx>
+  <xlit>ʕām<inflan/></xlit><gloss>year</gloss></term>
 
   <!-- harf غ -->
   <term>
@@ -1422,6 +1474,15 @@
     <gloss>met-I-him</gloss> <parse>vperf-pro1sg</parse>
   </term>
 
+  <term>
+    <key>اللَّيْلَةَ</key> <xlitx>_l-lᵃẙlᵃt<infla/></xlitx>
+    <xlit>_l-laylat<infla/></xlit><gloss>the-night</gloss>
+  </term>
+  <term>
+    <key>اللَّيْلَةِ</key> <xlitx>_l-lᵃẙlᵃt<infli/></xlitx>
+    <xlit>_l-laylat<infli/></xlit><gloss>the-night</gloss>
+  </term>
+
   <!-- harf م -->
   <term><key>مَا</key> <xlitx>mᵃā</xlitx>
   <xlit>mā</xlit><gloss>not</gloss></term>
@@ -1616,11 +1677,17 @@
   <gloss>woe<influ/> to him</gloss></term>
 
   <!-- harf ي -->
-  <term><key>يَا</key> <xlit>yᵃā</xlit> <gloss>hey!</gloss></term>
+  <term><key>يَا</key> <xlitx>yᵃā</xlitx>
+  <xlit>yā</xlit> <gloss>hey!</gloss></term>
 
-  <term><key>الْيَوْمَ</key> <xlit>_l°-yᵃw°m<infla/></xlit>
+  <term><key>الْيَوْمَ</key> <xlitx>_l°-yᵃw°m<infla/></xlitx>
+  <xlit>_l-yawm<infla/></xlit>
   <gloss>the-day<infla/></gloss></term>
-  <term><key>الْيَوْمُ</key> <xlit>_l°-yᵃw°m<influ/></xlit>
+  <term><key>الْيَوْمُ</key> <xlitx>_l°-yᵃw°m<influ/></xlitx>
+  <xlit>_l-yawm<influ/></xlit>
+  <gloss>the-day<influ/></gloss></term>
+  <term><key>الْيَوْمِ</key> <xlitx>_l°-yᵃw°m<infli/></xlitx>
+  <xlit>_l-yawm<infli/></xlit>
   <gloss>the-day<influ/></gloss></term>
 
 </terms>
