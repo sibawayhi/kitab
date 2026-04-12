@@ -3,41 +3,35 @@
    <dictum id="١٤٥٥٠">
       <text>
          <ar>مَرَرْتُ بِعَبْدِ اللهِ</ar>
-         <free/>
+         <free>I passed by Abdillah</free>
       </text>
       <igt>
          <t>
             <ar>مَرَرْتُ</ar>
          </t>
          <t>
-            <ar>بِعَبْدِ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>بِعَبْدِ اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٨٤٣٣٨">
       <text>
          <ar>هٰذَا لِعَبْدِ اللهِ</ar>
-         <free/>
+         <free>This <ed>is</ed> for Abdillah</free>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>لِعَبْدِ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>لِعَبْدِ اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٣٨١٥٤">
       <text>
          <ar>مَا أَنْتَ كَزَيْدٍ</ar>
-         <free/>
+         <free>You <ed>are</ed> not like Zayd</free>
       </text>
       <igt>
          <t>
@@ -54,7 +48,7 @@
    <dictum id="١٥٥٥٩">
       <text>
          <ar>يَا لَبَكْرٍ</ar>
-         <free/>
+         <free>O Bakr</free>
       </text>
       <igt>
          <t>
@@ -62,17 +56,20 @@
          </t>
          <t>
             <ar>لَبَكْرٍ</ar>
+            <xlit>la-Bakr<inflin/></xlit>
+            <en>Bakr</en>
          </t>
       </igt>
    </dictum>
    <dictum id="٧٦٩٤٤">
       <text>
-         <ar>تَاللهِ لَا أَفْعَلُ ذَاْ	كَ</ar>
-         <free/>
+         <ar>تَاللهِ لَا أَفْعَلُ ذَاْكَ</ar>
+         <free>By God I will not do that</free>
       </text>
       <igt>
          <t>
             <ar>تَاللهِ</ar>
+            <xlit>ta-ـllah<infli/></xlit>
          </t>
          <t>
             <ar>لَا</ar>
@@ -81,21 +78,20 @@
             <ar>أَفْعَلُ</ar>
          </t>
          <t>
-            <ar>ذَاْ</ar>
-         </t>
-         <t>
-            <ar>كَ</ar>
+            <ar>ذَاْكَ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٦٢٠٦٦">
       <text>
          <ar>أَخَذْتُهُ عَنْ زَيْدٍ</ar>
-         <free/>
+         <free>I took it from Zayd</free>
       </text>
       <igt>
          <t>
             <ar>أَخَذْتُهُ</ar>
+            <xlit>Ɂaxað-tu-hu</xlit>
+            <en>I took it</en>
          </t>
          <t>
             <ar>عَنْ</ar>
@@ -105,92 +101,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٤٩٧٢">
-      <text>
-         <ar>مِنْ عَلَيْكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مِنْ</ar>
-         </t>
-         <t>
-            <ar>عَلَيْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٤٥٢٨">
-      <text>
-         <ar>مِنْ فَوْقِكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مِنْ</ar>
-         </t>
-         <t>
-            <ar>فَوْقِكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٣٣٠٥">
-      <text>
-         <ar>ذَهَبَ مِنْ مَعِهِ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>ذَهَبَ</ar>
-         </t>
-         <t>
-            <ar>مِنْ</ar>
-         </t>
-         <t>
-            <ar>مَعِهِ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٨٢٢٨">
-      <text>
-         <ar>مِنْ عَنْ يَمِيْنِكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مِنْ</ar>
-         </t>
-         <t>
-            <ar>عَنْ</ar>
-         </t>
-         <t>
-            <ar>يَمِيْنِكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٩٤٧٧">
-      <text>
-         <ar>مِنْ نَاحِيَةِ كَذَا وَكَذَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مِنْ</ar>
-         </t>
-         <t>
-            <ar>نَاحِيَةِ</ar>
-         </t>
-         <t>
-            <ar>كَذَا</ar>
-         </t>
-         <t>
-            <ar>وَكَذَا</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٦١٧٥٩">
       <text>
          <ar>أَنْتَ خَلْفَ عَبْدِ اللهِ</ar>
-         <free/>
+         <free>You <ed>are</ed> behind Abdillah</free>
       </text>
       <igt>
          <t>
@@ -210,7 +124,8 @@
    <dictum id="٧٧٣٦٨">
       <text>
          <ar>هٰذَا أَعْمَلُ النَّاْسِ</ar>
-         <free/>
+         <free>This is <ed>the</ed> most-laboring <ed>of</ed>
+         the people</free>
       </text>
       <igt>
          <t>
@@ -218,6 +133,7 @@
          </t>
          <t>
             <ar>أَعْمَلُ</ar>
+            <xlit>Ɂaʕmal<influ/></xlit>
          </t>
          <t>
             <ar>النَّاْسِ</ar>
@@ -227,7 +143,7 @@
    <dictum id="٩٦٠٨٩">
       <text>
          <ar>هٰذَا مِثْلُ عَبْدِ اللهِ</ar>
-         <free/>
+         <free>This <ed>is</ed> like Abdillah</free>
       </text>
       <igt>
          <t>
@@ -247,7 +163,7 @@
    <dictum id="٨٢٠٧٧">
       <text>
          <ar>هٰذَا كُلُّ مَاْلِكَ</ar>
-         <free/>
+         <free>This <ed>is</ed> all <ed>of</ed> your wealth</free>
       </text>
       <igt>
          <t>
@@ -257,14 +173,15 @@
             <ar>كُلُّ</ar>
          </t>
          <t>
-            <ar>مَاْلِكَ</ar>
+           <ar>مَاْلِكَ</ar>
+           <xlit>māl<infli/>-ka</xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="١١٣٩٢">
       <text>
          <ar>هٰذَا حِمَاْرُ زَيْدٍ</ar>
-         <free/>
+         <free>This <ed>is the</ed> donkey <ed>of</ed> Zayd</free>
       </text>
       <igt>
          <t>
@@ -281,7 +198,8 @@
    <dictum id="٨٠٢٩٦">
       <text>
          <ar>هٰذَا أَشَدُّ النَّاْسِ</ar>
-         <free/>
+         <free>This <ed>is the</ed> most-intense <ed>of</ed>
+         the people</free>
       </text>
       <igt>
          <t>
@@ -289,30 +207,34 @@
          </t>
          <t>
             <ar>أَشَدُّ</ar>
+            <xlit>Ɂašadd<influ/></xlit>
+            <en>more-intense</en>
          </t>
          <t>
             <ar>النَّاْسِ</ar>
          </t>
       </igt>
    </dictum>
-   <dictum id="٩١٥٢٥">
-      <text>
-         <ar>يَا لَبَكْرٍ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>يَا</ar>
-         </t>
-         <t>
-            <ar>لَبَكْرٍ</ar>
-         </t>
-      </igt>
-   </dictum>
+   <!-- <dictum id="٩١٥٢٥"> -->
+   <!--    <text> -->
+   <!--       <ar>يَا لَبَكْرٍ</ar> -->
+   <!--       <free>O Bakr</free> -->
+   <!--    </text> -->
+   <!--    <igt> -->
+   <!--       <t> -->
+   <!--          <ar>يَا</ar> -->
+   <!--       </t> -->
+   <!--       <t> -->
+   <!--          <ar>لَبَكْرٍ</ar> -->
+   <!--          <xlit>la-Bakr<inflin/></xlit> -->
+   <!--          <en>Bakr</en> -->
+   <!--       </t> -->
+   <!--    </igt> -->
+   <!-- </dictum> -->
    <dictum id="٤٢٨٦١">
       <text>
          <ar>مَرَرْتُ بِزَيْدٍ</ar>
-         <free/>
+         <free>I passed by Zayd</free>
       </text>
       <igt>
          <t>
@@ -326,45 +248,43 @@
    <dictum id="٤٩٣٠٨">
       <text>
          <ar>هٰذَا لِعَبْدِ اللهِ</ar>
-         <free/>
+         <free>This is for Abdillah</free>
+         <alt>This is Adbullha's</alt>
       </text>
       <igt>
          <t>
             <ar>هٰذَا</ar>
          </t>
          <t>
-            <ar>لِعَبْدِ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>لِعَبْدِ اللهِ</ar>
          </t>
       </igt>
    </dictum>
+
    <dictum id="٤٦٨٦٥">
       <text>
          <ar>أَنْتَ كَعَبْدِ اللهِ</ar>
-         <free/>
+         <free>You are like Abdillah</free>
       </text>
       <igt>
          <t>
             <ar>أَنْتَ</ar>
          </t>
          <t>
-            <ar>كَعَبْدِ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>كَعَبْدِ اللهِ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٢٤٥٠٠">
       <text>
          <ar>أَخَذْتُهُ مِنْ عَبْدِ اللهِ</ar>
-         <free/>
+         <free>I took it from Zayd</free>
       </text>
       <igt>
          <t>
-            <ar>أَخَذْتُهُ</ar>
+           <ar>أَخَذْتُهُ</ar>
+           <xlit>Ɂaxað-tu-hu</xlit>
+           <en>I took it</en>
          </t>
          <t>
             <ar>مِنْ</ar>
@@ -377,24 +297,10 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٨٤٧٠٧">
-      <text>
-         <ar>مُذْ زَمَاْنٍ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مُذْ</ar>
-         </t>
-         <t>
-            <ar>زَمَاْنٍ</ar>
-         </t>
-      </igt>
-   </dictum>
    <dictum id="٨٤٢٥٠">
       <text>
          <ar>أَنْتَ فِي الدَّاْرِ</ar>
-         <free/>
+         <free>You are in the house</free>
       </text>
       <igt>
          <t>
@@ -411,7 +317,7 @@
    <dictum id="٧٧١٣٠">
       <text>
          <ar>فِيْكَ خَصْلَةُ سَوْءٍ</ar>
-         <free/>
+         <free>In you is a feature of evil</free>
       </text>
       <igt>
          <t>
@@ -428,7 +334,7 @@
    <dictum id="٢١٩٠٥">
       <text>
          <ar>رُبَّ رَجُلٍ يَقُوْلُ ذَاْكَ</ar>
-         <free/>
+         <free>Many a man says that</free>
       </text>
       <igt>
          <t>
@@ -445,20 +351,20 @@
          </t>
       </igt>
    </dictum>
-   <dictum id="٠٦٦٦٠">
-      <text>
-         <ar>يَا لَبَكْرٍ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>يَا</ar>
-         </t>
-         <t>
-            <ar>لَبَكْرٍ</ar>
-         </t>
-      </igt>
-   </dictum>
+   <!-- <dictum id="٠٦٦٦٠"> -->
+   <!--    <text> -->
+   <!--       <ar>يَا لَبَكْرٍ</ar> -->
+   <!--       <free/> -->
+   <!--    </text> -->
+   <!--    <igt> -->
+   <!--       <t> -->
+   <!--          <ar>يَا</ar> -->
+   <!--       </t> -->
+   <!--       <t> -->
+   <!--          <ar>لَبَكْرٍ</ar> -->
+   <!--       </t> -->
+   <!--    </igt> -->
+   <!-- </dictum> -->
    <dictum id="٩٠٢٥٩">
       <text>
          <ar>رَوَيْتُهُ عَنْ زَيْدٍ</ar>
@@ -467,6 +373,8 @@
       <igt>
          <t>
             <ar>رَوَيْتُهُ</ar>
+            <xlit>raway-tu-hu</xlit>
+            <en>I recited it from Zayd</en>
          </t>
          <t>
             <ar>عَنْ</ar>
