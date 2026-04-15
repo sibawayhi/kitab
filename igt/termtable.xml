@@ -501,9 +501,15 @@
   <term><key>خَبَرٌ</key> <xlitx>xᵃbᵃr<influn/></xlitx>
   <xlit>xabar<influn/></xlit><gloss>news</gloss></term>
 
+  <term><key>خَصْلَةُ</key> <xlitx>xᵃṣ°lᵃt<influ/></xlitx>
+  <xlit>xaṣlat<influ/></xlit>
+  <gloss>feature<influ/></gloss></term>
+
+  <term><key>خَلْفَ</key> <xlitx>xᵃl°f<infla/></xlitx>
+  <xlit>xalf<infla/></xlit><gloss>behind<infla/></gloss></term>
+
   <term><key>لَخَيْرٌ</key> <xlitx>lᵃ-xᵃẙr<influn/></xlitx>
   <xlit>la-xayr<influn/></xlit><gloss>better<influn/></gloss></term>
-
   <term><key>خَيْرٌ مِنْكَ</key> <xlit>xᵃẙr<influn/> mᵢn-kᵃ</xlit> <gloss>better<influn/> than-you</gloss></term>
   <term><key>خَيْرٌ</key> <xlitx>xᵃẙr<influn/></xlitx>
   <xlit>xayr<influn/></xlit><gloss>excellent<influn/></gloss></term>
@@ -619,6 +625,10 @@
   <xlit>raɁs<influ/></xlit>
   <gloss>head</gloss></term>
 
+  <term><key>رُبَّ</key> <xlitx>rᵘb;shadda;<infla/></xlitx>
+  <xlit>rubb<infla/></xlit>
+  <gloss>many</gloss></term>
+
   <term><key>رَجُلٌ</key> <xlitx>rᵃjᵘl<influn/></xlitx>
   <xlit>rajul<influn/></xlit><gloss><ed>a</ed> man</gloss></term>
   <term><key>رَجُلُ</key> <xlitx>rᵃjᵘl<influ/></xlitx>
@@ -696,6 +706,9 @@
   <xlit>bi-zayd<inflin/></xlit><gloss>by-Zayd<inflin/></gloss></term>
   <term><key>أَزَيْدٍ</key> <xlitx>Ɂᵃ-zᵃẙd<inflin/></xlitx>
   <xlit>Ɂa-zayd<inflin/></xlit><gloss>?Zayd<inflin/></gloss></term>
+  <term><key>كَزَيْدٍ</key> <xlitx>kᵃ-zᵃẙd<inflin/></xlitx>
+  <xlit>ka-zayd<inflin/></xlit>
+  <gloss>like Zayd<inflin/></gloss></term>
   <term><key>لِزَيْدٍ</key> <xlitx>lᵢ-zᵃẙd<inflin/></xlitx>
   <xlit>li-zayd<inflin/></xlit>
   <gloss>for Zayd<inflin/></gloss></term>
@@ -1079,6 +1092,16 @@
   <xlit>bi-ʕabd<infli/> ـll²āh<infli/></xlit>
     <gloss>by-ʕAbd<infli/> llah<infli/></gloss> <parse>v31.perf</parse>
   </term>
+  <term><key>كَعَبْدِ اللهِ</key>
+  <xlitx>&LCEIL;kᵃ-ʕᵃb°d<infli/> ـll²āh<infli/>&RCEIL;</xlitx>
+  <xlit>ka-ʕabd<infli/> ـll²āh<infli/></xlit>
+    <gloss>like-ʕAbd<infli/> llah<infli/></gloss> <parse>v31.perf</parse>
+  </term>
+  <term><key>لِعَبْدِ اللهِ</key>
+  <xlitx>&LCEIL;lᵢ-bᵢ-ʕᵃb°d<infli/> ـll²āh<infli/>&RCEIL;</xlitx>
+  <xlit>li-ʕabd<infli/> ـll²āh<infli/></xlit>
+    <gloss>for-ʕAbd<infli/> llah<infli/></gloss> <parse>v31.perf</parse>
+  </term>
   <term><key>وَعَبْدِ اللهِ</key>
   <xlitx>&LCEIL;wᵃ-ʕᵃb°d<infli/> ـll²āh<infli/>&RCEIL;</xlitx>
   <xlit>wa-ʕabd<infli/> ـll²āh<infli/></xlit>
@@ -1110,7 +1133,6 @@
   <term><key>الْعِشْرُوْنَ</key><xlit>_l-Ɂᵢš°rᵘẘnᵃ</xlit>
   <gloss>the twenty<influ/></gloss>
   </term>
-
 
   <term>
     <key>مُعْطِي</key> <xlitx>mᵘʕ°ṭiẙ</xlitx>
@@ -1182,6 +1204,9 @@
   <term><key>عُمَاْنُ</key> <xlitx>ʕᵘmᵃån<influ/></xlitx>
   <xlit>ʕumān<influ/></xlit>
   <gloss>Oman</gloss></term>
+
+  <term><key>عَنْ</key> <xlitx>ʕᵃn°</xlitx>
+  <xlit>ʕan</xlit><gloss>beyond</gloss></term>
 
   <term><key>عِنْدِي</key> <xlit>ʕᵢn°dᵢy</xlit> <gloss>near-me</gloss></term>
   <term><key>عِنْدَكَ</key> <xlitx>ʕᵢn°dᵃ-kᵃ</xlitx>
@@ -1282,7 +1307,8 @@
 
   <term><key>قَاْلَ</key> <xlit>qᵃålᵃ</xlit> <gloss>said<ed>-he</ed></gloss></term>
   <term><key>أَقُوْلُ</key> <xlit>Ɂᵃqᵘẘl<influ/></xlit> <gloss>I-say<influ/></gloss></term>
-  <term><key>يَقُوْلُ</key> <xlit>yᵃqᵘẘl<influ/></xlit> <gloss>he-says<influ/></gloss></term>
+  <term><key>يَقُوْلُ</key> <xlitx>yᵃqᵘẘl<influ/></xlitx>
+  <xlit>yaqūl<influ/></xlit><gloss>he-says<influ/></gloss></term>
   <term><key>يَقُوْلَ</key> <xlit>yᵃqᵘẘl<infla/></xlit> <gloss>he-say<infla/></gloss></term>
   <term><key>تَقُوْلُ</key> <xlit>tᵃqᵘẘl<influ/></xlit> <gloss>you-say<influ/></gloss></term>
   <term><key>تَقُلْ</key> <xlit>tᵃqᵘl<inflo/></xlit> <gloss>you-say<inflo/></gloss></term>
@@ -1424,6 +1450,9 @@
   <xlit>kalām<influ/>-ka</xlit><gloss>speech<influ/><ed>of</ed>you</gloss></term>
   <term><key>مُتَكَلِّمٌ</key> <xlit>mᵘtᵃkᵃl&shadda;ᵢm<influn/></xlit> <gloss>speaking<influn/></gloss></term>
 
+  <term><key>كُلُّ</key> <xlitx>kᵘl&shadda;<influ/></xlitx>
+  <xlit>kull<influ/></xlit>
+  <gloss>all<influn/></gloss></term>
 
   <!-- harf ل -->
   <term><key>لَا</key> <xlitx>lᵃā</xlitx>

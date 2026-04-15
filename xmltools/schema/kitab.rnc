@@ -535,5 +535,8 @@ ednote =
           element أمثلة {
               attribute نسخة {text},
               attribute نسبة {text}
+          }?,
+          element last-update {
+              attribute date {text}
           }?
       }
