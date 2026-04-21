@@ -3,31 +3,35 @@
    <dictum id="٦٠٢٤٠">
       <text>
          <ar>قَرَّ فِي مَكَاْنِهِ</ar>
-         <free/>
+         <free>He remained settled in his place</free>
       </text>
       <igt>
          <t>
             <ar>قَرَّ</ar>
+            <xlit>qarra</xlit>
          </t>
          <t>
             <ar>فِي</ar>
          </t>
          <t>
-            <ar>مَكَاْنِهِ</ar>
+           <ar>مَكَاْنِهِ</ar>
+           <xlit>makān<infli/>-hi</xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="٩٢١٦٢">
       <text>
          <ar>جَلَبَ الْجُرْحُ</ar>
-         <free/>
+         <free>The wound healed</free>
       </text>
       <igt>
          <t>
-            <ar>جَلَبَ</ar>
+           <ar>جَلَبَ</ar>
+           <xlit>jalaba</xlit>
          </t>
          <t>
-            <ar>الْجُرْحُ</ar>
+           <ar>الْجُرْحُ</ar>
+           <xlit>_l-jurḥ</xlit>
          </t>
       </igt>
    </dictum>
@@ -38,38 +42,45 @@
       </text>
       <igt>
          <t>
-            <ar>عَلَا</ar>
+           <ar>عَلَا</ar>
+           <xlit>ʕalā</xlit>
          </t>
          <t>
-            <ar>قَرْنَهُ</ar>
+           <ar>قَرْنَهُ</ar>
+           <xlit>qarn<infla/>-hu</xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="٨٨٣٠٦">
       <text>
          <ar>اسْتَنْوَقَ الْجَمَلُ</ar>
-         <free/>
+         <free>The he-camel became like a she-camel
+         (<ar>نَاقَةٌ</ar>)</free>
       </text>
       <igt>
          <t>
-            <ar>اسْتَنْوَقَ</ar>
+           <ar>اسْتَنْوَقَ</ar>
+           <xlit>_stanwaqa</xlit>
          </t>
          <t>
-            <ar>الْجَمَلُ</ar>
+           <ar>الْجَمَلُ</ar>
+           <xlit>_l-jamal<influ/></xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="٤٠٠٠١">
       <text>
          <ar>اسْتَتْيَسَتْ الشَّاْةُ</ar>
-         <free/>
+         <free>The she-goat became like a he-goat (<ar>تَيْسٌ</ar>)</free>
       </text>
       <igt>
          <t>
-            <ar>اسْتَتْيَسَتْ</ar>
+           <ar>اسْتَتْيَسَتْ</ar>
+           <xlit>_statyasat</xlit>
          </t>
          <t>
-            <ar>الشَّاْةُ</ar>
+           <ar>الشَّاْةُ</ar>
+           <xlit>_š-šāt<influ/></xlit>
          </t>
       </igt>
    </dictum>
