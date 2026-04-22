@@ -84,6 +84,7 @@ bab =
       | قبس
       | قول
       | مثال
+      | تمثيل
       | مصغر
       | تصريف
       # بدل textual alternatives from editions
@@ -266,7 +267,10 @@ bab =
        }
 
 # exemplar, instantiation of verbal derivation/declension
-تصريف = element تصريف { text } # e.g.  <تصريف>دَحْرَجْتُهُ دَحْرَجَةً</تصريف>
+تمثيل = element تمثيل { text } # e.g. <تمثيل>دَحْرَجْتُهُ دَحْرَجَةً</تمثيل>
+
+# ??
+تصريف = element تصريف { text }
 
 # technical term (مصطلح)
 ص = element ص { مادة+, (text | متن) }
