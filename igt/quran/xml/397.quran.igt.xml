@@ -1,1 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!---->
+<quran xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="397">
+   <ayah id="٨١٠٦٥" surah="٢١" verse="٥٧">
+      <text>
+         <ar>تَٱللّٰهِ لَأَكِيْدَنَّ أَصْنَاْمَكُمْ</ar>
+         <free/>
+      </text>
+      <igt>
+         <t>
+            <ar>تَٱللّٰهِ</ar>
+         </t>
+         <t>
+            <ar>لَأَكِيْدَنَّ</ar>
+         </t>
+         <t>
+            <ar>أَصْنَاْمَكُمْ</ar>
+         </t>
+      </igt>
+   </ayah>
+</quran>
