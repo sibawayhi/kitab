@@ -186,12 +186,12 @@
 
   <term>
     <key>الَّذِي</key> <xlitx>_l²ᵃðᵢy</xlitx>
-    <xlit>_l²aðī</xlit>
+    <xlit>_l-laðī</xlit>
     <gloss>the<ed>-one-</ed>that</gloss>
   </term>
   <term>
     <key>فَالَّذِي</key> <xlitx>fa-_l²ᵃðᵢy</xlitx>
-    <xlit>fa-_llaðī</xlit>
+    <xlit>fa-_l-laðī</xlit>
     <gloss>the<ed>-one-</ed>that</gloss>
   </term>
   <term>
@@ -910,7 +910,6 @@
     <gloss>impious</gloss>
   </term>
 
-
   <term>
     <key>لَمُنْطَلِقٌ</key> <xlit>lᵃ-mᵘn°ṭᵃlᵢq<influn/></xlit> <gloss>departing<influn/></gloss> <parse>ap.m.1</parse>
   </term>
@@ -1031,8 +1030,10 @@
   <term><key>ضَرَبَ</key> <xlitx>ḍᵃrᵃbᵃ</xlitx>
   <xlit>ḍaraba</xlit>
   <gloss>struck<ed>-he</ed></gloss> <parse>v31.perf</parse></term>
-  <term><key>ضَرَبْتُ</key> <xlit>ḍᵃrᵃb°-tᵘ</xlit> <gloss>struck-I</gloss> <parse>v31.perf</parse></term>
-  <term><key>ضَرَبْتُهُ</key> <xlit>ḍᵃrᵃb°-tᵘ-hᵘ</xlit> <gloss>struck-I-him</gloss> <parse>v31.perf</parse></term>
+  <term><key>ضَرَبْتُ</key> <xlitx>ḍᵃrᵃb°-tᵘ</xlitx>
+  <xlit>ḍarab-tu</xlit><gloss>struck-I</gloss> <parse>v31.perf</parse></term>
+  <term><key>ضَرَبْتُهُ</key> <xlitx>ḍᵃrᵃb°-tᵘ-hᵘ</xlitx>
+  <xlit>ḍarab-tu-hu</xlit><gloss>struck-I-him</gloss> <parse>v31.perf</parse></term>
   <term><key>ضُرِبَ</key> <xlitx>ḍᵘrᵢbᵃ</xlitx>
   <xlit>ḍuriba</xlit><gloss>was-struck<ed>-he</ed></gloss> <parse>v31.perf</parse></term>
   <term><key>أَضْرِبَ</key> <xlit>Ɂᵃḍ°rᵢb<infla/></xlit> <gloss>I_strike<infla/></gloss></term>
@@ -1321,12 +1322,17 @@
   <xlit>qawm<infli/>-nā</xlit>
   <gloss>people<infli/>-of-us</gloss></term>
 
+  <term><key>قَاْمَ</key> <xlitx>qᵃåmᵃ</xlitx>
+  <xlit>qāma</xlit> <gloss>stood<ed>-he</ed></gloss></term>
+  <term><key>يَقُوْمُ</key> <xlitx>yᵃqᵘẘm<influ/></xlitx>
+  <xlit>yaqūm<influ/></xlit><gloss>he-stands<influ/></gloss></term>
+
   <term><key>لَقَاْئِمٌ</key> <xlit>lᵃ-qᵃåɁᵢm<influn/></xlit> <gloss>standing-upright<influn/></gloss></term>
   <term><key>قَاْئِمٌ</key> <xlitx>qᵃåɁᵢm<influn/></xlitx>
   <xlit>qāɁim<influn/></xlit>
   <gloss>standing-upright<influn/></gloss></term>
   <term><key>قَاْئِمًا</key> <xlitx>qᵃåɁᵢm<inflan/>&A;</xlitx>
-  <xlit>qāɁim<inflan/>&A;</xlit>
+  <xlit>qāɁim<inflan/></xlit>
   <gloss>standing-upright<inflan/></gloss></term>
 
   <term><key>قَتَلَ</key> <xlitx>qᵃtᵃlᵃ</xlitx>
