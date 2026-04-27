@@ -3,14 +3,11 @@
    <dictum id="٥٤٨٥٢">
       <text>
          <ar>عَبْدُ اللهِ مُنْطَلِقٌ</ar>
-         <free/>
+         <free>Abdullah <ed>is</ed> departing</free>
       </text>
       <igt>
          <t>
-            <ar>عَبْدُ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
+            <ar>عَبْدُ اللهِ</ar>
          </t>
          <t>
             <ar>مُنْطَلِقٌ</ar>
@@ -20,7 +17,7 @@
    <dictum id="٣٩٨٠٦">
       <text>
          <ar>قَاْئِمٌ زَيْدٌ</ar>
-         <free/>
+         <free>Standing-up <ed>is</ed> Zayd</free>
       </text>
       <igt>
          <t>
@@ -34,7 +31,7 @@
    <dictum id="٧٦٣٥٧">
       <text>
          <ar>ضَرَبَ زَيْدًا عَمْرٌو</ar>
-         <free/>
+         <free><ed>He</ed> struck Zayd[acc], <ed>did</ed> Amr[nom]</free>
       </text>
       <igt>
          <t>
@@ -51,11 +48,13 @@
    <dictum id="٩٦٦١٩">
       <text>
          <ar>تَمِيْمِيٌّ أَنَا</ar>
-         <free/>
+         <free>Tamīmī, <ed>am</ed> I</free>
       </text>
       <igt>
-         <t>
-            <ar>تَمِيْمِيٌّ</ar>
+        <t>
+          <en>Tamīmī</en>
+           <ar>تَمِيْمِيٌّ</ar>
+           <xlit>tamīmiyy<influn/></xlit>
          </t>
          <t>
             <ar>أَنَا</ar>
@@ -69,20 +68,22 @@
       </text>
       <igt>
          <t>
-            <ar>مَشْنُوْءٌ</ar>
+           <ar>مَشْنُوْءٌ</ar>
+           <xlit>mašnūɁ<influn/></xlit>
          </t>
          <t>
             <ar>مَنْ</ar>
          </t>
          <t>
-            <ar>يَشْنَؤُكَ</ar>
+           <ar>يَشْنَؤُكَ</ar>
+           <xlit>yašnaɁ<influ/>-ka</xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="٢٥٧٣١">
       <text>
          <ar>رَجُلٌ عَبْدُ اللهِ</ar>
-         <free/>
+         <free><ed>A</ed> man, <ed>is</ed> Abdullah</free>
       </text>
       <igt>
          <t>
@@ -99,21 +100,26 @@
    <dictum id="٥٨٥٠٩">
       <text>
          <ar>خَزٌّ صُفَّتُكَ</ar>
-         <free/>
+         <free>Silk, <ed>is</ed> your saddle-pad</free>
       </text>
       <igt>
-         <t>
-            <ar>خَزٌّ</ar>
+        <t>
+          <en>silk</en>
+           <ar>خَزٌّ</ar>
+           <xlit>xazz<influn/></xlit>
          </t>
          <t>
-            <ar>صُفَّتُكَ</ar>
+           <en>your saddle-pad</en>
+           <ar>صُفَّتُكَ</ar>
+           <xlit>ṣuffat<influ/>-ka</xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="٥٦٤٨٥">
       <text>
          <ar>يَقُوْمُ زَيْدٌ</ar>
-         <free/>
+         <free>Zayd stands up</free>
+         <alt>Zayd will stand up</alt>
       </text>
       <igt>
          <t>
@@ -127,7 +133,7 @@
    <dictum id="١٨٢٥٤">
       <text>
          <ar>قَاْمَ زَيْدٌ</ar>
-         <free/>
+         <free>Zayd stood up</free>
       </text>
       <igt>
          <t>
@@ -141,7 +147,9 @@
    <dictum id="١٣١٧٢">
       <text>
          <ar>هٰذَا ضَاْرِبٌ زَيْدًا</ar>
-         <free/>
+         <free>This <ed>one</ed> <ed>is</ed> striking Zayd</free>
+         <alt>This <ed>one</ed> strikes Zayd</alt>
+         <alt>This <ed>one</ed> <ed>will</ed> strike Zayd</alt>
       </text>
       <igt>
          <t>
@@ -158,7 +166,9 @@
    <dictum id="٣٨٩٤٧">
       <text>
          <ar>أَنَا ضَاْرِبٌ زَيْدًا</ar>
-         <free/>
+         <free>I <ed>am</ed> striking Zayd</free>
+         <alt>I strike Zayd</alt>
+         <alt>I <ed>will</ed> strike Zayd</alt>
       </text>
       <igt>
          <t>
@@ -172,10 +182,24 @@
          </t>
       </igt>
    </dictum>
+   <dictum id="١٩٥٨٥" j="*">
+      <text>
+        <ar>ضَاْرِبٌ زَيْدًا</ar>
+         <free>Striking (he) Zayd</free>
+      </text>
+      <igt>
+         <t>
+            <ar>ضَاْرِبٌ</ar>
+         </t>
+         <t>
+            <ar>زَيْدًا</ar>
+         </t>
+      </igt>
+   </dictum>
    <dictum id="٠٢٢٥٦">
       <text>
          <ar>ضَرَبْتُ زَيْدًا</ar>
-         <free/>
+         <free>I struck Zayd</free>
       </text>
       <igt>
          <t>
@@ -189,7 +213,7 @@
    <dictum id="٧٩٩٨٠">
       <text>
          <ar>ضَرَبْتُ عَمْرًا</ar>
-         <free/>
+         <free>I struck Amr</free>
       </text>
       <igt>
          <t>
