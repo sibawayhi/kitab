@@ -1,496 +1,588 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="238">
-   <dictum id="٧٩٢٥٥">
-      <text>
-         <ar>سِرْتُ حَتَّى أَدْخُلَهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلَهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥٠١٩٨">
-      <text>
-         <ar>سِرْتُ إِلَى أَنْ أَدْخُلَهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>إِلَى</ar>
-         </t>
-         <t>
-            <ar>أَنْ</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلَهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٥٧٠٨">
-      <text>
-         <ar>كَلَّمْتُهُ حَتَّى يَأْمُرَ لِي بِشَيْءٍ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَلَّمْتُهُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>يَأْمُرَ</ar>
-         </t>
-         <t>
-            <ar>لِي</ar>
-         </t>
-         <t>
-            <ar>بِشَيْءٍ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٥٧٨٦">
-      <text>
-         <ar>سِرْتُ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٧٩٣٣">
-      <text>
-         <ar>سِرْتُ فَأَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>فَأَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٧٥٩٣٨">
-      <text>
-         <ar>هُوَ يَدْخُلُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>هُوَ</ar>
-         </t>
-         <t>
-            <ar>يَدْخُلُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٢٠٢٨">
-      <text>
-         <ar>هُوَ يَضْرِبُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>هُوَ</ar>
-         </t>
-         <t>
-            <ar>يَضْرِبُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٧٢٢٧٠">
-      <text>
-         <ar>سِرْتُ فَإِذَا أَنَا فِي حَاْلِ دُخُوْلٍ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>فَإِذَا</ar>
-         </t>
-         <t>
-            <ar>أَنَا</ar>
-         </t>
-         <t>
-            <ar>فِي</ar>
-         </t>
-         <t>
-            <ar>حَاْلِ</ar>
-         </t>
-         <t>
-            <ar>دُخُوْلٍ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٧٩٨٨٦">
-      <text>
-         <ar>إِذَنْ أَظُنُّكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>إِذَنْ</ar>
-         </t>
-         <t>
-            <ar>أَظُنُّكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٨٢١٦">
-      <text>
-         <ar>لَقَدْ سِرْتُ حَتَّى أَدْخُلُهَا مَا أُمْنَعُ</ar>
-         <free>I have journeyed until I shall enter it if not prevented(?)</free>
-      </text>
-      <igt>
-         <t>
-            <ar>لَقَدْ</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-           <ar>أَدْخُلُهَا</ar>
-           <en>I-[shall]enter-it</en>
-         </t>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-           <ar>أُمْنَعُ</ar>
-           <en>I-am-prevented</en>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٤٠٠١">
-      <text>
-         <ar>لَقَدْ رَأَى مِنِّي عَاْمًا أَوَّلَ شَيْئًا حَتَّى لَا أَسْتَطِيْعُ أَنْ أُكَلِّمَهُ الْعَاْمَ بِشَيْءٍ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>لَقَدْ</ar>
-         </t>
-         <t>
-            <ar>رَأَى</ar>
-         </t>
-         <t>
-            <ar>مِنِّي</ar>
-         </t>
-         <t>
-            <ar>عَاْمًا</ar>
-         </t>
-         <t>
-            <ar>أَوَّلَ</ar>
-         </t>
-         <t>
-            <ar>شَيْئًا</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>لَا</ar>
-         </t>
-         <t>
-            <ar>أَسْتَطِيْعُ</ar>
-         </t>
-         <t>
-            <ar>أَنْ</ar>
-         </t>
-         <t>
-            <ar>أُكَلِّمَهُ</ar>
-         </t>
-         <t>
-            <ar>الْعَاْمَ</ar>
-         </t>
-         <t>
-            <ar>بِشَيْءٍ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٧١٣٥٨">
-      <text>
-         <ar>لَقَدْ مَرِضَ حَتَّى لَا يَرْجُوْنَهُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>لَقَدْ</ar>
-         </t>
-         <t>
-            <ar>مَرِضَ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>لَا</ar>
-         </t>
-         <t>
-            <ar>يَرْجُوْنَهُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٠٥٠٠">
-      <text>
-         <ar>شَرِبَتْ حَتَّى يَجِيْءُ الْبَعِيْرُ يَجُرُّ بَطْنَهُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>شَرِبَتْ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>يَجِيْءُ</ar>
-         </t>
-         <t>
-            <ar>الْبَعِيْرُ</ar>
-         </t>
-         <t>
-            <ar>يَجُرُّ</ar>
-         </t>
-         <t>
-            <ar>بَطْنَهُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٤١٢٧">
-      <text>
-         <ar>حَتَّى إِنَّ الْبَعِيْرَ لَيَجِيْءُ يَجُرُّ بَطْنَهُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>إِنَّ</ar>
-         </t>
-         <t>
-            <ar>الْبَعِيْرَ</ar>
-         </t>
-         <t>
-            <ar>لَيَجِيْءُ</ar>
-         </t>
-         <t>
-            <ar>يَجُرُّ</ar>
-         </t>
-         <t>
-            <ar>بَطْنَهُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٨٢٦٧٣">
-      <text>
-         <ar>حَتَّى إِنَّهَ لَيَفْعَلُ ذَاْكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>إِنَّهَ</ar>
-         </t>
-         <t>
-            <ar>لَيَفْعَلُ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٦١٥١">
-      <text>
-         <ar>فَإِذَا إِنَّهُ يَفْعَلُ ذَاْكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>فَإِذَا</ar>
-         </t>
-         <t>
-            <ar>إِنَّهُ</ar>
-         </t>
-         <t>
-            <ar>يَفْعَلُ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٦١١٧">
-      <text>
-         <ar>مَرِضَ حَتَّى يَمُرُّ بِهِ الطَّاْئِرُ فَيَرْحَمُهُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مَرِضَ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>يَمُرُّ</ar>
-         </t>
-         <t>
-            <ar>بِهِ</ar>
-         </t>
-         <t>
-            <ar>الطَّاْئِرُ</ar>
-         </t>
-         <t>
-            <ar>فَيَرْحَمُهُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢١٧٠٩">
-      <text>
-         <ar>سِرْتُ حَتَّى يَعْلَمُ اللهُ أَنِّي كَاْلٌّ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>يَعْلَمُ</ar>
-         </t>
-         <t>
-            <ar>اللهُ</ar>
-         </t>
-         <t>
-            <ar>أَنِّي</ar>
-         </t>
-         <t>
-            <ar>كَاْلٌّ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٨٦٧٧">
-      <text>
-         <ar>لَقَدْ ضُرِبَ أَمْسِ حَتَّى لَا يَسْتَطِيْعُ أَنْ يَتَحَرَّكَ الْيَوْمَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>لَقَدْ</ar>
-         </t>
-         <t>
-            <ar>ضُرِبَ</ar>
-         </t>
-         <t>
-            <ar>أَمْسِ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>لَا</ar>
-         </t>
-         <t>
-            <ar>يَسْتَطِيْعُ</ar>
-         </t>
-         <t>
-            <ar>أَنْ</ar>
-         </t>
-         <t>
-            <ar>يَتَحَرَّكَ</ar>
-         </t>
-         <t>
-            <ar>الْيَوْمَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٠٦٥٥٠">
-      <text>
-         <ar>سِرْتُ فَأَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>فَأَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩١٠١٣">
-      <text>
-         <ar>مَرِضَ حَتَّى لَا يَرْجُوْنَهُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مَرِضَ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>لَا</ar>
-         </t>
-         <t>
-            <ar>يَرْجُوْنَهُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٨٤٨٧٦">
-      <text>
-         <ar>حَتَّى إِنَّهُ الْآنَ لَا يَرُجُوْنَهُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>إِنَّهُ</ar>
-         </t>
-         <t>
-            <ar>الْآنَ</ar>
-         </t>
-         <t>
-            <ar>لَا</ar>
-         </t>
-         <t>
-            <ar>يَرُجُوْنَهُ</ar>
-         </t>
-      </igt>
-   </dictum>
+  <dictum id="٧٩٢٥٥">
+    <text>
+      <ar>سِرْتُ حَتَّى أَدْخُلَهَا</ar>
+      <free>I journeyed until I <ed>could</ed> enter it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلَهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٥٠١٩٨">
+    <text>
+      <ar>سِرْتُ إِلَى أَنْ أَدْخُلَهَا</ar>
+      <free>I journeyed to that I <ed>could</ed> enter it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>إِلَى</ar>
+      </t>
+      <t>
+        <ar>أَنْ</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلَهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٩٥٧٠٨">
+    <text>
+      <ar>كَلَّمْتُهُ حَتَّى يَأْمُرَ لِي بِشَيْءٍ</ar>
+      <free>I spoke <ed>to</ed> him <ed>so</ed> that
+      he order something for me</free>
+    </text>
+    <igt>
+      <t>
+        <en>I spoke to him</en>
+        <ar>كَلَّمْتُهُ</ar>
+        <xlit>kallam-tu-hu</xlit>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <en>he order</en>
+        <ar>يَأْمُرَ</ar>
+        <xlit>yaɁmur<infla/></xlit>
+      </t>
+      <t>
+        <ar>لِي</ar>
+      </t>
+      <t>
+        <en>of something</en>
+        <ar>بِشَيْءٍ</ar>
+        <xlit>bi-šayɁ<inflin/></xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٩٥٧٨٦">
+    <text>
+      <ar>سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>I journeyd until I entered it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="١٧٩٣٣">
+    <text>
+      <ar>سِرْتُ فَأَدْخُلُهَا</ar>
+      <free>I journeyed then entered it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <en>then I enter it</en>
+        <ar>فَأَدْخُلُهَا</ar>
+        <xlit>fa-Ɂadxul<influ/>-hā</xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٧٥٩٣٨">
+    <text>
+      <ar>هُوَ يَدْخُلُ</ar>
+      <free>he enters</free>
+      <alt>he is entering</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>هُوَ</ar>
+      </t>
+      <t>
+        <ar>يَدْخُلُ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٢٢٠٢٨">
+    <text>
+      <ar>هُوَ يَضْرِبُ</ar>
+      <free>he strikes</free>
+      <alt>he is striking</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>هُوَ</ar>
+      </t>
+      <t>
+        <ar>يَضْرِبُ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٧٢٢٧٠">
+    <text>
+      <ar>سِرْتُ فَإِذَا أَنَا فِي حَاْلِ دُخُوْلٍ</ar>
+      <free>I journeyed, then lo I am in a state of entering</free>
+    </text>
+    <igt>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <en>and lo!</en>
+        <ar>فَإِذَا</ar>
+        <xlit>fa-Ɂiðã</xlit>
+     </t>
+      <t>
+        <ar>أَنَا</ar>
+      </t>
+      <t>
+        <ar>فِي</ar>
+      </t>
+      <t>
+        <ar>حَاْلِ</ar>
+      </t>
+      <t>
+        <ar>دُخُوْلٍ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٧٩٨٨٦">
+    <text>
+      <ar>إِذَنْ أَظُنُّكَ</ar>
+      <free>then I think you</free>
+    </text>
+    <igt>
+      <t>
+        <ar>إِذَنْ</ar>
+      </t>
+      <t>
+        <en>I think/deem you</en>
+        <ar>أَظُنُّكَ</ar>
+        <xlit>Ɂaẓunn<influ/>-ka</xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٣٨٢١٦">
+    <text>
+      <ar>لَقَدْ سِرْتُ حَتَّى أَدْخُلُهَا مَا أُمْنَعُ</ar>
+      <free>I have journeyed until I (now) enter it
+      [so long as] not prevented(?)</free>
+    </text>
+    <igt>
+      <t>
+        <en>(perfective particle)</en>
+        <ar>لَقَدْ</ar>
+        <!-- <xlit>la-qad</xlit> -->
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+        <en>I-[shall]enter-it</en>
+      </t>
+      <t>
+        <ar>مَا</ar>
+      </t>
+      <t>
+        <en>I-am-prevented</en>
+        <ar>أُمْنَعُ</ar>
+        <xlit>Ɂumnaʕ<influ/></xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٦٤٠٠١">
+    <text>
+      <ar>لَقَدْ رَأَى مِنِّي عَاْمًا أَوَّلَ شَيْئًا حَتَّى لَا أَسْتَطِيْعُ أَنْ أُكَلِّمَهُ الْعَاْمَ بِشَيْءٍ</ar>
+      <free>He has seen from me last year something, until
+      I cannot talk to him this year about anything</free>
+    </text>
+    <igt>
+      <t>
+        <ar>لَقَدْ</ar>
+      </t>
+      <t>
+        <en>he saw</en>
+        <ar>رَأَى</ar>
+        <xlit>raɁã</xlit>
+      </t>
+      <t>
+        <en>from-me</en>
+        <ar>مِنِّي</ar>
+        <xlit>minnī</xlit>
+      </t>
+      <t>
+        <en>year</en>
+        <ar>عَاْمًا</ar>
+        <xlit>ʕām<inflan/></xlit>
+      </t>
+      <t>
+        <en>previous</en>
+        <ar>أَوَّلَ</ar>
+        <xlit>Ɂawwal<infla/></xlit>
+      </t>
+      <t>
+        <ar>شَيْئًا</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>لَا</ar>
+      </t>
+      <t>
+        <en>I can</en>
+        <ar>أَسْتَطِيْعُ</ar>
+        <xlit>Ɂastaṭīʕ<influ/></xlit>
+      </t>
+      <t>
+        <ar>أَنْ</ar>
+      </t>
+      <t>
+        <ar>أُكَلِّمَهُ</ar>
+        <xlit>Ɂukallim<influ/>-hu</xlit>
+      </t>
+      <t>
+        <ar>الْعَاْمَ</ar>
+        <xlit>_l-Ɂām<infla/></xlit>
+      </t>
+      <t>
+        <ar>بِشَيْءٍ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٧١٣٥٨">
+    <text>
+      <ar>لَقَدْ مَرِضَ حَتَّى لَا يَرْجُوْنَهُ</ar>
+      <free>He sickened until they have no hope <ed>for</ed> him</free>
+      <alt>He sickened so, that they now have no hope for him</alt>
+      <alt>He sickened to the point that they now have no hope for him</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>لَقَدْ</ar>
+      </t>
+      <t>
+        <en>he sickened</en>
+        <ar>مَرِضَ</ar>
+        <xlit>mariḍa</xlit>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>لَا</ar>
+      </t>
+      <t>
+        <ar>يَرْجُوْنَهُ</ar>
+        <xlit>yarj<inflw/>na-hu</xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٤٠٥٠٠">
+    <text>
+      <ar>شَرِبَتْ حَتَّى يَجِيْءُ الْبَعِيْرُ يَجُرُّ بَطْنَهُ</ar>
+      <free>They drank until the camel comes dragging its belly</free>
+    </text>
+    <igt>
+      <t>
+        <en>they drank</en>
+        <ar>شَرِبَتْ</ar>
+        <xlit>šaribat</xlit>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <en>he comes</en>
+        <ar>يَجِيْءُ</ar>
+        <xlit>yajīɁ<influ/></xlit>
+      </t>
+      <t>
+        <en>the camel</en>
+        <ar>الْبَعِيْرُ</ar>
+        <xlit>_l-baʕīr<influ/></xlit>
+      </t>
+      <t>
+        <en>he pulls</en>
+        <ar>يَجُرُّ</ar>
+        <xlit>yajurr<influ/></xlit>
+      </t>
+      <t>
+        <en>his belly</en>
+        <ar>بَطْنَهُ</ar>
+        <xlit>baṭn<infla/>-hu</xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٤٤١٢٧">
+    <text>
+      <ar>حَتَّى إِنَّ الْبَعِيْرَ لَيَجِيْءُ يَجُرُّ بَطْنَهُ</ar>
+      <free>until the camel indeed, it comes dragging its belly</free>
+    </text>
+    <igt>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>إِنَّ</ar>
+      </t>
+      <t>
+        <en>the camel</en>
+        <ar>الْبَعِيْرُ</ar>
+        <xlit>_l-baʕīr<influ/></xlit>
+      </t>
+      <t>
+        <ar>لَيَجِيْءُ</ar>
+        <xlit>la-yajīɁ<influ/></xlit>
+      </t>
+      <t>
+        <en>he pulls</en>
+        <ar>يَجُرُّ</ar>
+        <xlit>yajurr<influ/></xlit>
+      </t>
+      <t>
+        <en>his belly</en>
+        <ar>بَطْنَهُ</ar>
+        <xlit>baṭn<infla/>-hu</xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٨٢٦٧٣">
+    <text>
+      <ar>حَتَّى إِنَّهَ لَيَفْعَلُ ذَاْكَ</ar>
+      <free>until indeed he does that</free>
+    </text>
+    <igt>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <en>he indeed</en>
+        <ar>إِنَّهَ</ar>
+        <xlit>Ɂinna-hu</xlit>
+      </t>
+      <t>
+        <en>he does</en>
+        <ar>لَيَفْعَلُ</ar>
+        <xlit>la-yafʕal<influ/></xlit>
+      </t>
+      <t>
+        <en>that</en>
+        <ar>ذَاْكَ</ar>
+        <xlit>ðāka</xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٦٦١٥١">
+    <text>
+      <ar>فَإِذَا إِنَّهُ يَفْعَلُ ذَاْكَ</ar>
+      <free>then lo! indeed he does that</free>
+    </text>
+    <igt>
+      <t>
+        <en>then lo!</en>
+        <ar>فَإِذَا</ar>
+        <xlit>fa-Ɂiðā</xlit>
+      </t>
+      <t>
+        <ar>إِنَّهُ</ar>
+      </t>
+      <t>
+        <ar>يَفْعَلُ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٢٦١١٧">
+    <text>
+      <ar>مَرِضَ حَتَّى يَمُرُّ بِهِ الطَّاْئِرُ فَيَرْحَمُهُ</ar>
+      <free>He sicked to the point that the sedate/grave
+      pass by him and pity him</free>
+    </text>
+    <igt>
+      <t>
+        <en>he sickened</en>
+        <ar>مَرِضَ</ar>
+        <xlit>mariḍa</xlit>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <en>he passed (by)</en>
+        <ar>يَمُرُّ</ar>
+        <xlit>yamurr<influ/></xlit>
+      </t>
+      <t>
+        <ar>بِهِ</ar>
+      </t>
+      <t>
+        <en>someone grave, sedate</en>
+        <ar>الطَّاْئِرُ</ar>
+        <xlit>_ṭ-ṭāɁir<influ/></xlit>
+      </t>
+      <t>
+        <en>so he pities him</en>
+        <ar>فَيَرْحَمُهُ</ar>
+        <xlit>fa-yarḥam<influ/>-hu</xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٢١٧٠٩">
+    <text>
+      <ar>سِرْتُ حَتَّى يَعْلَمُ اللهُ أَنِّي كَاْلٌّ</ar>
+      <free>I journeyed until, God knows, I am exhausted</free>
+    </text>
+    <igt>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <en>he knows</en>
+        <ar>يَعْلَمُ</ar>
+        <xlit>yaʕlam<influ/></xlit>
+      </t>
+      <t>
+        <ar>اللهُ</ar>
+      </t>
+      <t>
+        <en>that I</en>
+        <ar>أَنِّي</ar>
+        <xlit>Ɂannī</xlit>
+      </t>
+      <t>
+        <en>fatigued</en>
+        <ar>كَاْلٌّ</ar>
+        <xlit>kāll<influn/></xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٩٨٦٧٧">
+    <text>
+      <ar>لَقَدْ ضُرِبَ أَمْسِ حَتَّى لَا يَسْتَطِيْعُ أَنْ يَتَحَرَّكَ الْيَوْمَ</ar>
+      <free>He has been struck yesterday, until he
+      cannot move today</free>
+    </text>
+    <igt>
+      <t>
+        <ar>لَقَدْ</ar>
+      </t>
+      <t>
+        <ar>ضُرِبَ</ar>
+      </t>
+      <t>
+        <ar>أَمْسِ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>لَا</ar>
+      </t>
+      <t>
+        <en>he can</en>
+        <ar>يَسْتَطِيْعُ</ar>
+        <xlit>yastaṭīʕ<influ/></xlit>
+      </t>
+      <t>
+        <ar>أَنْ</ar>
+      </t>
+      <t>
+        <en>he moves</en>
+        <ar>يَتَحَرَّكَ</ar>
+        <xlit>yajaḥarraka</xlit>
+      </t>
+      <t>
+        <ar>الْيَوْمَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٠٦٥٥٠">
+    <text>
+      <ar>سِرْتُ فَأَدْخُلُهَا</ar>
+      <free>I journeyed then I enter it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>فَأَدْخُلُهَا</ar>
+        <xlit>fa-Ɂadxul<influ/>-hā</xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٩١٠١٣">
+    <text>
+      <ar>مَرِضَ حَتَّى لَا يَرْجُوْنَهُ</ar>
+      <free>He sickened until they <ed>now</ed> have no hope <ed>for</ed> him</free>
+    </text>
+    <igt>
+      <t>
+        <en>he sickened</en>
+        <ar>مَرِضَ</ar>
+        <xlit>mariḍa</xlit>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>لَا</ar>
+      </t>
+      <t>
+        <en>they hope for him</en>
+        <ar>يَرْجُوْنَهُ</ar>
+        <xlit>yarj<inflw/>na-hu</xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٨٤٨٧٦">
+    <text>
+      <ar>حَتَّى إِنَّهُ الْآنَ لَا يَرُجُوْنَهُ</ar>
+      <free>until he indeed, now, they hope not <ed>for</ed> him</free>
+      <alt>until it is the case, now, <ed>that</ed> they hope
+      not <ed>for</ed> him</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>إِنَّهُ</ar>
+      </t>
+      <t>
+        <ar>الْآنَ</ar>
+        <xlit>al-Ɂāna</xlit>
+      </t>
+      <t>
+        <ar>لَا</ar>
+      </t>
+      <t>
+        <en>they hope for him</en>
+        <ar>يَرْجُوْنَهُ</ar>
+        <xlit>yarj<inflw/>na-hu</xlit>
+      </t>
+    </igt>
+  </dictum>
 </dicta>
