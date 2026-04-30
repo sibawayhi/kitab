@@ -184,6 +184,9 @@
   <term><key>إِذَا</key> <xlitx>Ɂᵢðᵃā</xlitx>
   <xlit>Ɂiðā</xlit><gloss>when</gloss></term>
 
+  <term><key>إِذَنْ</key> <xlitx>Ɂᵢðᵃn</xlitx>
+  <xlit>Ɂiðan</xlit><gloss>then</gloss></term>
+
   <term>
     <key>الَّذِي</key> <xlitx>_l²ᵃðᵢy</xlitx>
     <xlit>_l-laðī</xlit>
@@ -233,6 +236,10 @@
 
   <term><key>إِلَّا</key> <xlitx>Ɂᵢl&shadda;ᵃā</xlitx>
     <xlit>ˀillā</xlit><gloss>except</gloss>
+  </term>
+
+  <term><key>إِلَى</key> <xlitx>Ɂᵢlᵃā</xlitx>
+    <xlit>Ɂilã</xlit><gloss>to</gloss>
   </term>
 
   <term><key>أَمَّا</key> <xlitx>Ɂᵃm&shadda;ᵃā</xlitx>
@@ -383,7 +390,8 @@
   <term><key>جَعَلْتُ</key> <xlit>jᵃ&AYN;ᵃl°-tᵘ</xlit> <gloss>made-I</gloss></term>
 
   <term><key>جَاْءَ</key> <xlit>jᵃåɁᵃ</xlit> <gloss>came<ed>-he</ed></gloss></term>
-  <term><key>جِئْتُكَ</key> <xlit>jᵢɁ°-tᵘ-kᵃ</xlit> <gloss>came-I-you</gloss></term>
+  <term><key>جِئْتُكَ</key> <xlitx>jᵢɁ°-tᵘ-kᵃ</xlitx>
+  <xlit>jiɁ-tu-ka</xlit><gloss>came-I-you</gloss></term>
 
   <term><key>جَيِّدُ</key> <xlitx>jᵃy&shadda;ᵢd<influ/></xlitx>
   <xlit>jayyid<influ/></xlit><gloss>excellent</gloss></term>
@@ -481,6 +489,8 @@
   <gloss>donkey</gloss></term>
 
   <term><key>حَاْلٍ</key> <xlit>ḥᵃål<inflin/></xlit> <gloss>state<inflin/></gloss></term>
+  <term><key>حَاْلِ</key> <xlitx>ḥᵃål<infli/></xlitx>
+  <xlit>ḥāl<infli/></xlit><gloss>state<infli/></gloss></term>
 
   <!-- harf خ -->
   <term><key>أَخْشَى</key> <xlit>Ɂᵃx°šᵃʎ</xlit> <gloss>I-fear</gloss></term>
@@ -549,16 +559,22 @@
   <xlit>dirham<inflin/></xlit>
   <gloss><ed>a</ed>dirham</gloss></term>
 
+  <term><key>دُخُوْلٍ</key> <xlitx>dᵘxᵘl<inflin/></xlitx>
+  <xlit>duxūl<inflin/></xlit><gloss>entering</gloss></term>
   <term><key>دَخَلْتُ</key> <xlitx>dᵃxᵃl°-tᵘ</xlitx>
   <xlit>daxal-tu</xlit><gloss>entered-I</gloss></term>
   <term><key>أَدْخَلُ</key> <xlit>Ɂᵃd°xᵘl<influ/></xlit> <gloss>I-enter<influ/></gloss></term>
-  <term><key>أَدْخُلُهَا</key> <xlit>Ɂᵃd°xᵘl<influ/>-hᵃå</xlit> <gloss>I-enter<influ/>-it</gloss></term>
-  <term><key>أَدْخُلَهَا</key> <xlit>Ɂᵃd°xᵘl<infla/>-hᵃå</xlit> <gloss>I-[should]-enter<infla/>-it</gloss></term>
+  <term><key>أَدْخُلُهَا</key> <xlitx>Ɂᵃd°xᵘl<influ/>-hᵃå</xlitx>
+  <xlit>Ɂadxul<influ/>-hā</xlit><gloss>I-enter<influ/>-it</gloss></term>
+  <term><key>أَدْخُلَهَا</key> <xlitx>Ɂᵃd°xᵘl<infla/>-hᵃå</xlitx>
+  <xlit>Ɂadxul<infla/>-hā</xlit><gloss>I-[should]-enter<infla/>-it</gloss></term>
   <term><key>وَأَدْخُلَهَا</key> <xlit>wᵃ-Ɂᵃd°xᵘl<infla/>-hᵃå</xlit> <gloss>and-I-[should]-enter<infla/>-it</gloss></term>
   <term><key>يَدْخُلَهَا</key> <xlitx>yᵃd°xᵘl<infla/>-hᵃå</xlitx>
   <xlit>yadẋul<infla/>-hā</xlit><gloss>he-[should]-enter<infla/>-it</gloss></term>
   <term><key>يَدْخُلُهَا</key> <xlitx>yᵃd°xᵘl<influ/>-hᵃå</xlitx>
   <xlit>yadẋul<influ/>-hā</xlit><gloss>he-enters<influ/>-it</gloss></term>
+  <term><key>يَدْخُلُ</key> <xlitx>yᵃd°xᵘl<influ/></xlitx>
+  <xlit>yadxul<influ/></xlit><gloss>he-enters<influ/></gloss></term>
   <term><key>وَيَدْخُلُهَا</key> <xlit>wᵃ-yᵃd°xᵘl<influ/>-hᵃå</xlit> <gloss>and-he-enters<influ/>-it</gloss></term>
 
   <term><key>دَحْرَجْتُهُ</key> <xlitx>dᵃḥ°rᵃj°-tᵘ-hᵘ</xlitx>
@@ -673,7 +689,8 @@
     <key>تَرَ</key> <xlit>tᵃrᵃ</xlit> <gloss>see-you</gloss>
   </term>
   <term>
-    <key>أُرِيْدُ</key> <xlit>Ɂᵘrᵢẙdᵘ</xlit> <gloss>desire-I</gloss>
+    <key>أُرِيْدُ</key> <xlitx>Ɂᵘrᵢẙd<influ/></xlitx>
+    <xlit>Ɂurīd<influ/></xlit><gloss>desire-I</gloss>
   </term>
 
   <term><key>رَمَى</key> <xlitx>rᵃmᵃY</xlitx>
@@ -801,6 +818,13 @@
   <term><key>شَهْرَيْنِ</key> <xlitx>šᵃh°r<infla/>ẙnᵢ</xlitx>
   <xlit>šahr<infla/>yni</xlit>
   <gloss>two-months</gloss></term>
+
+  <term><key>شَيْئًا</key> <xlitx>šᵃy°Ɂ<inflan/></xlitx>
+  <xlit>šayɁ<inflan/></xlit>
+  <gloss>something</gloss></term>
+  <term><key>بِشَيْءٍ</key> <xlitx>bᵢ-šᵃy°Ɂ<inflin/></xlitx>
+  <xlit>bi-šayɁ<inflin/></xlit>
+  <gloss>with-something</gloss></term>
 
   <!-- harf ص -->
   <term>
@@ -993,7 +1017,8 @@
   </term>
 
   <term>
-    <key>الضَّرْبُ</key> <xlit>_-ḍ²ᵃr°b<influ/></xlit> <gloss>the-striking<influ/></gloss>
+    <key>الضَّرْبُ</key> <xlitx>_-ḍ²ᵃr°b<influ/></xlitx>
+    <xlit>_ḍ-ḍarb<influ/></xlit><gloss>the-striking<influ/></gloss>
   </term>
   <term>
     <key>الضَّرْبِ</key> <xlitx>_-ḍ²ᵃr°b<infli/></xlitx>
@@ -1036,7 +1061,8 @@
   <xlit>ḍarab-tu-hu</xlit><gloss>struck-I-him</gloss> <parse>v31.perf</parse></term>
   <term><key>ضُرِبَ</key> <xlitx>ḍᵘrᵢbᵃ</xlitx>
   <xlit>ḍuriba</xlit><gloss>was-struck<ed>-he</ed></gloss> <parse>v31.perf</parse></term>
-  <term><key>أَضْرِبَ</key> <xlit>Ɂᵃḍ°rᵢb<infla/></xlit> <gloss>I_strike<infla/></gloss></term>
+  <term><key>أَضْرِبَ</key> <xlitx>Ɂᵃḍ°rᵢb<infla/></xlitx>
+  <xlit>Ɂaḍrib<infla/></xlit><gloss>I_strike<infla/></gloss></term>
   <term><key>أَضْرِبْ</key> <xlit>Ɂᵃḍ°rᵢb<inflo/></xlit> <gloss>I_strike<inflo/></gloss></term>
   <term><key>أَضْرِبْهُ</key> <xlit>Ɂᵃḍ°rᵢb<inflo/>-hᵘ</xlit> <gloss>I_strike<inflo/>-him</gloss></term>
   <term><key>يَضْرِبُكَ</key> <xlitx>yᵃḍ°rᵢb<influ/>-kᵃ</xlitx>
@@ -1236,7 +1262,8 @@
   <term><key>فَلَا</key> <xlitx>fᵃ-lᵃā</xlitx>
   <xlit>fa-lā</xlit><gloss>then-not</gloss></term>
   <term><key>فَمَنْ</key> <xlit>fᵃ-mᵃn°</xlit> <gloss>so-who</gloss></term>
-  <term><key>فَلَنْ</key> <xlit>fᵃ-lᵃn°</xlit> <gloss>then-not<ed>-that</ed></gloss></term>
+  <term><key>فَلَنْ</key> <xlitx>fᵃ-lᵃn°</xlitx>
+  <xlit>fa-lan</xlit><gloss>then-not<ed>-that</ed></gloss></term>
 
   <term><key>فَرَسٌ</key> <xlitx>fᵃrᵃs<influn/></xlitx>
   <xlit>faras<influn/></xlit><gloss><ed>a</ed> horse</gloss></term>
@@ -1264,8 +1291,10 @@
   <term><key>أَفْعَلُ</key> <xlitx>Ɂᵃf°ʕᵃl<influ/></xlitx>
   <xlit>Ɂafʕal<influ/></xlit><gloss>I-do<influ/></gloss></term>
   <term><key>أَفْعَلَ</key> <xlit>Ɂᵃf°ʕᵃl<infla/></xlit> <gloss>I-<ed>should-</ed>do<infla/></gloss></term>
-  <term><key>يَفْعَلُ</key> <xlit>yᵃf°ʕᵃl<influ/></xlit> <gloss>he-does<influ/></gloss></term>
-  <term><key>يَفْعَلَ</key> <xlit>yᵃf°ʕᵃl<infla/></xlit> <gloss>he-do<infla/></gloss></term>
+  <term><key>يَفْعَلُ</key> <xlitx>yᵃf°ʕᵃl<influ/></xlitx>
+  <xlit>yafʕal<influ/></xlit><gloss>he-does<influ/></gloss></term>
+  <term><key>يَفْعَلَ</key> <xlitx>yᵃf°ʕᵃl<infla/></xlitx>
+  <xlit>yafʕal<infla/></xlit><gloss>he-do<infla/></gloss></term>
   <term><key>تَفْعَلُ</key> <xlitx>tᵃf°ʕᵃl<influ/></xlitx>
   <xlit>tafʕal<influ/></xlit>
   <gloss>you-do<influ/></gloss></term>
@@ -1305,6 +1334,8 @@
   <xlit>qad</xlit><gloss><ed>qad</ed></gloss></term>
   <term><key>فَقَدْ</key> <xlitx>fᵃ-qᵃd°</xlitx>
   <xlit>fa-qad</xlit><gloss><ed>qad</ed></gloss></term>
+  <term><key>لَقَدْ</key> <xlitx>lᵃ-qᵃd°</xlitx>
+  <xlit>la-qad</xlit><gloss><ed>la-qad</ed></gloss></term>
 
   <term><key>قَاْلَ</key> <xlit>qᵃålᵃ</xlit> <gloss>said<ed>-he</ed></gloss></term>
   <term><key>أَقُوْلُ</key> <xlit>Ɂᵃqᵘẘl<influ/></xlit> <gloss>I-say<influ/></gloss></term>
@@ -1475,7 +1506,8 @@
   <xlit>lī</xlit><gloss>for-me</gloss></term>
 
   <term>
-    <key>لِكَيْ</key> <xlit>lᵢ-kᵃẙ</xlit> <gloss>&LFLOOR;in order that&RFLOOR;</gloss>
+    <key>لِكَيْ</key> <xlitx>lᵢ-kᵃẙ</xlitx>
+    <xlit>li-kay</xlit><gloss>&LFLOOR;in order that&RFLOOR;</gloss>
   </term>
   <term>
     <key>لَاْبَسْتُ</key> <xlit>lᵃåbᵃs°-tᵘ</xlit> <gloss>consorted-I</gloss>
