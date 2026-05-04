@@ -3,31 +3,34 @@
    <dictum id="٠٤٨٠٤">
       <text>
          <ar>لَا يَقْطَعِ اللهُ يَمِيْنَكَ</ar>
-         <free/>
+         <free>May God not cut of your oath</free>
       </text>
       <igt>
          <t>
             <ar>لَا</ar>
          </t>
          <t>
-            <ar>يَقْطَعِ</ar>
+           <ar>يَقْطَعِ</ar>
+           <xlit>yaqṭaʕ</xlit>
          </t>
          <t>
             <ar>اللهُ</ar>
          </t>
          <t>
-            <ar>يَمِيْنَكَ</ar>
+           <ar>يَمِيْنَكَ</ar>
+           <xlit>yamīn<infla/>-ka</xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="١٥٩٦٠">
       <text>
          <ar>لَيَجْزِكَ اللهُ خَيْرًا</ar>
-         <free/>
+         <free>May God reward you <ed>with</ed> good</free>
       </text>
       <igt>
          <t>
-            <ar>لَيَجْزِكَ</ar>
+           <ar>لَيَجْزِكَ</ar>
+           <xlit>li-yajz<infli/>-ka</xlit>
          </t>
          <t>
             <ar>اللهُ</ar>
