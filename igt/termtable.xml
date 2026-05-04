@@ -206,6 +206,8 @@
     <xlit>Ɂanta</xlit><gloss>you</gloss>
   </term>
 
+  <term><key>لِأَنْ</key> <xlitx>lᵢ-Ɂᵃn°</xlitx>
+  <xlit>li-Ɂan</xlit><gloss>so that</gloss></term>
   <term><key>أَنْ</key> <xlitx>Ɂᵃn°</xlitx>
   <xlit>Ɂan</xlit><gloss>that</gloss></term>
   <term><key>أَنَّ</key> <xlitx>Ɂᵃn²ᵃ</xlitx>
@@ -271,7 +273,8 @@
   <xlit>Ɂay&shadda;<infla/>-mā</xlit>
   <gloss>what a </gloss></term>
 
-  <term><key>إِيَّاْكَ</key> <xlit>Ɂᵢy&shadda;ᵃå-kᵃ</xlit> <gloss>thee</gloss></term>
+  <term><key>إِيَّاْكَ</key> <xlitx>Ɂᵢy&shadda;ᵃå-kᵃ</xlitx>
+  <xlit>Ɂiyyā-ka</xlit><gloss>thee</gloss></term>
   <term><key>أَيْنَ</key> <xlit>Ɂᵃy°nᵃ</xlit> <gloss>where</gloss></term>
 
   <term><key>أَوَّلُ</key> <xlitx>Ɂᵃw&shadda;ᵃl<influ/></xlitx>
@@ -748,9 +751,12 @@
   <xlit>sayr<inflan/></xlit>
   <gloss>journeying<influn/></gloss></term>
 
-  <term><key>سَقَاْكَ</key> <xlitx>sᵃqᵃ-kᵃ</xlitx>
+  <term><key>سَقَاْكَ</key> <xlitx>sᵃqᵃå-kᵃ</xlitx>
   <xlit>saqā-ka</xlit>
   <gloss>he watered you</gloss></term>
+  <term><key>سَقَاْهُ</key> <xlitx>sᵃqᵃå-hᵘ</xlitx>
+  <xlit>saqā-hu</xlit>
+  <gloss>he watered him</gloss></term>
   <term><key>سَقْيًا</key> <xlitx>sᵃqy<inflan/></xlitx>
   <xlit>saqy<inflan/></xlit>
   <gloss>watering<inflan/></gloss></term>
@@ -950,7 +956,8 @@
   <term><key>انْطَلَقَ</key> <xlitx>_n°ṭᵃlᵃqᵃ</xlitx>
   <xlit>_nṭalaqa</xlit> <gloss>departed<ed>-he</ed></gloss></term>
   <term><key>انْطَلَقْتُ</key> <xlit>_n°ṭᵃlᵃq°-tᵘ</xlit> <gloss>departed-I</gloss></term>
-  <term><key>اِنْطَلَقْتُ</key> <xlit>ᵢn°ṭᵃlᵃq°-tᵘ</xlit> <gloss>departed-I</gloss></term>
+  <term><key>اِنْطَلَقْتُ</key> <xlitx>ᵢn°ṭᵃlᵃq°-tᵘ</xlitx>
+  <xlit>_nṭalaq-tu</xlit><gloss>departed-I</gloss></term>
   <term><key>يَنْطَلِقُ</key> <xlit>yᵃn°ṭᵃlᵢq<influ/></xlit> <gloss>he-departs<influ/></gloss></term>
 
   <term><key>الطَّوِيْلُ</key> <xlit>ـ-ṭ&shadda;ᵃwᵢẙl<influ/></xlit> <gloss>the-tall<ed>one</ed><influ/></gloss></term>
@@ -1270,6 +1277,12 @@
 
   <term><key>تَفْرُغُ</key> <xlit>tᵃf°rᵘgu<influ/></xlit> <gloss>you-became-free<influ/></gloss></term>
 
+  <term><key>الْفِعْلُ</key> <xlitx>_l-fᵢʕ°l<influ/></xlitx>
+  <xlit>_l-fiʕl<influ/></xlit>
+  <gloss>the action</gloss></term>
+  <term><key>الْفِعْلِ</key> <xlitx>_l-fᵢʕ°l<infli/></xlitx>
+  <xlit>_l-fiʕl<infli/></xlit>
+  <gloss>the action</gloss></term>
   <term><key>فِعْلٌ</key> <xlitx>fᵢʕ°l<influn/></xlitx>
   <xlit>fiʕl<influn/></xlit>
   <gloss>action</gloss></term>
@@ -1281,16 +1294,20 @@
   <gloss>action</gloss></term>
 
   <term>
-    <key>فِعْلَكَ</key> <xlit>fᵢʕ°lᵃ-kᵃ<infla/></xlit> <gloss><ed>the</ed>action<ed>of</ed>you</gloss>
+    <key>فِعْلَكَ</key> <xlitx>fᵢʕ°l<infla/>-kᵃ</xlitx>
+    <xlit>fiʕl<infla/>-ka</xlit><gloss><ed>the</ed>action<ed>of</ed>you</gloss>
   </term>
 
-  <term><key>فَعَلَ</key> <xlit>fᵃʕᵃlᵃ<infla/></xlit> <gloss>did<ed>-he</ed></gloss></term>
+  <term><key>فَعَلَ</key> <xlitx>fᵃʕᵃlᵃ<infla/></xlitx>
+  <xlit>faʕala</xlit><gloss>did<ed>-he</ed></gloss></term>
 
   <term><key>فَعَلْتُ</key> <xlitx>fᵃʕᵃl°-tᵘ</xlitx>
   <xlit>faʕal-tu</xlit><gloss>did-I</gloss></term>
   <term><key>أَفْعَلُ</key> <xlitx>Ɂᵃf°ʕᵃl<influ/></xlitx>
   <xlit>Ɂafʕal<influ/></xlit><gloss>I-do<influ/></gloss></term>
   <term><key>أَفْعَلَ</key> <xlit>Ɂᵃf°ʕᵃl<infla/></xlit> <gloss>I-<ed>should-</ed>do<infla/></gloss></term>
+  <term><key>سَيَفْعَلُ</key> <xlitx>sᵃ-yᵃf°ʕᵃl<influ/></xlitx>
+  <xlit>sa-yafʕal<influ/></xlit><gloss>he-does<influ/></gloss></term>
   <term><key>يَفْعَلُ</key> <xlitx>yᵃf°ʕᵃl<influ/></xlitx>
   <xlit>yafʕal<influ/></xlit><gloss>he-does<influ/></gloss></term>
   <term><key>يَفْعَلَ</key> <xlitx>yᵃf°ʕᵃl<infla/></xlitx>
@@ -1302,10 +1319,17 @@
   <xlit>tafʕal<infla/></xlit>
   <gloss>you-do<infla/></gloss></term>
 
-  <term><key>لِتَفْعَلَ</key> <xlit>lᵢ-tᵃf°ʕᵃl<infla/></xlit> <gloss>for-<ed>that-</ed>you-do<infla/></gloss></term>
+  <term><key>لَتَفْعَلَنَّ</key> <xlitx>lᵃ-tᵃf°ʕᵃlᵃn;shadda;ᵃ</xlitx>
+  <xlit>la-tafʕalanna</xlit><gloss><ed>that-</ed>you-do (oath)</gloss></term>
+  <term><key>لِتَفْعَلَ</key> <xlitx>lᵢ-tᵃf°ʕᵃl<infla/></xlitx>
+  <xlit>li-tafʕal<infla/></xlit><gloss>for-<ed>that-</ed>you-do<infla/></gloss></term>
+  <term><key>لِيَفْعَلَ</key> <xlitx>lᵢ-yᵃf°ʕᵃl<infla/></xlitx>
+  <xlit>li-yafʕal<infla/></xlit><gloss>for-<ed>that-</ed>you-do<infla/></gloss></term>
   <term><key>فَاْعِلٌ</key> <xlit>fᵃåʕᵢl<influn/></xlit> <gloss>doing<influn/></gloss></term>
   <term><key>فَاْعِلًا</key> <xlit>fᵃåʕᵢl<inflan/></xlit> <gloss>doing<inflan/></gloss></term>
-  <term><key>الْفَاْعِلُ</key> <xlit>_l°-fᵃåʕᵢl<influ/></xlit> <gloss>the-doer<influ/></gloss></term>
+  <term><key>الْفَاْعِلُ</key> <xlitx>_l°-fᵃåʕᵢl<influ/></xlitx>
+  <xlit>_l-fāʕil<influ/></xlit>
+  <gloss>the-doer<influ/></gloss></term>
 
   <term><key>فُلَاْنُ</key> <xlitx>fᵘlᵃån<influ/></xlitx>
   <xlit>fulān<influ/></xlit><gloss>somebody<influ/></gloss></term>
@@ -1446,7 +1470,7 @@
   <term>
     <key>كَيْ</key> <xlitx>kᵃẙ</xlitx>
     <xlit>kay</xlit>
-    <gloss>&LFLOOR;<ed>in order</ed> that&RFLOOR;</gloss>
+    <gloss><ed>so</ed> that</gloss>
   </term>
 
   <term>
@@ -1494,6 +1518,10 @@
   <!-- harf ل -->
   <term><key>لَا</key> <xlitx>lᵃā</xlitx>
   <xlit>lā</xlit><gloss>not</gloss></term>
+  <term><key>لَمْ</key> <xlitx>lᵃm°</xlitx>
+  <xlit>lam</xlit><gloss>past neg. particle</gloss></term>
+  <term><key>لَنْ</key> <xlitx>lᵃn°</xlitx>
+  <xlit>lan</xlit><gloss>will-not</gloss></term>
   <term><key>لَوْ</key> <xlitx>lᵃw°</xlitx>
   <xlit>law</xlit><gloss>if</gloss></term>
   <term>
@@ -1650,6 +1678,8 @@
   <term><key>هُم</key> <xlitx>hᵘm</xlitx>
   <xlit>hum</xlit><gloss>they</gloss></term>
 
+  <term><key>لِهٰذَا</key> <xlitx>lᵢ-hᴬðᵃā</xlitx>
+  <xlit>li-hāðă</xlit><gloss>for this</gloss></term>
   <term><key>هٰذَا</key> <xlitx>hᴬðᵃā</xlitx>
   <xlit>hāðă</xlit><gloss>this</gloss></term>
   <term><key>هٰذَاْنِ</key> <xlitx>hᴬðᵃāni</xlitx>
