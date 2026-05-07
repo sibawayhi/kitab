@@ -1,487 +1,509 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="236">
-   <dictum id="٤٩٤٢٦">
-      <text>
-         <ar>يَقُوْلُ زَيْدٌ ذَاْكَ</ar>
-         <free>He says that, Zayd</free>
-      </text>
-      <igt>
-         <t>
-            <ar>يَقُوْلُ</ar>
-         </t>
-         <t>
-            <ar>زَيْدٌ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٩٩٠٩">
-      <text>
-         <ar>زَيْدٌ يَقُوْلُ ذَاْكَ</ar>
-         <free>Zayd says that</free>
-      </text>
-      <igt>
-         <t>
-            <ar>زَيْدٌ</ar>
-         </t>
-         <t>
-            <ar>يَقُوْلُ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٨٣٥٦">
-      <text>
-         <ar>مَرَرْتُ بِرَجُلٍ يَقُوْلُ ذَاْكَ</ar>
-         <free>I passed by a man saying that</free>
-      </text>
-      <igt>
-         <t>
-            <ar>مَرَرْتُ</ar>
-         </t>
-         <t>
-            <ar>بِرَجُلٍ</ar>
-         </t>
-         <t>
-            <ar>يَقُوْلُ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٢٤٣٣">
-      <text>
-         <ar>هٰذَا يَوْمُ آتِيْكَ</ar>
-         <free>This is the day of my coming to you</free>
-      </text>
-      <igt>
-         <t>
-            <ar>هٰذَا</ar>
-         </t>
-         <t>
-            <ar>يَوْمُ</ar>
-         </t>
-         <t>
-            <ar>آتِيْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٣٩٠٥">
-      <text>
-         <ar>هٰذَا زَيْدٌ يَقُوْلُ ذَاْكَ</ar>
-         <free>This is Zayd saying that</free>
-      </text>
-      <igt>
-         <t>
-            <ar>هٰذَا</ar>
-         </t>
-         <t>
-            <ar>زَيْدٌ</ar>
-         </t>
-         <t>
-            <ar>يَقُوْلُ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٨٩٥٨٨">
-      <text>
-         <ar>هٰذَا رَجُلٌ يَقُوْلُ ذَاْكَ</ar>
-         <free>This is a man saying that</free>
-      </text>
-      <igt>
-         <t>
-            <ar>هٰذَا</ar>
-         </t>
-         <t>
-            <ar>رَجُلٌ</ar>
-         </t>
-         <t>
-            <ar>يَقُوْلُ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٠٢٨٠٦">
-      <text>
-         <ar>حَسِبْتُهُ يَنْطَلِقُ</ar>
-         <free>I reckoned him departing</free>
-      </text>
-      <igt>
-         <t>
-            <ar>حَسِبْتُهُ</ar>
-         </t>
-         <t>
-            <ar>يَنْطَلِقُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٠٨٠٤">
-      <text>
-         <ar>هَلَّا يَقُوْلُ زَيْدٌ ذَاْكَ</ar>
-         <free>Wherefore will Zayd not do that?</free>
-      </text>
-      <igt>
-         <t>
-            <ar>هَلَّا</ar>
-         </t>
-         <t>
-            <ar>يَقُوْلُ</ar>
-         </t>
-         <t>
-            <ar>زَيْدٌ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-      <sidecomment>
-        Lane, article <ar>ألا</ar>, says <ar>أَلَّا</ar> and <ar>هَلَّا</ar> are synonyms, and glosses
-        <ar>أَلَّا تَفْعَلُ كَذَا</ar> as “Wherefore wilt thou not do such a thing?”
-      </sidecomment>
-   </dictum>
-   <dictum id="٦٤٧٩٠">
-      <text>
-         <ar>يَقُوْلُ زَيْدٌ ذَاْكَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>يَقُوْلُ</ar>
-         </t>
-         <t>
-            <ar>زَيْدٌ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٤٦٠٣">
-      <text>
-         <ar>اِئْتِنِي بَعْدَ مَا تَفْرُغُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>اِئْتِنِي</ar>
-         </t>
-         <t>
-            <ar>بَعْدَ</ar>
-         </t>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-            <ar>تَفْرُغُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥٣٦٩٤">
-      <text>
-         <ar>كُدْتُ أَفْعَلُ ذَاْكَ</ar>
-         <free>I verged on doing that</free>
-      </text>
-      <igt>
-         <t>
-            <ar>كُدْتُ</ar>
-         </t>
-         <t>
-            <ar>أَفْعَلُ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٤٤٠١">
-      <text>
-         <ar>كُدْتَ تَفْرُغُ</ar>
-         <free>You verged on being unoccupied</free>
-         <alt>You almost died</alt>
-      </text>
-      <igt>
-         <t>
-            <ar>كُدْتَ</ar>
-         </t>
-         <t>
-            <ar>تَفْرُغُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٣١٣٥">
-      <text>
-         <ar>عَسَى يَفْعَلُ ذَاْكَ</ar>
-         <free>He is near to doing that</free>
-      </text>
-      <igt>
-         <t>
-            <ar>عَسَى</ar>
-         </t>
-         <t>
-            <ar>يَفْعَلُ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤١٩٤٧">
-      <text>
-         <ar>بَلَغَنِي أَنَّ زَيْدًا جَاْءَ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>بَلَغَنِي</ar>
-         </t>
-         <t>
-            <ar>أَنَّ</ar>
-         </t>
-         <t>
-            <ar>زَيْدًا</ar>
-         </t>
-         <t>
-            <ar>جَاْءَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٧٢٢٤">
-      <text>
-         <ar>لَوْ أَنَّ زَيْدًا جَاْءَ لَكَاْنَ كَذَا وَكَذَا</ar>
-         <free>If Zayd had come it would have been such-and-such</free>
-         <alt>If Zayd had come it then such-and-such would have been</alt>
-      </text>
-      <igt>
-         <t>
-            <ar>لَوْ</ar>
-         </t>
-         <t>
-            <ar>أَنَّ</ar>
-         </t>
-         <t>
-            <ar>زَيْدًا</ar>
-         </t>
-         <t>
-            <ar>جَاْءَ</ar>
-         </t>
-         <t>
-            <ar>لَكَاْنَ</ar>
-         </t>
-         <t>
-            <ar>كَذَا</ar>
-         </t>
-         <t>
-            <ar>وَكَذَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥٢١٦٨">
-      <text>
-         <ar>مَا أَحْسَنَ زَيْدًا</ar>
-         <free>How handsome Zayd is!</free>
-      </text>
-      <igt>
-         <t>
-           <ar>مَا</ar>
-           <en>Something</en>
-         </t>
-         <t>
-           <ar>أَحْسَنَ</ar>
-           <en>made-handsome</en>
-         </t>
-         <t>
-            <ar>زَيْدًا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٢٣٦٨">
-      <text>
-         <ar>قَدْ جَعَلَ يَقُوْلُ ذَاْكَ</ar>
-         <free>He had begun to say that</free>
-      </text>
-      <igt>
-         <t>
-            <ar>قَدْ</ar>
-         </t>
-         <t>
-            <ar>جَعَلَ</ar>
-            <en>commenced<ed>-he</ed></en>
-         </t>
-         <t>
-            <ar>يَقُوْلُ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١١١٨٦">
-      <text>
-         <ar>صَاْرَ يَقُوْلُ ذَاْكَ</ar>
-         <free>He began to say that</free>
-      </text>
-      <igt>
-         <t>
-            <ar>صَاْرَ</ar>
-            <en>set-about<ed>-he</ed></en>
-         </t>
-         <t>
-            <ar>يَقُوْلُ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٥٩٣٤">
-      <text>
-         <ar>خَلِيْقٌ أَنْ يَقُوْلَ ذَاْكَ</ar>
-         <free><ed>he is</ed> disposed to say that</free>
-      </text>
-      <igt>
-         <t>
-            <ar>خَلِيْقٌ</ar>
-           <en>disposed</en>
-         </t>
-         <t>
-            <ar>أَنْ</ar>
-         </t>
-         <t>
-            <ar>يَقُوْلَ</ar>
-         </t>
-         <t>
-            <ar>ذَاْكَ</ar>
-         </t>
-      </igt>
-      <sidecomment>
-        Lane: <ar>إِنَّهُ لَخَلِيْقٌ أَنْ يَفْعَلَ ذٰلِكَ</ar>: Verily he is adapted or disposed etc. for doing that; or worthy to do it.
-      </sidecomment>
-   </dictum>
-   <dictum id="٨١٠٠٠">
-      <text>
-         <ar>قَاْرَبَ أَنْ لَا يَفْعَلَ</ar>
-         <free>He came near to not doing</free>
-      </text>
-      <igt>
-         <t>
-            <ar>قَاْرَبَ</ar>
-         </t>
-         <t>
-            <ar>أَنْ</ar>
-         </t>
-         <t>
-            <ar>لَا</ar>
-         </t>
-         <t>
-            <ar>يَفْعَلَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٠٢١٠٥">
-      <text>
-         <ar>عَسَى أَنْ يَفْعَلَ</ar>
-         <free>He is near to doing</free>
-      </text>
-      <igt>
-         <t>
-            <ar>عَسَى</ar>
-         </t>
-         <t>
-            <ar>أَنْ</ar>
-         </t>
-         <t>
-            <ar>يَفْعَلَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥١٣٧٨">
-      <text>
-         <ar>كُدْتُ أَنْ أَفْعَلَ</ar>
-         <free>I almost did</free>
-      </text>
-      <igt>
-         <t>
-            <ar>كُدْتُ</ar>
-         </t>
-         <t>
-            <ar>أَنْ</ar>
-         </t>
-         <t>
-            <ar>أَفْعَلَ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٨٨٨٧٦">
-      <text>
-         <ar>كَاْنَ فَاْعِلًا</ar>
-         <free>He was doing</free>
-      </text>
-      <igt>
-         <t>
-            <ar>كَاْنَ</ar>
-         </t>
-         <t>
-           <ar>فَاْعِلًا</ar>
-           <en>doing<inflan/></en>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٠٠٤٧">
-      <text>
-         <ar>يَكُوْنُ فَاْعِلًا</ar>
-         <free>He is doing</free>
-      </text>
-      <igt>
-         <t>
-           <ar>يَكُوْنُ</ar>
-         </t>
-         <t>
-           <ar>فَاْعِلًا</ar>
-           <en>doing<inflan/></en>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٧٨٧٨">
-      <text>
-         <ar>جَعَلَ يَقُوْلُ</ar>
-         <free>He began saying</free>
-      </text>
-      <igt>
-         <t>
-            <ar>جَعَلَ</ar>
-           <en>commenced<ed>-he</ed></en>
-         </t>
-         <t>
-            <ar>يَقُوْلُ</ar>
-           <en>he-saying<influ/></en>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٢٠٨٨">
-      <text>
-         <ar>أَخَذَ يَقُوْلُ</ar>
-         <free>He began saying</free>
-         <alt>He took to saying</alt>
-      </text>
-      <igt>
-         <t>
-            <ar>أَخَذَ</ar>
-           <en>took<ed>-he</ed></en>
-         </t>
-         <t>
-            <ar>يَقُوْلُ</ar>
-           <en>he-saying<influ/></en>
-         </t>
-      </igt>
-   </dictum>
+  <dictum id="٤٩٤٢٦">
+    <text>
+      <ar>يَقُوْلُ زَيْدٌ ذَاْكَ</ar>
+      <free>Zayd says that</free>
+      <alt>He says, Zayd, that</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>يَقُوْلُ</ar>
+      </t>
+      <t>
+        <ar>زَيْدٌ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="١٩٩٠٩">
+    <text>
+      <ar>زَيْدٌ يَقُوْلُ ذَاْكَ</ar>
+      <free>Zayd says that</free>
+      <alt>Zayd, he says that</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>زَيْدٌ</ar>
+      </t>
+      <t>
+        <ar>يَقُوْلُ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٦٨٣٥٦">
+    <text>
+      <ar>مَرَرْتُ بِرَجُلٍ يَقُوْلُ ذَاْكَ</ar>
+      <free>I passed by a man saying that</free>
+      <alt>I passed by a man, he says that</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>مَرَرْتُ</ar>
+      </t>
+      <t>
+        <ar>بِرَجُلٍ</ar>
+      </t>
+      <t>
+        <ar>يَقُوْلُ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٣٢٤٣٣">
+    <text>
+      <ar>هٰذَا يَوْمُ آتِيْكَ</ar>
+      <free>This day I will come to you</free>
+      <alt>This is the day I will come to you</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>هٰذَا</ar>
+      </t>
+      <t>
+        <ar>يَوْمُ</ar>
+        <xlit>yawm<influ/></xlit>
+      </t>
+      <t>
+        <ar>آتِيْكَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٣٣٩٠٥">
+    <text>
+      <ar>هٰذَا زَيْدٌ يَقُوْلُ ذَاْكَ</ar>
+      <free>This, Zayd, is saying that</free>
+      <alt>This is Zayd, saying that</alt>
+      <alt>This, Zayd, he says that</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>هٰذَا</ar>
+      </t>
+      <t>
+        <ar>زَيْدٌ</ar>
+      </t>
+      <t>
+        <ar>يَقُوْلُ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٨٩٥٨٨">
+    <text>
+      <ar>هٰذَا رَجُلٌ يَقُوْلُ ذَاْكَ</ar>
+      <free>This is a man saying that</free>
+      <alt>This is a man, he says that</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>هٰذَا</ar>
+      </t>
+      <t>
+        <ar>رَجُلٌ</ar>
+      </t>
+      <t>
+        <ar>يَقُوْلُ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٠٢٨٠٦">
+    <text>
+      <ar>حَسِبْتُهُ يَنْطَلِقُ</ar>
+      <free>I reckoned him departing</free>
+      <alt>I reckoned him, he will depart</alt>
+      <alt>I reckoned he was departing</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>حَسِبْتُهُ</ar>
+      </t>
+      <t>
+        <ar>يَنْطَلِقُ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="١٠٨٠٤">
+    <text>
+      <ar>هَلَّا يَقُوْلُ زَيْدٌ ذَاْكَ</ar>
+      <free>Wherefore will Zayd not say that?</free>
+      <alt>Wherefore not he says, Zayd, that?</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>هَلَّا</ar>
+      </t>
+      <t>
+        <ar>يَقُوْلُ</ar>
+      </t>
+      <t>
+        <ar>زَيْدٌ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+    <sidecomment>
+      Lane, article <ar>ألا</ar>, says <ar>أَلَّا</ar> and <ar>هَلَّا</ar> are synonyms, and glosses
+      <ar>أَلَّا تَفْعَلُ كَذَا</ar> as “Wherefore wilt thou not do such a thing?”
+    </sidecomment>
+  </dictum>
+  <dictum id="٦٤٧٩٠">
+    <text>
+      <ar>يَقُوْلُ زَيْدٌ ذَاْكَ</ar>
+      <free>Zayd says that</free>
+      <alt>He says, Zayd, that</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>يَقُوْلُ</ar>
+      </t>
+      <t>
+        <ar>زَيْدٌ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٦٤٦٠٣">
+    <text>
+      <ar>اِئْتِنِي بَعْدَ مَا تَفْرُغُ</ar>
+      <free>Come to me after you are free</free>
+      <alt>Come to me after you have finished</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>اِئْتِنِي</ar>
+      </t>
+      <t>
+        <ar>بَعْدَ</ar>
+      </t>
+      <t>
+        <ar>مَا</ar>
+      </t>
+      <t>
+        <ar>تَفْرُغُ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٥٣٦٩٤">
+    <text>
+      <ar>كُدْتُ أَفْعَلُ ذَاْكَ</ar>
+      <free>I verged on doing that</free>
+    </text>
+    <igt>
+      <t>
+        <ar>كُدْتُ</ar>
+      </t>
+      <t>
+        <ar>أَفْعَلُ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٢٤٤٠١">
+    <text>
+      <ar>كِدْتَ تَفْرُغُ</ar>
+      <free>You verged on being unoccupied</free>
+      <alt>You almost finished</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>كِدْتَ</ar>
+      </t>
+      <t>
+        <ar>تَفْرُغُ</ar>
+      </t>
+    </igt>
+  </dictum>
+
+  <dictum id="١٣١٣٥">
+    <text>
+      <ar>عَسَى يَفْعَلُ ذَاْكَ</ar>
+      <free>He is near to doing that</free>
+      <alt>Perhaps he is doing that</alt>
+      <alt>I hope he is doing that</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>عَسَى</ar>
+      </t>
+      <t>
+        <ar>يَفْعَلُ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٤١٩٤٧">
+    <text>
+      <ar>بَلَغَنِي أَنَّ زَيْدًا جَاْءَ</ar>
+      <free>It reached me that Zayd came</free>
+    </text>
+    <igt>
+      <t>
+        <ar>بَلَغَنِي</ar>
+      </t>
+      <t>
+        <ar>أَنَّ</ar>
+      </t>
+      <t>
+        <ar>زَيْدًا</ar>
+      </t>
+      <t>
+        <ar>جَاْءَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٤٧٢٢٤">
+    <text>
+      <ar>لَوْ أَنَّ زَيْدًا جَاْءَ لَكَاْنَ كَذَا وَكَذَا</ar>
+      <free>If Zayd had come it would have been such-and-such</free>
+      <alt>If Zayd had come it then such-and-such would have been</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>لَوْ</ar>
+      </t>
+      <t>
+        <ar>أَنَّ</ar>
+      </t>
+      <t>
+        <ar>زَيْدًا</ar>
+      </t>
+      <t>
+        <ar>جَاْءَ</ar>
+      </t>
+      <t>
+        <ar>لَكَاْنَ</ar>
+      </t>
+      <t>
+        <ar>كَذَا</ar>
+      </t>
+      <t>
+        <ar>وَكَذَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٥٢١٦٨">
+    <text>
+      <ar>مَا أَحْسَنَ زَيْدًا</ar>
+      <free>How handsome Zayd is!</free>
+      <alt>How good Zayd is!</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>مَا</ar>
+        <en>Something</en>
+      </t>
+      <t>
+        <ar>أَحْسَنَ</ar>
+        <en>made-handsome</en>
+      </t>
+      <t>
+        <ar>زَيْدًا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٢٢٣٦٨">
+    <text>
+      <ar>قَدْ جَعَلَ يَقُوْلُ ذَاْكَ</ar>
+      <free>He had begun to say that</free>
+    </text>
+    <igt>
+      <t>
+        <ar>قَدْ</ar>
+      </t>
+      <t>
+        <ar>جَعَلَ</ar>
+        <en>commenced<ed>-he</ed></en>
+      </t>
+      <t>
+        <ar>يَقُوْلُ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="١١١٨٦">
+    <text>
+      <ar>صَاْرَ يَقُوْلُ ذَاْكَ</ar>
+      <free>He began to say that</free>
+    </text>
+    <igt>
+      <t>
+        <ar>صَاْرَ</ar>
+        <en>set-about<ed>-he</ed></en>
+      </t>
+      <t>
+        <ar>يَقُوْلُ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٦٥٩٣٤">
+    <text>
+      <ar>خَلِيْقٌ أَنْ يَقُوْلَ ذَاْكَ</ar>
+      <free><ed>He is</ed> disposed to say that</free>
+    </text>
+    <igt>
+      <t>
+        <en>disposed</en>
+        <ar>خَلِيْقٌ</ar>
+        <xlit>xalīq<influn/></xlit>
+      </t>
+      <t>
+        <ar>أَنْ</ar>
+      </t>
+      <t>
+        <ar>يَقُوْلَ</ar>
+      </t>
+      <t>
+        <ar>ذَاْكَ</ar>
+      </t>
+    </igt>
+    <sidecomment>
+      Lane: <ar>إِنَّهُ لَخَلِيْقٌ أَنْ يَفْعَلَ ذٰلِكَ</ar>: Verily he is adapted or disposed etc. for doing that; or worthy to do it.
+    </sidecomment>
+  </dictum>
+  <dictum id="٨١٠٠٠">
+    <text>
+      <ar>قَاْرَبَ أَنْ لَا يَفْعَلَ</ar>
+      <free>He came near to not doing</free>
+    </text>
+    <igt>
+      <t>
+        <en>He approached</en>
+        <ar>قَاْرَبَ</ar>
+        <xlit>qāraba</xlit>
+      </t>
+      <t>
+        <ar>أَنْ</ar>
+      </t>
+      <t>
+        <ar>لَا</ar>
+      </t>
+      <t>
+        <ar>يَفْعَلَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٠٢١٠٥">
+    <text>
+      <ar>عَسَى أَنْ يَفْعَلَ</ar>
+      <free>He is near to doing</free>
+    </text>
+    <igt>
+      <t>
+        <ar>عَسَى</ar>
+      </t>
+      <t>
+        <ar>أَنْ</ar>
+      </t>
+      <t>
+        <ar>يَفْعَلَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٥١٣٧٨" j="?">
+    <text>
+      <ar>كُدْتُ أَنْ أَفْعَلَ</ar>
+      <free>I almost that I did</free>
+    </text>
+    <igt>
+      <t>
+        <ar>كُدْتُ</ar>
+      </t>
+      <t>
+        <ar>أَنْ</ar>
+      </t>
+      <t>
+        <ar>أَفْعَلَ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٨٨٨٧٦">
+    <text>
+      <ar>كَاْنَ فَاْعِلًا</ar>
+      <free>He was doing</free>
+    </text>
+    <igt>
+      <t>
+        <ar>كَاْنَ</ar>
+      </t>
+      <t>
+        <ar>فَاْعِلًا</ar>
+        <en>doing<inflan/></en>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٩٠٠٤٧">
+    <text>
+      <ar>يَكُوْنُ فَاْعِلًا</ar>
+      <free>He is doing</free>
+      <alt>He will be doing</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>يَكُوْنُ</ar>
+      </t>
+      <t>
+        <ar>فَاْعِلًا</ar>
+        <en>doing<inflan/></en>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="١٧٨٧٨">
+    <text>
+      <ar>جَعَلَ يَقُوْلُ</ar>
+      <free>He began saying</free>
+      <alt>He made to say</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>جَعَلَ</ar>
+        <en>made<ed>-he</ed></en>
+      </t>
+      <t>
+        <ar>يَقُوْلُ</ar>
+        <en>he-saying<influ/></en>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٦٢٠٨٨">
+    <text>
+      <ar>أَخَذَ يَقُوْلُ</ar>
+      <free>He began saying</free>
+      <alt>He took to saying</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>أَخَذَ</ar>
+        <en>took<ed>-he</ed></en>
+      </t>
+      <t>
+        <ar>يَقُوْلُ</ar>
+        <en>he-saying<influ/></en>
+      </t>
+    </igt>
+  </dictum>
 </dicta>
