@@ -3,7 +3,7 @@
    <dictum id="٠٧٩٤١">
       <text>
          <ar>إِذَنْ أَجِيْئَكَ</ar>
-         <free/>
+         <free>then I (should) come <ed>to</ed> you</free>
       </text>
       <igt>
          <t>
@@ -17,7 +17,7 @@
    <dictum id="٤٦٩٦٠">
       <text>
          <ar>إِذَنْ آتِيَكَ</ar>
-         <free/>
+         <free>then I (should) come <ed>to</ed> you</free>
       </text>
       <igt>
          <t>
@@ -30,8 +30,9 @@
    </dictum>
    <dictum id="٠٧٨٠٦">
       <text>
-         <ar>إِذَنْ وَاللهِ أَجِيْئَك</ar>
-         <free/>
+         <ar>إِذَنْ وَاللهِ أَجِيْئَكَ</ar>
+         <free>Then, by God, I (should) come to you</free>
+         <alt>In that case, by God, I (should) come to you</alt>
       </text>
       <igt>
          <t>
@@ -41,14 +42,15 @@
             <ar>وَاللهِ</ar>
          </t>
          <t>
-            <ar>أَجِيْئَك</ar>
+            <ar>أَجِيْئَكَ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٥٣٤٢٨">
       <text>
          <ar>أُرَى وَاللهِ زَيْدًا فَاْعِلًا</ar>
-         <free/>
+         <free>I am made to see, by God, that Zayd is doing</free>
+         <alt>It looks to me, by God, that Zayd is doing</alt>
       </text>
       <igt>
          <t>
@@ -68,7 +70,7 @@
    <dictum id="٤٣٦٢٧">
       <text>
          <ar>زَيْدًا حَسِبْتُ أَخَاْكَ</ar>
-         <free/>
+         <free>Zayd[acc] I reckoned your brother[acc]</free>
       </text>
       <igt>
          <t>
@@ -85,7 +87,7 @@
    <dictum id="٧٢٣١٥">
       <text>
          <ar>زَيْدٌ حَسِبْتُ أَخُوْكُ</ar>
-         <free/>
+         <free>Zayd[nom], I reckoned, is your brother[nom]</free>
       </text>
       <igt>
          <t>
@@ -95,14 +97,17 @@
             <ar>حَسِبْتُ</ar>
          </t>
          <t>
-            <ar>أَخُوْكُ</ar>
+            <ar>أَخُوْكَ</ar>
          </t>
       </igt>
    </dictum>
    <dictum id="٣٧٧١٩">
       <text>
-         <ar>فَإِذَنْ آتِيَكَ</ar>
-         <free/>
+         <ar>فَإِذَنْ آتِيَكَ وَإِذَنْ أُكْرِمَكَ</ar>
+         <free>so then I (should) come to you
+         and then I (should) honor you</free>
+         <alt>then in that case I (should) come to you
+         and in that case I (should) honor you</alt>
       </text>
       <igt>
          <t>
@@ -111,14 +116,6 @@
          <t>
             <ar>آتِيَكَ</ar>
          </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٥٢٨٨">
-      <text>
-         <ar>وَإِذَنْ أُكْرِمَكَ</ar>
-         <free/>
-      </text>
-      <igt>
          <t>
             <ar>وَإِذَنْ</ar>
          </t>
@@ -130,7 +127,9 @@
    <dictum id="٣٦٣٣٨">
       <text>
          <ar>فَإِذَنْ لَا أَجِيْئُكَ</ar>
-         <free/>
+         <free>So then I do/will not come to you</free>
+         <alt>So then I am not coming to you</alt>
+         <alt>Then in that case I do/will not come to you</alt>
       </text>
       <igt>
          <t>
@@ -147,7 +146,9 @@
    <dictum id="٧٤٨٦٠">
       <text>
          <ar>كَاْنَ أُرَى زَيْدٌ ذَاْهِبًا</ar>
-         <free/>
+         <free>It looked to me <ed>that</ed> Zayd was going</free>
+         <alt>It was the case <ed>that</ed> it looked to me
+         <ed>that</ed> Zayd was going</alt>
       </text>
       <igt>
          <t>
@@ -167,7 +168,9 @@
    <dictum id="١٤٦٠٥">
       <text>
          <ar>إِنِّي أُرَى ذَاْهِبٌ</ar>
-         <free/>
+         <free>I indeed, it looks to me, am going</free>
+         <alt>I indeed, apparently, am going</alt>
+         <alt>It looks to me <ed>like</ed> I indeed am going</alt>
       </text>
       <igt>
          <t>
@@ -184,7 +187,7 @@
    <dictum id="٩٣٩٥٦">
       <text>
          <ar>أَنَا إِذَنْ آتِيْكَ</ar>
-         <free/>
+         <free>I, in that case, will come <ed>to</ed> you</free>
       </text>
       <igt>
          <t>
@@ -200,12 +203,13 @@
    </dictum>
    <dictum id="٢٣٥٨٨">
       <text>
-         <ar>إنْ تَأْتِنِي إِذَنْ آتِكَ</ar>
-         <free/>
+         <ar>إِنْ تَأْتِنِي إِذَنْ آتِكَ</ar>
+         <free>If you should come <ed>to</ed> me,
+         then I should come <ed>to</ed> you</free>
       </text>
       <igt>
          <t>
-            <ar>إنْ</ar>
+            <ar>إِنْ</ar>
          </t>
          <t>
             <ar>تَأْتِنِي</ar>
@@ -217,11 +221,17 @@
             <ar>آتِكَ</ar>
          </t>
       </igt>
+      <sidecomment>
+        In this example <ar>إِذَنْ</ar> is
+        inert; it does not change the inflection of
+        the original <ar>إِنْ تَأْتِنِي آتِكَ</ar>
+      </sidecomment>
    </dictum>
+
    <dictum id="٣٦٠٩٦">
       <text>
          <ar>وَاللهِ إِذَنْ لَا أَفْعَلُ</ar>
-         <free/>
+         <free>By God, in that case I will not do</free>
       </text>
       <igt>
          <t>
@@ -241,7 +251,8 @@
    <dictum id="٤٦٩٤٠">
       <text>
          <ar>إِذَنْ وَاللهِ لَا أَفْعَلَ</ar>
-         <free/>
+         <free>In that case, by God, I should not do</free>
+         <alt>In that case, by God, I would not do</alt>
       </text>
       <igt>
          <t>
@@ -261,7 +272,8 @@
    <dictum id="٠٠٨٩٦">
       <text>
          <ar>وَاللهِ إِذَنْ أَفْعَلَ</ar>
-         <free/>
+         <free>By God, in that case I should do</free>
+         <alt>By God, in that case I would do</alt>
       </text>
       <igt>
          <t>
@@ -278,7 +290,8 @@
    <dictum id="٩٨٣٣٩">
       <text>
          <ar>وَاللهِ أَذْهَبَ إِذَنْ</ar>
-         <free/>
+         <free>By God, I should go in that case</free>
+         <alt>By God, I would go in that case</alt>
       </text>
       <igt>
          <t>
@@ -294,18 +307,20 @@
    </dictum>
    <dictum id="٣١٠٦٣">
       <text>
-         <ar>إنْ تَأْتِنِي آتِك وَإِذَنْ أُكْرِمْكَ</ar>
-         <free/>
+         <ar>إِنْ تَأْتِنِي آتِكَ وَإِذَنْ أُكْرِمْكَ</ar>
+         <free>If you should come <ed>to</ed> me,
+         I should come <ed>to</ed> you,
+         and in that case I should honor you</free>
       </text>
       <igt>
          <t>
-            <ar>إنْ</ar>
+            <ar>إِنْ</ar>
          </t>
          <t>
             <ar>تَأْتِنِي</ar>
          </t>
          <t>
-            <ar>آتِك</ar>
+            <ar>آتِكَ</ar>
          </t>
          <t>
             <ar>وَإِذَنْ</ar>
@@ -318,7 +333,7 @@
    <dictum id="٩٢٨٠٨">
       <text>
          <ar>إِذَنْ عَبْدُ اللهِ يَقُوْلُ ذَاْكَ</ar>
-         <free/>
+         <free>In that case Abdullah says that</free>
       </text>
       <igt>
          <t>
@@ -341,7 +356,8 @@
    <dictum id="٣٣٤٦٦">
       <text>
          <ar>إِنَّمَا عَبْدُ اللهِ يَقُوْلُ ذَاْكَ</ar>
-         <free/>
+         <free>In fact Abdullah says that</free>
+         <alt>Indeed Abdullah says that</alt>
       </text>
       <igt>
          <t>
@@ -364,7 +380,7 @@
    <dictum id="٤٧٠٥٥">
       <text>
          <ar>إِذَنْ أَفْعَلُ ذَاْكَ</ar>
-         <free/>
+         <free>In that case I will do that</free>
       </text>
       <igt>
          <t>
@@ -381,14 +397,17 @@
    <dictum id="٠١١٧١">
       <text>
          <ar>إِذَنْ أَظُنُّهُ فَاْعِلًا</ar>
-         <free/>
+         <free>In that case I think him doing</free>
+         <alt>In that case I think he <ed>is</ed> doing</alt>
       </text>
       <igt>
          <t>
             <ar>إِذَنْ</ar>
          </t>
          <t>
-            <ar>أَظُنُّهُ</ar>
+           <en>I think him</en>
+           <ar>أَظُنُّهُ</ar>
+           <xlit>Ɂaẓunn<influ/>-hu</xlit>
          </t>
          <t>
             <ar>فَاْعِلًا</ar>
@@ -398,52 +417,60 @@
    <dictum id="٥٠٥٣٦">
       <text>
          <ar>إِذَنْ إخَاْلُكَ كَاْذِبًا</ar>
-         <free/>
+         <free>In that case I imagine you <ed>are</ed> lying</free>
       </text>
       <igt>
          <t>
             <ar>إِذَنْ</ar>
          </t>
          <t>
-            <ar>إخَاْلُكَ</ar>
+           <en>I imagine you</en>
+           <ar>إخَاْلُكَ</ar>
+           <xlit>Ɂixālu-ka</xlit>
          </t>
          <t>
+           <en>lying</en>
             <ar>كَاْذِبًا</ar>
+            <xlit>kāðib<inflan/></xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="٠٨٩٠٣">
       <text>
          <ar>إِذَنْ أَظُنَّكَ</ar>
-         <free/>
+         <free>In that case I should think you</free>
       </text>
       <igt>
          <t>
             <ar>إِذَنْ</ar>
          </t>
          <t>
-            <ar>أَظُنَّكَ</ar>
+           <en>I should think you</en>
+           <ar>أَظُنَّكَ</ar>
+           <xlit>Ɂaẓunn<infla/>-ka</xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="٨٧٣١٣">
       <text>
          <ar>إِذَنْ يَضْرِبَكَ</ar>
-         <free/>
+         <free>In that case he should strike you</free>
       </text>
       <igt>
          <t>
             <ar>إِذَنْ</ar>
          </t>
          <t>
-            <ar>يَضْرِبَكَ</ar>
+           <en>he should strike you</en>
+           <ar>يَضْرِبَكَ</ar>
+           <xlit>yaḍrib<infla/>-ka</xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="٩٨٩٥٣">
       <text>
          <ar>عَبْدُ اللهِ إِذَنْ يَأْتِيْكَ</ar>
-         <free/>
+         <free>Abdullah in that case comes to you</free>
       </text>
       <igt>
          <t>
@@ -457,13 +484,14 @@
          </t>
          <t>
             <ar>يَأْتِيْكَ</ar>
+            <xlit>yaɁtī-ka</xlit>
          </t>
       </igt>
    </dictum>
    <dictum id="٩٨٨٢٥">
       <text>
          <ar>إِذَنْ يَأْتِيَكَ عَبْدُ اللهِ</ar>
-         <free/>
+         <free>In that case Abdullah should come to you</free>
       </text>
       <igt>
          <t>
