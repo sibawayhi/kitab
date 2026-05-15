@@ -269,9 +269,9 @@
   <dictum id="٧١٣٥٨">
     <text>
       <ar>لَقَدْ مَرِضَ حَتَّى لَا يَرْجُوْنَهُ</ar>
-      <free>He sickened until they have no hope <ed>for</ed> him</free>
-      <alt>He sickened so, that they now have no hope for him</alt>
-      <alt>He sickened to the point that they now have no hope for him</alt>
+      <free>He did sicken until they have no hope <ed>for</ed> him</free>
+      <alt>He did sicken so, that they now have no hope for him</alt>
+      <alt>He did sicken to the point that they now have no hope for him</alt>
     </text>
     <igt>
       <t>
@@ -298,6 +298,7 @@
     <text>
       <ar>شَرِبَتْ حَتَّى يَجِيْءُ الْبَعِيْرُ يَجُرُّ بَطْنَهُ</ar>
       <free>They drank until the camel comes dragging its belly</free>
+      <alt>They drank until even the camel comes dragging its belly</alt>
     </text>
     <igt>
       <t>
@@ -334,6 +335,7 @@
     <text>
       <ar>حَتَّى إِنَّ الْبَعِيْرَ لَيَجِيْءُ يَجُرُّ بَطْنَهُ</ar>
       <free>until the camel indeed, it comes dragging its belly</free>
+      <alt>until even the camel indeed comes dragging its belly</alt>
     </text>
     <igt>
       <t>
@@ -344,8 +346,8 @@
       </t>
       <t>
         <en>the camel</en>
-        <ar>الْبَعِيْرُ</ar>
-        <xlit>_l-baʕīr<influ/></xlit>
+        <ar>الْبَعِيْرَ</ar>
+        <xlit>_l-baʕīr<infla/></xlit>
       </t>
       <t>
         <ar>لَيَجِيْءُ</ar>
@@ -367,6 +369,7 @@
     <text>
       <ar>حَتَّى إِنَّهَ لَيَفْعَلُ ذَاْكَ</ar>
       <free>until indeed he does that</free>
+      <alt>even he does that</alt>
     </text>
     <igt>
       <t>
@@ -416,6 +419,8 @@
       <ar>مَرِضَ حَتَّى يَمُرُّ بِهِ الطَّاْئِرُ فَيَرْحَمُهُ</ar>
       <free>He sicked to the point that the sedate/grave
       pass by him and pity him</free>
+      <alt>He sicked until even the sedate/grave
+      pass by him and pity him</alt>
     </text>
     <igt>
       <t>
@@ -450,6 +455,7 @@
     <text>
       <ar>سِرْتُ حَتَّى يَعْلَمُ اللهُ أَنِّي كَاْلٌّ</ar>
       <free>I journeyed until, God knows, I am exhausted</free>
+      <alt>I journeyed until even God knows I am exhausted</alt>
     </text>
     <igt>
       <t>

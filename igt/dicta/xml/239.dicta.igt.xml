@@ -1,841 +1,1014 @@
 <?xml version="1.0" encoding="utf-8"?>
-<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt" bab="239">
-   <dictum id="٦٩٣٢٥">
-      <text>
-         <ar>سِرْتُ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٣٨٤١">
-      <text>
-         <ar>قَدْ سِرْتُ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>قَدْ</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩١٠١٤">
-      <text>
-         <ar>إِنِّي سِرْتُ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>إِنِّي</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٦٦٩٥">
-      <text>
-         <ar>رَأَيْتُ عَبْدَ اللهِ سَاْرَ حَتَّى يَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>رَأَيْتُ</ar>
-         </t>
-         <t>
-            <ar>عَبْدَ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
-         </t>
-         <t>
-            <ar>سَاْرَ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>يَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٠٦٣١">
-      <text>
-         <ar>أُرَى زَيْدًا سَاْرَ حَتَّى يَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>أُرَى</ar>
-         </t>
-         <t>
-            <ar>زَيْدًا</ar>
-         </t>
-         <t>
-            <ar>سَاْرَ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>يَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٨٢٧١٠">
-      <text>
-         <ar>سَاْرَ زَيْدٌ حَتَّى يَدْخُلُهَا فِيْمَا بَلَغَنِي وَلا أَدْرِي</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سَاْرَ</ar>
-         </t>
-         <t>
-            <ar>زَيْدٌ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>يَدْخُلُهَا</ar>
-         </t>
-         <t>
-            <ar>فِيْمَا</ar>
-         </t>
-         <t>
-            <ar>بَلَغَنِي</ar>
-         </t>
-         <t>
-            <ar>وَلا</ar>
-         </t>
-         <t>
-            <ar>أَدْرِي</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٣٦٤٨">
-      <text>
-         <ar>عَبْدُ اللهِ سَاْرَ حَتَّى يَدْخُلُهَا أُرَى</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>عَبْدُ</ar>
-         </t>
-         <t>
-            <ar>اللهِ</ar>
-         </t>
-         <t>
-            <ar>سَاْرَ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>يَدْخُلُهَا</ar>
-         </t>
-         <t>
-            <ar>أُرَى</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٦٣٢٣">
-      <text>
-         <ar>كُنْتُ سِرْتُ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كُنْتُ</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٠٣٩٢٠">
-      <text>
-         <ar>سَرْتُ مَرَّةً فِي الزَّمَاْنِ الْأَوَّلِ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سَرْتُ</ar>
-         </t>
-         <t>
-            <ar>مَرَّةً</ar>
-         </t>
-         <t>
-            <ar>فِي</ar>
-         </t>
-         <t>
-            <ar>الزَّمَاْنِ</ar>
-         </t>
-         <t>
-            <ar>الْأَوَّلِ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٥٦٨٠">
-      <text>
-         <ar>إِنَّمَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>إِنَّمَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٠١٦٦٦">
-      <text>
-         <ar>مَا سِرْتُ إِلَّا قَلِيْلًا حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>إِلَّا</ar>
-         </t>
-         <t>
-            <ar>قَلِيْلًا</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٨٩٢١٧">
-      <text>
-         <ar>سِرْتُ قَلِيْلًا حَتَّى أَدْخَلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>قَلِيْلًا</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخَلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٦٢١٩">
-      <text>
-         <ar>رُبَّمَا سِرْتُ حَتَّى أَدْخَلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>رُبَّمَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخَلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٥٦٠٣">
-      <text>
-         <ar>طَاْلَمَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>طَاْلَمَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥٤١٩٧">
-      <text>
-         <ar>كَثُرَ مَا سِرْتُ حَتَّى أَدْخَلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَثُرَ</ar>
-         </t>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخَلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥٨١٥٦">
-      <text>
-         <ar>سِرْتُ غَيْرَ مَرَّةٍ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>غَيْرَ</ar>
-         </t>
-         <t>
-            <ar>مَرَّةٍ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥٢١٥٩">
-      <text>
-         <ar>مَا أَحْسَنَ مَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-            <ar>أَحْسَنَ</ar>
-         </t>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٥٧٧١٩">
-      <text>
-         <ar>قَلَّمَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>قَلَّمَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٣٦٦٢">
-      <text>
-         <ar>قَلَّمَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>قَلَّمَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٢٨٠٤">
-      <text>
-         <ar>أَقَلُّ مَا سِرْتُ حَتَّى أَدْخُلَهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>أَقَلُّ</ar>
-         </t>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلَهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٨٦٣٣١">
-      <text>
-         <ar>قَلَّمَا سِرْتُ فَأَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>قَلَّمَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>فَأَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٨٥٥٧">
-      <text>
-         <ar>قَلَّمَا سَرْتُ فَأَدْخُلَهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>قَلَّمَا</ar>
-         </t>
-         <t>
-            <ar>سَرْتُ</ar>
-         </t>
-         <t>
-            <ar>فَأَدْخُلَهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٦٤٠٧٣">
-      <text>
-         <ar>كَثُرَ مَا سِرْتُ فَأَدْخُلَهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَثُرَ</ar>
-         </t>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>فَأَدْخُلَهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٨٠٧٩">
-      <text>
-         <ar>كَثُرَ مَا سِرْتُ فَإِذَا أَنَا أَدْخُلُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَثُرَ</ar>
-         </t>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>فَإِذَا</ar>
-         </t>
-         <t>
-            <ar>أَنَا</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٧٧٦١٩">
-      <text>
-         <ar>إِنَّمَا سِرْتُ حَتَّى أَدْخُلَهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>إِنَّمَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلَهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="١٤٦٧٨">
-      <text>
-         <ar>إِنَّمَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>إِنَّمَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٤٩٦٢">
-      <text>
-         <ar>كَاْنَ سَيْرِي أَمْسِ حَتَّى أَدْخُلَهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَاْنَ</ar>
-         </t>
-         <t>
-            <ar>سَيْرِي</ar>
-         </t>
-         <t>
-            <ar>أَمْسِ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلَهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٩٩٨٧٨">
-      <text>
-         <ar>كَاْنَ سَيْرِي أَمْسِ فَإِذَا أَنَا أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَاْنَ</ar>
-         </t>
-         <t>
-            <ar>سَيْرِي</ar>
-         </t>
-         <t>
-            <ar>أَمْسِ</ar>
-         </t>
-         <t>
-            <ar>فَإِذَا</ar>
-         </t>
-         <t>
-            <ar>أَنَا</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٢٥٢٠">
-      <text>
-         <ar>كَاْنَ سَيْرِي أَمْسِ سَيْرًا مُتْعِبًا حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَاْنَ</ar>
-         </t>
-         <t>
-            <ar>سَيْرِي</ar>
-         </t>
-         <t>
-            <ar>أَمْسِ</ar>
-         </t>
-         <t>
-            <ar>سَيْرًا</ar>
-         </t>
-         <t>
-            <ar>مُتْعِبًا</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٧٠٧٧٧">
-      <text>
-         <ar>كَاْنَ سَيْرِي أَمْسِ شَدِيْدًا حَتَّى أَدْخُلُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَاْنَ</ar>
-         </t>
-         <t>
-            <ar>سَيْرِي</ar>
-         </t>
-         <t>
-            <ar>أَمْسِ</ar>
-         </t>
-         <t>
-            <ar>شَدِيْدًا</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٨٠١٦">
-      <text>
-         <ar>مَا أَحْسَنَ مَا سِرْتُ فَأَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-            <ar>أَحْسَنَ</ar>
-         </t>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>فَأَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٣٦٦٦٦">
-      <text>
-         <ar>كَاْنَ سَيْرِي أَمْسِ حَتَّى أَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَاْنَ</ar>
-         </t>
-         <t>
-            <ar>سَيْرِي</ar>
-         </t>
-         <t>
-            <ar>أَمْسِ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>أَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٨٤٧٦٩">
-      <text>
-         <ar>كَاْنَ سَيْرِي فَأَدْخُلُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>كَاْنَ</ar>
-         </t>
-         <t>
-            <ar>سَيْرِي</ar>
-         </t>
-         <t>
-            <ar>فَأَدْخُلُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٧٢٢٥">
-      <text>
-         <ar>أَيُّهُمْ سَاْرَ حَتَّى يَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>أَيُّهُمْ</ar>
-         </t>
-         <t>
-            <ar>سَاْرَ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>يَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٢٩٩٤">
-      <text>
-         <ar>أَيْنَ الَّذِي سَاْرَ حَتَّى يَدْخُلُهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>أَيْنَ</ar>
-         </t>
-         <t>
-            <ar>الَّذِي</ar>
-         </t>
-         <t>
-            <ar>سَاْرَ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>يَدْخُلُهَا</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٢٥٢٢">
-      <text>
-         <ar>قَلَّمَا سِرْتُ فَدَخَلْتُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>قَلَّمَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>فَدَخَلْتُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٢٠٥٩٦">
-      <text>
-         <ar>مَا سِرْتُ حَتَّى دَخَلْتُ</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>مَا</ar>
-         </t>
-         <t>
-            <ar>سِرْتُ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>دَخَلْتُ</ar>
-         </t>
-      </igt>
-   </dictum>
-   <dictum id="٤٤٥٠٥">
-      <text>
-         <ar>أَسِرْتَ حَتَّى تَدْخُلَهَا</ar>
-         <free/>
-      </text>
-      <igt>
-         <t>
-            <ar>أَسِرْتَ</ar>
-         </t>
-         <t>
-            <ar>حَتَّى</ar>
-         </t>
-         <t>
-            <ar>تَدْخُلَهَا</ar>
-         </t>
-      </igt>
-   </dictum>
+<dicta xmlns="http://www.sibawayhi.org/schema/2024/05/igt"
+       bab="239">
+  <dictum id="٦٩٣٢٥">
+    <text>
+      <ar>سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>I journeyed then entered it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="١٣٨٤١">
+    <text>
+      <ar>قَدْ سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>I did journey then entered it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>قَدْ</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٩١٠١٤">
+    <text>
+      <ar>إِنِّي سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>I indeed journeyed then entered it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>إِنِّي</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٤٦٦٩٥">
+    <text>
+      <ar>رَأَيْتُ عَبْدَ اللهِ سَاْرَ حَتَّى يَدْخُلُهَا</ar>
+      <free>I view Abdallah[acc] journeyed then entered it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>رَأَيْتُ</ar>
+      </t>
+      <t>
+        <ar>عَبْدَ</ar>
+      </t>
+      <t>
+        <ar>اللهِ</ar>
+      </t>
+      <t>
+        <ar>سَاْرَ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>يَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٩٠٦٣١">
+    <text>
+      <ar>أُرَى زَيْدًا سَاْرَ حَتَّى يَدْخُلُهَا</ar>
+      <free>I am made to see Zayd[acc] journeyed then entered it</free>
+      <alt>It looks to me that Zayd[acc] journeyed then entered it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>أُرَى</ar>
+      </t>
+      <t>
+        <ar>زَيْدًا</ar>
+      </t>
+      <t>
+        <ar>سَاْرَ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>يَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٨٢٧١٠">
+    <text>
+      <ar>سَاْرَ زَيْدٌ حَتَّى يَدْخُلُهَا فِيْمَا بَلَغَنِي وَلَا أَدْرِي</ar>
+      <free>Zayd journeyed then entered it, in what
+      reached me, and I do not know</free>
+    </text>
+    <igt>
+      <t>
+        <ar>سَاْرَ</ar>
+      </t>
+      <t>
+        <ar>زَيْدٌ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>يَدْخُلُهَا</ar>
+      </t>
+      <t>
+        <ar>فِيْمَا</ar>
+      </t>
+      <t>
+        <ar>بَلَغَنِي</ar>
+      </t>
+      <t>
+        <ar>وَلَا</ar>
+      </t>
+      <t>
+        <en>I know</en>
+        <ar>أَدْرِي</ar>
+        <xlit>Ɂadrī</xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٩٣٦٤٨">
+    <text>
+      <ar>عَبْدُ اللهِ سَاْرَ حَتَّى يَدْخُلُهَا أُرَى</ar>
+      <free>Abdullah journeyed and entered it, it seems</free>
+    </text>
+    <igt>
+      <t>
+        <ar>عَبْدُ</ar>
+      </t>
+      <t>
+        <ar>اللهِ</ar>
+      </t>
+      <t>
+        <ar>سَاْرَ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>يَدْخُلُهَا</ar>
+      </t>
+      <t>
+        <ar>أُرَى</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٤٦٣٢٣">
+    <text>
+      <ar>كُنْتُ سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>I had journeyed until I was entering it</free>
+      <alt>I was journeying such that I enter it</alt>
+      <alt>I had journeyed such that I enter it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>كُنْتُ</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٠٣٩٢٠">
+    <text>
+      <ar>سِرْتُ مَرَّةً فِي الزَّمَاْنِ الْأَوَّلِ حَتَّى أَدْخُلُهَا</ar>
+      <free>I journey once in past time
+      until I was entering it</free>
+      <alt>I journey once in past time
+      such that I was entering it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>مَرَّةً</ar>
+      </t>
+      <t>
+        <ar>فِي</ar>
+      </t>
+      <t>
+        <en>time</en>
+        <ar>الزَّمَاْنِ</ar>
+        <xlit>_z-zamān<infli/></xlit>
+      </t>
+      <t>
+        <en>previous</en>
+        <ar>الْأَوَّلِ</ar>
+        <xlit>_l-Ɂawwal<infli/></xlit>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+
+  <dictum id="٠٧٥٢٨">
+    <text>
+      <ar>قَدْ سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>I did journey such that I was/am entering it</free>
+      <alt>I had journeyed such that I was/am entering it</alt>
+      <alt>I was journeying(?) such that I was/am entering it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>قَدْ</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+
+  <dictum id="٩٢٦٤٨">
+    <text>
+      <ar>سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>I journeyed such that I was entering it</free>
+      <alt>I journeyed such that I am entering it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+
+  <dictum id="٦٥٦٨٠">
+    <text>
+      <ar>إِنَّمَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>I only journeyed such that I entered it</free>
+      <alt>I only journeyed such that I enter it</alt>
+      <alt>Indeed I journeyed such that I enter it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>إِنَّمَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٠١٦٦٦">
+    <text>
+      <ar>مَا سِرْتُ إِلَّا قَلِيْلًا حَتَّى أَدْخُلُهَا</ar>
+      <free>I journeyed not except a little such that I entered it</free>
+      <alt>I journeyed not except a little such that I enter it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>مَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>إِلَّا</ar>
+      </t>
+      <t>
+        <en>a little</en>
+        <ar>قَلِيْلًا</ar>
+        <xlit>qalīl<inflan/></xlit>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٨٩٢١٧">
+    <text>
+      <ar>سِرْتُ قَلِيْلًا حَتَّى أَدْخُلُهَا</ar>
+      <free>I journeyed a little such that I entered it</free>
+      <alt>I journeyed a little such that I enter it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <en>a little</en>
+        <ar>قَلِيْلًا</ar>
+        <xlit>qalīl<inflan/></xlit>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٦٦٢١٩">
+    <text>
+      <ar>رُبَّمَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>Often I journeyed such that I entered it</free>
+      <alt>Seldom I journeyed such that I entered it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>رُبَّمَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٤٥٦٠٣">
+    <text>
+      <ar>طَاْلَمَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>Long I journeyed such that I entered it</free>
+    </text>
+    <igt>
+      <t>
+        <en>long (time)</en>
+        <ar>طَاْلَمَا</ar>
+        <xlit>ṭāla-mā</xlit>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+
+  <dictum id="٥٤١٩٧">
+    <text>
+      <ar>كَثُرَ مَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>Much was it that I journeyed such that I entered it</free>
+    </text>
+    <igt>
+      <t>
+        <en>much was it</en>
+        <ar>كَثُرَ</ar>
+        <xlit>kaθura</xlit>
+      </t>
+      <t>
+        <ar>مَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+
+  <dictum id="٥٨١٥٦">
+    <text>
+      <ar>سِرْتُ غَيْرَ مَرَّةٍ حَتَّى أَدْخُلُهَا</ar>
+      <free>I journeyed other-than once
+      until I was entering it</free>
+      <alt>I journeyed not <ed>just</ed> once
+      such that I was entering it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <en>other-than</en>
+        <ar>غَيْرَ</ar>
+        <xlit>gayr<infla/></xlit>
+    </t>
+      <t>
+        <ar>مَرَّةٍ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٥٢١٥٩">
+    <text>
+      <ar>مَا أَحْسَنَ مَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>How beautiful that I journeyed
+      such that I was/am entering it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>مَا</ar>
+      </t>
+      <t>
+        <ar>أَحْسَنَ</ar>
+      </t>
+      <t>
+        <ar>مَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٥٧٧١٩">
+    <text>
+      <ar>قَلَّمَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>Little was it that I journeyed such that
+      I was/am entering it</free>
+    </text>
+    <igt>
+      <t>
+        <en/>
+        <ar>قَلَّمَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٩٣٦٦٢">
+    <text>
+      <ar>قَلَّمَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>Little was it that I journeyed such that I entered it</free>
+    </text>
+    <igt>
+      <t>
+        <en/>
+        <ar>قَلَّمَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="١٢١٩٢">
+    <text>
+      <ar>قَلَّمَا سِرْتُ حَتَّى أَدْخُلَهَا</ar>
+      <free>Little was it that I journeyed to the extent
+      that I should enter it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>قَلَّمَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلَهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٩٢٨٠٤">
+    <text>
+      <ar>أَقَلُّ مَا سِرْتُ حَتَّى أَدْخُلَهَا</ar>
+      <free>Least that I journeyed to the extent
+      that I should enter it</free>
+    </text>
+    <igt>
+      <t>
+        <en>least</en>
+        <ar>أَقَلُّ</ar>
+        <xlit>Ɂaqall<influ/></xlit>
+      </t>
+      <t>
+        <ar>مَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلَهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٨٦٣٣١">
+    <text>
+      <ar>قَلَّمَا سِرْتُ فَأَدْخُلُهَا</ar>
+      <free>Little was it that I journeyed then I entered it</free>
+      <alt>Little was it that I journeyed then I enter (now) it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>قَلَّمَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <en>then I enter it</en>
+        <ar>فَأَدْخُلُهَا</ar>
+        <xlit>fa-Ɂadxul<influ/>-hā</xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٣٨٥٥٧">
+    <text>
+      <ar>قَلَّمَا سِرْتُ فَأَدْخُلَهَا</ar>
+      <free>Little was it that I journeyed then I should enter it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>قَلَّمَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>فَأَدْخُلَهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+
+  <dictum id="٦٤٠٧٣" j="*">
+    <text>
+      <ar>كَثُرَ مَا سِرْتُ فَأَدْخُلَهَا</ar>
+      <free>Much was it that I journeyed then I should enter it</free>
+    </text>
+    <igt>
+      <t>
+        <en>much was it</en>
+        <ar>كَثُرَ</ar>
+        <xlit>kaθura</xlit>
+      </t>
+      <t>
+        <ar>مَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>فَأَدْخُلَهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٣٨٠٧٩">
+    <text>
+      <ar>كَثُرَ مَا سِرْتُ فَإِذَا أَنَا أَدْخُلُ</ar>
+      <free>Much was it that I journeyed, then lo I am entering</free>
+    </text>
+    <igt>
+      <t>
+        <!-- <en><ed>it</ed> became much</en> -->
+        <ar>كَثُرَ</ar>
+        <xlit>kaθura</xlit>
+      </t>
+      <t>
+        <ar>مَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>فَإِذَا</ar>
+      </t>
+      <t>
+        <ar>أَنَا</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٧٧٦١٩">
+    <text>
+      <ar>إِنَّمَا سِرْتُ حَتَّى أَدْخُلَهَا</ar>
+      <free>I merely journeyed to the extent
+      that I should enter it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>إِنَّمَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلَهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="١٤٦٧٨" j="*">
+    <text>
+      <ar>إِنَّمَا سِرْتُ حَتَّى أَدْخُلُهَا</ar>
+      <free>I merely journeyed then I enter it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>إِنَّمَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٩٤٩٦٢">
+    <text>
+      <ar>كَاْنَ سَيْرِي أَمْسِ حَتَّى أَدْخُلَهَا</ar>
+      <free>My journeying yesterday was to the extent that
+      I should enter it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>كَاْنَ</ar>
+      </t>
+      <t>
+        <ar>سَيْرِي</ar>
+      </t>
+      <t>
+        <ar>أَمْسِ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلَهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٩٩٨٧٨" j="*">
+    <text>
+      <ar>كَاْنَ سَيْرِي أَمْسِ فَإِذَا أَنَا أَدْخُلُهَا</ar>
+      <free>My journeying yesterday was,
+      then lo I am entering it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>كَاْنَ</ar>
+      </t>
+      <t>
+        <ar>سَيْرِي</ar>
+      </t>
+      <t>
+        <ar>أَمْسِ</ar>
+      </t>
+      <t>
+        <ar>فَإِذَا</ar>
+      </t>
+      <t>
+        <ar>أَنَا</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٣٢٥٢٠">
+    <text>
+      <ar>كَاْنَ سَيْرِي أَمْسِ سَيْرًا مُتْعِبًا حَتَّى أَدْخُلُهَا</ar>
+      <free>My journeying yesterday was a tiring
+      journey, then lo I enter it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>كَاْنَ</ar>
+      </t>
+      <t>
+        <ar>سَيْرِي</ar>
+      </t>
+      <t>
+        <ar>أَمْسِ</ar>
+      </t>
+      <t>
+        <ar>سَيْرًا</ar>
+      </t>
+      <t>
+        <en>tiring</en>
+        <ar>مُتْعِبًا</ar>
+        <xlit>mutʕib<inflan/></xlit>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="١١٣٩٣">
+    <text>
+      <ar>لَمْ أَجِئْ فَأَقُلْ</ar>
+      <free>I did not come that I should say</free>
+    </text>
+    <igt>
+      <t>
+        <ar>لَمْ</ar>
+      </t>
+      <t>
+        <en>come</en>
+        <ar>أَجِئْ</ar>
+        <xlit>ɁajiɁ</xlit>
+      </t>
+      <t>
+        <en>that I should say</en>
+        <ar>فَأَقُلْ</ar>
+        <xlit>fa-Ɂaqul</xlit>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٧٠٧٧٧">
+    <text>
+      <ar>كَاْنَ سَيْرِي أَمْسِ شَدِيْدًا حَتَّى أَدْخُلُ</ar>
+      <free>My journeying yesterday was tough, so I am entering</free>
+    </text>
+    <igt>
+      <t>
+        <ar>كَاْنَ</ar>
+      </t>
+      <t>
+        <ar>سَيْرِي</ar>
+      </t>
+      <t>
+        <ar>أَمْسِ</ar>
+      </t>
+      <t>
+        <ar>شَدِيْدًا</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٤٨٠١٦">
+    <text>
+      <ar>مَا أَحْسَنَ مَا سِرْتُ فَأَدْخُلُهَا</ar>
+      <free>How good that I journeyed
+      then I was entering it</free>
+      <alt>How good that I journeyed
+      until I was entering it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>مَا</ar>
+      </t>
+      <t>
+        <ar>أَحْسَنَ</ar>
+      </t>
+      <t>
+        <ar>مَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>فَأَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٣٦٦٦٦">
+    <text>
+      <ar>كَاْنَ سَيْرِي أَمْسِ حَتَّى أَدْخُلُهَا</ar>
+      <free>My journeying was yesterday
+      then I was entering it</free>
+      <alt>My journeying was yesterday
+      until I was entering it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>كَاْنَ</ar>
+      </t>
+      <t>
+        <ar>سَيْرِي</ar>
+      </t>
+      <t>
+        <ar>أَمْسِ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>أَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٨٤٧٦٩" j="*">
+    <text>
+      <ar>كَاْنَ سَيْرِي فَأَدْخُلُ</ar>
+      <free>My journeying was, so I am entering</free>
+    </text>
+    <igt>
+      <t>
+        <ar>كَاْنَ</ar>
+      </t>
+      <t>
+        <ar>سَيْرِي</ar>
+      </t>
+      <t>
+        <ar>فَأَدْخُلُ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٢٧٢٢٥">
+    <text>
+      <ar>أَيُّهُمْ سَاْرَ حَتَّى يَدْخُلُهَا</ar>
+      <free>Which of them journeyed until he was entering it?</free>
+    </text>
+    <igt>
+      <t>
+        <ar>أَيُّهُمْ</ar>
+      </t>
+      <t>
+        <ar>سَاْرَ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>يَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٢٢٩٩٤">
+    <text>
+      <ar>أَيْنَ الَّذِي سَاْرَ حَتَّى يَدْخُلُهَا</ar>
+      <free>Where is the one who journeyed until
+      he was entering it</free>
+      <alt>Where is the one who journeyed until
+      he entered it</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>أَيْنَ</ar>
+      </t>
+      <t>
+        <ar>الَّذِي</ar>
+      </t>
+      <t>
+        <ar>سَاْرَ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>يَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٨٢٠١٢" j="*">
+    <text>
+      <ar>قَلَّمَا سِرْتُ فَأَدْخُلُهَا</ar>
+      <free>Little was it that I journeyed then
+      I was entering it</free>
+    </text>
+    <igt>
+      <t>
+        <ar>قَلَّمَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>فَأَدْخُلُهَا</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٢٢٥٢٢">
+    <text>
+      <ar>قَلَّمَا سِرْتُ فَدَخَلْتُ</ar>
+      <free>Little was it that I journeyed then I entered</free>
+    </text>
+    <igt>
+      <t>
+        <ar>قَلَّمَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>فَدَخَلْتُ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٢٠٥٩٦">
+    <text>
+      <ar>مَا سِرْتُ حَتَّى دَخَلْتُ</ar>
+      <free>I journeyed not until I entered</free>
+    </text>
+    <igt>
+      <t>
+        <ar>مَا</ar>
+      </t>
+      <t>
+        <ar>سِرْتُ</ar>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <ar>دَخَلْتُ</ar>
+      </t>
+    </igt>
+  </dictum>
+  <dictum id="٤٤٥٠٥">
+    <text>
+      <ar>أَسِرْتَ حَتَّى تَدْخُلَهَا</ar>
+      <free>¿You did journey to the extent that
+      you should enter it?</free>
+      <alt>¿You did journey in order that you should enter it?</alt>
+    </text>
+    <igt>
+      <t>
+        <ar>You did journey?</ar>
+        <ar>أَسِرْتَ</ar>
+        <xlit>Ɂa-sir-ta</xlit>
+      </t>
+      <t>
+        <ar>حَتَّى</ar>
+      </t>
+      <t>
+        <en>you enter it</en>
+        <ar>تَدْخُلَهَا</ar>
+        <xlit>tadxul<infla/>-hā</xlit>
+      </t>
+    </igt>
+  </dictum>
 </dicta>
